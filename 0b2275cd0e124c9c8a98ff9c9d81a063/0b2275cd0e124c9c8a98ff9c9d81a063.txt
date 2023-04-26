@@ -1,0 +1,8 @@
+
+signId	1909
+text	människa 2
+imageUuid	3a13641b-4969-4f9c-8a16-92bb951ff840
+translationKey	57383d87-d955-43da-9549-d7a5c44a186c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a13641b-4969-4f9c-8a16-92bb951ff840/57383d87-d955-43da-9549-d7a5c44a186c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a13641b-4969-4f9c-8a16-92bb951ff840/57383d87-d955-43da-9549-d7a5c44a186c
+md5	0b2275cd0e124c9c8a98ff9c9d81a063

@@ -1,0 +1,24 @@
+
+signId	73
+text	ask (låda)
+imageUuid	d9720b38-b53b-4c07-bdaa-51b3d49b3d3e
+translationKey	ba5e82bd-655d-47d2-8d49-8767f1fbce05
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d9720b38-b53b-4c07-bdaa-51b3d49b3d3e/ba5e82bd-655d-47d2-8d49-8767f1fbce05/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d9720b38-b53b-4c07-bdaa-51b3d49b3d3e/ba5e82bd-655d-47d2-8d49-8767f1fbce05
+md5	94b36fa54f970e0119f4bd712f57f6c4
+
+signId	923
+text	låda
+imageUuid	227e311b-46d4-4683-9701-88d7ec7d9b93
+translationKey	506d961d-4cc0-4fa3-9b9a-8c3b16f4cefb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/227e311b-46d4-4683-9701-88d7ec7d9b93/506d961d-4cc0-4fa3-9b9a-8c3b16f4cefb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/227e311b-46d4-4683-9701-88d7ec7d9b93/506d961d-4cc0-4fa3-9b9a-8c3b16f4cefb
+md5	94b36fa54f970e0119f4bd712f57f6c4
+
+signId	1133
+text	paket
+imageUuid	c86cc1d5-8564-45ef-b8dd-34a191890da1
+translationKey	a5feab11-c827-4803-9695-e01cd92ece1f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c86cc1d5-8564-45ef-b8dd-34a191890da1/a5feab11-c827-4803-9695-e01cd92ece1f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c86cc1d5-8564-45ef-b8dd-34a191890da1/a5feab11-c827-4803-9695-e01cd92ece1f
+md5	94b36fa54f970e0119f4bd712f57f6c4

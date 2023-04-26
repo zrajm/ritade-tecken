@@ -1,0 +1,8 @@
+
+signId	2686
+text	tuta 2
+imageUuid	87cb6b32-8e3c-48fd-9b0e-c319fc6d72c8
+translationKey	7114be3d-8a1b-4cb3-9bd4-22d14bba6fff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/87cb6b32-8e3c-48fd-9b0e-c319fc6d72c8/7114be3d-8a1b-4cb3-9bd4-22d14bba6fff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/87cb6b32-8e3c-48fd-9b0e-c319fc6d72c8/7114be3d-8a1b-4cb3-9bd4-22d14bba6fff
+md5	b90e65f5f63436f63f917f9adcfc29e9

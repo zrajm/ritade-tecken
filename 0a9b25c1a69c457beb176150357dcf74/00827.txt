@@ -1,0 +1,7 @@
+signId	827
+text	kurs
+imageUuid	8157b118-5d1f-4ec2-9f08-528f946b1367
+translationKey	a6d9dcd3-1cd4-4eb5-adf8-277b9aeffee3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8157b118-5d1f-4ec2-9f08-528f946b1367/a6d9dcd3-1cd4-4eb5-adf8-277b9aeffee3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8157b118-5d1f-4ec2-9f08-528f946b1367/a6d9dcd3-1cd4-4eb5-adf8-277b9aeffee3
+md5	c650d9822f8ecea4c460dfd96877f753

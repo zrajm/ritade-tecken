@@ -1,0 +1,7 @@
+signId	841
+text	kyss
+imageUuid	352687fc-f76d-49b1-96f6-5b92587cd8c4
+translationKey	6fa8514b-682e-4557-a5c1-926bac14b62a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/352687fc-f76d-49b1-96f6-5b92587cd8c4/6fa8514b-682e-4557-a5c1-926bac14b62a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/352687fc-f76d-49b1-96f6-5b92587cd8c4/6fa8514b-682e-4557-a5c1-926bac14b62a
+md5	9134079b5aa132e9cd7d7b67318ced72

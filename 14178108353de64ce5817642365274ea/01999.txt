@@ -1,0 +1,7 @@
+signId	1999
+text	använda
+imageUuid	886ee276-cc9f-48f5-8377-6e2ef2688e41
+translationKey	6dd8df33-b0aa-4aa2-b2b7-b51fc9f1cdc6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/886ee276-cc9f-48f5-8377-6e2ef2688e41/6dd8df33-b0aa-4aa2-b2b7-b51fc9f1cdc6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/886ee276-cc9f-48f5-8377-6e2ef2688e41/6dd8df33-b0aa-4aa2-b2b7-b51fc9f1cdc6
+md5	14178108353de64ce5817642365274ea

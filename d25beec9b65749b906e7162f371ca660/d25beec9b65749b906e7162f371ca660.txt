@@ -1,0 +1,8 @@
+
+signId	1801
+text	älg 2
+imageUuid	be4ec72f-b940-4031-a801-c4f8bc19e932
+translationKey	925a447e-8c4f-4244-8803-239ac19ffa8d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/be4ec72f-b940-4031-a801-c4f8bc19e932/925a447e-8c4f-4244-8803-239ac19ffa8d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/be4ec72f-b940-4031-a801-c4f8bc19e932/925a447e-8c4f-4244-8803-239ac19ffa8d
+md5	d25beec9b65749b906e7162f371ca660

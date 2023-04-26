@@ -1,0 +1,8 @@
+
+signId	2046
+text	filt 1
+imageUuid	fce95caa-498b-4fc0-a050-d8b452bb5b81
+translationKey	292376f3-266f-4469-8117-69e472c6bc6f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fce95caa-498b-4fc0-a050-d8b452bb5b81/292376f3-266f-4469-8117-69e472c6bc6f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fce95caa-498b-4fc0-a050-d8b452bb5b81/292376f3-266f-4469-8117-69e472c6bc6f
+md5	490122c60a8957844e7448fa253a061c

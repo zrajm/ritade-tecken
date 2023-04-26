@@ -1,0 +1,7 @@
+signId	599
+text	hjul
+imageUuid	037a22cb-9a34-456a-bfb5-66f02123a993
+translationKey	6807d578-1a5a-4ade-858b-3884d03aa8b3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/037a22cb-9a34-456a-bfb5-66f02123a993/6807d578-1a5a-4ade-858b-3884d03aa8b3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/037a22cb-9a34-456a-bfb5-66f02123a993/6807d578-1a5a-4ade-858b-3884d03aa8b3
+md5	56d9182ed6607271e521f93ec3e4c950

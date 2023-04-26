@@ -1,0 +1,8 @@
+
+signId	2942
+text	sandaler
+imageUuid	4feb5d6e-f5fb-47b2-8767-a18d78e1e67c
+translationKey	80686fb5-6009-49e5-96dd-fb8d31dd17b2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4feb5d6e-f5fb-47b2-8767-a18d78e1e67c/80686fb5-6009-49e5-96dd-fb8d31dd17b2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4feb5d6e-f5fb-47b2-8767-a18d78e1e67c/80686fb5-6009-49e5-96dd-fb8d31dd17b2
+md5	6be1f26d8f8c067cd8cdbc2bfc219127

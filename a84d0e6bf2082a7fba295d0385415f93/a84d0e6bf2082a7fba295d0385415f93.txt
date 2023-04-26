@@ -1,0 +1,8 @@
+
+signId	2876
+text	badvakt
+imageUuid	f6d27b30-6115-4b80-b6a6-dfc7a07b9092
+translationKey	797aab5a-777d-4cd2-9c14-dba98db0b4b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f6d27b30-6115-4b80-b6a6-dfc7a07b9092/797aab5a-777d-4cd2-9c14-dba98db0b4b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f6d27b30-6115-4b80-b6a6-dfc7a07b9092/797aab5a-777d-4cd2-9c14-dba98db0b4b9
+md5	a84d0e6bf2082a7fba295d0385415f93

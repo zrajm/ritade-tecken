@@ -1,0 +1,7 @@
+signId	3265
+text	jämföra
+imageUuid	ce3c193b-dec7-4505-be15-7343033ceab1
+translationKey	a23810e8-e17e-4541-bfd1-feb6dee93000
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ce3c193b-dec7-4505-be15-7343033ceab1/a23810e8-e17e-4541-bfd1-feb6dee93000/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ce3c193b-dec7-4505-be15-7343033ceab1/a23810e8-e17e-4541-bfd1-feb6dee93000
+md5	c6e67e45ba4603b8a5b9f8e8a8272696

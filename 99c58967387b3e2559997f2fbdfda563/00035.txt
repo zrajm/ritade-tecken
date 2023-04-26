@@ -1,0 +1,7 @@
+signId	35
+text	affär
+imageUuid	bda9d483-7851-49e0-a113-f17735305f31
+translationKey	e86f943f-1239-4e9e-92d7-9b3fdbf7b80f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bda9d483-7851-49e0-a113-f17735305f31/e86f943f-1239-4e9e-92d7-9b3fdbf7b80f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bda9d483-7851-49e0-a113-f17735305f31/e86f943f-1239-4e9e-92d7-9b3fdbf7b80f
+md5	99c58967387b3e2559997f2fbdfda563

@@ -1,0 +1,7 @@
+signId	45
+text	allt
+imageUuid	44564352-dca6-4efc-adf6-3dcf64cb04ac
+translationKey	3a71bd80-ccc9-46f2-a72a-cdabce7379cb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/44564352-dca6-4efc-adf6-3dcf64cb04ac/3a71bd80-ccc9-46f2-a72a-cdabce7379cb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/44564352-dca6-4efc-adf6-3dcf64cb04ac/3a71bd80-ccc9-46f2-a72a-cdabce7379cb
+md5	aa30de32a1e21fcc73bc0ba436fb8295

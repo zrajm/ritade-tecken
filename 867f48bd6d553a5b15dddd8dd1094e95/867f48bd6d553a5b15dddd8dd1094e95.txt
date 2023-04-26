@@ -1,0 +1,8 @@
+
+signId	2449
+text	spik
+imageUuid	e940370a-33e2-4a4b-a170-69d862736ec0
+translationKey	ef78d048-9463-47fa-aad1-d3fe0ced3d83
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e940370a-33e2-4a4b-a170-69d862736ec0/ef78d048-9463-47fa-aad1-d3fe0ced3d83/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e940370a-33e2-4a4b-a170-69d862736ec0/ef78d048-9463-47fa-aad1-d3fe0ced3d83
+md5	867f48bd6d553a5b15dddd8dd1094e95

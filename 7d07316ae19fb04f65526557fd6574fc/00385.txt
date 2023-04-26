@@ -1,0 +1,7 @@
+signId	385
+text	flodhäst 2
+imageUuid	a5cecca3-c07f-4a27-94f5-92f2ccae0f49
+translationKey	1555deb5-fc7f-4870-be5b-83c1a1a328cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a5cecca3-c07f-4a27-94f5-92f2ccae0f49/1555deb5-fc7f-4870-be5b-83c1a1a328cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a5cecca3-c07f-4a27-94f5-92f2ccae0f49/1555deb5-fc7f-4870-be5b-83c1a1a328cd
+md5	7d07316ae19fb04f65526557fd6574fc

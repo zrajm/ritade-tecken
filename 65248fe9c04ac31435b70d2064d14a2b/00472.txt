@@ -1,0 +1,7 @@
+signId	472
+text	G (bokstav)
+imageUuid	41681039-d4da-4207-8e17-1d0d0fb45a29
+translationKey	1d877b58-e952-4079-b107-e49e6147f6a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/41681039-d4da-4207-8e17-1d0d0fb45a29/1d877b58-e952-4079-b107-e49e6147f6a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/41681039-d4da-4207-8e17-1d0d0fb45a29/1d877b58-e952-4079-b107-e49e6147f6a4
+md5	65248fe9c04ac31435b70d2064d14a2b

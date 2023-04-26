@@ -1,0 +1,7 @@
+signId	1055
+text	mössa
+imageUuid	231fe526-b146-4847-9561-5917da56270c
+translationKey	0fb0cbda-ba39-4c93-b8d0-fb1894faf791
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/231fe526-b146-4847-9561-5917da56270c/0fb0cbda-ba39-4c93-b8d0-fb1894faf791/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/231fe526-b146-4847-9561-5917da56270c/0fb0cbda-ba39-4c93-b8d0-fb1894faf791
+md5	d95af9dbe6e59d113b48e4cb7191f643

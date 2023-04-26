@@ -1,0 +1,7 @@
+signId	3269
+text	subtraktion
+imageUuid	88608c23-063e-4785-851f-f45b17bf83f9
+translationKey	ea6e8d71-3d94-4dd3-8a6c-4e072b796ad4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/88608c23-063e-4785-851f-f45b17bf83f9/ea6e8d71-3d94-4dd3-8a6c-4e072b796ad4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/88608c23-063e-4785-851f-f45b17bf83f9/ea6e8d71-3d94-4dd3-8a6c-4e072b796ad4
+md5	77c9694c1513d69a3654cc5ad9b927e1

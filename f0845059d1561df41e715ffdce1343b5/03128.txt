@@ -1,0 +1,7 @@
+signId	3128
+text	myra 2
+imageUuid	0e29d814-3f30-4342-a2c3-5d8d1091ce2f
+translationKey	c96f62a3-670c-4331-a066-08d149f4a4be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0e29d814-3f30-4342-a2c3-5d8d1091ce2f/c96f62a3-670c-4331-a066-08d149f4a4be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0e29d814-3f30-4342-a2c3-5d8d1091ce2f/c96f62a3-670c-4331-a066-08d149f4a4be
+md5	f0845059d1561df41e715ffdce1343b5

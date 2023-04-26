@@ -1,0 +1,7 @@
+signId	2503
+text	vägra (variant)
+imageUuid	d57779df-ae9a-43cd-a76a-d2aac191125d
+translationKey	acb74604-4def-4623-868b-8c95133ed742
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d57779df-ae9a-43cd-a76a-d2aac191125d/acb74604-4def-4623-868b-8c95133ed742/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d57779df-ae9a-43cd-a76a-d2aac191125d/acb74604-4def-4623-868b-8c95133ed742
+md5	1e3ce00fa84830037a4ae32a05a04aef

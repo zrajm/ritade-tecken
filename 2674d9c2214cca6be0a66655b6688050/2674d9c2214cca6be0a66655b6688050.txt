@@ -1,0 +1,8 @@
+
+signId	1134
+text	pakethållare
+imageUuid	b8299c33-9bc5-466c-be97-414730756ba2
+translationKey	2052e4a3-9402-45a7-8dc9-74efd3340ff9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b8299c33-9bc5-466c-be97-414730756ba2/2052e4a3-9402-45a7-8dc9-74efd3340ff9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b8299c33-9bc5-466c-be97-414730756ba2/2052e4a3-9402-45a7-8dc9-74efd3340ff9
+md5	2674d9c2214cca6be0a66655b6688050

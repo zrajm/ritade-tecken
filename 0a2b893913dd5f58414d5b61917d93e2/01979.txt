@@ -1,0 +1,7 @@
+signId	1979
+text	mata
+imageUuid	5e5e9089-01c6-4d69-8dc2-e4da93ab4773
+translationKey	e8cb208e-3bf0-4005-8e24-fb50cd66b09d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e5e9089-01c6-4d69-8dc2-e4da93ab4773/e8cb208e-3bf0-4005-8e24-fb50cd66b09d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e5e9089-01c6-4d69-8dc2-e4da93ab4773/e8cb208e-3bf0-4005-8e24-fb50cd66b09d
+md5	0a2b893913dd5f58414d5b61917d93e2

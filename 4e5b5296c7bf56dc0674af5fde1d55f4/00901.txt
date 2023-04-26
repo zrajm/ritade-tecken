@@ -1,0 +1,7 @@
+signId	901
+text	liten 2
+imageUuid	296d6034-f354-4acc-8d7a-02c7b7b47f30
+translationKey	b8fa363c-3441-476a-ba7e-03be2bc617e0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/296d6034-f354-4acc-8d7a-02c7b7b47f30/b8fa363c-3441-476a-ba7e-03be2bc617e0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/296d6034-f354-4acc-8d7a-02c7b7b47f30/b8fa363c-3441-476a-ba7e-03be2bc617e0
+md5	4e5b5296c7bf56dc0674af5fde1d55f4

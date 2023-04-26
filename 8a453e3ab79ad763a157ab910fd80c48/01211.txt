@@ -1,0 +1,7 @@
+signId	1211
+text	på
+imageUuid	8b5b5882-cff1-4524-ac28-31c58d5d23d0
+translationKey	26b31120-404a-4ee6-8dda-59ab4fcc2327
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8b5b5882-cff1-4524-ac28-31c58d5d23d0/26b31120-404a-4ee6-8dda-59ab4fcc2327/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8b5b5882-cff1-4524-ac28-31c58d5d23d0/26b31120-404a-4ee6-8dda-59ab4fcc2327
+md5	8a453e3ab79ad763a157ab910fd80c48

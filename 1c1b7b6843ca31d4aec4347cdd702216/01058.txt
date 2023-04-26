@@ -1,0 +1,7 @@
+signId	1058
+text	möte 1
+imageUuid	ac168e78-210e-40a6-b5cd-fa78c9062fb9
+translationKey	2c980a26-58fd-4324-8edf-14dd0569ad88
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ac168e78-210e-40a6-b5cd-fa78c9062fb9/2c980a26-58fd-4324-8edf-14dd0569ad88/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ac168e78-210e-40a6-b5cd-fa78c9062fb9/2c980a26-58fd-4324-8edf-14dd0569ad88
+md5	1c1b7b6843ca31d4aec4347cdd702216

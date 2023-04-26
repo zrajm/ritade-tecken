@@ -1,0 +1,7 @@
+signId	2301
+text	solen går upp
+imageUuid	ac4dffcc-5baf-433e-bd7b-517e76e15a8c
+translationKey	04e7fb4d-6dcd-44e6-9fc9-d0b88987cfdf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ac4dffcc-5baf-433e-bd7b-517e76e15a8c/04e7fb4d-6dcd-44e6-9fc9-d0b88987cfdf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ac4dffcc-5baf-433e-bd7b-517e76e15a8c/04e7fb4d-6dcd-44e6-9fc9-d0b88987cfdf
+md5	ed7aadf8033acc841a80d6987b277f92

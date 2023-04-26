@@ -1,0 +1,8 @@
+
+signId	2921
+text	isbana
+imageUuid	8b138eea-f231-4917-b6e3-9fe307aab2f0
+translationKey	80e81c0c-f93a-44c7-ae06-2e46575560de
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8b138eea-f231-4917-b6e3-9fe307aab2f0/80e81c0c-f93a-44c7-ae06-2e46575560de/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8b138eea-f231-4917-b6e3-9fe307aab2f0/80e81c0c-f93a-44c7-ae06-2e46575560de
+md5	0fcef74aa081800e6683c9dece821d5a

@@ -1,0 +1,8 @@
+
+signId	1980
+text	bondgård
+imageUuid	dff3096e-1957-460c-ab28-e3b50465c174
+translationKey	c3df5aa4-c433-47f9-8956-862af522c1b0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dff3096e-1957-460c-ab28-e3b50465c174/c3df5aa4-c433-47f9-8956-862af522c1b0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dff3096e-1957-460c-ab28-e3b50465c174/c3df5aa4-c433-47f9-8956-862af522c1b0
+md5	dbe67d4de407dc78b99ff6dd3290a50e

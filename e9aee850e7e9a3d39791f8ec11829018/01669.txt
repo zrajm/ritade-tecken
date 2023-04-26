@@ -1,0 +1,7 @@
+signId	1669
+text	törstig
+imageUuid	6b0450ff-e95c-43bf-b5a8-32902290228e
+translationKey	c5cb9e9e-3265-4870-826b-f68b89ef5bee
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b0450ff-e95c-43bf-b5a8-32902290228e/c5cb9e9e-3265-4870-826b-f68b89ef5bee/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b0450ff-e95c-43bf-b5a8-32902290228e/c5cb9e9e-3265-4870-826b-f68b89ef5bee
+md5	e9aee850e7e9a3d39791f8ec11829018

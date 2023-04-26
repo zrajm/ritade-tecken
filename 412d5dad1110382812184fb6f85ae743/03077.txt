@@ -1,0 +1,7 @@
+signId	3077
+text	sjunka
+imageUuid	2f3410a9-bf26-41a4-ac23-9cd49e248ea8
+translationKey	6267c1a9-2827-4b16-9707-090abc41111f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2f3410a9-bf26-41a4-ac23-9cd49e248ea8/6267c1a9-2827-4b16-9707-090abc41111f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2f3410a9-bf26-41a4-ac23-9cd49e248ea8/6267c1a9-2827-4b16-9707-090abc41111f
+md5	412d5dad1110382812184fb6f85ae743

@@ -1,0 +1,8 @@
+
+signId	2523
+text	lycka till
+imageUuid	d15bcec9-cd92-4946-a356-e963171c446b
+translationKey	33d0c634-caa1-4a07-abd3-d59ab69df219
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d15bcec9-cd92-4946-a356-e963171c446b/33d0c634-caa1-4a07-abd3-d59ab69df219/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d15bcec9-cd92-4946-a356-e963171c446b/33d0c634-caa1-4a07-abd3-d59ab69df219
+md5	45a7b5e595bf6d15e5066355685106eb

@@ -1,0 +1,7 @@
+signId	812
+text	krokodil
+imageUuid	b8555a17-214e-42e6-b621-59ea4f6e4329
+translationKey	23328f8f-86b1-487a-8f86-1e66926c1d3d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b8555a17-214e-42e6-b621-59ea4f6e4329/23328f8f-86b1-487a-8f86-1e66926c1d3d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b8555a17-214e-42e6-b621-59ea4f6e4329/23328f8f-86b1-487a-8f86-1e66926c1d3d
+md5	e9a936ebbc17a360467d4be4d7ec69e2

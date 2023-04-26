@@ -1,0 +1,8 @@
+
+signId	3327
+text	mimik
+imageUuid	8ee35e6c-51f7-44db-b05a-025373167961
+translationKey	e360cc86-08c2-4281-b387-20fee70d5bf8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8ee35e6c-51f7-44db-b05a-025373167961/e360cc86-08c2-4281-b387-20fee70d5bf8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8ee35e6c-51f7-44db-b05a-025373167961/e360cc86-08c2-4281-b387-20fee70d5bf8
+md5	5cddfb6bbf4e839ebf6333f3875c929a

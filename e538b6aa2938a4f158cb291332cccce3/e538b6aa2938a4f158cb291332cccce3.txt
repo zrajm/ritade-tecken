@@ -1,0 +1,16 @@
+
+signId	783
+text	kom
+imageUuid	7f958f2c-dbd4-4122-8299-2c3d7b2126e8
+translationKey	92cacb74-9c66-4b9c-9dd1-b56c6ea538ae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f958f2c-dbd4-4122-8299-2c3d7b2126e8/92cacb74-9c66-4b9c-9dd1-b56c6ea538ae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f958f2c-dbd4-4122-8299-2c3d7b2126e8/92cacb74-9c66-4b9c-9dd1-b56c6ea538ae
+md5	e538b6aa2938a4f158cb291332cccce3
+
+signId	3362
+text	kalla på
+imageUuid	a0c85f1f-fc95-471c-b3f4-681a55e82c40
+translationKey	553eeabf-56d4-4324-beb3-335565a20a7f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0c85f1f-fc95-471c-b3f4-681a55e82c40/553eeabf-56d4-4324-beb3-335565a20a7f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0c85f1f-fc95-471c-b3f4-681a55e82c40/553eeabf-56d4-4324-beb3-335565a20a7f
+md5	e538b6aa2938a4f158cb291332cccce3

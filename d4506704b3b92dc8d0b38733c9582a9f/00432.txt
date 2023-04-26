@@ -1,0 +1,7 @@
+signId	432
+text	fyrverkeri
+imageUuid	0bb1f1bf-271c-4329-b04a-47188aac14cb
+translationKey	613eb85d-6e31-424c-8556-039bea609bce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0bb1f1bf-271c-4329-b04a-47188aac14cb/613eb85d-6e31-424c-8556-039bea609bce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0bb1f1bf-271c-4329-b04a-47188aac14cb/613eb85d-6e31-424c-8556-039bea609bce
+md5	d4506704b3b92dc8d0b38733c9582a9f

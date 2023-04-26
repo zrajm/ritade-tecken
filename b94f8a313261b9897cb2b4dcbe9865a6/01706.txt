@@ -1,0 +1,7 @@
+signId	1706
+text	varför
+imageUuid	79170786-98dd-42e6-a0ea-e982800c084d
+translationKey	9b892212-be56-4804-bca7-d682278207d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/79170786-98dd-42e6-a0ea-e982800c084d/9b892212-be56-4804-bca7-d682278207d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/79170786-98dd-42e6-a0ea-e982800c084d/9b892212-be56-4804-bca7-d682278207d1
+md5	b94f8a313261b9897cb2b4dcbe9865a6

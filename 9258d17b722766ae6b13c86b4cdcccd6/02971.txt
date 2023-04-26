@@ -1,0 +1,7 @@
+signId	2971
+text	ögonlock
+imageUuid	89f55c73-0fcd-467a-be8a-5e3936f95b55
+translationKey	a8ebc04a-63b5-490a-9665-5d5d084d37fc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/89f55c73-0fcd-467a-be8a-5e3936f95b55/a8ebc04a-63b5-490a-9665-5d5d084d37fc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/89f55c73-0fcd-467a-be8a-5e3936f95b55/a8ebc04a-63b5-490a-9665-5d5d084d37fc
+md5	9258d17b722766ae6b13c86b4cdcccd6

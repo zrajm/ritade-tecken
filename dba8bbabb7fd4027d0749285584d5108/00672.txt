@@ -1,0 +1,7 @@
+signId	672
+text	inne (modern)
+imageUuid	f1b02975-f1c3-4f8d-9f53-69559d7b195d
+translationKey	c8975e7b-0957-4d26-a737-735e15425e6c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f1b02975-f1c3-4f8d-9f53-69559d7b195d/c8975e7b-0957-4d26-a737-735e15425e6c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f1b02975-f1c3-4f8d-9f53-69559d7b195d/c8975e7b-0957-4d26-a737-735e15425e6c
+md5	dba8bbabb7fd4027d0749285584d5108

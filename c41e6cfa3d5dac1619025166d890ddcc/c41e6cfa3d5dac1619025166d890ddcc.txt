@@ -1,0 +1,8 @@
+
+signId	3324
+text	logga in
+imageUuid	5c19d45e-b2fb-44df-94f8-903ae2107116
+translationKey	4959c533-a8f2-4aab-bb63-90d784358715
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5c19d45e-b2fb-44df-94f8-903ae2107116/4959c533-a8f2-4aab-bb63-90d784358715/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5c19d45e-b2fb-44df-94f8-903ae2107116/4959c533-a8f2-4aab-bb63-90d784358715
+md5	c41e6cfa3d5dac1619025166d890ddcc

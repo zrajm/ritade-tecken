@@ -1,0 +1,7 @@
+signId	696
+text	jorden
+imageUuid	6b72cc35-0dac-437c-aa2b-9dac5ae32f95
+translationKey	05b55d0f-92fe-47fa-8285-3ad5aed3eece
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b72cc35-0dac-437c-aa2b-9dac5ae32f95/05b55d0f-92fe-47fa-8285-3ad5aed3eece/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b72cc35-0dac-437c-aa2b-9dac5ae32f95/05b55d0f-92fe-47fa-8285-3ad5aed3eece
+md5	84cec28b20aceeb561f76e31c699aeb1

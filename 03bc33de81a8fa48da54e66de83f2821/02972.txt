@@ -1,0 +1,7 @@
+signId	2972
+text	alfabet
+imageUuid	ab96a278-0e0e-4f0b-bbf4-e47563a3c564
+translationKey	a18ca505-a359-4c80-83a2-713e24d230e6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ab96a278-0e0e-4f0b-bbf4-e47563a3c564/a18ca505-a359-4c80-83a2-713e24d230e6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ab96a278-0e0e-4f0b-bbf4-e47563a3c564/a18ca505-a359-4c80-83a2-713e24d230e6
+md5	03bc33de81a8fa48da54e66de83f2821

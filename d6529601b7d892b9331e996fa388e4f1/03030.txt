@@ -1,0 +1,7 @@
+signId	3030
+text	peka
+imageUuid	c6736b8b-d417-48e9-966e-e4beb6287848
+translationKey	0cc4231f-1a3b-4bbb-86ee-c6f5a0e5fbc3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c6736b8b-d417-48e9-966e-e4beb6287848/0cc4231f-1a3b-4bbb-86ee-c6f5a0e5fbc3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c6736b8b-d417-48e9-966e-e4beb6287848/0cc4231f-1a3b-4bbb-86ee-c6f5a0e5fbc3
+md5	d6529601b7d892b9331e996fa388e4f1

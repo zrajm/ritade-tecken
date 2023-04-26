@@ -1,0 +1,7 @@
+signId	396
+text	fot
+imageUuid	bade8953-d9f5-4a79-aee2-b36193245f0a
+translationKey	9ba8396a-7b8a-425c-b656-ca77ccf6bc75
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bade8953-d9f5-4a79-aee2-b36193245f0a/9ba8396a-7b8a-425c-b656-ca77ccf6bc75/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bade8953-d9f5-4a79-aee2-b36193245f0a/9ba8396a-7b8a-425c-b656-ca77ccf6bc75
+md5	7e01957467497688bde7858283b1fcb0

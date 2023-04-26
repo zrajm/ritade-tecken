@@ -1,0 +1,7 @@
+signId	2539
+text	kräfta
+imageUuid	d70058ed-6e3f-4b11-8a7b-94776200814d
+translationKey	d3af7c2a-8fda-4730-9452-4ae81994b9b1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d70058ed-6e3f-4b11-8a7b-94776200814d/d3af7c2a-8fda-4730-9452-4ae81994b9b1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d70058ed-6e3f-4b11-8a7b-94776200814d/d3af7c2a-8fda-4730-9452-4ae81994b9b1
+md5	064aba4083e383204d701b2386351f12

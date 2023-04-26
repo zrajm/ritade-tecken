@@ -1,0 +1,16 @@
+
+signId	574
+text	hatt
+imageUuid	3d2d8995-4a10-49e7-bf11-f4d3fb9a2dad
+translationKey	dd2dad3e-e224-49cf-8dd6-d5dc588dcd95
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3d2d8995-4a10-49e7-bf11-f4d3fb9a2dad/dd2dad3e-e224-49cf-8dd6-d5dc588dcd95/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3d2d8995-4a10-49e7-bf11-f4d3fb9a2dad/dd2dad3e-e224-49cf-8dd6-d5dc588dcd95
+md5	d95af9dbe6e59d113b48e4cb7191f643
+
+signId	1055
+text	mössa
+imageUuid	231fe526-b146-4847-9561-5917da56270c
+translationKey	0fb0cbda-ba39-4c93-b8d0-fb1894faf791
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/231fe526-b146-4847-9561-5917da56270c/0fb0cbda-ba39-4c93-b8d0-fb1894faf791/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/231fe526-b146-4847-9561-5917da56270c/0fb0cbda-ba39-4c93-b8d0-fb1894faf791
+md5	d95af9dbe6e59d113b48e4cb7191f643

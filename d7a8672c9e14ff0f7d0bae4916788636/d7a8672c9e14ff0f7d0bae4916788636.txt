@@ -1,0 +1,8 @@
+
+signId	1313
+text	sin
+imageUuid	644752da-3e49-416a-8ca4-46549c18c365
+translationKey	0dd4b01f-18c7-4df3-97d1-efabafe515e6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/644752da-3e49-416a-8ca4-46549c18c365/0dd4b01f-18c7-4df3-97d1-efabafe515e6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/644752da-3e49-416a-8ca4-46549c18c365/0dd4b01f-18c7-4df3-97d1-efabafe515e6
+md5	d7a8672c9e14ff0f7d0bae4916788636

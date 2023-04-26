@@ -1,0 +1,7 @@
+signId	1273
+text	rätt (riktigt)
+imageUuid	83d223e0-e2e2-496e-b4b1-0c37dba8fd03
+translationKey	ddb91316-8787-4cd6-9511-f224988890fc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/83d223e0-e2e2-496e-b4b1-0c37dba8fd03/ddb91316-8787-4cd6-9511-f224988890fc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/83d223e0-e2e2-496e-b4b1-0c37dba8fd03/ddb91316-8787-4cd6-9511-f224988890fc
+md5	27b108d1f2972f1c12f0e02fc95cc61b

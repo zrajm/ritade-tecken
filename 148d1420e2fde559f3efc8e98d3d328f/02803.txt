@@ -1,0 +1,7 @@
+signId	2803
+text	turkos
+imageUuid	b0f45c58-0119-4f65-8cd6-2b8e4a8ca477
+translationKey	451a4333-3416-4c8c-8428-36a1dc454fdd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b0f45c58-0119-4f65-8cd6-2b8e4a8ca477/451a4333-3416-4c8c-8428-36a1dc454fdd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b0f45c58-0119-4f65-8cd6-2b8e4a8ca477/451a4333-3416-4c8c-8428-36a1dc454fdd
+md5	148d1420e2fde559f3efc8e98d3d328f

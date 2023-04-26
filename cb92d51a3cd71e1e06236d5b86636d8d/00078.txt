@@ -1,0 +1,7 @@
+signId	78
+text	augusti
+imageUuid	9e9069b6-d25d-4824-a9ae-1a05149111b2
+translationKey	b66c2a20-3687-46a5-88dd-d1819d841384
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9e9069b6-d25d-4824-a9ae-1a05149111b2/b66c2a20-3687-46a5-88dd-d1819d841384/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9e9069b6-d25d-4824-a9ae-1a05149111b2/b66c2a20-3687-46a5-88dd-d1819d841384
+md5	cb92d51a3cd71e1e06236d5b86636d8d

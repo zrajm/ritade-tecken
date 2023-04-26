@@ -1,0 +1,7 @@
+signId	279
+text	doktor
+imageUuid	878d0071-36a0-4a80-8d56-e8d0e2d2971c
+translationKey	5e89264d-d521-4964-8947-877fb2bac787
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/878d0071-36a0-4a80-8d56-e8d0e2d2971c/5e89264d-d521-4964-8947-877fb2bac787/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/878d0071-36a0-4a80-8d56-e8d0e2d2971c/5e89264d-d521-4964-8947-877fb2bac787
+md5	49866bd30eacb60564b941b29a01f55a

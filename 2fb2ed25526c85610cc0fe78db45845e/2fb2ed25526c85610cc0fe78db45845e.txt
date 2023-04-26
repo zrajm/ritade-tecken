@@ -1,0 +1,8 @@
+
+signId	3391
+text	gasa
+imageUuid	8b3fdd69-2df1-412f-8d49-fcc5747c2315
+translationKey	cb47451d-528a-45ce-b49d-21100c97e69c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8b3fdd69-2df1-412f-8d49-fcc5747c2315/cb47451d-528a-45ce-b49d-21100c97e69c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8b3fdd69-2df1-412f-8d49-fcc5747c2315/cb47451d-528a-45ce-b49d-21100c97e69c
+md5	2fb2ed25526c85610cc0fe78db45845e

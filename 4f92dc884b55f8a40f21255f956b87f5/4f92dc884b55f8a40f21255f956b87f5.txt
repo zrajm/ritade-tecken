@@ -1,0 +1,8 @@
+
+signId	1361
+text	skriva 1
+imageUuid	2f706b4e-ebab-4dd1-939b-f962a3a5dcb3
+translationKey	bb12f8b0-1ce7-4543-90b7-6826de4a7270
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2f706b4e-ebab-4dd1-939b-f962a3a5dcb3/bb12f8b0-1ce7-4543-90b7-6826de4a7270/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2f706b4e-ebab-4dd1-939b-f962a3a5dcb3/bb12f8b0-1ce7-4543-90b7-6826de4a7270
+md5	4f92dc884b55f8a40f21255f956b87f5

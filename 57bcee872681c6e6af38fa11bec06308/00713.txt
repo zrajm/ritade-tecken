@@ -1,0 +1,7 @@
+signId	713
+text	kalas 1
+imageUuid	1baeb0ec-a714-44ea-961a-70556e4ee956
+translationKey	dedba9b2-f70a-481f-ab0a-bac8e5cf5b7f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1baeb0ec-a714-44ea-961a-70556e4ee956/dedba9b2-f70a-481f-ab0a-bac8e5cf5b7f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1baeb0ec-a714-44ea-961a-70556e4ee956/dedba9b2-f70a-481f-ab0a-bac8e5cf5b7f
+md5	57bcee872681c6e6af38fa11bec06308

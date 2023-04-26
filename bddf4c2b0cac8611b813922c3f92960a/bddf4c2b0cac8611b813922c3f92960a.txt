@@ -1,0 +1,8 @@
+
+signId	3230
+text	smartphone
+imageUuid	4e48f27d-ada0-41b7-91e8-0f937c758421
+translationKey	01b449ad-173b-4e40-bf8d-dbea3573df0f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e48f27d-ada0-41b7-91e8-0f937c758421/01b449ad-173b-4e40-bf8d-dbea3573df0f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e48f27d-ada0-41b7-91e8-0f937c758421/01b449ad-173b-4e40-bf8d-dbea3573df0f
+md5	bddf4c2b0cac8611b813922c3f92960a

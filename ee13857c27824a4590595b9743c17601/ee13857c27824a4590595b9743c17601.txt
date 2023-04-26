@@ -1,0 +1,8 @@
+
+signId	3330
+text	muslim
+imageUuid	627ea4ac-ae99-4eda-a69f-d9982088c970
+translationKey	9fa888d6-aac0-4c85-96c4-b0bc388ba99e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/627ea4ac-ae99-4eda-a69f-d9982088c970/9fa888d6-aac0-4c85-96c4-b0bc388ba99e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/627ea4ac-ae99-4eda-a69f-d9982088c970/9fa888d6-aac0-4c85-96c4-b0bc388ba99e
+md5	ee13857c27824a4590595b9743c17601

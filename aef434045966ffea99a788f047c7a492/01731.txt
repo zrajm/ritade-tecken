@@ -1,0 +1,7 @@
+signId	1731
+text	vilken
+imageUuid	f027d057-e877-451f-bd0a-5dd6d906ad2a
+translationKey	583f67aa-851c-4147-b1f7-ff5037172af5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f027d057-e877-451f-bd0a-5dd6d906ad2a/583f67aa-851c-4147-b1f7-ff5037172af5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f027d057-e877-451f-bd0a-5dd6d906ad2a/583f67aa-851c-4147-b1f7-ff5037172af5
+md5	aef434045966ffea99a788f047c7a492

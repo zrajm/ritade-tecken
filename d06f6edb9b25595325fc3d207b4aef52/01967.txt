@@ -1,0 +1,7 @@
+signId	1967
+text	träningsvärk
+imageUuid	2303a14c-c814-4e48-9f49-fc0359cd5773
+translationKey	9b0a21ec-7198-4712-9c70-68257138218b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2303a14c-c814-4e48-9f49-fc0359cd5773/9b0a21ec-7198-4712-9c70-68257138218b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2303a14c-c814-4e48-9f49-fc0359cd5773/9b0a21ec-7198-4712-9c70-68257138218b
+md5	d06f6edb9b25595325fc3d207b4aef52

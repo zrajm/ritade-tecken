@@ -1,0 +1,7 @@
+signId	2308
+text	sälja
+imageUuid	7ed4c0c1-7088-47ee-8187-fca297874d2a
+translationKey	20e10439-0d65-4321-9a5b-2f07050baebd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7ed4c0c1-7088-47ee-8187-fca297874d2a/20e10439-0d65-4321-9a5b-2f07050baebd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7ed4c0c1-7088-47ee-8187-fca297874d2a/20e10439-0d65-4321-9a5b-2f07050baebd
+md5	13734df31a5da703c1a714ab6b20c5bd

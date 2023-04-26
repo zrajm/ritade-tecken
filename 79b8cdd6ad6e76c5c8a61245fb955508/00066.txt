@@ -1,0 +1,7 @@
+signId	66
+text	arkiv
+imageUuid	f8570039-8df8-4f20-9058-4d2de76c229f
+translationKey	0dda7ef8-493f-4978-a1b2-cbce46cc3268
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f8570039-8df8-4f20-9058-4d2de76c229f/0dda7ef8-493f-4978-a1b2-cbce46cc3268/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f8570039-8df8-4f20-9058-4d2de76c229f/0dda7ef8-493f-4978-a1b2-cbce46cc3268
+md5	79b8cdd6ad6e76c5c8a61245fb955508

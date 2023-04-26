@@ -1,0 +1,7 @@
+signId	3054
+text	app
+imageUuid	5584be27-5844-4916-91cb-7624a299e3d6
+translationKey	b2236694-7137-4c02-8c44-fdb11163f7ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5584be27-5844-4916-91cb-7624a299e3d6/b2236694-7137-4c02-8c44-fdb11163f7ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5584be27-5844-4916-91cb-7624a299e3d6/b2236694-7137-4c02-8c44-fdb11163f7ca
+md5	123e3fc69ced437234ba733104793522

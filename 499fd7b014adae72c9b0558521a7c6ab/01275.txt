@@ -1,0 +1,7 @@
+signId	1275
+text	röd
+imageUuid	1d355999-758d-4c93-93a4-2ae2bb38358b
+translationKey	7b8c0aca-6405-4f2c-a2d9-4dc730de0162
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1d355999-758d-4c93-93a4-2ae2bb38358b/7b8c0aca-6405-4f2c-a2d9-4dc730de0162/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1d355999-758d-4c93-93a4-2ae2bb38358b/7b8c0aca-6405-4f2c-a2d9-4dc730de0162
+md5	499fd7b014adae72c9b0558521a7c6ab

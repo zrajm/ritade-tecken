@@ -1,0 +1,8 @@
+
+signId	2439
+text	omsorg
+imageUuid	250ace86-1352-44a8-b327-92471e79f92a
+translationKey	b7ce5b14-056b-4265-9bcf-159ab9475d14
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/250ace86-1352-44a8-b327-92471e79f92a/b7ce5b14-056b-4265-9bcf-159ab9475d14/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/250ace86-1352-44a8-b327-92471e79f92a/b7ce5b14-056b-4265-9bcf-159ab9475d14
+md5	55f877d070b7a463fce0be566137120f

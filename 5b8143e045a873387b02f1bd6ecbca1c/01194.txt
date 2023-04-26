@@ -1,0 +1,7 @@
+signId	1194
+text	pris
+imageUuid	7450474f-5238-44ba-ba80-8f7afa160dc5
+translationKey	46764392-f6d4-4b65-b6d6-3c63b77271d6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7450474f-5238-44ba-ba80-8f7afa160dc5/46764392-f6d4-4b65-b6d6-3c63b77271d6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7450474f-5238-44ba-ba80-8f7afa160dc5/46764392-f6d4-4b65-b6d6-3c63b77271d6
+md5	504d3e0dbec73bc165dea6c05defd524

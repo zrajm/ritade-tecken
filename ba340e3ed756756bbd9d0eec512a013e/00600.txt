@@ -1,0 +1,7 @@
+signId	600
+text	hjälm
+imageUuid	027e7c3a-9bdf-49da-853a-d62de523f8ca
+translationKey	91b7de6e-1f57-436c-a560-21ebc95c90e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/027e7c3a-9bdf-49da-853a-d62de523f8ca/91b7de6e-1f57-436c-a560-21ebc95c90e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/027e7c3a-9bdf-49da-853a-d62de523f8ca/91b7de6e-1f57-436c-a560-21ebc95c90e1
+md5	c9e7c9d05a71aef87ac4592bd635b22f

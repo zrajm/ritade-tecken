@@ -1,0 +1,7 @@
+signId	150
+text	blunda
+imageUuid	939b7f79-f3c4-4cba-b534-26008f450c69
+translationKey	c212d18d-b218-4a27-b675-10fa56b99ab4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/939b7f79-f3c4-4cba-b534-26008f450c69/c212d18d-b218-4a27-b675-10fa56b99ab4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/939b7f79-f3c4-4cba-b534-26008f450c69/c212d18d-b218-4a27-b675-10fa56b99ab4
+md5	0dde7a15b5c616523abdbe127ed3cfc5

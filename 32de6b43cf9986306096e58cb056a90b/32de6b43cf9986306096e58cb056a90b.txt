@@ -1,0 +1,8 @@
+
+signId	1716
+text	vecka
+imageUuid	d89b346a-120b-4802-9e5c-ff101255319c
+translationKey	82c5682b-25b9-4a99-b6fa-d362d1bcb90a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d89b346a-120b-4802-9e5c-ff101255319c/82c5682b-25b9-4a99-b6fa-d362d1bcb90a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d89b346a-120b-4802-9e5c-ff101255319c/82c5682b-25b9-4a99-b6fa-d362d1bcb90a
+md5	32de6b43cf9986306096e58cb056a90b

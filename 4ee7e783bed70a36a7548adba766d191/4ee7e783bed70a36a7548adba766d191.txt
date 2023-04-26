@@ -1,0 +1,8 @@
+
+signId	2989
+text	bidé
+imageUuid	a805718f-39ef-4a01-85d2-2b82ebc60bbe
+translationKey	0e7e410a-b3ad-4693-9ccb-2d11e6067136
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a805718f-39ef-4a01-85d2-2b82ebc60bbe/0e7e410a-b3ad-4693-9ccb-2d11e6067136/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a805718f-39ef-4a01-85d2-2b82ebc60bbe/0e7e410a-b3ad-4693-9ccb-2d11e6067136
+md5	4ee7e783bed70a36a7548adba766d191

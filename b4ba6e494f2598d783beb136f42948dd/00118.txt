@@ -1,0 +1,7 @@
+signId	118
+text	beige
+imageUuid	d748f446-a31b-4bb7-b34a-ccb867d77a48
+translationKey	50d453d9-e463-4a5c-b906-7db9c2337fd4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d748f446-a31b-4bb7-b34a-ccb867d77a48/50d453d9-e463-4a5c-b906-7db9c2337fd4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d748f446-a31b-4bb7-b34a-ccb867d77a48/50d453d9-e463-4a5c-b906-7db9c2337fd4
+md5	b4ba6e494f2598d783beb136f42948dd

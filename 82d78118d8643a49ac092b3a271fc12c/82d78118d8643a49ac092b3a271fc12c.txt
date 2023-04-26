@@ -1,0 +1,8 @@
+
+signId	2465
+text	klot
+imageUuid	be6085e5-a8bd-46e0-83a5-80b0335a0989
+translationKey	15740284-b3ce-46d7-849b-d6ffad098a24
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/be6085e5-a8bd-46e0-83a5-80b0335a0989/15740284-b3ce-46d7-849b-d6ffad098a24/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/be6085e5-a8bd-46e0-83a5-80b0335a0989/15740284-b3ce-46d7-849b-d6ffad098a24
+md5	82d78118d8643a49ac092b3a271fc12c

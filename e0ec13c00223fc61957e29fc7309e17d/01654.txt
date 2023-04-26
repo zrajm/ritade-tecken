@@ -1,0 +1,7 @@
+signId	1654
+text	tycka
+imageUuid	78c44def-9231-47c1-95fd-d09e1b87d6e5
+translationKey	4ec266b5-1f01-471e-a38a-f88d29beb88a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/78c44def-9231-47c1-95fd-d09e1b87d6e5/4ec266b5-1f01-471e-a38a-f88d29beb88a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/78c44def-9231-47c1-95fd-d09e1b87d6e5/4ec266b5-1f01-471e-a38a-f88d29beb88a
+md5	e0ec13c00223fc61957e29fc7309e17d

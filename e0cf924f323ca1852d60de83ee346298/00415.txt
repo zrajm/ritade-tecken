@@ -1,0 +1,7 @@
+signId	415
+text	från
+imageUuid	b574bffc-7f54-49f5-af27-aaa2e0def6d0
+translationKey	ecdb0e5c-3142-4447-be5c-91513917ace5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b574bffc-7f54-49f5-af27-aaa2e0def6d0/ecdb0e5c-3142-4447-be5c-91513917ace5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b574bffc-7f54-49f5-af27-aaa2e0def6d0/ecdb0e5c-3142-4447-be5c-91513917ace5
+md5	e0cf924f323ca1852d60de83ee346298

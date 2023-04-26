@@ -1,0 +1,7 @@
+signId	1199
+text	prova
+imageUuid	54ac94c0-a64f-4fb8-b7ac-ed43481cdbd0
+translationKey	0a21e2dc-5888-4bfa-95e7-b60728c4e7de
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/54ac94c0-a64f-4fb8-b7ac-ed43481cdbd0/0a21e2dc-5888-4bfa-95e7-b60728c4e7de/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/54ac94c0-a64f-4fb8-b7ac-ed43481cdbd0/0a21e2dc-5888-4bfa-95e7-b60728c4e7de
+md5	478743db8a1e8e2d03b83a38e17d8148

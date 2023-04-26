@@ -1,0 +1,7 @@
+signId	2796
+text	randig 2
+imageUuid	79a919ac-5e02-4d57-ae37-0a24b5f2f630
+translationKey	b1f3add4-aa75-4220-bd6f-d7b5e626a964
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/79a919ac-5e02-4d57-ae37-0a24b5f2f630/b1f3add4-aa75-4220-bd6f-d7b5e626a964/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/79a919ac-5e02-4d57-ae37-0a24b5f2f630/b1f3add4-aa75-4220-bd6f-d7b5e626a964
+md5	94a8931c9434ae599e388e9b952461cb

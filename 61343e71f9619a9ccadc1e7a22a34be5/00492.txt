@@ -1,0 +1,7 @@
+signId	492
+text	glo
+imageUuid	9c815fd8-e447-4cc3-8394-6cd281bf01b0
+translationKey	9eca4df8-dce2-47d8-aa75-c4a40c3c0cb9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9c815fd8-e447-4cc3-8394-6cd281bf01b0/9eca4df8-dce2-47d8-aa75-c4a40c3c0cb9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9c815fd8-e447-4cc3-8394-6cd281bf01b0/9eca4df8-dce2-47d8-aa75-c4a40c3c0cb9
+md5	61343e71f9619a9ccadc1e7a22a34be5

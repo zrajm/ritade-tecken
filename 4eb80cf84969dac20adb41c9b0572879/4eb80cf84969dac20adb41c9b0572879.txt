@@ -1,0 +1,8 @@
+
+signId	98
+text	banan
+imageUuid	3620e5c1-3d10-4d70-a8da-9af9c68d35b8
+translationKey	32609bef-a98b-4307-9c17-64c564aa7746
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3620e5c1-3d10-4d70-a8da-9af9c68d35b8/32609bef-a98b-4307-9c17-64c564aa7746/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3620e5c1-3d10-4d70-a8da-9af9c68d35b8/32609bef-a98b-4307-9c17-64c564aa7746
+md5	4eb80cf84969dac20adb41c9b0572879

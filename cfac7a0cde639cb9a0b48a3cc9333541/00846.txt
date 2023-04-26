@@ -1,0 +1,7 @@
+signId	846
+text	känsla 1
+imageUuid	aed81810-b295-441e-a24f-05a53d6fc517
+translationKey	d00ec753-e1eb-47d2-b86a-118d60a600e6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aed81810-b295-441e-a24f-05a53d6fc517/d00ec753-e1eb-47d2-b86a-118d60a600e6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aed81810-b295-441e-a24f-05a53d6fc517/d00ec753-e1eb-47d2-b86a-118d60a600e6
+md5	cfac7a0cde639cb9a0b48a3cc9333541

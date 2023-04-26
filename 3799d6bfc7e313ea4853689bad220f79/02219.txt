@@ -1,0 +1,7 @@
+signId	2219
+text	förra veckan
+imageUuid	f80c6640-3c23-45fb-bf42-b76824265fcb
+translationKey	f08372b1-a6a4-4b3e-8904-4de3fbd8a330
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f80c6640-3c23-45fb-bf42-b76824265fcb/f08372b1-a6a4-4b3e-8904-4de3fbd8a330/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f80c6640-3c23-45fb-bf42-b76824265fcb/f08372b1-a6a4-4b3e-8904-4de3fbd8a330
+md5	3799d6bfc7e313ea4853689bad220f79

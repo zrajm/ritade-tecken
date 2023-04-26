@@ -1,0 +1,16 @@
+
+signId	335
+text	experiment
+imageUuid	926ea870-e019-4fdb-85e5-b34ae13c7f64
+translationKey	76482415-6ceb-46a2-a96f-5aeda6675ce1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/926ea870-e019-4fdb-85e5-b34ae13c7f64/76482415-6ceb-46a2-a96f-5aeda6675ce1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/926ea870-e019-4fdb-85e5-b34ae13c7f64/76482415-6ceb-46a2-a96f-5aeda6675ce1
+md5	52a794b5fa5539cc6a79d46821415ab9
+
+signId	737
+text	kemi
+imageUuid	625b23ec-1e63-4ba3-b33f-9e44bcab7477
+translationKey	6e3cd34b-715d-4c4c-93c3-3ff7716fc238
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/625b23ec-1e63-4ba3-b33f-9e44bcab7477/6e3cd34b-715d-4c4c-93c3-3ff7716fc238/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/625b23ec-1e63-4ba3-b33f-9e44bcab7477/6e3cd34b-715d-4c4c-93c3-3ff7716fc238
+md5	52a794b5fa5539cc6a79d46821415ab9

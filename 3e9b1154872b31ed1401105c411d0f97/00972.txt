@@ -1,0 +1,7 @@
+signId	972
+text	matta
+imageUuid	503a5875-b882-406c-a6f2-cfdf7206da88
+translationKey	c68a1a36-56d8-46e6-a2f2-c3f7fdfb466c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/503a5875-b882-406c-a6f2-cfdf7206da88/c68a1a36-56d8-46e6-a2f2-c3f7fdfb466c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/503a5875-b882-406c-a6f2-cfdf7206da88/c68a1a36-56d8-46e6-a2f2-c3f7fdfb466c
+md5	3e9b1154872b31ed1401105c411d0f97

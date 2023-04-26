@@ -1,0 +1,7 @@
+signId	978
+text	meka
+imageUuid	ffdbe5f4-ee6f-4cd7-a3f4-bb59bfacdd01
+translationKey	22ff2e38-c2cf-42d3-b7a6-4ab70d68ba54
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ffdbe5f4-ee6f-4cd7-a3f4-bb59bfacdd01/22ff2e38-c2cf-42d3-b7a6-4ab70d68ba54/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ffdbe5f4-ee6f-4cd7-a3f4-bb59bfacdd01/22ff2e38-c2cf-42d3-b7a6-4ab70d68ba54
+md5	26dc4358fb61215a83d697e532965e6b

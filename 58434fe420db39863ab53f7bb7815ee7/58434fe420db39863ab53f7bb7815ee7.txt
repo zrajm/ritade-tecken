@@ -1,0 +1,8 @@
+
+signId	3017
+text	sprit
+imageUuid	09ff2a85-0efa-4046-be5c-a22e891c7811
+translationKey	5cfa4f13-3013-420d-b3a6-d6d2a822eff6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/09ff2a85-0efa-4046-be5c-a22e891c7811/5cfa4f13-3013-420d-b3a6-d6d2a822eff6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/09ff2a85-0efa-4046-be5c-a22e891c7811/5cfa4f13-3013-420d-b3a6-d6d2a822eff6
+md5	58434fe420db39863ab53f7bb7815ee7

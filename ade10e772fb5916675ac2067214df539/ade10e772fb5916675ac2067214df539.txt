@@ -1,0 +1,8 @@
+
+signId	1818
+text	ögon
+imageUuid	94644019-9e1a-4eed-aba5-14155e46e0bf
+translationKey	009d6c86-89b2-48bb-9c8d-5362968fc56b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/94644019-9e1a-4eed-aba5-14155e46e0bf/009d6c86-89b2-48bb-9c8d-5362968fc56b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/94644019-9e1a-4eed-aba5-14155e46e0bf/009d6c86-89b2-48bb-9c8d-5362968fc56b
+md5	ade10e772fb5916675ac2067214df539

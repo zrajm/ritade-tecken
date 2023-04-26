@@ -1,0 +1,7 @@
+signId	2639
+text	hudkräm
+imageUuid	2ca8d589-1241-4a89-b69a-d1993fcda098
+translationKey	cbd677c9-5761-4889-9ccf-3e667e95ae78
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ca8d589-1241-4a89-b69a-d1993fcda098/cbd677c9-5761-4889-9ccf-3e667e95ae78/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ca8d589-1241-4a89-b69a-d1993fcda098/cbd677c9-5761-4889-9ccf-3e667e95ae78
+md5	4c0f94f1b19cb73420b043200d1c73b3

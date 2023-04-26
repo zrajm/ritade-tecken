@@ -1,0 +1,7 @@
+signId	877
+text	lego
+imageUuid	fc5504a7-65c7-4212-b4e3-4bbce86978ec
+translationKey	134a9938-a5a3-4a93-9f17-0454ce7f499f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fc5504a7-65c7-4212-b4e3-4bbce86978ec/134a9938-a5a3-4a93-9f17-0454ce7f499f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fc5504a7-65c7-4212-b4e3-4bbce86978ec/134a9938-a5a3-4a93-9f17-0454ce7f499f
+md5	c12f4c3e653d724f45d057f8bca796d1

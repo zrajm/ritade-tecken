@@ -1,0 +1,7 @@
+signId	1761
+text	väg
+imageUuid	29c98a17-09a4-44ff-85f4-cf90498f44c6
+translationKey	ad19c7d5-04e5-41cc-9a13-3e3a52fc37ed
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/29c98a17-09a4-44ff-85f4-cf90498f44c6/ad19c7d5-04e5-41cc-9a13-3e3a52fc37ed/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/29c98a17-09a4-44ff-85f4-cf90498f44c6/ad19c7d5-04e5-41cc-9a13-3e3a52fc37ed
+md5	4e49ef8ac8ec65e310680391ddc4811c

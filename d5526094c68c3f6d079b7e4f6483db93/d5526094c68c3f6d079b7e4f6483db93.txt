@@ -1,0 +1,8 @@
+
+signId	1632
+text	tröja
+imageUuid	5d2ee754-801f-4ba6-a386-964758e1af63
+translationKey	7f2a31ce-da13-48a1-a617-3a1d48d0dd7f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5d2ee754-801f-4ba6-a386-964758e1af63/7f2a31ce-da13-48a1-a617-3a1d48d0dd7f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5d2ee754-801f-4ba6-a386-964758e1af63/7f2a31ce-da13-48a1-a617-3a1d48d0dd7f
+md5	d5526094c68c3f6d079b7e4f6483db93

@@ -1,0 +1,7 @@
+signId	125
+text	beställa
+imageUuid	6a791799-f376-4b45-8ad1-3db090e4cedf
+translationKey	a4fff95a-c017-494e-88ef-ab15da1ae3e2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6a791799-f376-4b45-8ad1-3db090e4cedf/a4fff95a-c017-494e-88ef-ab15da1ae3e2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6a791799-f376-4b45-8ad1-3db090e4cedf/a4fff95a-c017-494e-88ef-ab15da1ae3e2
+md5	5a09f8b8cdfc5e6c38f6441f82fa3e61

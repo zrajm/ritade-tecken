@@ -1,0 +1,8 @@
+
+signId	1090
+text	några
+imageUuid	7c084c3c-0df8-455b-8406-c6319a73e8b6
+translationKey	1c846328-ea00-4c2c-9e29-8286b92ad269
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7c084c3c-0df8-455b-8406-c6319a73e8b6/1c846328-ea00-4c2c-9e29-8286b92ad269/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7c084c3c-0df8-455b-8406-c6319a73e8b6/1c846328-ea00-4c2c-9e29-8286b92ad269
+md5	2728e4d3af6678a0618be90ae3015aa7

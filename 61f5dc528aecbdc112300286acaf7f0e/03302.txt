@@ -1,0 +1,7 @@
+signId	3302
+text	handform (språkvetenskap)
+imageUuid	5affa633-eeb4-45fa-a90a-f691b47368d6
+translationKey	8a043676-93c0-4797-b378-64e30bac7ffa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5affa633-eeb4-45fa-a90a-f691b47368d6/8a043676-93c0-4797-b378-64e30bac7ffa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5affa633-eeb4-45fa-a90a-f691b47368d6/8a043676-93c0-4797-b378-64e30bac7ffa
+md5	61f5dc528aecbdc112300286acaf7f0e

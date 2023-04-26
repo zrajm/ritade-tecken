@@ -1,0 +1,8 @@
+
+signId	1319
+text	sjukhus
+imageUuid	4348cbab-99c1-4734-8fc3-f0de33d7f92c
+translationKey	47b9a031-b048-407b-92da-348188efdfd5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4348cbab-99c1-4734-8fc3-f0de33d7f92c/47b9a031-b048-407b-92da-348188efdfd5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4348cbab-99c1-4734-8fc3-f0de33d7f92c/47b9a031-b048-407b-92da-348188efdfd5
+md5	7e04a254f38be0ce397bdf6d9c11a852

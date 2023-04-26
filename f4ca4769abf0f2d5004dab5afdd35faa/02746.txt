@@ -1,0 +1,7 @@
+signId	2746
+text	curling
+imageUuid	1930bdc4-e522-4db1-86f4-3a437d93e480
+translationKey	d22aa675-6e3e-47d6-8fc2-ad08fb74012e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1930bdc4-e522-4db1-86f4-3a437d93e480/d22aa675-6e3e-47d6-8fc2-ad08fb74012e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1930bdc4-e522-4db1-86f4-3a437d93e480/d22aa675-6e3e-47d6-8fc2-ad08fb74012e
+md5	f4ca4769abf0f2d5004dab5afdd35faa

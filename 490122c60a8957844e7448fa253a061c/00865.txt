@@ -1,0 +1,7 @@
+signId	865
+text	lakan
+imageUuid	0365683b-2f91-4181-af11-0371ec056342
+translationKey	7fc08468-08f4-4302-815a-333ac1b7bff0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0365683b-2f91-4181-af11-0371ec056342/7fc08468-08f4-4302-815a-333ac1b7bff0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0365683b-2f91-4181-af11-0371ec056342/7fc08468-08f4-4302-815a-333ac1b7bff0
+md5	8d61f11c6cc4b8104771a43a7fbaa40a

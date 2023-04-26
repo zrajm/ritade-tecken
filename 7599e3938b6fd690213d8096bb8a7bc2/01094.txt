@@ -1,0 +1,7 @@
+signId	1094
+text	näsa
+imageUuid	3b762718-9580-4ea0-85e2-d88c5ea56e74
+translationKey	e6314171-69d5-4933-a0bd-b83693ac7bf6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b762718-9580-4ea0-85e2-d88c5ea56e74/e6314171-69d5-4933-a0bd-b83693ac7bf6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b762718-9580-4ea0-85e2-d88c5ea56e74/e6314171-69d5-4933-a0bd-b83693ac7bf6
+md5	7599e3938b6fd690213d8096bb8a7bc2

@@ -1,0 +1,8 @@
+
+signId	1958
+text	kvar
+imageUuid	a171e46e-6c44-4197-a624-3c02f2d7cb06
+translationKey	088881db-b7e4-4d76-a6f7-29355e4d079c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a171e46e-6c44-4197-a624-3c02f2d7cb06/088881db-b7e4-4d76-a6f7-29355e4d079c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a171e46e-6c44-4197-a624-3c02f2d7cb06/088881db-b7e4-4d76-a6f7-29355e4d079c
+md5	ab611d602b2d8c9f3a84b574ec8523a5

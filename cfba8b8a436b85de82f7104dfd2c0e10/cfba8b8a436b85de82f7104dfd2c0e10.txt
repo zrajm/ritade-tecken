@@ -1,0 +1,8 @@
+
+signId	2200
+text	tjata
+imageUuid	3baa7132-e543-4462-9a9c-f100dbde03b9
+translationKey	b7e3bd24-ba68-4ef0-abc6-f40c761aa8a2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3baa7132-e543-4462-9a9c-f100dbde03b9/b7e3bd24-ba68-4ef0-abc6-f40c761aa8a2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3baa7132-e543-4462-9a9c-f100dbde03b9/b7e3bd24-ba68-4ef0-abc6-f40c761aa8a2
+md5	cfba8b8a436b85de82f7104dfd2c0e10

@@ -1,0 +1,8 @@
+
+signId	2829
+text	skaka
+imageUuid	50a5d5c2-93b7-4bdf-9d91-c0a36dc8c93c
+translationKey	a66aa892-08f3-4b72-b8dc-6f1ea60ad6b1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/50a5d5c2-93b7-4bdf-9d91-c0a36dc8c93c/a66aa892-08f3-4b72-b8dc-6f1ea60ad6b1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/50a5d5c2-93b7-4bdf-9d91-c0a36dc8c93c/a66aa892-08f3-4b72-b8dc-6f1ea60ad6b1
+md5	5cc6aabedc83978ff1f1af149414edf3

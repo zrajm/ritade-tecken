@@ -1,0 +1,7 @@
+signId	2733
+text	trasa
+imageUuid	283f49d3-2a35-4742-a31e-cf16e19a4496
+translationKey	07cb8750-a900-4594-b378-78df68cc2b3f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/283f49d3-2a35-4742-a31e-cf16e19a4496/07cb8750-a900-4594-b378-78df68cc2b3f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/283f49d3-2a35-4742-a31e-cf16e19a4496/07cb8750-a900-4594-b378-78df68cc2b3f
+md5	98f79beab48d20f6e5fd076742b7b60a

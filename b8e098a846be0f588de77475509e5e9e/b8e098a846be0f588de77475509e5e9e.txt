@@ -1,0 +1,8 @@
+
+signId	1981
+text	språk
+imageUuid	ccb5533e-6c9a-4ac6-abda-846fac50b996
+translationKey	e8b711ae-6c88-4973-b6da-cc724892757f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ccb5533e-6c9a-4ac6-abda-846fac50b996/e8b711ae-6c88-4973-b6da-cc724892757f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ccb5533e-6c9a-4ac6-abda-846fac50b996/e8b711ae-6c88-4973-b6da-cc724892757f
+md5	b8e098a846be0f588de77475509e5e9e

@@ -1,0 +1,8 @@
+
+signId	534
+text	gurka
+imageUuid	e00d888c-e463-4720-a678-de7991dca1ff
+translationKey	977dae1b-3ad3-40bb-91b3-7c88905ea5a9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e00d888c-e463-4720-a678-de7991dca1ff/977dae1b-3ad3-40bb-91b3-7c88905ea5a9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e00d888c-e463-4720-a678-de7991dca1ff/977dae1b-3ad3-40bb-91b3-7c88905ea5a9
+md5	bed2185fad9f78f8063f91c009fdf6dc

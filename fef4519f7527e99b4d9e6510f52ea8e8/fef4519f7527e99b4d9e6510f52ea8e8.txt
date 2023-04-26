@@ -1,0 +1,8 @@
+
+signId	2492
+text	väva
+imageUuid	3f48b988-2169-4f0b-ab08-1ad607efc2e5
+translationKey	05021a0d-b195-47b9-a86f-542e66faeb04
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3f48b988-2169-4f0b-ab08-1ad607efc2e5/05021a0d-b195-47b9-a86f-542e66faeb04/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3f48b988-2169-4f0b-ab08-1ad607efc2e5/05021a0d-b195-47b9-a86f-542e66faeb04
+md5	fef4519f7527e99b4d9e6510f52ea8e8

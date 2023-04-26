@@ -1,0 +1,8 @@
+
+signId	3395
+text	klockan 2
+imageUuid	33127bff-7d86-4e9c-b53e-0342b605fdcb
+translationKey	c70db85e-f6fd-497a-9967-43e9786d23b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/33127bff-7d86-4e9c-b53e-0342b605fdcb/c70db85e-f6fd-497a-9967-43e9786d23b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/33127bff-7d86-4e9c-b53e-0342b605fdcb/c70db85e-f6fd-497a-9967-43e9786d23b5
+md5	2fc2029378a75dbfe0dcd37abbdb32d2

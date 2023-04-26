@@ -1,0 +1,7 @@
+signId	2927
+text	soprum
+imageUuid	590bd347-3aed-4a58-8475-438e2d73cd4c
+translationKey	77be1108-37b2-41d8-b5c5-980c4430aec3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/590bd347-3aed-4a58-8475-438e2d73cd4c/77be1108-37b2-41d8-b5c5-980c4430aec3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/590bd347-3aed-4a58-8475-438e2d73cd4c/77be1108-37b2-41d8-b5c5-980c4430aec3
+md5	02e13f504f9f33891f1e47568a3c9d73

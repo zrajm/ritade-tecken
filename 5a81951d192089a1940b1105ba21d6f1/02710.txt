@@ -1,0 +1,7 @@
+signId	2710
+text	kalkon
+imageUuid	7a298cc7-7ed4-43a5-bfeb-2be985a299d8
+translationKey	6777e8ea-00ec-48e8-a59b-2422b4b8e67f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7a298cc7-7ed4-43a5-bfeb-2be985a299d8/6777e8ea-00ec-48e8-a59b-2422b4b8e67f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7a298cc7-7ed4-43a5-bfeb-2be985a299d8/6777e8ea-00ec-48e8-a59b-2422b4b8e67f
+md5	5a81951d192089a1940b1105ba21d6f1

@@ -1,0 +1,8 @@
+
+signId	93
+text	bakom
+imageUuid	1dcbe01f-c9f5-4b30-8536-c2b377063d35
+translationKey	730a4d22-2e17-4b6b-96b7-b79a9c87fbc0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1dcbe01f-c9f5-4b30-8536-c2b377063d35/730a4d22-2e17-4b6b-96b7-b79a9c87fbc0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1dcbe01f-c9f5-4b30-8536-c2b377063d35/730a4d22-2e17-4b6b-96b7-b79a9c87fbc0
+md5	63b757818cbd6ac50840d40f9bf476fb

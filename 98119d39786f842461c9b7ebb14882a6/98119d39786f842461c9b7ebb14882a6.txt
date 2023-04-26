@@ -1,0 +1,8 @@
+
+signId	3148
+text	äppelträd
+imageUuid	f1f73585-788d-49a2-90d4-b9491d7528fc
+translationKey	deeccb48-6e4c-4083-bca2-57868ea3b261
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f1f73585-788d-49a2-90d4-b9491d7528fc/deeccb48-6e4c-4083-bca2-57868ea3b261/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f1f73585-788d-49a2-90d4-b9491d7528fc/deeccb48-6e4c-4083-bca2-57868ea3b261
+md5	98119d39786f842461c9b7ebb14882a6

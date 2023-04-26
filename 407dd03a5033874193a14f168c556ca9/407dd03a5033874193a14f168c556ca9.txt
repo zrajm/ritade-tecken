@@ -1,0 +1,8 @@
+
+signId	2224
+text	kikare
+imageUuid	01c5c29a-79b4-4a66-9de2-0a871ce05481
+translationKey	37c51cdb-2ad3-4b1e-9ec2-e20e83f5e403
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/01c5c29a-79b4-4a66-9de2-0a871ce05481/37c51cdb-2ad3-4b1e-9ec2-e20e83f5e403/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/01c5c29a-79b4-4a66-9de2-0a871ce05481/37c51cdb-2ad3-4b1e-9ec2-e20e83f5e403
+md5	407dd03a5033874193a14f168c556ca9

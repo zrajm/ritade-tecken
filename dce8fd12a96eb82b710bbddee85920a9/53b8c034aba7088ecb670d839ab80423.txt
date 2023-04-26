@@ -1,0 +1,8 @@
+
+signId	1768
+text	vänster 1
+imageUuid	ccb52755-0109-42ab-a6e3-14d96cec5bc6
+translationKey	6174d221-d41c-41cc-9fdf-d024af2afbb5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ccb52755-0109-42ab-a6e3-14d96cec5bc6/6174d221-d41c-41cc-9fdf-d024af2afbb5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ccb52755-0109-42ab-a6e3-14d96cec5bc6/6174d221-d41c-41cc-9fdf-d024af2afbb5
+md5	53b8c034aba7088ecb670d839ab80423

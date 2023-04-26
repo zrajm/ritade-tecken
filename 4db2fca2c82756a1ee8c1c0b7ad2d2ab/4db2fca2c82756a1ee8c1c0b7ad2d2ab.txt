@@ -1,0 +1,8 @@
+
+signId	1660
+text	tågbana
+imageUuid	5d3589b7-9ad3-470c-87c0-bebfed953cf0
+translationKey	86383300-4e2b-4023-be30-c30dfa7a1b18
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5d3589b7-9ad3-470c-87c0-bebfed953cf0/86383300-4e2b-4023-be30-c30dfa7a1b18/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5d3589b7-9ad3-470c-87c0-bebfed953cf0/86383300-4e2b-4023-be30-c30dfa7a1b18
+md5	4db2fca2c82756a1ee8c1c0b7ad2d2ab

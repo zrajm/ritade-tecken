@@ -1,0 +1,8 @@
+
+signId	2652
+text	möta någons blick
+imageUuid	cf2c4adc-78b3-4554-bdbf-7468a80d976d
+translationKey	459cde2b-d5f0-47fb-ae2b-4e9f79ecfb94
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cf2c4adc-78b3-4554-bdbf-7468a80d976d/459cde2b-d5f0-47fb-ae2b-4e9f79ecfb94/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cf2c4adc-78b3-4554-bdbf-7468a80d976d/459cde2b-d5f0-47fb-ae2b-4e9f79ecfb94
+md5	43c4afbb2248450954ab9214ccffd866

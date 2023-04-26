@@ -1,0 +1,8 @@
+
+signId	467
+text	försäljare
+imageUuid	20312363-163d-4700-9d02-5f010a08cecd
+translationKey	d0e6018d-d5f3-4078-b053-2dde30a7750e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/20312363-163d-4700-9d02-5f010a08cecd/d0e6018d-d5f3-4078-b053-2dde30a7750e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/20312363-163d-4700-9d02-5f010a08cecd/d0e6018d-d5f3-4078-b053-2dde30a7750e
+md5	ee614add2adf66e57c6b7d01f34d58fc

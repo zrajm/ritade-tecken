@@ -1,0 +1,7 @@
+signId	2152
+text	störa
+imageUuid	113328ad-25a9-424f-b179-8b5b80d7251c
+translationKey	730b7357-80fc-484c-8325-ef174c3f3cfe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/113328ad-25a9-424f-b179-8b5b80d7251c/730b7357-80fc-484c-8325-ef174c3f3cfe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/113328ad-25a9-424f-b179-8b5b80d7251c/730b7357-80fc-484c-8325-ef174c3f3cfe
+md5	c272f8df36eaf783f0c8b9d5dfb58da9

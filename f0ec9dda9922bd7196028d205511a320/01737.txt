@@ -1,0 +1,7 @@
+signId	1737
+text	vind
+imageUuid	ecdcb595-cd87-4f20-8946-3cd13dad2050
+translationKey	44e6af8e-f373-4140-b87d-44a0c5d86444
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ecdcb595-cd87-4f20-8946-3cd13dad2050/44e6af8e-f373-4140-b87d-44a0c5d86444/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ecdcb595-cd87-4f20-8946-3cd13dad2050/44e6af8e-f373-4140-b87d-44a0c5d86444
+md5	f0ec9dda9922bd7196028d205511a320

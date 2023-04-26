@@ -1,0 +1,8 @@
+
+signId	3402
+text	lesbisk
+imageUuid	c91bfeee-13a6-494f-9b3f-5f44b8cbffe5
+translationKey	7be08810-4548-4ecb-8c84-849a51a53221
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c91bfeee-13a6-494f-9b3f-5f44b8cbffe5/7be08810-4548-4ecb-8c84-849a51a53221/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c91bfeee-13a6-494f-9b3f-5f44b8cbffe5/7be08810-4548-4ecb-8c84-849a51a53221
+md5	29a47f832782931bb02302eb46876909

@@ -1,0 +1,7 @@
+signId	2018
+text	kull
+imageUuid	3e011400-b2fb-4aad-bbef-6f3b068f5717
+translationKey	4afd5283-d7a7-4635-9d2e-0a5f69232131
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3e011400-b2fb-4aad-bbef-6f3b068f5717/4afd5283-d7a7-4635-9d2e-0a5f69232131/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3e011400-b2fb-4aad-bbef-6f3b068f5717/4afd5283-d7a7-4635-9d2e-0a5f69232131
+md5	bf5c70e00e5d7f4e116b69ae33d5df26

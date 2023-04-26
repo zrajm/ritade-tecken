@@ -1,0 +1,7 @@
+signId	1828
+text	öva
+imageUuid	548d846f-1065-4288-96b8-749098eff16c
+translationKey	4efc6ca7-4035-4bf9-bc96-bdd4aec2ca0d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/548d846f-1065-4288-96b8-749098eff16c/4efc6ca7-4035-4bf9-bc96-bdd4aec2ca0d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/548d846f-1065-4288-96b8-749098eff16c/4efc6ca7-4035-4bf9-bc96-bdd4aec2ca0d
+md5	6192a583a1710b36e751676cc476cd6d

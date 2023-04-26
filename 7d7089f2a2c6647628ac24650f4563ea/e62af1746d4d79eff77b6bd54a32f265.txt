@@ -1,0 +1,8 @@
+
+signId	1444
+text	spegel
+imageUuid	5a1a5a1c-ce1d-4321-a925-ce21bb195d1a
+translationKey	95fd9043-45db-42ea-a5d6-4a929323727c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5a1a5a1c-ce1d-4321-a925-ce21bb195d1a/95fd9043-45db-42ea-a5d6-4a929323727c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5a1a5a1c-ce1d-4321-a925-ce21bb195d1a/95fd9043-45db-42ea-a5d6-4a929323727c
+md5	e62af1746d4d79eff77b6bd54a32f265

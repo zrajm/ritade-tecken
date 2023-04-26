@@ -1,0 +1,8 @@
+
+signId	255
+text	dela ut
+imageUuid	a25141c6-666d-4ca3-8ca5-7586ab9c6202
+translationKey	47b53737-1edd-4a16-99b1-2184e1621633
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a25141c6-666d-4ca3-8ca5-7586ab9c6202/47b53737-1edd-4a16-99b1-2184e1621633/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a25141c6-666d-4ca3-8ca5-7586ab9c6202/47b53737-1edd-4a16-99b1-2184e1621633
+md5	e14100f3c3ab0c37b3a68ddc85269711

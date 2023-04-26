@@ -1,0 +1,8 @@
+
+signId	1161
+text	picka
+imageUuid	e5cc8aac-0f27-4daa-958b-9194587b5c23
+translationKey	b8ad5cd9-59de-4f28-9ff3-93c99f853635
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e5cc8aac-0f27-4daa-958b-9194587b5c23/b8ad5cd9-59de-4f28-9ff3-93c99f853635/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e5cc8aac-0f27-4daa-958b-9194587b5c23/b8ad5cd9-59de-4f28-9ff3-93c99f853635
+md5	dd571a680adb79264c59ee38b3e65efa

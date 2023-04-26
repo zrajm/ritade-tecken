@@ -1,0 +1,8 @@
+
+signId	2345
+text	jobbigt
+imageUuid	24d73a0e-80b4-415c-905f-f89deb67d8a9
+translationKey	5f866484-f523-4e79-a86d-57bb803310c5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/24d73a0e-80b4-415c-905f-f89deb67d8a9/5f866484-f523-4e79-a86d-57bb803310c5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/24d73a0e-80b4-415c-905f-f89deb67d8a9/5f866484-f523-4e79-a86d-57bb803310c5
+md5	10c99ded00e679e491ca9a88dd1b2500

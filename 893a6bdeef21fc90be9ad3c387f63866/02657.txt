@@ -1,0 +1,7 @@
+signId	2657
+text	president
+imageUuid	ec4fb709-e842-4891-a77d-352b8daa49fb
+translationKey	d6a7da5d-d962-4f6e-8e9c-1028cf4b586f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ec4fb709-e842-4891-a77d-352b8daa49fb/d6a7da5d-d962-4f6e-8e9c-1028cf4b586f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ec4fb709-e842-4891-a77d-352b8daa49fb/d6a7da5d-d962-4f6e-8e9c-1028cf4b586f
+md5	893a6bdeef21fc90be9ad3c387f63866

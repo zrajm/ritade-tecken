@@ -1,0 +1,8 @@
+
+signId	2223
+text	ketchup
+imageUuid	cfcabb4f-da42-41c3-b61a-a16c8c376531
+translationKey	9765eab7-9b5b-462a-a3e9-0c3499cc409d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cfcabb4f-da42-41c3-b61a-a16c8c376531/9765eab7-9b5b-462a-a3e9-0c3499cc409d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cfcabb4f-da42-41c3-b61a-a16c8c376531/9765eab7-9b5b-462a-a3e9-0c3499cc409d
+md5	bed94bf2b953a90a9ab373dcf1673175

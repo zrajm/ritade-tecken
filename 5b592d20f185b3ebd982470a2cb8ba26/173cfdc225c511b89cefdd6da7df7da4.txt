@@ -1,0 +1,8 @@
+
+signId	2020
+text	varsågod
+imageUuid	9834d1a5-fd6c-4996-a716-1a4d5013637e
+translationKey	6e689cfc-1539-4376-b7b7-f7e328383187
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9834d1a5-fd6c-4996-a716-1a4d5013637e/6e689cfc-1539-4376-b7b7-f7e328383187/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9834d1a5-fd6c-4996-a716-1a4d5013637e/6e689cfc-1539-4376-b7b7-f7e328383187
+md5	173cfdc225c511b89cefdd6da7df7da4

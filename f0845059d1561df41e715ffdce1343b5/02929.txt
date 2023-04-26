@@ -1,0 +1,7 @@
+signId	2929
+text	virus
+imageUuid	300532c1-69da-4b9a-9d04-442c3e023141
+translationKey	12ecd5bb-0c9f-4bdb-81a7-1a97fa995484
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/300532c1-69da-4b9a-9d04-442c3e023141/12ecd5bb-0c9f-4bdb-81a7-1a97fa995484/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/300532c1-69da-4b9a-9d04-442c3e023141/12ecd5bb-0c9f-4bdb-81a7-1a97fa995484
+md5	2c0d9b4606e74b2399d1d652739a1543

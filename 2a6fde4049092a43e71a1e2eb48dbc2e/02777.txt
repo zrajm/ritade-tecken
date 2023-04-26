@@ -1,0 +1,7 @@
+signId	2777
+text	diskmaskin
+imageUuid	4477861f-de56-494a-8202-93fe54904ffc
+translationKey	0301818e-6b3f-4214-ad96-d33e1941f62d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4477861f-de56-494a-8202-93fe54904ffc/0301818e-6b3f-4214-ad96-d33e1941f62d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4477861f-de56-494a-8202-93fe54904ffc/0301818e-6b3f-4214-ad96-d33e1941f62d
+md5	2a6fde4049092a43e71a1e2eb48dbc2e

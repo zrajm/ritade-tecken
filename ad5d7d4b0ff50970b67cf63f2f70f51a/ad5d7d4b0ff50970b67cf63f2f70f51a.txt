@@ -1,0 +1,8 @@
+
+signId	2326
+text	demokrati
+imageUuid	ed657077-586c-42ec-aae1-f90cb6123b77
+translationKey	4a8ff183-b602-41d0-a896-d4b755f34f09
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ed657077-586c-42ec-aae1-f90cb6123b77/4a8ff183-b602-41d0-a896-d4b755f34f09/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ed657077-586c-42ec-aae1-f90cb6123b77/4a8ff183-b602-41d0-a896-d4b755f34f09
+md5	ad5d7d4b0ff50970b67cf63f2f70f51a

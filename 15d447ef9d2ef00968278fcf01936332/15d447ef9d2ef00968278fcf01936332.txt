@@ -1,0 +1,8 @@
+
+signId	763
+text	klädaffär
+imageUuid	07dcda7b-62e1-44d2-8981-12f55345ffed
+translationKey	ac8a142c-6a53-4d7a-939a-23a1501202f3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/07dcda7b-62e1-44d2-8981-12f55345ffed/ac8a142c-6a53-4d7a-939a-23a1501202f3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/07dcda7b-62e1-44d2-8981-12f55345ffed/ac8a142c-6a53-4d7a-939a-23a1501202f3
+md5	15d447ef9d2ef00968278fcf01936332

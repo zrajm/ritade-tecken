@@ -1,0 +1,7 @@
+signId	3282
+text	rymma
+imageUuid	fbe97020-07ce-4c08-b168-b82e2491aa22
+translationKey	2cd2cd0f-9e14-4b2c-b193-f3675831f9f0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fbe97020-07ce-4c08-b168-b82e2491aa22/2cd2cd0f-9e14-4b2c-b193-f3675831f9f0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fbe97020-07ce-4c08-b168-b82e2491aa22/2cd2cd0f-9e14-4b2c-b193-f3675831f9f0
+md5	2850e68b1bf5259912fe26f8ac53a89c

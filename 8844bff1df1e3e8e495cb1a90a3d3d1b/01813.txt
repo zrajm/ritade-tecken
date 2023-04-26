@@ -1,0 +1,7 @@
+signId	1813
+text	äta upp allt
+imageUuid	46582c40-67d6-4f8b-8691-c39ddd2df2dd
+translationKey	2bc680b8-c8be-4785-8dcd-82f4fe8d28e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/46582c40-67d6-4f8b-8691-c39ddd2df2dd/2bc680b8-c8be-4785-8dcd-82f4fe8d28e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/46582c40-67d6-4f8b-8691-c39ddd2df2dd/2bc680b8-c8be-4785-8dcd-82f4fe8d28e8
+md5	8844bff1df1e3e8e495cb1a90a3d3d1b

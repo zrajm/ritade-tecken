@@ -1,0 +1,8 @@
+
+signId	305
+text	dålig
+imageUuid	4fd4289a-e5f7-45b5-907f-40c26ea5370f
+translationKey	e18e721f-9109-4b74-aca9-581b3a4aaa65
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4fd4289a-e5f7-45b5-907f-40c26ea5370f/e18e721f-9109-4b74-aca9-581b3a4aaa65/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4fd4289a-e5f7-45b5-907f-40c26ea5370f/e18e721f-9109-4b74-aca9-581b3a4aaa65
+md5	8b83fafddf617d7dfbef5363098a26f1

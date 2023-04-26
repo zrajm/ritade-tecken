@@ -1,0 +1,7 @@
+signId	1855
+text	misstag
+imageUuid	4e0f0272-5a8c-422f-b22d-0d0c43001206
+translationKey	520dfef3-04c6-403e-b885-d9fbcb01f3b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e0f0272-5a8c-422f-b22d-0d0c43001206/520dfef3-04c6-403e-b885-d9fbcb01f3b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e0f0272-5a8c-422f-b22d-0d0c43001206/520dfef3-04c6-403e-b885-d9fbcb01f3b5
+md5	61e54a917b66713e46fbad5119d6237f

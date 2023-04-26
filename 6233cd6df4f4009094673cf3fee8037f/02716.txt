@@ -1,0 +1,7 @@
+signId	2716
+text	drabba
+imageUuid	86db0dc1-a2ee-4360-84df-33a5ccb60120
+translationKey	446b8768-79f0-4ff4-b871-5be4206ccf51
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86db0dc1-a2ee-4360-84df-33a5ccb60120/446b8768-79f0-4ff4-b871-5be4206ccf51/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86db0dc1-a2ee-4360-84df-33a5ccb60120/446b8768-79f0-4ff4-b871-5be4206ccf51
+md5	6233cd6df4f4009094673cf3fee8037f

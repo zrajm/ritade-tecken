@@ -1,0 +1,8 @@
+
+signId	437
+text	fånga
+imageUuid	04afb618-98f6-435e-998f-f866095e4476
+translationKey	d1df226f-d7ff-4006-8c63-6f16e4f56471
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/04afb618-98f6-435e-998f-f866095e4476/d1df226f-d7ff-4006-8c63-6f16e4f56471/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/04afb618-98f6-435e-998f-f866095e4476/d1df226f-d7ff-4006-8c63-6f16e4f56471
+md5	bbed92d178c27d310036c78845960fac

@@ -1,0 +1,7 @@
+signId	63
+text	arbete 2
+imageUuid	9514f752-9a4d-48d7-91d8-f0aa4cadd29e
+translationKey	a0c944a2-6abb-41cc-9d90-9d4a947e55bc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9514f752-9a4d-48d7-91d8-f0aa4cadd29e/a0c944a2-6abb-41cc-9d90-9d4a947e55bc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9514f752-9a4d-48d7-91d8-f0aa4cadd29e/a0c944a2-6abb-41cc-9d90-9d4a947e55bc
+md5	b94f8a313261b9897cb2b4dcbe9865a6

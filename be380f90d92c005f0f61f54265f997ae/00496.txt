@@ -1,0 +1,7 @@
+signId	496
+text	god natt
+imageUuid	8c6f78b0-89fc-4768-b8be-d7405f03db7d
+translationKey	f98deadf-25c4-43e8-98ac-29acf65ae820
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c6f78b0-89fc-4768-b8be-d7405f03db7d/f98deadf-25c4-43e8-98ac-29acf65ae820/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c6f78b0-89fc-4768-b8be-d7405f03db7d/f98deadf-25c4-43e8-98ac-29acf65ae820
+md5	be380f90d92c005f0f61f54265f997ae

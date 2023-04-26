@@ -1,0 +1,7 @@
+signId	561
+text	halv
+imageUuid	6d2c3428-dd13-4251-bfda-8a961518fee2
+translationKey	ab4d44b0-c079-4370-a354-4e8030500a85
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6d2c3428-dd13-4251-bfda-8a961518fee2/ab4d44b0-c079-4370-a354-4e8030500a85/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6d2c3428-dd13-4251-bfda-8a961518fee2/ab4d44b0-c079-4370-a354-4e8030500a85
+md5	bc91d0909e72a8b9df7dff47101d5d46

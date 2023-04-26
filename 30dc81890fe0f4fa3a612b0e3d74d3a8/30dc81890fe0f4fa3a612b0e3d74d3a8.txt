@@ -1,0 +1,8 @@
+
+signId	2284
+text	kamel
+imageUuid	b54915c3-d298-4cd6-af45-d9baeb7d6543
+translationKey	ecd9c48b-9ad0-4f3e-8722-3b91d7e9408e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b54915c3-d298-4cd6-af45-d9baeb7d6543/ecd9c48b-9ad0-4f3e-8722-3b91d7e9408e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b54915c3-d298-4cd6-af45-d9baeb7d6543/ecd9c48b-9ad0-4f3e-8722-3b91d7e9408e
+md5	30dc81890fe0f4fa3a612b0e3d74d3a8

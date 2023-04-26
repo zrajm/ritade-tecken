@@ -1,0 +1,7 @@
+signId	591
+text	hindra
+imageUuid	4565d4ff-0ad0-45a1-89a9-06e071706256
+translationKey	fc71a597-5c58-4bd2-b4ca-ef5fc5797199
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4565d4ff-0ad0-45a1-89a9-06e071706256/fc71a597-5c58-4bd2-b4ca-ef5fc5797199/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4565d4ff-0ad0-45a1-89a9-06e071706256/fc71a597-5c58-4bd2-b4ca-ef5fc5797199
+md5	4d96af0a4545b36a378f2eaa5f2e47d9

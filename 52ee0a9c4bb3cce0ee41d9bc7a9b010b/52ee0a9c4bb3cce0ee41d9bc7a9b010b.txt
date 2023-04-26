@@ -1,0 +1,8 @@
+
+signId	698
+text	jul
+imageUuid	d25c890b-6e3c-49a6-b976-3327de1a8cf1
+translationKey	92976885-928e-4be2-a073-07e82cfc95e7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d25c890b-6e3c-49a6-b976-3327de1a8cf1/92976885-928e-4be2-a073-07e82cfc95e7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d25c890b-6e3c-49a6-b976-3327de1a8cf1/92976885-928e-4be2-a073-07e82cfc95e7
+md5	52ee0a9c4bb3cce0ee41d9bc7a9b010b

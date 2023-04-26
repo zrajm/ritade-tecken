@@ -1,0 +1,7 @@
+signId	3133
+text	skatt
+imageUuid	3485aae0-1c6a-4735-b02b-39961b05ca78
+translationKey	ba08c151-1cf0-4cbb-b68c-24c0b6bdc09a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3485aae0-1c6a-4735-b02b-39961b05ca78/ba08c151-1cf0-4cbb-b68c-24c0b6bdc09a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3485aae0-1c6a-4735-b02b-39961b05ca78/ba08c151-1cf0-4cbb-b68c-24c0b6bdc09a
+md5	7e610c94655c7942abf39486beb48a3f

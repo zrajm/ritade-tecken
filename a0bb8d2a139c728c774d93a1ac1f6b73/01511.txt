@@ -1,0 +1,7 @@
+signId	1511
+text	ställa upp
+imageUuid	8ca580c1-c606-4371-a6f7-8a1add6bb968
+translationKey	5b168223-77d1-46c1-94f4-25796b929627
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8ca580c1-c606-4371-a6f7-8a1add6bb968/5b168223-77d1-46c1-94f4-25796b929627/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8ca580c1-c606-4371-a6f7-8a1add6bb968/5b168223-77d1-46c1-94f4-25796b929627
+md5	f9967b612d4ea3b5137f29e982fef6cd

@@ -1,0 +1,7 @@
+signId	2748
+text	vildsvin
+imageUuid	7b6aaaa3-5454-4250-b829-27e9591d5a48
+translationKey	af7586bc-095c-4aa5-8c16-e14b879db7ef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7b6aaaa3-5454-4250-b829-27e9591d5a48/af7586bc-095c-4aa5-8c16-e14b879db7ef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7b6aaaa3-5454-4250-b829-27e9591d5a48/af7586bc-095c-4aa5-8c16-e14b879db7ef
+md5	267400ebdc2415679709d322cd7b301f

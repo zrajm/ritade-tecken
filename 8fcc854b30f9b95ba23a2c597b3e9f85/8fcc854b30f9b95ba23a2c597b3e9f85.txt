@@ -1,0 +1,8 @@
+
+signId	2212
+text	badrum
+imageUuid	f23bc74d-195f-4eab-b55f-86e5f38951f7
+translationKey	c6000394-0583-4349-ba15-d039b9b03801
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f23bc74d-195f-4eab-b55f-86e5f38951f7/c6000394-0583-4349-ba15-d039b9b03801/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f23bc74d-195f-4eab-b55f-86e5f38951f7/c6000394-0583-4349-ba15-d039b9b03801
+md5	8fcc854b30f9b95ba23a2c597b3e9f85

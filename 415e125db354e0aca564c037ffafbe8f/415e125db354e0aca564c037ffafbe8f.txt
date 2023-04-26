@@ -1,0 +1,8 @@
+
+signId	1559
+text	talpedagog
+imageUuid	1115a2c7-31e0-49ea-ac12-652e292ff2b5
+translationKey	7106e778-c01b-44e8-abe5-1ba27688a505
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1115a2c7-31e0-49ea-ac12-652e292ff2b5/7106e778-c01b-44e8-abe5-1ba27688a505/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1115a2c7-31e0-49ea-ac12-652e292ff2b5/7106e778-c01b-44e8-abe5-1ba27688a505
+md5	415e125db354e0aca564c037ffafbe8f

@@ -1,0 +1,16 @@
+
+signId	199
+text	bröllop
+imageUuid	a4efa9ba-2114-495a-81c9-32f05fc8f123
+translationKey	499ac9b5-4085-4a26-962e-de6192d28623
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a4efa9ba-2114-495a-81c9-32f05fc8f123/499ac9b5-4085-4a26-962e-de6192d28623/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a4efa9ba-2114-495a-81c9-32f05fc8f123/499ac9b5-4085-4a26-962e-de6192d28623
+md5	53bcb3c06f90530117b11a93747e35c2
+
+signId	3246
+text	brud
+imageUuid	5552fe94-b837-4f48-8bba-9dfa358d3b49
+translationKey	bba912bb-e3d4-4d59-93fa-f69bd8f523e5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5552fe94-b837-4f48-8bba-9dfa358d3b49/bba912bb-e3d4-4d59-93fa-f69bd8f523e5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5552fe94-b837-4f48-8bba-9dfa358d3b49/bba912bb-e3d4-4d59-93fa-f69bd8f523e5
+md5	53bcb3c06f90530117b11a93747e35c2

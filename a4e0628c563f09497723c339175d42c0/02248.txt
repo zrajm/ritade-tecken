@@ -1,0 +1,7 @@
+signId	2248
+text	stekpanna
+imageUuid	d867ab45-5ea8-462e-9651-093be20f24da
+translationKey	01c98543-943f-440b-980f-e429adf1c0e9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d867ab45-5ea8-462e-9651-093be20f24da/01c98543-943f-440b-980f-e429adf1c0e9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d867ab45-5ea8-462e-9651-093be20f24da/01c98543-943f-440b-980f-e429adf1c0e9
+md5	b43f16757c3d7aca6c626905adb367c5

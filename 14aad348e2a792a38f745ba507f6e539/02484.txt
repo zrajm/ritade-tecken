@@ -1,0 +1,7 @@
+signId	2484
+text	tipp tapp
+imageUuid	46eb081b-59a0-4dd6-a262-69380f7f3879
+translationKey	5f5b2b5f-f273-46fc-89b3-81445a840670
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/46eb081b-59a0-4dd6-a262-69380f7f3879/5f5b2b5f-f273-46fc-89b3-81445a840670/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/46eb081b-59a0-4dd6-a262-69380f7f3879/5f5b2b5f-f273-46fc-89b3-81445a840670
+md5	14aad348e2a792a38f745ba507f6e539

@@ -1,0 +1,7 @@
+signId	2311
+text	utskrift
+imageUuid	e1f639c9-2cad-45a2-8759-7143507e723d
+translationKey	bdde0045-818a-4b03-8aca-10939410f49b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e1f639c9-2cad-45a2-8759-7143507e723d/bdde0045-818a-4b03-8aca-10939410f49b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e1f639c9-2cad-45a2-8759-7143507e723d/bdde0045-818a-4b03-8aca-10939410f49b
+md5	73e38b035be7081ea398916c7d534e56

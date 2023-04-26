@@ -1,0 +1,8 @@
+
+signId	2425
+text	Island
+imageUuid	d33a5214-5cfd-4300-bcc5-131ccae9fe4d
+translationKey	ba73a97b-ee1d-48cd-b3a2-6b5077a50ed6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d33a5214-5cfd-4300-bcc5-131ccae9fe4d/ba73a97b-ee1d-48cd-b3a2-6b5077a50ed6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d33a5214-5cfd-4300-bcc5-131ccae9fe4d/ba73a97b-ee1d-48cd-b3a2-6b5077a50ed6
+md5	3b21a4afdced565375eead37ba9d0efa

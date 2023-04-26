@@ -1,0 +1,7 @@
+signId	1454
+text	sportaktivitet
+imageUuid	ffc9a9d1-286b-4f9c-b78f-db5a130001e9
+translationKey	3ee54c2a-8c35-415a-b712-f92c406d00dd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ffc9a9d1-286b-4f9c-b78f-db5a130001e9/3ee54c2a-8c35-415a-b712-f92c406d00dd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ffc9a9d1-286b-4f9c-b78f-db5a130001e9/3ee54c2a-8c35-415a-b712-f92c406d00dd
+md5	30cda290a8cd0d2b7aadedddc21dfd8d

@@ -1,0 +1,8 @@
+
+signId	131
+text	betyda
+imageUuid	7b49a484-476f-4784-9498-93752ecb9289
+translationKey	5d79514c-fc8c-4156-8b19-6e9b22a38157
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7b49a484-476f-4784-9498-93752ecb9289/5d79514c-fc8c-4156-8b19-6e9b22a38157/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7b49a484-476f-4784-9498-93752ecb9289/5d79514c-fc8c-4156-8b19-6e9b22a38157
+md5	4082ec6baf50f6ba39f94ac287f24fd5

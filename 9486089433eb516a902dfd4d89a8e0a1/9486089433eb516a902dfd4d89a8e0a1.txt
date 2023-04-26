@@ -1,0 +1,8 @@
+
+signId	2577
+text	färdtjänst
+imageUuid	de1f5c28-0019-4143-9d1c-d73fdc6063d7
+translationKey	363ee2a3-bb5d-4846-9274-57cb9b44e374
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/de1f5c28-0019-4143-9d1c-d73fdc6063d7/363ee2a3-bb5d-4846-9274-57cb9b44e374/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/de1f5c28-0019-4143-9d1c-d73fdc6063d7/363ee2a3-bb5d-4846-9274-57cb9b44e374
+md5	9486089433eb516a902dfd4d89a8e0a1

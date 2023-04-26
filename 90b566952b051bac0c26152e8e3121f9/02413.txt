@@ -1,0 +1,7 @@
+signId	2413
+text	Asien
+imageUuid	52541c98-52d4-413b-a9e3-18aa44db6d89
+translationKey	f068a562-8c13-4998-b498-d2d53688390b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/52541c98-52d4-413b-a9e3-18aa44db6d89/f068a562-8c13-4998-b498-d2d53688390b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/52541c98-52d4-413b-a9e3-18aa44db6d89/f068a562-8c13-4998-b498-d2d53688390b
+md5	90b566952b051bac0c26152e8e3121f9

@@ -1,0 +1,7 @@
+signId	2123
+text	kaviar
+imageUuid	b92ab934-acb2-47ec-9c23-952a7756176f
+translationKey	677f89c8-0f4f-4ca6-a79f-dd9556dfc807
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b92ab934-acb2-47ec-9c23-952a7756176f/677f89c8-0f4f-4ca6-a79f-dd9556dfc807/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b92ab934-acb2-47ec-9c23-952a7756176f/677f89c8-0f4f-4ca6-a79f-dd9556dfc807
+md5	f02d8c1f5f65acb9a2227681d7ec5ed5

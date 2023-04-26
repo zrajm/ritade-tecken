@@ -1,0 +1,24 @@
+
+signId	359
+text	fest 2
+imageUuid	3204993d-41dd-4cd9-947f-a4c66f096f0f
+translationKey	ec89f1a5-ca26-4790-af5d-7b1d27c80b1f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3204993d-41dd-4cd9-947f-a4c66f096f0f/ec89f1a5-ca26-4790-af5d-7b1d27c80b1f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3204993d-41dd-4cd9-947f-a4c66f096f0f/ec89f1a5-ca26-4790-af5d-7b1d27c80b1f
+md5	4588f13320e6d2638dd7d92ff95d7e84
+
+signId	714
+text	kalas 2
+imageUuid	e075cc48-1936-4254-a2b5-7aa08747e4ca
+translationKey	e09ae337-bda7-45fa-8696-8a6679c4fbff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e075cc48-1936-4254-a2b5-7aa08747e4ca/e09ae337-bda7-45fa-8696-8a6679c4fbff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e075cc48-1936-4254-a2b5-7aa08747e4ca/e09ae337-bda7-45fa-8696-8a6679c4fbff
+md5	4588f13320e6d2638dd7d92ff95d7e84
+
+signId	3250
+text	festa
+imageUuid	0857b00a-3edf-4953-aac1-814941c2f3d9
+translationKey	e66b6ca8-d74b-44b8-9562-b5d9bb5f56eb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0857b00a-3edf-4953-aac1-814941c2f3d9/e66b6ca8-d74b-44b8-9562-b5d9bb5f56eb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0857b00a-3edf-4953-aac1-814941c2f3d9/e66b6ca8-d74b-44b8-9562-b5d9bb5f56eb
+md5	4588f13320e6d2638dd7d92ff95d7e84

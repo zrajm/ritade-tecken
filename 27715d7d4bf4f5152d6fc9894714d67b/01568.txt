@@ -1,0 +1,7 @@
+signId	1568
+text	teater
+imageUuid	6314f3b4-a573-4403-bceb-845a90152f49
+translationKey	ad744fa7-cf85-47b9-8b5c-019303863303
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6314f3b4-a573-4403-bceb-845a90152f49/ad744fa7-cf85-47b9-8b5c-019303863303/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6314f3b4-a573-4403-bceb-845a90152f49/ad744fa7-cf85-47b9-8b5c-019303863303
+md5	27715d7d4bf4f5152d6fc9894714d67b

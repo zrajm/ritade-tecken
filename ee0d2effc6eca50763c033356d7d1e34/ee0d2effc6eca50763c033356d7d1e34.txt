@@ -1,0 +1,8 @@
+
+signId	2231
+text	munnen öppen
+imageUuid	8cf403ab-ddd0-4d89-b5c2-542f209ee298
+translationKey	c643cc46-d180-4dae-8dc6-bbfc151266ae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8cf403ab-ddd0-4d89-b5c2-542f209ee298/c643cc46-d180-4dae-8dc6-bbfc151266ae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8cf403ab-ddd0-4d89-b5c2-542f209ee298/c643cc46-d180-4dae-8dc6-bbfc151266ae
+md5	ee0d2effc6eca50763c033356d7d1e34

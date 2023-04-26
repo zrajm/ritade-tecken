@@ -1,0 +1,8 @@
+
+signId	2628
+text	balkong
+imageUuid	618a4f56-530a-4d82-95cf-180706e6ec3d
+translationKey	5fab3bc4-c588-4f54-a09e-059b4205b6c6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/618a4f56-530a-4d82-95cf-180706e6ec3d/5fab3bc4-c588-4f54-a09e-059b4205b6c6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/618a4f56-530a-4d82-95cf-180706e6ec3d/5fab3bc4-c588-4f54-a09e-059b4205b6c6
+md5	84553b313b04f538dc5034be9d467106

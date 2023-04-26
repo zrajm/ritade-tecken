@@ -1,0 +1,7 @@
+signId	3032
+text	sakna
+imageUuid	babe674c-7557-4de0-965f-9b8f2534f727
+translationKey	7778c23f-0d52-4c82-90f0-754e6ce9e358
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/babe674c-7557-4de0-965f-9b8f2534f727/7778c23f-0d52-4c82-90f0-754e6ce9e358/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/babe674c-7557-4de0-965f-9b8f2534f727/7778c23f-0d52-4c82-90f0-754e6ce9e358
+md5	3ab13623d8369c984165058b000d46a4

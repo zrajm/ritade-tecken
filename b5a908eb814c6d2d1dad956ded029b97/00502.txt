@@ -1,0 +1,7 @@
+signId	502
+text	gran
+imageUuid	6c56859d-a6eb-491c-a804-d1560c79c71d
+translationKey	05780cfb-56b0-43ac-a492-e67ea0b11eb4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6c56859d-a6eb-491c-a804-d1560c79c71d/05780cfb-56b0-43ac-a492-e67ea0b11eb4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6c56859d-a6eb-491c-a804-d1560c79c71d/05780cfb-56b0-43ac-a492-e67ea0b11eb4
+md5	b5a908eb814c6d2d1dad956ded029b97

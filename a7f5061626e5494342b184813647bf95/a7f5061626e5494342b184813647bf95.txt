@@ -1,0 +1,16 @@
+
+signId	907
+text	ljus 2
+imageUuid	78a4077d-1ff0-43ab-bdc8-f7364316fce2
+translationKey	7e45beda-b677-4142-9e2f-6be288d8e817
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/78a4077d-1ff0-43ab-bdc8-f7364316fce2/7e45beda-b677-4142-9e2f-6be288d8e817/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/78a4077d-1ff0-43ab-bdc8-f7364316fce2/7e45beda-b677-4142-9e2f-6be288d8e817
+md5	a7f5061626e5494342b184813647bf95
+
+signId	1469
+text	stearinljus
+imageUuid	e418a3af-125c-4944-afad-4023bafec33b
+translationKey	6b52eae5-eb26-49a6-b33e-7e5565f4cfe2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e418a3af-125c-4944-afad-4023bafec33b/6b52eae5-eb26-49a6-b33e-7e5565f4cfe2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e418a3af-125c-4944-afad-4023bafec33b/6b52eae5-eb26-49a6-b33e-7e5565f4cfe2
+md5	a7f5061626e5494342b184813647bf95

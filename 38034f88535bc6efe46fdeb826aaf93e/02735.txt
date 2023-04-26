@@ -1,0 +1,7 @@
+signId	2735
+text	skateboard
+imageUuid	66120c23-7bab-4dc9-960c-c21e343d3258
+translationKey	2bd96226-5120-4084-9d08-5946c472d069
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/66120c23-7bab-4dc9-960c-c21e343d3258/2bd96226-5120-4084-9d08-5946c472d069/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/66120c23-7bab-4dc9-960c-c21e343d3258/2bd96226-5120-4084-9d08-5946c472d069
+md5	38034f88535bc6efe46fdeb826aaf93e

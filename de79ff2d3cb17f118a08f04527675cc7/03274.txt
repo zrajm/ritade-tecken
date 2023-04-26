@@ -1,0 +1,7 @@
+signId	3274
+text	anteckna
+imageUuid	66be63ad-4551-4fbb-a88b-6a2595f142f5
+translationKey	fb6c1454-8edb-45a8-9e39-d13f3f364b5c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/66be63ad-4551-4fbb-a88b-6a2595f142f5/fb6c1454-8edb-45a8-9e39-d13f3f364b5c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/66be63ad-4551-4fbb-a88b-6a2595f142f5/fb6c1454-8edb-45a8-9e39-d13f3f364b5c
+md5	de79ff2d3cb17f118a08f04527675cc7

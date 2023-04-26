@@ -1,0 +1,7 @@
+signId	2816
+text	gryta
+imageUuid	856bf1f5-07b7-4038-bb28-603283936580
+translationKey	80a031b1-704e-4099-af92-54eb6edcd703
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/856bf1f5-07b7-4038-bb28-603283936580/80a031b1-704e-4099-af92-54eb6edcd703/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/856bf1f5-07b7-4038-bb28-603283936580/80a031b1-704e-4099-af92-54eb6edcd703
+md5	b1c332873837f8b284429b35b76da89e

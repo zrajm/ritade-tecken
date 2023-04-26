@@ -1,0 +1,7 @@
+signId	1268
+text	råtta
+imageUuid	5179bdd7-949d-4566-b579-516e8278c2c8
+translationKey	902fd947-f6f7-41b8-9269-49c5bbe6c46a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5179bdd7-949d-4566-b579-516e8278c2c8/902fd947-f6f7-41b8-9269-49c5bbe6c46a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5179bdd7-949d-4566-b579-516e8278c2c8/902fd947-f6f7-41b8-9269-49c5bbe6c46a
+md5	6de3e436e166a45d246464436336c854

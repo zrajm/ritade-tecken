@@ -1,0 +1,8 @@
+
+signId	230
+text	chans
+imageUuid	489e8018-a4f7-4e96-b2e1-d02409633b03
+translationKey	22761b9f-b615-4d59-9907-07d1ea527a44
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/489e8018-a4f7-4e96-b2e1-d02409633b03/22761b9f-b615-4d59-9907-07d1ea527a44/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/489e8018-a4f7-4e96-b2e1-d02409633b03/22761b9f-b615-4d59-9907-07d1ea527a44
+md5	9a3f46432bb46a6617ccbb425c5d63a6

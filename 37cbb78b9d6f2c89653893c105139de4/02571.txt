@@ -1,0 +1,7 @@
+signId	2571
+text	brandsläckare
+imageUuid	c8168698-7c8a-4df4-865f-70ddfd8a6b3a
+translationKey	e9d7abb5-c1c8-477b-b6df-6f90fda6dd53
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c8168698-7c8a-4df4-865f-70ddfd8a6b3a/e9d7abb5-c1c8-477b-b6df-6f90fda6dd53/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c8168698-7c8a-4df4-865f-70ddfd8a6b3a/e9d7abb5-c1c8-477b-b6df-6f90fda6dd53
+md5	37cbb78b9d6f2c89653893c105139de4

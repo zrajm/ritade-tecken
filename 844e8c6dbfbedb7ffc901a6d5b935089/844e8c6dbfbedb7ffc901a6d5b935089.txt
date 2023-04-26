@@ -1,0 +1,8 @@
+
+signId	1756
+text	vår (pronomen)
+imageUuid	9401620a-8fa0-466e-ad93-fc5e61468ad6
+translationKey	2fd8d27d-377a-4f20-b480-f3744673e4f5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9401620a-8fa0-466e-ad93-fc5e61468ad6/2fd8d27d-377a-4f20-b480-f3744673e4f5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9401620a-8fa0-466e-ad93-fc5e61468ad6/2fd8d27d-377a-4f20-b480-f3744673e4f5
+md5	844e8c6dbfbedb7ffc901a6d5b935089

@@ -1,0 +1,8 @@
+
+signId	2775
+text	blåmärke
+imageUuid	48fb8aa8-e072-4848-936d-e7fda1b5a40f
+translationKey	a90c4ceb-e677-46fb-96f7-f61d7a7665b2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/48fb8aa8-e072-4848-936d-e7fda1b5a40f/a90c4ceb-e677-46fb-96f7-f61d7a7665b2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/48fb8aa8-e072-4848-936d-e7fda1b5a40f/a90c4ceb-e677-46fb-96f7-f61d7a7665b2
+md5	fa909e7e9a654e2cd7b761afb9650571

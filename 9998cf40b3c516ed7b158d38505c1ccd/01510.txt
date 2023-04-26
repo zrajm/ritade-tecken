@@ -1,0 +1,7 @@
+signId	1510
+text	städa
+imageUuid	763acb0f-2ca0-4f05-a388-fbd103c0f387
+translationKey	f52b4906-1c89-4abf-8ecf-4fbdf0160115
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/763acb0f-2ca0-4f05-a388-fbd103c0f387/f52b4906-1c89-4abf-8ecf-4fbdf0160115/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/763acb0f-2ca0-4f05-a388-fbd103c0f387/f52b4906-1c89-4abf-8ecf-4fbdf0160115
+md5	9998cf40b3c516ed7b158d38505c1ccd

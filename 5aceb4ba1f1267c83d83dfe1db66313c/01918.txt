@@ -1,0 +1,7 @@
+signId	1918
+text	plast
+imageUuid	1c0385b3-4ea6-478c-aad6-2b0a59777797
+translationKey	9366718d-91f4-43f9-b6ef-f26347988380
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1c0385b3-4ea6-478c-aad6-2b0a59777797/9366718d-91f4-43f9-b6ef-f26347988380/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1c0385b3-4ea6-478c-aad6-2b0a59777797/9366718d-91f4-43f9-b6ef-f26347988380
+md5	5aceb4ba1f1267c83d83dfe1db66313c

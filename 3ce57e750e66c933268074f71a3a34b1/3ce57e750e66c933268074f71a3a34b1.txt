@@ -1,0 +1,8 @@
+
+signId	2009
+text	andra 2
+imageUuid	382a3db6-342e-468e-992c-af53789f4972
+translationKey	862d1b02-80a3-4b13-8e42-7a8a4529e65d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/382a3db6-342e-468e-992c-af53789f4972/862d1b02-80a3-4b13-8e42-7a8a4529e65d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/382a3db6-342e-468e-992c-af53789f4972/862d1b02-80a3-4b13-8e42-7a8a4529e65d
+md5	3ce57e750e66c933268074f71a3a34b1

@@ -1,0 +1,7 @@
+signId	518
+text	gräva 2
+imageUuid	e7505505-1f35-43dd-9268-cfa35d3dcbe2
+translationKey	49a5db17-b014-4282-aff4-64d4ae2b6296
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e7505505-1f35-43dd-9268-cfa35d3dcbe2/49a5db17-b014-4282-aff4-64d4ae2b6296/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e7505505-1f35-43dd-9268-cfa35d3dcbe2/49a5db17-b014-4282-aff4-64d4ae2b6296
+md5	1893f2a68d3f0fa4f1b867a3db902ae8

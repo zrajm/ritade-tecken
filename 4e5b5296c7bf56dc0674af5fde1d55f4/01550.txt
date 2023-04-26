@@ -1,0 +1,7 @@
+signId	1550
+text	söt
+imageUuid	ea56f1c7-3354-47d5-a5b1-dd9e949d2e75
+translationKey	b424b71a-f274-487e-ba57-2961bfcf06b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea56f1c7-3354-47d5-a5b1-dd9e949d2e75/b424b71a-f274-487e-ba57-2961bfcf06b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea56f1c7-3354-47d5-a5b1-dd9e949d2e75/b424b71a-f274-487e-ba57-2961bfcf06b6
+md5	4e5b5296c7bf56dc0674af5fde1d55f4

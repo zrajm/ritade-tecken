@@ -1,0 +1,8 @@
+
+signId	1987
+text	bandage
+imageUuid	3d98235f-5f0b-44d3-af6f-9b787bc1ca44
+translationKey	ad5465b0-66df-429b-8e8d-604483d31e30
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3d98235f-5f0b-44d3-af6f-9b787bc1ca44/ad5465b0-66df-429b-8e8d-604483d31e30/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3d98235f-5f0b-44d3-af6f-9b787bc1ca44/ad5465b0-66df-429b-8e8d-604483d31e30
+md5	97b01d517b5f879e8e847171d1492d48

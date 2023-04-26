@@ -1,0 +1,16 @@
+
+signId	1226
+text	raket
+imageUuid	d9581879-c7df-4e70-89b3-e201deaee200
+translationKey	95db73aa-a80e-4ac4-ba30-aa1406f6ca1e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d9581879-c7df-4e70-89b3-e201deaee200/95db73aa-a80e-4ac4-ba30-aa1406f6ca1e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d9581879-c7df-4e70-89b3-e201deaee200/95db73aa-a80e-4ac4-ba30-aa1406f6ca1e
+md5	9d1096bc5317918c919cc85f23fbae21
+
+signId	1267
+text	rymdfarkost
+imageUuid	6fd633fc-c385-4001-9b32-8df4d7ed9307
+translationKey	efe527f5-dac4-4458-959f-aea0b32a7938
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6fd633fc-c385-4001-9b32-8df4d7ed9307/efe527f5-dac4-4458-959f-aea0b32a7938/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6fd633fc-c385-4001-9b32-8df4d7ed9307/efe527f5-dac4-4458-959f-aea0b32a7938
+md5	9d1096bc5317918c919cc85f23fbae21

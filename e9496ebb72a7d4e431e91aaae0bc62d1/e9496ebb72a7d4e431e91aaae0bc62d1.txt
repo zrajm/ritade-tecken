@@ -1,0 +1,16 @@
+
+signId	807
+text	kram 1
+imageUuid	4077c635-3bf9-4daf-9b46-1a2f8b138175
+translationKey	a72087e1-5d11-490a-8096-2e7ff8055760
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4077c635-3bf9-4daf-9b46-1a2f8b138175/a72087e1-5d11-490a-8096-2e7ff8055760/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4077c635-3bf9-4daf-9b46-1a2f8b138175/a72087e1-5d11-490a-8096-2e7ff8055760
+md5	e9496ebb72a7d4e431e91aaae0bc62d1
+
+signId	808
+text	krama
+imageUuid	c7fb3fe7-ba05-4444-bafb-768b4616d956
+translationKey	585e3dea-beab-4b6e-b98b-6c40a0786ee4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c7fb3fe7-ba05-4444-bafb-768b4616d956/585e3dea-beab-4b6e-b98b-6c40a0786ee4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c7fb3fe7-ba05-4444-bafb-768b4616d956/585e3dea-beab-4b6e-b98b-6c40a0786ee4
+md5	e9496ebb72a7d4e431e91aaae0bc62d1

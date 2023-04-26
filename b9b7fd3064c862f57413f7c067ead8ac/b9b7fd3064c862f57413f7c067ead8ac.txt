@@ -1,0 +1,8 @@
+
+signId	833
+text	kvast
+imageUuid	d00780e3-c7db-400c-9700-bba9be4f6f63
+translationKey	ab8f0c0a-3cb6-4dac-be4e-c3d0aedee768
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d00780e3-c7db-400c-9700-bba9be4f6f63/ab8f0c0a-3cb6-4dac-be4e-c3d0aedee768/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d00780e3-c7db-400c-9700-bba9be4f6f63/ab8f0c0a-3cb6-4dac-be4e-c3d0aedee768
+md5	b9b7fd3064c862f57413f7c067ead8ac

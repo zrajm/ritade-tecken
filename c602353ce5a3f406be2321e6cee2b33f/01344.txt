@@ -1,0 +1,7 @@
+signId	1344
+text	skog
+imageUuid	530f1398-dca6-4d0c-9df5-e438f0705567
+translationKey	a35112a1-f64d-4f9a-91e5-7a102c0cc281
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/530f1398-dca6-4d0c-9df5-e438f0705567/a35112a1-f64d-4f9a-91e5-7a102c0cc281/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/530f1398-dca6-4d0c-9df5-e438f0705567/a35112a1-f64d-4f9a-91e5-7a102c0cc281
+md5	ec5eb0b8ad03b13c94890917c8a868a2

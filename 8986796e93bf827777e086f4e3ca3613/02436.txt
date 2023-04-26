@@ -1,0 +1,7 @@
+signId	2436
+text	mikrovågsugn
+imageUuid	476911c1-bd6d-4754-855a-0703a1cbb921
+translationKey	3ab2d618-3359-404b-943e-60fce008525b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/476911c1-bd6d-4754-855a-0703a1cbb921/3ab2d618-3359-404b-943e-60fce008525b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/476911c1-bd6d-4754-855a-0703a1cbb921/3ab2d618-3359-404b-943e-60fce008525b
+md5	8986796e93bf827777e086f4e3ca3613

@@ -1,0 +1,7 @@
+signId	1541
+text	säck
+imageUuid	cfa767d6-6fe1-4c19-954d-7eea82a0df41
+translationKey	af29bb69-7597-4e84-a4a3-f4473828b480
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cfa767d6-6fe1-4c19-954d-7eea82a0df41/af29bb69-7597-4e84-a4a3-f4473828b480/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cfa767d6-6fe1-4c19-954d-7eea82a0df41/af29bb69-7597-4e84-a4a3-f4473828b480
+md5	1135304e4382f5d2f70b3ae138351a08

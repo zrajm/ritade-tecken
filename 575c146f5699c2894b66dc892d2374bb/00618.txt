@@ -1,0 +1,7 @@
+signId	618
+text	husvagn
+imageUuid	ef9f4c15-207e-4dde-b701-2a911d81f94f
+translationKey	b94a9842-8914-4096-9466-57d76ba2bcff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ef9f4c15-207e-4dde-b701-2a911d81f94f/b94a9842-8914-4096-9466-57d76ba2bcff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ef9f4c15-207e-4dde-b701-2a911d81f94f/b94a9842-8914-4096-9466-57d76ba2bcff
+md5	575c146f5699c2894b66dc892d2374bb

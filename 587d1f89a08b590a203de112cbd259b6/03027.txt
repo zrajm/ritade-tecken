@@ -1,0 +1,7 @@
+signId	3027
+text	överarm
+imageUuid	79acb638-5b8c-4087-911a-7d9705daeee6
+translationKey	03ecb405-2b8a-4cb9-98eb-c96c5830ac8a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/79acb638-5b8c-4087-911a-7d9705daeee6/03ecb405-2b8a-4cb9-98eb-c96c5830ac8a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/79acb638-5b8c-4087-911a-7d9705daeee6/03ecb405-2b8a-4cb9-98eb-c96c5830ac8a
+md5	587d1f89a08b590a203de112cbd259b6

@@ -1,0 +1,7 @@
+signId	2814
+text	frimärke
+imageUuid	fc729f83-25b6-48bf-876d-2279286e7043
+translationKey	23c1e266-f23c-4c9f-aa31-f654f23e6dcb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fc729f83-25b6-48bf-876d-2279286e7043/23c1e266-f23c-4c9f-aa31-f654f23e6dcb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fc729f83-25b6-48bf-876d-2279286e7043/23c1e266-f23c-4c9f-aa31-f654f23e6dcb
+md5	dd95125798237e1135634689cbf1b6d2

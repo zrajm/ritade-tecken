@@ -1,0 +1,7 @@
+signId	725
+text	kanske
+imageUuid	f62bc1fa-d231-4299-9af0-ca3bd889c4e0
+translationKey	ab9dffd1-fb60-43d6-87db-0a16a8bbf960
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f62bc1fa-d231-4299-9af0-ca3bd889c4e0/ab9dffd1-fb60-43d6-87db-0a16a8bbf960/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f62bc1fa-d231-4299-9af0-ca3bd889c4e0/ab9dffd1-fb60-43d6-87db-0a16a8bbf960
+md5	cabe681e9a9a99c8eb14dbb4785112a9

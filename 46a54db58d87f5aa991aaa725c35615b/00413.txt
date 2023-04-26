@@ -1,0 +1,7 @@
+signId	413
+text	fråga (substantiv)
+imageUuid	166f6aee-2757-4d86-9579-1b8964ec7614
+translationKey	80fb9008-c3db-476a-a264-70127b344180
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/166f6aee-2757-4d86-9579-1b8964ec7614/80fb9008-c3db-476a-a264-70127b344180/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/166f6aee-2757-4d86-9579-1b8964ec7614/80fb9008-c3db-476a-a264-70127b344180
+md5	46a54db58d87f5aa991aaa725c35615b

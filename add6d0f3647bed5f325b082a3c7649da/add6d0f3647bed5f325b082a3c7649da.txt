@@ -1,0 +1,8 @@
+
+signId	2510
+text	mikrofon
+imageUuid	9ee3022e-0b83-4860-b3a7-29ef6ef7a5af
+translationKey	d8af3f7d-9667-49f8-bbe7-2075c7dcc3e3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9ee3022e-0b83-4860-b3a7-29ef6ef7a5af/d8af3f7d-9667-49f8-bbe7-2075c7dcc3e3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9ee3022e-0b83-4860-b3a7-29ef6ef7a5af/d8af3f7d-9667-49f8-bbe7-2075c7dcc3e3
+md5	add6d0f3647bed5f325b082a3c7649da

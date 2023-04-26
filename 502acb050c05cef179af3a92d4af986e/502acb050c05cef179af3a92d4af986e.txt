@@ -1,0 +1,8 @@
+
+signId	1446
+text	spela kula
+imageUuid	e034738d-a5eb-4beb-aa9b-41738399b30f
+translationKey	fb572c8d-4b80-40ff-8d9c-92f440af1ebc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e034738d-a5eb-4beb-aa9b-41738399b30f/fb572c8d-4b80-40ff-8d9c-92f440af1ebc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e034738d-a5eb-4beb-aa9b-41738399b30f/fb572c8d-4b80-40ff-8d9c-92f440af1ebc
+md5	502acb050c05cef179af3a92d4af986e

@@ -1,0 +1,8 @@
+
+signId	83
+text	axlar
+imageUuid	d7700315-2b6a-4789-904b-2ecfa061ce92
+translationKey	6f728c03-163f-4490-a8b1-d7db4efda798
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d7700315-2b6a-4789-904b-2ecfa061ce92/6f728c03-163f-4490-a8b1-d7db4efda798/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d7700315-2b6a-4789-904b-2ecfa061ce92/6f728c03-163f-4490-a8b1-d7db4efda798
+md5	73f3ded21919c92c60842d7d48b82ac0

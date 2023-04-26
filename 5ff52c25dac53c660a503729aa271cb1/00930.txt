@@ -1,0 +1,7 @@
+signId	930
+text	lås
+imageUuid	74e047de-10a0-4d1d-91b4-9c96c855993a
+translationKey	11e57eae-48a7-4d5f-b3d6-0b05194345d6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/74e047de-10a0-4d1d-91b4-9c96c855993a/11e57eae-48a7-4d5f-b3d6-0b05194345d6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/74e047de-10a0-4d1d-91b4-9c96c855993a/11e57eae-48a7-4d5f-b3d6-0b05194345d6
+md5	5ff52c25dac53c660a503729aa271cb1

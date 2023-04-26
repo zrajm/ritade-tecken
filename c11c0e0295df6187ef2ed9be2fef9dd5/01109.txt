@@ -1,0 +1,7 @@
+signId	1109
+text	område
+imageUuid	776bcb15-474b-4e5a-987f-794f213f60ea
+translationKey	ec511278-5ba9-42e0-b247-42af21da9a49
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/776bcb15-474b-4e5a-987f-794f213f60ea/ec511278-5ba9-42e0-b247-42af21da9a49/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/776bcb15-474b-4e5a-987f-794f213f60ea/ec511278-5ba9-42e0-b247-42af21da9a49
+md5	c11c0e0295df6187ef2ed9be2fef9dd5

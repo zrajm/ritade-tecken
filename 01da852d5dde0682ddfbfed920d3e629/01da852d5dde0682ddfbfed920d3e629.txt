@@ -1,0 +1,8 @@
+
+signId	557
+text	Halmstad
+imageUuid	efd8b9b0-cfdb-48bb-afbb-4f1b5667a57f
+translationKey	ca9e177a-4600-4369-a309-cb12fc1c29e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/efd8b9b0-cfdb-48bb-afbb-4f1b5667a57f/ca9e177a-4600-4369-a309-cb12fc1c29e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/efd8b9b0-cfdb-48bb-afbb-4f1b5667a57f/ca9e177a-4600-4369-a309-cb12fc1c29e8
+md5	01da852d5dde0682ddfbfed920d3e629

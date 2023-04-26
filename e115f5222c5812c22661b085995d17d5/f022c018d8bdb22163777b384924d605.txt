@@ -1,0 +1,8 @@
+
+signId	2781
+text	förlossning
+imageUuid	5917ef67-0942-4ea0-9d1e-8786c4dfefef
+translationKey	3de59d8b-b66a-4b37-a81d-c59211613acd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5917ef67-0942-4ea0-9d1e-8786c4dfefef/3de59d8b-b66a-4b37-a81d-c59211613acd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5917ef67-0942-4ea0-9d1e-8786c4dfefef/3de59d8b-b66a-4b37-a81d-c59211613acd
+md5	f022c018d8bdb22163777b384924d605

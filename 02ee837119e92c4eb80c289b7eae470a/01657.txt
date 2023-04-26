@@ -1,0 +1,7 @@
+signId	1657
+text	tyst
+imageUuid	6049d66d-cfc7-4510-a567-a7e73c17de44
+translationKey	35b685b5-3a6e-446b-aefe-d825ed46db71
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6049d66d-cfc7-4510-a567-a7e73c17de44/35b685b5-3a6e-446b-aefe-d825ed46db71/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6049d66d-cfc7-4510-a567-a7e73c17de44/35b685b5-3a6e-446b-aefe-d825ed46db71
+md5	02ee837119e92c4eb80c289b7eae470a

@@ -1,0 +1,7 @@
+signId	3248
+text	orsak
+imageUuid	d6724ddc-c7e5-4a8d-a01c-8775831d75fe
+translationKey	5b69839f-088e-4183-8e86-26aa773b6fe2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d6724ddc-c7e5-4a8d-a01c-8775831d75fe/5b69839f-088e-4183-8e86-26aa773b6fe2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d6724ddc-c7e5-4a8d-a01c-8775831d75fe/5b69839f-088e-4183-8e86-26aa773b6fe2
+md5	99c34bb730f8f4aa9c7af28db3d59f04

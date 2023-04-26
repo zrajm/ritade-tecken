@@ -1,0 +1,7 @@
+signId	441
+text	färg
+imageUuid	49c4ae3f-471a-4041-9fb2-6663829a4fed
+translationKey	13c9acce-beae-4daf-bd2c-a1a7a0a5d41f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/49c4ae3f-471a-4041-9fb2-6663829a4fed/13c9acce-beae-4daf-bd2c-a1a7a0a5d41f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/49c4ae3f-471a-4041-9fb2-6663829a4fed/13c9acce-beae-4daf-bd2c-a1a7a0a5d41f
+md5	2cd174f7154b38bcb8b8d267cc857181

@@ -1,0 +1,7 @@
+signId	689
+text	jaså
+imageUuid	f4b2e8a4-66e0-4643-ba56-01e013ddfd42
+translationKey	4f36d8ac-20ab-45b2-bda3-165cbaae984b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f4b2e8a4-66e0-4643-ba56-01e013ddfd42/4f36d8ac-20ab-45b2-bda3-165cbaae984b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f4b2e8a4-66e0-4643-ba56-01e013ddfd42/4f36d8ac-20ab-45b2-bda3-165cbaae984b
+md5	3c0dd741b87ae43d78f84b8cf1e9998a

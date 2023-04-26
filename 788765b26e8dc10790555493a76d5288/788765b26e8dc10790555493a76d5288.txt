@@ -1,0 +1,8 @@
+
+signId	2475
+text	pyramid
+imageUuid	a0f86669-7bbe-4780-8352-baf5a1a21668
+translationKey	626620c9-423e-4512-ba06-d9b300b5941b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0f86669-7bbe-4780-8352-baf5a1a21668/626620c9-423e-4512-ba06-d9b300b5941b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0f86669-7bbe-4780-8352-baf5a1a21668/626620c9-423e-4512-ba06-d9b300b5941b
+md5	788765b26e8dc10790555493a76d5288

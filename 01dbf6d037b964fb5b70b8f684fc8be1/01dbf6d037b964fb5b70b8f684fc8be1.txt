@@ -1,0 +1,8 @@
+
+signId	2799
+text	simdyna
+imageUuid	a433719c-03c7-46e6-b9b9-88b748f7da9a
+translationKey	ecab2339-b32e-48b1-8276-4f22c0469a1f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a433719c-03c7-46e6-b9b9-88b748f7da9a/ecab2339-b32e-48b1-8276-4f22c0469a1f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a433719c-03c7-46e6-b9b9-88b748f7da9a/ecab2339-b32e-48b1-8276-4f22c0469a1f
+md5	01dbf6d037b964fb5b70b8f684fc8be1

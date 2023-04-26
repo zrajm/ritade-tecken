@@ -1,0 +1,7 @@
+signId	2207
+text	vägra
+imageUuid	886d5ed8-3044-49fa-972e-e7be86fb9472
+translationKey	df49bfbe-3812-41f3-b64e-33704c95618d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/886d5ed8-3044-49fa-972e-e7be86fb9472/df49bfbe-3812-41f3-b64e-33704c95618d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/886d5ed8-3044-49fa-972e-e7be86fb9472/df49bfbe-3812-41f3-b64e-33704c95618d
+md5	b21db1184dbbc16df130c7b3ebbe27ab

@@ -1,0 +1,7 @@
+signId	316
+text	egentligen
+imageUuid	6bac5f43-9513-45fe-a117-8d3255e8c6db
+translationKey	1886e3a4-1527-40a7-a70e-7957e5688580
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6bac5f43-9513-45fe-a117-8d3255e8c6db/1886e3a4-1527-40a7-a70e-7957e5688580/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6bac5f43-9513-45fe-a117-8d3255e8c6db/1886e3a4-1527-40a7-a70e-7957e5688580
+md5	4c5d79cfcd85cc52ea299c4cd0feb43a

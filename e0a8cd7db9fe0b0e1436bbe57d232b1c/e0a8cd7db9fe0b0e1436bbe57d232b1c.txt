@@ -1,0 +1,8 @@
+
+signId	1862
+text	navel
+imageUuid	40ef40dc-0c7b-4375-9cc9-30e44e3f7790
+translationKey	02eb3853-e283-474b-b6cd-4d59c4f6edf0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/40ef40dc-0c7b-4375-9cc9-30e44e3f7790/02eb3853-e283-474b-b6cd-4d59c4f6edf0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/40ef40dc-0c7b-4375-9cc9-30e44e3f7790/02eb3853-e283-474b-b6cd-4d59c4f6edf0
+md5	e0a8cd7db9fe0b0e1436bbe57d232b1c

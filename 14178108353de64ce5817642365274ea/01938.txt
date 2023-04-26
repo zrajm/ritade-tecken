@@ -1,0 +1,7 @@
+signId	1938
+text	användare
+imageUuid	7b501cbf-6a10-4cb2-95fe-bd90ca857274
+translationKey	b753ec20-51c8-44e9-b684-5cafeab7dfe3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7b501cbf-6a10-4cb2-95fe-bd90ca857274/b753ec20-51c8-44e9-b684-5cafeab7dfe3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7b501cbf-6a10-4cb2-95fe-bd90ca857274/b753ec20-51c8-44e9-b684-5cafeab7dfe3
+md5	14178108353de64ce5817642365274ea

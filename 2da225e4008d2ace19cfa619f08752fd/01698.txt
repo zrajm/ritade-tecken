@@ -1,0 +1,7 @@
+signId	1698
+text	vandra
+imageUuid	b8f8d505-6659-449a-aeac-6d4230adb7fa
+translationKey	47264375-4cfc-48e4-b317-70d6d13ed9ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b8f8d505-6659-449a-aeac-6d4230adb7fa/47264375-4cfc-48e4-b317-70d6d13ed9ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b8f8d505-6659-449a-aeac-6d4230adb7fa/47264375-4cfc-48e4-b317-70d6d13ed9ab
+md5	2da225e4008d2ace19cfa619f08752fd

@@ -1,0 +1,7 @@
+signId	1613
+text	triangel
+imageUuid	43a96664-f443-42d3-9ec8-d65870a593fa
+translationKey	62d59f25-dab0-4610-bb4f-5fff1497921e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/43a96664-f443-42d3-9ec8-d65870a593fa/62d59f25-dab0-4610-bb4f-5fff1497921e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/43a96664-f443-42d3-9ec8-d65870a593fa/62d59f25-dab0-4610-bb4f-5fff1497921e
+md5	eb270a9779306ec34e5f2d4943880c23

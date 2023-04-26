@@ -1,0 +1,7 @@
+signId	3171
+text	politiker
+imageUuid	882527fa-feaf-43c6-9da5-8e109ba02a4c
+translationKey	b410f5f6-c41b-43ac-9465-30f5636ffff0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/882527fa-feaf-43c6-9da5-8e109ba02a4c/b410f5f6-c41b-43ac-9465-30f5636ffff0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/882527fa-feaf-43c6-9da5-8e109ba02a4c/b410f5f6-c41b-43ac-9465-30f5636ffff0
+md5	c6e10e3dbd93809d3ccac164b24d0b63

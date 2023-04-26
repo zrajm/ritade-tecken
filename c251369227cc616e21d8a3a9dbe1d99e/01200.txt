@@ -1,0 +1,7 @@
+signId	1200
+text	präst
+imageUuid	b6925962-3f69-4362-872b-2e6d9256803c
+translationKey	af2c4ed4-574d-428d-8a7e-3299aa3d3078
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b6925962-3f69-4362-872b-2e6d9256803c/af2c4ed4-574d-428d-8a7e-3299aa3d3078/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b6925962-3f69-4362-872b-2e6d9256803c/af2c4ed4-574d-428d-8a7e-3299aa3d3078
+md5	c251369227cc616e21d8a3a9dbe1d99e

@@ -1,0 +1,7 @@
+signId	1826
+text	örn
+imageUuid	5f1b631b-8d6f-49e0-80eb-19a6e28ec23c
+translationKey	2365a994-973b-4de7-a7a3-f169c67a3a3a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5f1b631b-8d6f-49e0-80eb-19a6e28ec23c/2365a994-973b-4de7-a7a3-f169c67a3a3a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5f1b631b-8d6f-49e0-80eb-19a6e28ec23c/2365a994-973b-4de7-a7a3-f169c67a3a3a
+md5	0909818f6b5cbef819a4709ceddd0c75

@@ -1,0 +1,7 @@
+signId	284
+text	dra 2
+imageUuid	505971c3-9a09-40f4-929f-b46a70726832
+translationKey	0b0cd20e-7b12-487d-94f9-a9c7ce18a141
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/505971c3-9a09-40f4-929f-b46a70726832/0b0cd20e-7b12-487d-94f9-a9c7ce18a141/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/505971c3-9a09-40f4-929f-b46a70726832/0b0cd20e-7b12-487d-94f9-a9c7ce18a141
+md5	bd20f7e6dffb2debf8791aea74945b23

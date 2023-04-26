@@ -1,0 +1,16 @@
+
+signId	190
+text	broms
+imageUuid	6a3aaad7-e034-44c0-b386-b08d37783590
+translationKey	2792bb91-e6d7-414c-8545-5c1d6285ef47
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6a3aaad7-e034-44c0-b386-b08d37783590/2792bb91-e6d7-414c-8545-5c1d6285ef47/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6a3aaad7-e034-44c0-b386-b08d37783590/2792bb91-e6d7-414c-8545-5c1d6285ef47
+md5	f52de7b2c5117cfcd311e8c44f1289a1
+
+signId	191
+text	bromsa
+imageUuid	7ba97c27-0869-4639-bb11-456cea8f49cf
+translationKey	5b2469f3-7f09-4903-a481-6a7456e7066c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7ba97c27-0869-4639-bb11-456cea8f49cf/5b2469f3-7f09-4903-a481-6a7456e7066c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7ba97c27-0869-4639-bb11-456cea8f49cf/5b2469f3-7f09-4903-a481-6a7456e7066c
+md5	f52de7b2c5117cfcd311e8c44f1289a1

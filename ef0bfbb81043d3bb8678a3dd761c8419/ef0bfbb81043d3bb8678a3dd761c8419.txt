@@ -1,0 +1,8 @@
+
+signId	945
+text	läsa
+imageUuid	5ce0b3e2-492a-4e1d-a3b4-48d7b0b28a53
+translationKey	d9fe3d64-5224-4a9d-9ac1-c9bd7ef25f8d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ce0b3e2-492a-4e1d-a3b4-48d7b0b28a53/d9fe3d64-5224-4a9d-9ac1-c9bd7ef25f8d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ce0b3e2-492a-4e1d-a3b4-48d7b0b28a53/d9fe3d64-5224-4a9d-9ac1-c9bd7ef25f8d
+md5	ef0bfbb81043d3bb8678a3dd761c8419

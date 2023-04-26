@@ -1,0 +1,8 @@
+
+signId	1539
+text	såpbubblor
+imageUuid	43cf29a4-7233-460c-a3b1-3af5d1883631
+translationKey	bd6dfa67-dcac-4edc-8026-ad912cfb26c2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/43cf29a4-7233-460c-a3b1-3af5d1883631/bd6dfa67-dcac-4edc-8026-ad912cfb26c2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/43cf29a4-7233-460c-a3b1-3af5d1883631/bd6dfa67-dcac-4edc-8026-ad912cfb26c2
+md5	e1b7f4792b6d987f14d6a21eb818513a

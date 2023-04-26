@@ -1,0 +1,8 @@
+
+signId	293
+text	dräng
+imageUuid	862eca18-652e-4416-8e51-41639aa55ebf
+translationKey	9dd7386f-5b21-4fb5-a0c0-7e5318944744
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/862eca18-652e-4416-8e51-41639aa55ebf/9dd7386f-5b21-4fb5-a0c0-7e5318944744/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/862eca18-652e-4416-8e51-41639aa55ebf/9dd7386f-5b21-4fb5-a0c0-7e5318944744
+md5	37ee99066e78aa440ccfc49bc542862c

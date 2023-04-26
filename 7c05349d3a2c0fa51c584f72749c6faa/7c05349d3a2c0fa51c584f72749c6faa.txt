@@ -1,0 +1,8 @@
+
+signId	2645
+text	kärnkraft
+imageUuid	ce9a0943-e7f3-497e-ae46-07b74fcc926b
+translationKey	51586c78-2dd8-456d-b5df-f4fd48813fea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ce9a0943-e7f3-497e-ae46-07b74fcc926b/51586c78-2dd8-456d-b5df-f4fd48813fea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ce9a0943-e7f3-497e-ae46-07b74fcc926b/51586c78-2dd8-456d-b5df-f4fd48813fea
+md5	7c05349d3a2c0fa51c584f72749c6faa

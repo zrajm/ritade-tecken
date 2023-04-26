@@ -1,0 +1,8 @@
+
+signId	96
+text	balans
+imageUuid	4c91916a-e2ff-491e-aeb4-b42a82b8e616
+translationKey	bc809b3e-1a7c-4803-bc7e-eb42b3f363cc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4c91916a-e2ff-491e-aeb4-b42a82b8e616/bc809b3e-1a7c-4803-bc7e-eb42b3f363cc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4c91916a-e2ff-491e-aeb4-b42a82b8e616/bc809b3e-1a7c-4803-bc7e-eb42b3f363cc
+md5	a71f251d653febd49f94168ff448ba6f

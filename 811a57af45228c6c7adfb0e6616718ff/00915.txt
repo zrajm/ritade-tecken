@@ -1,0 +1,7 @@
+signId	915
+text	lunch (tid)
+imageUuid	66d4d063-1822-4bcc-86a9-d56f9b8f048f
+translationKey	c3bbac37-5361-441b-8cf7-c4a2157cb2c2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/66d4d063-1822-4bcc-86a9-d56f9b8f048f/c3bbac37-5361-441b-8cf7-c4a2157cb2c2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/66d4d063-1822-4bcc-86a9-d56f9b8f048f/c3bbac37-5361-441b-8cf7-c4a2157cb2c2
+md5	811a57af45228c6c7adfb0e6616718ff

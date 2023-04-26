@@ -1,0 +1,7 @@
+signId	621
+text	hål
+imageUuid	cc9a2a4e-f1b0-447c-a97c-adf5530f8903
+translationKey	dbe954f6-9ba3-416d-875a-67e320aee227
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cc9a2a4e-f1b0-447c-a97c-adf5530f8903/dbe954f6-9ba3-416d-875a-67e320aee227/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cc9a2a4e-f1b0-447c-a97c-adf5530f8903/dbe954f6-9ba3-416d-875a-67e320aee227
+md5	e6afa36116c875824b650618d90fcde6

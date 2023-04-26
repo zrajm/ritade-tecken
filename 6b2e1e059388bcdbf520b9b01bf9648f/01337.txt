@@ -1,0 +1,7 @@
+signId	1337
+text	skinka
+imageUuid	0f4e9248-0a6b-4b4d-916e-b6058341bdaf
+translationKey	1c9fac77-689b-4475-ba82-fbde817514f6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0f4e9248-0a6b-4b4d-916e-b6058341bdaf/1c9fac77-689b-4475-ba82-fbde817514f6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0f4e9248-0a6b-4b4d-916e-b6058341bdaf/1c9fac77-689b-4475-ba82-fbde817514f6
+md5	6b2e1e059388bcdbf520b9b01bf9648f

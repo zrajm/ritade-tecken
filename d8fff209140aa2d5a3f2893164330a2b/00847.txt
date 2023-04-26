@@ -1,0 +1,7 @@
+signId	847
+text	känsla 2
+imageUuid	f10fb4c9-e5fd-4622-b2e3-9763ed644c80
+translationKey	52f66d5d-9763-421e-8ac8-d90072a14dfd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f10fb4c9-e5fd-4622-b2e3-9763ed644c80/52f66d5d-9763-421e-8ac8-d90072a14dfd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f10fb4c9-e5fd-4622-b2e3-9763ed644c80/52f66d5d-9763-421e-8ac8-d90072a14dfd
+md5	e29b7ae0d1a90490846068fe5aad9556

@@ -1,0 +1,7 @@
+signId	468
+text	förut
+imageUuid	d6460081-2b47-4b0d-b37f-60b49932adda
+translationKey	51362885-2304-4f19-a6a1-af0f03770843
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d6460081-2b47-4b0d-b37f-60b49932adda/51362885-2304-4f19-a6a1-af0f03770843/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d6460081-2b47-4b0d-b37f-60b49932adda/51362885-2304-4f19-a6a1-af0f03770843
+md5	6064f14d181ee9731ead52fbe3137ffb

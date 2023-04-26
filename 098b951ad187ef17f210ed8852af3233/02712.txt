@@ -1,0 +1,7 @@
+signId	2712
+text	vittvätt
+imageUuid	12b78ac7-ccd2-4975-aa85-8495c644c238
+translationKey	878908fd-c9e4-421f-832f-88981fd437c3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/12b78ac7-ccd2-4975-aa85-8495c644c238/878908fd-c9e4-421f-832f-88981fd437c3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/12b78ac7-ccd2-4975-aa85-8495c644c238/878908fd-c9e4-421f-832f-88981fd437c3
+md5	098b951ad187ef17f210ed8852af3233

@@ -1,0 +1,8 @@
+
+signId	2444
+text	påskris
+imageUuid	36d14b5b-fb4e-4d1b-9202-217599438a9c
+translationKey	c0752dd2-f392-435d-963c-f9f2212aa75d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/36d14b5b-fb4e-4d1b-9202-217599438a9c/c0752dd2-f392-435d-963c-f9f2212aa75d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/36d14b5b-fb4e-4d1b-9202-217599438a9c/c0752dd2-f392-435d-963c-f9f2212aa75d
+md5	b36674cc95b7990b49a5470dd2cb911b

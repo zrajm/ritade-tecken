@@ -1,0 +1,8 @@
+
+signId	831
+text	kvart i
+imageUuid	b5742e32-0613-4eb1-9eed-796bfff57bc2
+translationKey	a73e9741-cafb-4bfe-b6cc-d8ad88d8f32d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b5742e32-0613-4eb1-9eed-796bfff57bc2/a73e9741-cafb-4bfe-b6cc-d8ad88d8f32d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b5742e32-0613-4eb1-9eed-796bfff57bc2/a73e9741-cafb-4bfe-b6cc-d8ad88d8f32d
+md5	9b86d8766c244d9d59e096843d3e048c

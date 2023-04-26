@@ -1,0 +1,7 @@
+signId	2161
+text	åker
+imageUuid	26ce5422-a4bc-41be-b0cb-26c46f967ded
+translationKey	2d83d05f-cd5e-4853-a88b-879faf91c92a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/26ce5422-a4bc-41be-b0cb-26c46f967ded/2d83d05f-cd5e-4853-a88b-879faf91c92a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/26ce5422-a4bc-41be-b0cb-26c46f967ded/2d83d05f-cd5e-4853-a88b-879faf91c92a
+md5	4d8a4ab5498977697da9e6ef4efc9821

@@ -1,0 +1,8 @@
+
+signId	2080
+text	snarka
+imageUuid	041582d8-82ce-4c18-b2b9-94bda04904af
+translationKey	38956fe9-ca4c-4c15-870e-dc45188937e4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/041582d8-82ce-4c18-b2b9-94bda04904af/38956fe9-ca4c-4c15-870e-dc45188937e4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/041582d8-82ce-4c18-b2b9-94bda04904af/38956fe9-ca4c-4c15-870e-dc45188937e4
+md5	ec9a6000dc766baadab95b5bc04f064b

@@ -1,0 +1,7 @@
+signId	715
+text	kall
+imageUuid	5ab67e36-d905-49f2-ada2-e1f173e71544
+translationKey	c834a67e-46d9-4782-a860-50e0d44e68a9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ab67e36-d905-49f2-ada2-e1f173e71544/c834a67e-46d9-4782-a860-50e0d44e68a9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ab67e36-d905-49f2-ada2-e1f173e71544/c834a67e-46d9-4782-a860-50e0d44e68a9
+md5	14d745adc35c9233b689ebee9c844f9b

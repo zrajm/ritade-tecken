@@ -1,0 +1,7 @@
+signId	1584
+text	tio över
+imageUuid	049b8d51-e170-4fd3-b02e-e171a4008379
+translationKey	335805fc-e0ed-4f9e-99f0-4a5a7decb058
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/049b8d51-e170-4fd3-b02e-e171a4008379/335805fc-e0ed-4f9e-99f0-4a5a7decb058/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/049b8d51-e170-4fd3-b02e-e171a4008379/335805fc-e0ed-4f9e-99f0-4a5a7decb058
+md5	b425eb1bd809639168e0f0e0ab6e27cd

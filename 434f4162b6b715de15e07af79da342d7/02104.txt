@@ -1,0 +1,7 @@
+signId	2104
+text	dansa 3
+imageUuid	88006c7c-0929-4858-b7cb-23c1179eeb8f
+translationKey	06be99a5-29d3-4417-8162-463bb82638b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/88006c7c-0929-4858-b7cb-23c1179eeb8f/06be99a5-29d3-4417-8162-463bb82638b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/88006c7c-0929-4858-b7cb-23c1179eeb8f/06be99a5-29d3-4417-8162-463bb82638b6
+md5	434f4162b6b715de15e07af79da342d7

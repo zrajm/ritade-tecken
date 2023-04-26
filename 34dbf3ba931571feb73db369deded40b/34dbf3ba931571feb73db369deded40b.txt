@@ -1,0 +1,16 @@
+
+signId	142
+text	björn
+imageUuid	03d2c212-1958-4787-9484-219612efe169
+translationKey	bbdbac46-2ccf-447c-8dc4-ce56331f4a33
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/03d2c212-1958-4787-9484-219612efe169/bbdbac46-2ccf-447c-8dc4-ce56331f4a33/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/03d2c212-1958-4787-9484-219612efe169/bbdbac46-2ccf-447c-8dc4-ce56331f4a33
+md5	34dbf3ba931571feb73db369deded40b
+
+signId	1062
+text	nalle
+imageUuid	11c0d010-ffcb-4aa4-89b5-977c6bc885e6
+translationKey	881798a6-4d0c-486a-aab0-35b4baa6a39b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/11c0d010-ffcb-4aa4-89b5-977c6bc885e6/881798a6-4d0c-486a-aab0-35b4baa6a39b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/11c0d010-ffcb-4aa4-89b5-977c6bc885e6/881798a6-4d0c-486a-aab0-35b4baa6a39b
+md5	34dbf3ba931571feb73db369deded40b

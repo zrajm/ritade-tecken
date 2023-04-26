@@ -1,0 +1,7 @@
+signId	3167
+text	flest
+imageUuid	25d1c284-53fa-401c-b31d-58878f34c380
+translationKey	82b81783-bb2c-490d-ab8a-5e77a4ff1e69
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/25d1c284-53fa-401c-b31d-58878f34c380/82b81783-bb2c-490d-ab8a-5e77a4ff1e69/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/25d1c284-53fa-401c-b31d-58878f34c380/82b81783-bb2c-490d-ab8a-5e77a4ff1e69
+md5	96ca9c6d0f713272a45804d0b3dd5701

@@ -1,0 +1,7 @@
+signId	3222
+text	Koranen
+imageUuid	1a6637c8-00ec-4bad-8443-7a24decfbb9f
+translationKey	d6d35bb0-fd22-4783-898e-eca268141d87
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1a6637c8-00ec-4bad-8443-7a24decfbb9f/d6d35bb0-fd22-4783-898e-eca268141d87/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1a6637c8-00ec-4bad-8443-7a24decfbb9f/d6d35bb0-fd22-4783-898e-eca268141d87
+md5	4619c641ee827e7f0c542b8d19a04f27

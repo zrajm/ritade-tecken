@@ -1,0 +1,8 @@
+
+signId	2118
+text	hård 1
+imageUuid	d6f6c024-248c-4eb0-9c0f-569a3ea30714
+translationKey	559a5f93-a1bb-4a2a-b472-f0b5f59adb72
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d6f6c024-248c-4eb0-9c0f-569a3ea30714/559a5f93-a1bb-4a2a-b472-f0b5f59adb72/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d6f6c024-248c-4eb0-9c0f-569a3ea30714/559a5f93-a1bb-4a2a-b472-f0b5f59adb72
+md5	0a4e96ee08a3973240a9f578c54415fc

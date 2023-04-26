@@ -1,0 +1,7 @@
+signId	3278
+text	stål
+imageUuid	956a7981-7952-4447-8ede-05120b7bf60b
+translationKey	19be5ac7-5278-4600-bf74-68387203534a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/956a7981-7952-4447-8ede-05120b7bf60b/19be5ac7-5278-4600-bf74-68387203534a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/956a7981-7952-4447-8ede-05120b7bf60b/19be5ac7-5278-4600-bf74-68387203534a
+md5	757e162f1889ad13cc1784524cdc9b15

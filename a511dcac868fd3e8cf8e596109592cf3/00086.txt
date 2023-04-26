@@ -1,0 +1,7 @@
+signId	86
+text	backa
+imageUuid	e0518694-c825-482c-b25e-ddab10a678cf
+translationKey	aa1f40a2-619a-49de-931a-7a02937e56a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e0518694-c825-482c-b25e-ddab10a678cf/aa1f40a2-619a-49de-931a-7a02937e56a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e0518694-c825-482c-b25e-ddab10a678cf/aa1f40a2-619a-49de-931a-7a02937e56a7
+md5	a511dcac868fd3e8cf8e596109592cf3

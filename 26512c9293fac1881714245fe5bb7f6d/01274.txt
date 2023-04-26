@@ -1,0 +1,7 @@
+signId	1274
+text	räv
+imageUuid	5f7824db-1ad9-496c-80c8-21e9c1b7a313
+translationKey	3abb486d-2a7f-4b78-99fb-48fb7c99b9b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5f7824db-1ad9-496c-80c8-21e9c1b7a313/3abb486d-2a7f-4b78-99fb-48fb7c99b9b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5f7824db-1ad9-496c-80c8-21e9c1b7a313/3abb486d-2a7f-4b78-99fb-48fb7c99b9b5
+md5	26512c9293fac1881714245fe5bb7f6d

@@ -1,0 +1,8 @@
+
+signId	2367
+text	noga
+imageUuid	ac40a778-07b2-42fc-9fac-7e347ad55c78
+translationKey	049a3845-1e9c-4982-90ba-964b5626993e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ac40a778-07b2-42fc-9fac-7e347ad55c78/049a3845-1e9c-4982-90ba-964b5626993e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ac40a778-07b2-42fc-9fac-7e347ad55c78/049a3845-1e9c-4982-90ba-964b5626993e
+md5	a144f768a426370603dd773a2154b38d

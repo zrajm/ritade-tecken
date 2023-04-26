@@ -1,0 +1,8 @@
+
+signId	1353
+text	skosnöre
+imageUuid	eee5af73-fc5a-4e92-be88-8f4d6c9ba47a
+translationKey	8278fe05-5e14-451b-a41e-91ddee6ab2e7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eee5af73-fc5a-4e92-be88-8f4d6c9ba47a/8278fe05-5e14-451b-a41e-91ddee6ab2e7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eee5af73-fc5a-4e92-be88-8f4d6c9ba47a/8278fe05-5e14-451b-a41e-91ddee6ab2e7
+md5	c6ab9f37f6f6b9bc5b5b4ebe74a5df88

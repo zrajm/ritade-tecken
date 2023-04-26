@@ -1,0 +1,7 @@
+signId	1567
+text	te 1
+imageUuid	13831dcd-9cac-4eb8-a9eb-5f1354cd3ca7
+translationKey	ed89afeb-abe9-4c02-8180-503482fdb1d8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/13831dcd-9cac-4eb8-a9eb-5f1354cd3ca7/ed89afeb-abe9-4c02-8180-503482fdb1d8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/13831dcd-9cac-4eb8-a9eb-5f1354cd3ca7/ed89afeb-abe9-4c02-8180-503482fdb1d8
+md5	616d04957aa9a9cf5dd1a4867256dfe8

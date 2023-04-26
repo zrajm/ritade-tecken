@@ -1,0 +1,7 @@
+signId	3150
+text	elva 2
+imageUuid	51fb2192-d73e-46bb-8b9c-f5b73812c658
+translationKey	064f6386-bcd4-45ce-bc6d-871c7d861637
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/51fb2192-d73e-46bb-8b9c-f5b73812c658/064f6386-bcd4-45ce-bc6d-871c7d861637/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/51fb2192-d73e-46bb-8b9c-f5b73812c658/064f6386-bcd4-45ce-bc6d-871c7d861637
+md5	d4de56f1c697fea89dea5bbbaa87333a

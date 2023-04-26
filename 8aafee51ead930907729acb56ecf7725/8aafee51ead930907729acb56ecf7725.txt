@@ -1,0 +1,8 @@
+
+signId	1230
+text	rapa
+imageUuid	dde5de0b-d193-4056-9aed-7adc814f8d64
+translationKey	0344b59f-a98d-4407-a14c-ed2e40b4ab73
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dde5de0b-d193-4056-9aed-7adc814f8d64/0344b59f-a98d-4407-a14c-ed2e40b4ab73/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dde5de0b-d193-4056-9aed-7adc814f8d64/0344b59f-a98d-4407-a14c-ed2e40b4ab73
+md5	8aafee51ead930907729acb56ecf7725

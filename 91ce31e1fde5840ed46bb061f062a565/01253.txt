@@ -1,0 +1,7 @@
+signId	1253
+text	ropa
+imageUuid	841bfc12-1c49-4f4e-a538-1b55cc1916e1
+translationKey	51e37591-d5a8-4631-b613-c192a86cd2ba
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/841bfc12-1c49-4f4e-a538-1b55cc1916e1/51e37591-d5a8-4631-b613-c192a86cd2ba/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/841bfc12-1c49-4f4e-a538-1b55cc1916e1/51e37591-d5a8-4631-b613-c192a86cd2ba
+md5	91ce31e1fde5840ed46bb061f062a565

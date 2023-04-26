@@ -1,0 +1,7 @@
+signId	1548
+text	söka
+imageUuid	154c310f-a252-4bc4-a14b-bb421c433725
+translationKey	c47db94f-0b5b-422d-a948-b662fd0666cf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/154c310f-a252-4bc4-a14b-bb421c433725/c47db94f-0b5b-422d-a948-b662fd0666cf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/154c310f-a252-4bc4-a14b-bb421c433725/c47db94f-0b5b-422d-a948-b662fd0666cf
+md5	d1c7d6e27fdb44d669c75d65e131068f

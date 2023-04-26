@@ -1,0 +1,7 @@
+signId	2068
+text	Malmö
+imageUuid	0de75017-92b5-422d-b1f8-03df2e090968
+translationKey	af8ca816-378b-4fe1-90bd-f5f341d77e2b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0de75017-92b5-422d-b1f8-03df2e090968/af8ca816-378b-4fe1-90bd-f5f341d77e2b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0de75017-92b5-422d-b1f8-03df2e090968/af8ca816-378b-4fe1-90bd-f5f341d77e2b
+md5	d3583bd3744a11c9133fb5f037c707f6

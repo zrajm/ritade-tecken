@@ -1,0 +1,8 @@
+
+signId	2987
+text	barnstol
+imageUuid	7db0c9eb-910c-4d5c-9ef5-18742da816ad
+translationKey	36ca2460-dd09-4d7e-9444-9195cccd544f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7db0c9eb-910c-4d5c-9ef5-18742da816ad/36ca2460-dd09-4d7e-9444-9195cccd544f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7db0c9eb-910c-4d5c-9ef5-18742da816ad/36ca2460-dd09-4d7e-9444-9195cccd544f
+md5	1994e53cad20d46f8cf9e608e4ac6da5

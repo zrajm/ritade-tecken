@@ -1,0 +1,7 @@
+signId	82
+text	axel
+imageUuid	aa5a800f-ab4a-44ba-a3ae-b83d3c78f9ae
+translationKey	f3f77c33-d608-4b04-ac22-c52ffa0f500d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aa5a800f-ab4a-44ba-a3ae-b83d3c78f9ae/f3f77c33-d608-4b04-ac22-c52ffa0f500d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aa5a800f-ab4a-44ba-a3ae-b83d3c78f9ae/f3f77c33-d608-4b04-ac22-c52ffa0f500d
+md5	5e9a6784a6ca5793948f6f644706760f

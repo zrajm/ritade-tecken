@@ -1,0 +1,8 @@
+
+signId	605
+text	honung
+imageUuid	0ea7c344-3bca-4eed-8d0f-916798885842
+translationKey	0c9f0782-e5ff-438a-8a87-b23722d46039
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0ea7c344-3bca-4eed-8d0f-916798885842/0c9f0782-e5ff-438a-8a87-b23722d46039/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0ea7c344-3bca-4eed-8d0f-916798885842/0c9f0782-e5ff-438a-8a87-b23722d46039
+md5	aa351e91bb181460d2ca91f30f22a17b

@@ -1,0 +1,7 @@
+signId	1131
+text	P (bokstav)
+imageUuid	81b39c52-11a2-4654-8907-9e1390cc48f2
+translationKey	9be982f1-2f4e-4f7c-98e1-f8a3264b84fe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/81b39c52-11a2-4654-8907-9e1390cc48f2/9be982f1-2f4e-4f7c-98e1-f8a3264b84fe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/81b39c52-11a2-4654-8907-9e1390cc48f2/9be982f1-2f4e-4f7c-98e1-f8a3264b84fe
+md5	09a45a35ce886adc2bcd9b8f0be5d904

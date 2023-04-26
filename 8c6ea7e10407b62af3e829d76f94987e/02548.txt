@@ -1,0 +1,7 @@
+signId	2548
+text	efternamn
+imageUuid	faf3e9ee-f3dd-45f3-8454-db4d6748759a
+translationKey	9f9e4263-4308-4ca8-9c6b-4aaeec12147d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/faf3e9ee-f3dd-45f3-8454-db4d6748759a/9f9e4263-4308-4ca8-9c6b-4aaeec12147d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/faf3e9ee-f3dd-45f3-8454-db4d6748759a/9f9e4263-4308-4ca8-9c6b-4aaeec12147d
+md5	8c6ea7e10407b62af3e829d76f94987e

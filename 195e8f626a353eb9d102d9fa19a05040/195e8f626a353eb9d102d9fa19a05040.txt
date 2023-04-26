@@ -1,0 +1,8 @@
+
+signId	3190
+text	behandla nedlåtande
+imageUuid	203b2109-6288-4675-a31a-c8c2ab144c0c
+translationKey	33ee6f87-3bf3-4a33-9e71-64128f7fd539
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/203b2109-6288-4675-a31a-c8c2ab144c0c/33ee6f87-3bf3-4a33-9e71-64128f7fd539/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/203b2109-6288-4675-a31a-c8c2ab144c0c/33ee6f87-3bf3-4a33-9e71-64128f7fd539
+md5	195e8f626a353eb9d102d9fa19a05040

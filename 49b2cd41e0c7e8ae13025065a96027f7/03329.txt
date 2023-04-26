@@ -1,0 +1,7 @@
+signId	3329
+text	multiplikation
+imageUuid	de8b12d2-732a-4576-9a45-22a5e0d7cba1
+translationKey	2812efac-76a4-4c15-b821-640452bcf310
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/de8b12d2-732a-4576-9a45-22a5e0d7cba1/2812efac-76a4-4c15-b821-640452bcf310/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/de8b12d2-732a-4576-9a45-22a5e0d7cba1/2812efac-76a4-4c15-b821-640452bcf310
+md5	49b2cd41e0c7e8ae13025065a96027f7

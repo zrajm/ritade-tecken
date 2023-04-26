@@ -1,0 +1,7 @@
+signId	55
+text	apelsin
+imageUuid	670c8695-6995-4f87-b7fc-6dc91a3b628e
+translationKey	c8662404-ac1a-4823-a353-81e138cbebf7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/670c8695-6995-4f87-b7fc-6dc91a3b628e/c8662404-ac1a-4823-a353-81e138cbebf7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/670c8695-6995-4f87-b7fc-6dc91a3b628e/c8662404-ac1a-4823-a353-81e138cbebf7
+md5	e6e53acaaf2ddc27a3227a709453352d

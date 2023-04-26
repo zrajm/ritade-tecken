@@ -1,0 +1,8 @@
+
+signId	3305
+text	importera
+imageUuid	0a175391-0206-4a14-9dec-2f20d4fae269
+translationKey	682c77da-4d0a-44c7-b14d-3412f4f0561d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0a175391-0206-4a14-9dec-2f20d4fae269/682c77da-4d0a-44c7-b14d-3412f4f0561d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0a175391-0206-4a14-9dec-2f20d4fae269/682c77da-4d0a-44c7-b14d-3412f4f0561d
+md5	1168ab52570622253e31b32dc60e390a

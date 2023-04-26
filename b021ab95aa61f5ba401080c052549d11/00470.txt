@@ -1,0 +1,7 @@
+signId	470
+text	förälskad
+imageUuid	4ce8b252-a8f7-4282-9b3c-814492641ac9
+translationKey	2994438b-066c-4e7a-be54-77c54a771671
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4ce8b252-a8f7-4282-9b3c-814492641ac9/2994438b-066c-4e7a-be54-77c54a771671/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4ce8b252-a8f7-4282-9b3c-814492641ac9/2994438b-066c-4e7a-be54-77c54a771671
+md5	b021ab95aa61f5ba401080c052549d11

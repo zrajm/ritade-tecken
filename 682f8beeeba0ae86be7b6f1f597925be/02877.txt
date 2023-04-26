@@ -1,0 +1,7 @@
+signId	2877
+text	bakplåt
+imageUuid	935abbaf-632d-424f-b05a-1551964b7bef
+translationKey	ec821bf7-cdf3-41ae-b543-20d491c2a07b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/935abbaf-632d-424f-b05a-1551964b7bef/ec821bf7-cdf3-41ae-b543-20d491c2a07b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/935abbaf-632d-424f-b05a-1551964b7bef/ec821bf7-cdf3-41ae-b543-20d491c2a07b
+md5	682f8beeeba0ae86be7b6f1f597925be

@@ -1,0 +1,7 @@
+signId	1926
+text	flytta 2
+imageUuid	7f104bdd-ff95-4146-965d-36df43a9412c
+translationKey	f2993318-b2c9-4e09-9245-cb03ddee6720
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f104bdd-ff95-4146-965d-36df43a9412c/f2993318-b2c9-4e09-9245-cb03ddee6720/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f104bdd-ff95-4146-965d-36df43a9412c/f2993318-b2c9-4e09-9245-cb03ddee6720
+md5	270d8d64604ec869aed1ff65b18cadbe

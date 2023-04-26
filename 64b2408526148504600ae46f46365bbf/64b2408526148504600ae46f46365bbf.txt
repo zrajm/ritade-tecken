@@ -1,0 +1,8 @@
+
+signId	1284
+text	sal
+imageUuid	e3fa6675-6fbf-480e-a4d4-6c9973101aec
+translationKey	0c3fa349-33e1-4f6c-9592-a3a7d1678442
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e3fa6675-6fbf-480e-a4d4-6c9973101aec/0c3fa349-33e1-4f6c-9592-a3a7d1678442/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e3fa6675-6fbf-480e-a4d4-6c9973101aec/0c3fa349-33e1-4f6c-9592-a3a7d1678442
+md5	64b2408526148504600ae46f46365bbf

@@ -1,0 +1,8 @@
+
+signId	121
+text	ben (köttben)
+imageUuid	0566013a-e903-4da7-a2b9-2d5cf2d3dd4e
+translationKey	c1058779-f8c3-444a-91be-3c41fbce8a8c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0566013a-e903-4da7-a2b9-2d5cf2d3dd4e/c1058779-f8c3-444a-91be-3c41fbce8a8c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0566013a-e903-4da7-a2b9-2d5cf2d3dd4e/c1058779-f8c3-444a-91be-3c41fbce8a8c
+md5	ddb4119c41bfef74a32abdd5f6f6c33a

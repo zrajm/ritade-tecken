@@ -1,0 +1,7 @@
+signId	596
+text	hitta 1
+imageUuid	f52baa85-4269-4447-b56f-5b7b2144835e
+translationKey	5dc05ba8-5801-4724-beca-f4464bc1fc4e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f52baa85-4269-4447-b56f-5b7b2144835e/5dc05ba8-5801-4724-beca-f4464bc1fc4e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f52baa85-4269-4447-b56f-5b7b2144835e/5dc05ba8-5801-4724-beca-f4464bc1fc4e
+md5	29593c31d0dc57e582fef37922e677b6

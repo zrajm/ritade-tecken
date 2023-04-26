@@ -1,0 +1,7 @@
+signId	3084
+text	tålamod
+imageUuid	d3dee7c2-e423-47b1-ad55-ee485be04166
+translationKey	16dae96d-6312-4e04-aa69-1fb248779e08
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d3dee7c2-e423-47b1-ad55-ee485be04166/16dae96d-6312-4e04-aa69-1fb248779e08/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d3dee7c2-e423-47b1-ad55-ee485be04166/16dae96d-6312-4e04-aa69-1fb248779e08
+md5	4d1377b7d36aefa6c5362234a9042787

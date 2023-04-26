@@ -1,0 +1,8 @@
+
+signId	3026
+text	äran
+imageUuid	dcd55f8f-91c8-4f29-89f5-0b3eab8688c6
+translationKey	bf5869b4-bb93-4423-9609-232a2d3dcf5c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dcd55f8f-91c8-4f29-89f5-0b3eab8688c6/bf5869b4-bb93-4423-9609-232a2d3dcf5c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dcd55f8f-91c8-4f29-89f5-0b3eab8688c6/bf5869b4-bb93-4423-9609-232a2d3dcf5c
+md5	b8d2aa5ac1bd9e1a31d6d3af9ac45e1c

@@ -1,0 +1,7 @@
+signId	2938
+text	raka sig
+imageUuid	6b8502b5-2fc9-497f-95fc-683b5ba9ee16
+translationKey	852b4f7d-e738-43a0-aaf1-e3c644c3e344
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b8502b5-2fc9-497f-95fc-683b5ba9ee16/852b4f7d-e738-43a0-aaf1-e3c644c3e344/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b8502b5-2fc9-497f-95fc-683b5ba9ee16/852b4f7d-e738-43a0-aaf1-e3c644c3e344
+md5	6c2d1609b647902c9856ffae89af0e53

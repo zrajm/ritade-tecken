@@ -1,0 +1,7 @@
+signId	350
+text	fattas
+imageUuid	c8d11101-f2d5-4438-95da-cedeb1fc0513
+translationKey	8c56b82d-952f-456a-b8ac-7b4dbcbd6b65
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c8d11101-f2d5-4438-95da-cedeb1fc0513/8c56b82d-952f-456a-b8ac-7b4dbcbd6b65/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c8d11101-f2d5-4438-95da-cedeb1fc0513/8c56b82d-952f-456a-b8ac-7b4dbcbd6b65
+md5	3ab13623d8369c984165058b000d46a4

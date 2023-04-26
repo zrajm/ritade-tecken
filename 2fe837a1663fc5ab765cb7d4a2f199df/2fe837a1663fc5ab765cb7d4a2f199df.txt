@@ -1,0 +1,8 @@
+
+signId	1171
+text	plogbil
+imageUuid	65a6f9b0-17a1-4181-9215-f84ad637e6de
+translationKey	d54ce21d-595f-44a6-a999-4c80a3b7f005
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/65a6f9b0-17a1-4181-9215-f84ad637e6de/d54ce21d-595f-44a6-a999-4c80a3b7f005/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/65a6f9b0-17a1-4181-9215-f84ad637e6de/d54ce21d-595f-44a6-a999-4c80a3b7f005
+md5	2fe837a1663fc5ab765cb7d4a2f199df

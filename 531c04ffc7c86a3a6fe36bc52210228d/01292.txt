@@ -1,0 +1,7 @@
+signId	1292
+text	sandlåda
+imageUuid	51f45d59-5f76-4d44-8d08-b7b30ec4f606
+translationKey	a33d31f8-29d2-43f1-b045-e38dc4427c3f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/51f45d59-5f76-4d44-8d08-b7b30ec4f606/a33d31f8-29d2-43f1-b045-e38dc4427c3f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/51f45d59-5f76-4d44-8d08-b7b30ec4f606/a33d31f8-29d2-43f1-b045-e38dc4427c3f
+md5	531c04ffc7c86a3a6fe36bc52210228d

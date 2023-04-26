@@ -1,0 +1,8 @@
+
+signId	740
+text	kille
+imageUuid	cdb5f3b9-bca4-4a4a-8f89-e339ef12f928
+translationKey	7bfe3483-e7c5-445c-84bb-aae131699999
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cdb5f3b9-bca4-4a4a-8f89-e339ef12f928/7bfe3483-e7c5-445c-84bb-aae131699999/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cdb5f3b9-bca4-4a4a-8f89-e339ef12f928/7bfe3483-e7c5-445c-84bb-aae131699999
+md5	1de56300324dfd2eefc8eba5bb228e24

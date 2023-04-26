@@ -1,0 +1,7 @@
+signId	3369
+text	parkering
+imageUuid	297cb0d4-e4ff-43c3-a7df-952683d51ec3
+translationKey	fbeab621-e3e8-46af-9e60-41201a7c8535
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/297cb0d4-e4ff-43c3-a7df-952683d51ec3/fbeab621-e3e8-46af-9e60-41201a7c8535/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/297cb0d4-e4ff-43c3-a7df-952683d51ec3/fbeab621-e3e8-46af-9e60-41201a7c8535
+md5	326b50b0ad8c60d50f3e5ae4b204cd45

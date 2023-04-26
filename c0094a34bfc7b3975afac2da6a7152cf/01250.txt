@@ -1,0 +1,7 @@
+signId	1250
+text	rolig
+imageUuid	0d69ff0f-07bf-4fd5-99c9-5a31a0503759
+translationKey	db0c648c-cca9-42d2-a294-537382571c21
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0d69ff0f-07bf-4fd5-99c9-5a31a0503759/db0c648c-cca9-42d2-a294-537382571c21/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0d69ff0f-07bf-4fd5-99c9-5a31a0503759/db0c648c-cca9-42d2-a294-537382571c21
+md5	c0094a34bfc7b3975afac2da6a7152cf

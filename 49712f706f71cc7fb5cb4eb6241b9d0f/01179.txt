@@ -1,0 +1,7 @@
+signId	1179
+text	polis
+imageUuid	0124ff9e-6402-445a-810a-f26c8ddcbd4b
+translationKey	54b235ad-bb1a-4c75-bf91-1304a8440438
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0124ff9e-6402-445a-810a-f26c8ddcbd4b/54b235ad-bb1a-4c75-bf91-1304a8440438/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0124ff9e-6402-445a-810a-f26c8ddcbd4b/54b235ad-bb1a-4c75-bf91-1304a8440438
+md5	49712f706f71cc7fb5cb4eb6241b9d0f

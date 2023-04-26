@@ -1,0 +1,24 @@
+
+signId	1079
+text	november 1
+imageUuid	b5fc6a2d-64d9-4474-84ea-6b65cc015e90
+translationKey	97142eae-81fd-47a3-b178-47fc0a4454dc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b5fc6a2d-64d9-4474-84ea-6b65cc015e90/97142eae-81fd-47a3-b178-47fc0a4454dc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b5fc6a2d-64d9-4474-84ea-6b65cc015e90/97142eae-81fd-47a3-b178-47fc0a4454dc
+md5	4206feaaa7f3be94b3a9e9f1459c1e43
+
+signId	1175
+text	plöja
+imageUuid	e262f4b6-267e-456c-91a6-fc5b517a04c7
+translationKey	77b15e5b-4d2e-4172-91b2-f13e44e41135
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e262f4b6-267e-456c-91a6-fc5b517a04c7/77b15e5b-4d2e-4172-91b2-f13e44e41135/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e262f4b6-267e-456c-91a6-fc5b517a04c7/77b15e5b-4d2e-4172-91b2-f13e44e41135
+md5	4206feaaa7f3be94b3a9e9f1459c1e43
+
+signId	2190
+text	november 2
+imageUuid	7cf5f76a-964d-43c8-b50a-5b4702d71a04
+translationKey	dbb96107-4d43-44f3-bd04-f21b4f674505
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7cf5f76a-964d-43c8-b50a-5b4702d71a04/dbb96107-4d43-44f3-bd04-f21b4f674505/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7cf5f76a-964d-43c8-b50a-5b4702d71a04/dbb96107-4d43-44f3-bd04-f21b4f674505
+md5	4206feaaa7f3be94b3a9e9f1459c1e43

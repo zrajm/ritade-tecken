@@ -1,0 +1,8 @@
+
+signId	2823
+text	noshörning
+imageUuid	763ca51c-3588-4fa1-a520-21f6351869f3
+translationKey	03108478-beb1-404e-8fe7-837a6e24202b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/763ca51c-3588-4fa1-a520-21f6351869f3/03108478-beb1-404e-8fe7-837a6e24202b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/763ca51c-3588-4fa1-a520-21f6351869f3/03108478-beb1-404e-8fe7-837a6e24202b
+md5	51ae6e9ccd7f1c259740b565998186ea

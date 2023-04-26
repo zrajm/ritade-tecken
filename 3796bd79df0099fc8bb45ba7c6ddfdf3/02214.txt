@@ -1,0 +1,7 @@
+signId	2214
+text	borste
+imageUuid	8aad50d3-3820-42cb-9ff7-6cbb7e82925c
+translationKey	e96be6fd-c108-4972-846f-447f54f0607b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8aad50d3-3820-42cb-9ff7-6cbb7e82925c/e96be6fd-c108-4972-846f-447f54f0607b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8aad50d3-3820-42cb-9ff7-6cbb7e82925c/e96be6fd-c108-4972-846f-447f54f0607b
+md5	3796bd79df0099fc8bb45ba7c6ddfdf3

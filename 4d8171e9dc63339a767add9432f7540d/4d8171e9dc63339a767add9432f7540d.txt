@@ -1,0 +1,8 @@
+
+signId	1285
+text	sallad
+imageUuid	6ec48b35-cc12-4b72-8a3d-531a88f9a848
+translationKey	cd77a59d-1940-477e-93cd-2ffb0d878d4b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6ec48b35-cc12-4b72-8a3d-531a88f9a848/cd77a59d-1940-477e-93cd-2ffb0d878d4b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6ec48b35-cc12-4b72-8a3d-531a88f9a848/cd77a59d-1940-477e-93cd-2ffb0d878d4b
+md5	4d8171e9dc63339a767add9432f7540d

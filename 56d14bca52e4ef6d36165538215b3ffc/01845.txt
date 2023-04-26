@@ -1,0 +1,7 @@
+signId	1845
+text	annan 1
+imageUuid	7e5d2b0f-b669-4c0a-a59e-21aa10b988cf
+translationKey	48194af5-7981-4cfd-a85d-4df43929525a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e5d2b0f-b669-4c0a-a59e-21aa10b988cf/48194af5-7981-4cfd-a85d-4df43929525a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e5d2b0f-b669-4c0a-a59e-21aa10b988cf/48194af5-7981-4cfd-a85d-4df43929525a
+md5	56d14bca52e4ef6d36165538215b3ffc

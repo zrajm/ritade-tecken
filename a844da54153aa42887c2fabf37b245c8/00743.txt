@@ -1,0 +1,7 @@
+signId	743
+text	kittla i magen
+imageUuid	fe70fbd3-3002-4c50-8c3e-03332326d92b
+translationKey	06ad2530-b3bc-4bde-8c99-f9a19ce29121
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fe70fbd3-3002-4c50-8c3e-03332326d92b/06ad2530-b3bc-4bde-8c99-f9a19ce29121/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fe70fbd3-3002-4c50-8c3e-03332326d92b/06ad2530-b3bc-4bde-8c99-f9a19ce29121
+md5	a844da54153aa42887c2fabf37b245c8

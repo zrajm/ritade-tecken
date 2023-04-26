@@ -1,0 +1,7 @@
+signId	880
+text	leka
+imageUuid	59818eab-da1b-4db6-bed6-dd366e2e5c09
+translationKey	6efa66cf-4a4c-4e1d-bc8e-8e9a11d9065d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/59818eab-da1b-4db6-bed6-dd366e2e5c09/6efa66cf-4a4c-4e1d-bc8e-8e9a11d9065d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/59818eab-da1b-4db6-bed6-dd366e2e5c09/6efa66cf-4a4c-4e1d-bc8e-8e9a11d9065d
+md5	665539bcb3c034822afb571404a8fcfa

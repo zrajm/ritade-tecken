@@ -1,0 +1,7 @@
+signId	2473
+text	ofta
+imageUuid	031d631e-f805-4b43-a500-768debe37fef
+translationKey	6179016d-ff63-4ad2-8824-54d7b928d579
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/031d631e-f805-4b43-a500-768debe37fef/6179016d-ff63-4ad2-8824-54d7b928d579/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/031d631e-f805-4b43-a500-768debe37fef/6179016d-ff63-4ad2-8824-54d7b928d579
+md5	dac4de70fd6d07f6baec76b388ab344e

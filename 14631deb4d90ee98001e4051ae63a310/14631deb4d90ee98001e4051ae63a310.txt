@@ -1,0 +1,8 @@
+
+signId	2750
+text	vin
+imageUuid	2fa5d7cf-1807-4174-aa15-a71a0aefbc42
+translationKey	6758e306-3567-48fd-a39d-8a343a1dee1f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2fa5d7cf-1807-4174-aa15-a71a0aefbc42/6758e306-3567-48fd-a39d-8a343a1dee1f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2fa5d7cf-1807-4174-aa15-a71a0aefbc42/6758e306-3567-48fd-a39d-8a343a1dee1f
+md5	14631deb4d90ee98001e4051ae63a310

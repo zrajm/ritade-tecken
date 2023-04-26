@@ -1,0 +1,7 @@
+signId	2177
+text	förstöra
+imageUuid	d2f7c8fb-2ff9-4112-bd8c-97fc65433ca7
+translationKey	03f07c67-cb34-47c4-86d3-4bcfefb50515
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d2f7c8fb-2ff9-4112-bd8c-97fc65433ca7/03f07c67-cb34-47c4-86d3-4bcfefb50515/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d2f7c8fb-2ff9-4112-bd8c-97fc65433ca7/03f07c67-cb34-47c4-86d3-4bcfefb50515
+md5	7aa31d02d4567931c34b1940cce019ed

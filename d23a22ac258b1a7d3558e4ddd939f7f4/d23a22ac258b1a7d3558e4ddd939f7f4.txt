@@ -1,0 +1,8 @@
+
+signId	2513
+text	grillkol
+imageUuid	51dfefc7-2b67-4477-a01a-15f4058eac3d
+translationKey	fc9a87c9-2a26-452b-a9ee-34ff2ed980e0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/51dfefc7-2b67-4477-a01a-15f4058eac3d/fc9a87c9-2a26-452b-a9ee-34ff2ed980e0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/51dfefc7-2b67-4477-a01a-15f4058eac3d/fc9a87c9-2a26-452b-a9ee-34ff2ed980e0
+md5	d23a22ac258b1a7d3558e4ddd939f7f4

@@ -1,0 +1,7 @@
+signId	529
+text	gunga (substantiv)
+imageUuid	194ca021-19fe-4933-9c93-a022079c55c0
+translationKey	6ad54a18-a059-497b-8610-56271fd721af
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/194ca021-19fe-4933-9c93-a022079c55c0/6ad54a18-a059-497b-8610-56271fd721af/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/194ca021-19fe-4933-9c93-a022079c55c0/6ad54a18-a059-497b-8610-56271fd721af
+md5	6938843b22c3363f0ee09fbf9bd71513

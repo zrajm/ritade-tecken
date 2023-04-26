@@ -1,0 +1,7 @@
+signId	3355
+text	evig
+imageUuid	6883a8cf-ca90-47a7-87ff-c32dd936b673
+translationKey	1079a154-23f8-4a27-8e15-23e475c3eded
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6883a8cf-ca90-47a7-87ff-c32dd936b673/1079a154-23f8-4a27-8e15-23e475c3eded/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6883a8cf-ca90-47a7-87ff-c32dd936b673/1079a154-23f8-4a27-8e15-23e475c3eded
+md5	fc591c1d1cb06adeeb8b45e0e4501710

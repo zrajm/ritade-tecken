@@ -1,0 +1,8 @@
+
+signId	2269
+text	förklara
+imageUuid	6b08a235-7db6-4649-b912-56fd1175acd8
+translationKey	1babaaeb-44a5-475c-a6ce-6ca7007085ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b08a235-7db6-4649-b912-56fd1175acd8/1babaaeb-44a5-475c-a6ce-6ca7007085ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b08a235-7db6-4649-b912-56fd1175acd8/1babaaeb-44a5-475c-a6ce-6ca7007085ab
+md5	9b624ffa2f331f95a7ce1b61356b4fe7

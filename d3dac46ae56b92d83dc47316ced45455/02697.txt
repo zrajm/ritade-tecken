@@ -1,0 +1,7 @@
+signId	2697
+text	tvättsvamp
+imageUuid	3827ee9a-3778-41d7-ab0b-b09f6e0e4e17
+translationKey	95c38b77-62ce-4218-a0ad-98e05ec90199
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3827ee9a-3778-41d7-ab0b-b09f6e0e4e17/95c38b77-62ce-4218-a0ad-98e05ec90199/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3827ee9a-3778-41d7-ab0b-b09f6e0e4e17/95c38b77-62ce-4218-a0ad-98e05ec90199
+md5	d3dac46ae56b92d83dc47316ced45455

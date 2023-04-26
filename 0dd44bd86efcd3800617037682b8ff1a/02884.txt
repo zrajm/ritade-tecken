@@ -1,0 +1,7 @@
+signId	2884
+text	djurpark
+imageUuid	c3246aae-fa5a-4f1c-909b-eda5ba4f300b
+translationKey	e65ca74e-e9e6-49e1-80c6-f5bdc133426f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c3246aae-fa5a-4f1c-909b-eda5ba4f300b/e65ca74e-e9e6-49e1-80c6-f5bdc133426f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c3246aae-fa5a-4f1c-909b-eda5ba4f300b/e65ca74e-e9e6-49e1-80c6-f5bdc133426f
+md5	0dd44bd86efcd3800617037682b8ff1a

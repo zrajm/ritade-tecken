@@ -1,0 +1,7 @@
+signId	550
+text	ha (hjälpverb)
+imageUuid	76f2a222-8b9f-4420-b419-93695528c887
+translationKey	92096483-7454-4c74-82b6-3e47674a9195
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/76f2a222-8b9f-4420-b419-93695528c887/92096483-7454-4c74-82b6-3e47674a9195/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/76f2a222-8b9f-4420-b419-93695528c887/92096483-7454-4c74-82b6-3e47674a9195
+md5	f522bae48246d06f402241c08bfeb56f

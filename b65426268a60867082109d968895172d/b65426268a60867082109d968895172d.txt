@@ -1,0 +1,8 @@
+
+signId	1413
+text	snygg 2
+imageUuid	0b9d5fa8-ed30-41f1-8575-75dd0a864903
+translationKey	fb85ac70-3d1d-4f72-8c68-9cf40c50daf9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0b9d5fa8-ed30-41f1-8575-75dd0a864903/fb85ac70-3d1d-4f72-8c68-9cf40c50daf9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0b9d5fa8-ed30-41f1-8575-75dd0a864903/fb85ac70-3d1d-4f72-8c68-9cf40c50daf9
+md5	b65426268a60867082109d968895172d

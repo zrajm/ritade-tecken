@@ -1,0 +1,8 @@
+
+signId	1016
+text	mossa
+imageUuid	94eb8894-973d-430e-87d8-5260486354da
+translationKey	80eecff2-c292-4a3c-9ab7-b7a6b103de6f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/94eb8894-973d-430e-87d8-5260486354da/80eecff2-c292-4a3c-9ab7-b7a6b103de6f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/94eb8894-973d-430e-87d8-5260486354da/80eecff2-c292-4a3c-9ab7-b7a6b103de6f
+md5	8bad6eb39cefe312891800f3fcba606a

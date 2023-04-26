@@ -1,0 +1,7 @@
+signId	2549
+text	halvlek
+imageUuid	3fe36844-9ba1-46a0-8a5f-b36d233b0bf1
+translationKey	826fa1fa-d114-4cfa-87be-d2b41adbd695
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3fe36844-9ba1-46a0-8a5f-b36d233b0bf1/826fa1fa-d114-4cfa-87be-d2b41adbd695/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3fe36844-9ba1-46a0-8a5f-b36d233b0bf1/826fa1fa-d114-4cfa-87be-d2b41adbd695
+md5	70814a583a5b6b15aee826f87b506e7d

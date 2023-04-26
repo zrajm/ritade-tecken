@@ -1,0 +1,7 @@
+signId	36
+text	afton
+imageUuid	8c71a738-3011-4218-adbe-65f5a75616d9
+translationKey	9e77c355-5ddc-45c2-a472-d8cb6d7bede2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c71a738-3011-4218-adbe-65f5a75616d9/9e77c355-5ddc-45c2-a472-d8cb6d7bede2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c71a738-3011-4218-adbe-65f5a75616d9/9e77c355-5ddc-45c2-a472-d8cb6d7bede2
+md5	65ea8629415048e134160ea8435face7

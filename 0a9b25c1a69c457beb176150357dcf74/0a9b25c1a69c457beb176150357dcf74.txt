@@ -1,0 +1,8 @@
+
+signId	942
+text	lära sig
+imageUuid	d972b843-211c-46dd-9c5e-0511941780a1
+translationKey	127fd9f4-ad94-492c-883d-6f2a0dc083b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d972b843-211c-46dd-9c5e-0511941780a1/127fd9f4-ad94-492c-883d-6f2a0dc083b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d972b843-211c-46dd-9c5e-0511941780a1/127fd9f4-ad94-492c-883d-6f2a0dc083b8
+md5	0a9b25c1a69c457beb176150357dcf74

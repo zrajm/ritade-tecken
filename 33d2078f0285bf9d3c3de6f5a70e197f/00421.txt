@@ -1,0 +1,7 @@
+signId	421
+text	fundera
+imageUuid	cd9ceb52-e82a-4f24-8360-1aac58361ce6
+translationKey	ea8b368f-4c01-43e5-be95-a4b949484e64
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cd9ceb52-e82a-4f24-8360-1aac58361ce6/ea8b368f-4c01-43e5-be95-a4b949484e64/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cd9ceb52-e82a-4f24-8360-1aac58361ce6/ea8b368f-4c01-43e5-be95-a4b949484e64
+md5	33d2078f0285bf9d3c3de6f5a70e197f

@@ -1,0 +1,7 @@
+signId	3367
+text	meddelande
+imageUuid	9f5e3827-a091-47e8-a880-2dac16c5725d
+translationKey	c62cf44f-8c1b-493f-8de9-51d76e6c7221
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9f5e3827-a091-47e8-a880-2dac16c5725d/c62cf44f-8c1b-493f-8de9-51d76e6c7221/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9f5e3827-a091-47e8-a880-2dac16c5725d/c62cf44f-8c1b-493f-8de9-51d76e6c7221
+md5	bcd45ba31f4cd1a7a4b6c49b9b674b72

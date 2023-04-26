@@ -1,0 +1,7 @@
+signId	2675
+text	flesta
+imageUuid	f1b785cc-27ee-4e20-af51-692d6576d601
+translationKey	5aa8527c-3022-4807-b713-db3bba1a91f0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f1b785cc-27ee-4e20-af51-692d6576d601/5aa8527c-3022-4807-b713-db3bba1a91f0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f1b785cc-27ee-4e20-af51-692d6576d601/5aa8527c-3022-4807-b713-db3bba1a91f0
+md5	96ca9c6d0f713272a45804d0b3dd5701

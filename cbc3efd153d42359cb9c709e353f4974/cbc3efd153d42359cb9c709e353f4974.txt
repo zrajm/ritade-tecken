@@ -1,0 +1,8 @@
+
+signId	222
+text	bäst
+imageUuid	4bcb1b43-ed5e-48f8-8ecd-fcc4acb11ee8
+translationKey	5388ecfd-d398-42c9-9c6a-7067092b95d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4bcb1b43-ed5e-48f8-8ecd-fcc4acb11ee8/5388ecfd-d398-42c9-9c6a-7067092b95d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4bcb1b43-ed5e-48f8-8ecd-fcc4acb11ee8/5388ecfd-d398-42c9-9c6a-7067092b95d1
+md5	cbc3efd153d42359cb9c709e353f4974

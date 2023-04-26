@@ -1,0 +1,8 @@
+
+signId	1449
+text	spenat
+imageUuid	a2aac144-d339-44ac-b873-d5f2191f198c
+translationKey	3f814cd4-740b-4b0c-b447-45217b19e5d9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a2aac144-d339-44ac-b873-d5f2191f198c/3f814cd4-740b-4b0c-b447-45217b19e5d9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a2aac144-d339-44ac-b873-d5f2191f198c/3f814cd4-740b-4b0c-b447-45217b19e5d9
+md5	a3c8a5c32f6428f79c8af8b5fe44ce4e

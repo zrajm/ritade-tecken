@@ -1,0 +1,8 @@
+
+signId	297
+text	duka av
+imageUuid	e3a4d1ae-e679-4855-8555-7bcaf463bc28
+translationKey	671f351b-6b5e-44a3-9370-9daee3251469
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e3a4d1ae-e679-4855-8555-7bcaf463bc28/671f351b-6b5e-44a3-9370-9daee3251469/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e3a4d1ae-e679-4855-8555-7bcaf463bc28/671f351b-6b5e-44a3-9370-9daee3251469
+md5	6c65b23bbc62bbe9d21b5956ed39f914

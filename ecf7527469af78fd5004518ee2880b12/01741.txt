@@ -1,0 +1,7 @@
+signId	1741
+text	vinst
+imageUuid	977ad9df-c8db-409e-aa32-284e0ac9bdbd
+translationKey	8073609a-b54c-4773-9a0f-6f9310b6bc24
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/977ad9df-c8db-409e-aa32-284e0ac9bdbd/8073609a-b54c-4773-9a0f-6f9310b6bc24/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/977ad9df-c8db-409e-aa32-284e0ac9bdbd/8073609a-b54c-4773-9a0f-6f9310b6bc24
+md5	ecf7527469af78fd5004518ee2880b12

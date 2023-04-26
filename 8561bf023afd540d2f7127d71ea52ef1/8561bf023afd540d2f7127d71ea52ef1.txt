@@ -1,0 +1,8 @@
+
+signId	614
+text	hungrig
+imageUuid	d9bdf685-0ecb-4aab-b526-c195e0ca6475
+translationKey	43801cb9-6c21-449c-964f-e03f8850436f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d9bdf685-0ecb-4aab-b526-c195e0ca6475/43801cb9-6c21-449c-964f-e03f8850436f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d9bdf685-0ecb-4aab-b526-c195e0ca6475/43801cb9-6c21-449c-964f-e03f8850436f
+md5	8561bf023afd540d2f7127d71ea52ef1

@@ -1,0 +1,7 @@
+signId	2260
+text	blanda ihop
+imageUuid	5104d1f7-136f-4d22-a60e-28b544dfe41a
+translationKey	5d50f79a-e736-4920-878b-767e5d366839
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5104d1f7-136f-4d22-a60e-28b544dfe41a/5d50f79a-e736-4920-878b-767e5d366839/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5104d1f7-136f-4d22-a60e-28b544dfe41a/5d50f79a-e736-4920-878b-767e5d366839
+md5	34ecea013e1b9ea12bfa256dbdc8a6f7

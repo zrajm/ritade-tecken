@@ -1,0 +1,8 @@
+
+signId	1551
+text	T (bokstav)
+imageUuid	e4cfd98f-3d08-4871-9fc7-1654acc6ee1c
+translationKey	51601136-0fed-49f4-980e-0346fa99f110
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e4cfd98f-3d08-4871-9fc7-1654acc6ee1c/51601136-0fed-49f4-980e-0346fa99f110/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e4cfd98f-3d08-4871-9fc7-1654acc6ee1c/51601136-0fed-49f4-980e-0346fa99f110
+md5	196717bcc450d9a33e8be437032d5c8d

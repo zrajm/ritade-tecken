@@ -1,0 +1,7 @@
+signId	1899
+text	bräda
+imageUuid	ec2a602c-fe90-4453-9f42-761008d687bf
+translationKey	94278362-7a26-4cbe-9d47-fd12246ea015
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ec2a602c-fe90-4453-9f42-761008d687bf/94278362-7a26-4cbe-9d47-fd12246ea015/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ec2a602c-fe90-4453-9f42-761008d687bf/94278362-7a26-4cbe-9d47-fd12246ea015
+md5	e00a67008faf3f1325f04b9ad1974b8c

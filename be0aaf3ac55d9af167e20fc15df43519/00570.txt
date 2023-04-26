@@ -1,0 +1,7 @@
+signId	570
+text	hans
+imageUuid	8a2ab8ab-063e-4842-b9ca-7fc421ad1512
+translationKey	a6d306b4-5f3f-4531-85d5-5a67fd304a6e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8a2ab8ab-063e-4842-b9ca-7fc421ad1512/a6d306b4-5f3f-4531-85d5-5a67fd304a6e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8a2ab8ab-063e-4842-b9ca-7fc421ad1512/a6d306b4-5f3f-4531-85d5-5a67fd304a6e
+md5	be0aaf3ac55d9af167e20fc15df43519

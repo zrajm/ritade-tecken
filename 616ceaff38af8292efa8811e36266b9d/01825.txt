@@ -1,0 +1,7 @@
+signId	1825
+text	örhänge
+imageUuid	1c294586-9c7d-4019-8cec-0ad2931fe387
+translationKey	f6cef99c-b51f-4b91-94a0-99468f7ba482
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1c294586-9c7d-4019-8cec-0ad2931fe387/f6cef99c-b51f-4b91-94a0-99468f7ba482/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1c294586-9c7d-4019-8cec-0ad2931fe387/f6cef99c-b51f-4b91-94a0-99468f7ba482
+md5	616ceaff38af8292efa8811e36266b9d

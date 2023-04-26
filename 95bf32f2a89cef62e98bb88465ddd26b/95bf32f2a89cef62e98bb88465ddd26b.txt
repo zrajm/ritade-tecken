@@ -1,0 +1,8 @@
+
+signId	1860
+text	nagellack
+imageUuid	34511178-d797-4be2-8ea6-5f566dac93d1
+translationKey	d29de286-67f3-42d3-b097-229ead4a20cc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/34511178-d797-4be2-8ea6-5f566dac93d1/d29de286-67f3-42d3-b097-229ead4a20cc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/34511178-d797-4be2-8ea6-5f566dac93d1/d29de286-67f3-42d3-b097-229ead4a20cc
+md5	95bf32f2a89cef62e98bb88465ddd26b

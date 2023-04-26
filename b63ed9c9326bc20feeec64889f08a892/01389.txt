@@ -1,0 +1,7 @@
+signId	1389
+text	släkt
+imageUuid	ac2e321a-408a-44e5-ba87-924ac195f5f7
+translationKey	1a5d22c5-1078-4fb8-861e-4de2cc4690b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ac2e321a-408a-44e5-ba87-924ac195f5f7/1a5d22c5-1078-4fb8-861e-4de2cc4690b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ac2e321a-408a-44e5-ba87-924ac195f5f7/1a5d22c5-1078-4fb8-861e-4de2cc4690b5
+md5	b63ed9c9326bc20feeec64889f08a892

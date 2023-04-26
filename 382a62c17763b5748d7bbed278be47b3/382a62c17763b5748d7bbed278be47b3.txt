@@ -1,0 +1,8 @@
+
+signId	3059
+text	döma
+imageUuid	a7c1979f-e8ea-4abd-b39a-d4819aaf3bcd
+translationKey	c56056cc-1a7d-4728-82cf-48f1c3fe035a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a7c1979f-e8ea-4abd-b39a-d4819aaf3bcd/c56056cc-1a7d-4728-82cf-48f1c3fe035a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a7c1979f-e8ea-4abd-b39a-d4819aaf3bcd/c56056cc-1a7d-4728-82cf-48f1c3fe035a
+md5	382a62c17763b5748d7bbed278be47b3

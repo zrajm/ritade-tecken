@@ -1,0 +1,7 @@
+signId	2254
+text	turas om
+imageUuid	c031f5a9-4fd1-4950-b8f4-7de53c999155
+translationKey	a5dd5773-9111-42af-acde-9d5a763acb78
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c031f5a9-4fd1-4950-b8f4-7de53c999155/a5dd5773-9111-42af-acde-9d5a763acb78/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c031f5a9-4fd1-4950-b8f4-7de53c999155/a5dd5773-9111-42af-acde-9d5a763acb78
+md5	d9c607b10da2e2ab5937fe2e47838910

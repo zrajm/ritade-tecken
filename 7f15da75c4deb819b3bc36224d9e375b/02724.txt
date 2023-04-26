@@ -1,0 +1,7 @@
+signId	2724
+text	marsvin
+imageUuid	500cc44d-0703-4129-9b86-cdcef60daced
+translationKey	cd80f055-e61c-4ce4-b873-d1df6e422340
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/500cc44d-0703-4129-9b86-cdcef60daced/cd80f055-e61c-4ce4-b873-d1df6e422340/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/500cc44d-0703-4129-9b86-cdcef60daced/cd80f055-e61c-4ce4-b873-d1df6e422340
+md5	7f15da75c4deb819b3bc36224d9e375b

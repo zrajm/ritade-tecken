@@ -1,0 +1,8 @@
+
+signId	3309
+text	internationell
+imageUuid	4d93799e-eed4-406b-81cd-f18c607d60f5
+translationKey	4fe02dea-d0d7-4716-bd67-1712d35e1167
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4d93799e-eed4-406b-81cd-f18c607d60f5/4fe02dea-d0d7-4716-bd67-1712d35e1167/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4d93799e-eed4-406b-81cd-f18c607d60f5/4fe02dea-d0d7-4716-bd67-1712d35e1167
+md5	57d20de6cc55ba99f9a879ffa8f726f7

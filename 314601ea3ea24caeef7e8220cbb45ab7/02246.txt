@@ -1,0 +1,7 @@
+signId	2246
+text	snippa
+imageUuid	07525a92-fb6f-442a-abed-bd8d18a94ac7
+translationKey	a3d34f06-a7b5-4237-be47-ab288abe2945
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/07525a92-fb6f-442a-abed-bd8d18a94ac7/a3d34f06-a7b5-4237-be47-ab288abe2945/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/07525a92-fb6f-442a-abed-bd8d18a94ac7/a3d34f06-a7b5-4237-be47-ab288abe2945
+md5	314601ea3ea24caeef7e8220cbb45ab7

@@ -1,0 +1,8 @@
+
+signId	3232
+text	swish
+imageUuid	7621f4ef-a394-4f32-ac5c-c9b96d7c0a6a
+translationKey	48c3ae03-2864-4fbc-bf2c-d9e1ff0a38ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7621f4ef-a394-4f32-ac5c-c9b96d7c0a6a/48c3ae03-2864-4fbc-bf2c-d9e1ff0a38ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7621f4ef-a394-4f32-ac5c-c9b96d7c0a6a/48c3ae03-2864-4fbc-bf2c-d9e1ff0a38ab
+md5	cb854fd60871ba8d5608f17e677fa666

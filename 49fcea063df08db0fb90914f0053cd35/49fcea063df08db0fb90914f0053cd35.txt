@@ -1,0 +1,16 @@
+
+signId	2526
+text	syfte
+imageUuid	e87514a6-c855-4dd3-83cd-da87bce9f058
+translationKey	29068638-e6d9-41e5-88c8-d33b5371b15b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e87514a6-c855-4dd3-83cd-da87bce9f058/29068638-e6d9-41e5-88c8-d33b5371b15b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e87514a6-c855-4dd3-83cd-da87bce9f058/29068638-e6d9-41e5-88c8-d33b5371b15b
+md5	49fcea063df08db0fb90914f0053cd35
+
+signId	3438
+text	åsikt
+imageUuid	aee0ebc3-a317-4be5-adaa-9d4918b550d8
+translationKey	3c87826a-e51e-447f-b3ef-ec70b66bf56a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aee0ebc3-a317-4be5-adaa-9d4918b550d8/3c87826a-e51e-447f-b3ef-ec70b66bf56a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aee0ebc3-a317-4be5-adaa-9d4918b550d8/3c87826a-e51e-447f-b3ef-ec70b66bf56a
+md5	49fcea063df08db0fb90914f0053cd35

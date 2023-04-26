@@ -1,0 +1,7 @@
+signId	3019
+text	tamburin
+imageUuid	86351f73-e490-43cd-a6a1-3c0bc10dca47
+translationKey	be131d2c-4176-4826-9b6e-52c449d9c755
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86351f73-e490-43cd-a6a1-3c0bc10dca47/be131d2c-4176-4826-9b6e-52c449d9c755/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86351f73-e490-43cd-a6a1-3c0bc10dca47/be131d2c-4176-4826-9b6e-52c449d9c755
+md5	6e1e705788e1190853da91b7d578337d

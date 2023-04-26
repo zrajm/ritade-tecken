@@ -1,0 +1,8 @@
+
+signId	2621
+text	vårdcentral
+imageUuid	58434906-a90d-4b09-bbd9-1983a5101203
+translationKey	12ec6c4c-6c6d-4244-8697-5b64df5147c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/58434906-a90d-4b09-bbd9-1983a5101203/12ec6c4c-6c6d-4244-8697-5b64df5147c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/58434906-a90d-4b09-bbd9-1983a5101203/12ec6c4c-6c6d-4244-8697-5b64df5147c7
+md5	d5048331c4bf4830f7c43254b7fd1c96

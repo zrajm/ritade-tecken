@@ -1,0 +1,7 @@
+signId	2045
+text	duka fram
+imageUuid	a58ef59e-ca3c-49ad-b83f-5c54da7b9d62
+translationKey	bc47fcaa-794b-4359-b8d5-2b98c35480c5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a58ef59e-ca3c-49ad-b83f-5c54da7b9d62/bc47fcaa-794b-4359-b8d5-2b98c35480c5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a58ef59e-ca3c-49ad-b83f-5c54da7b9d62/bc47fcaa-794b-4359-b8d5-2b98c35480c5
+md5	3801fb80bc13771e97e40add198739f9

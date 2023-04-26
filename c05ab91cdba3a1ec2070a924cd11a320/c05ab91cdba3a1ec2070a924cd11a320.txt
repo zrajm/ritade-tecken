@@ -1,0 +1,8 @@
+
+signId	247
+text	dammig
+imageUuid	97aa87fb-193b-4bf6-8ec8-791d697f6ed9
+translationKey	59fa8b66-1806-4759-9889-21b7a64c6a13
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/97aa87fb-193b-4bf6-8ec8-791d697f6ed9/59fa8b66-1806-4759-9889-21b7a64c6a13/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/97aa87fb-193b-4bf6-8ec8-791d697f6ed9/59fa8b66-1806-4759-9889-21b7a64c6a13
+md5	c05ab91cdba3a1ec2070a924cd11a320

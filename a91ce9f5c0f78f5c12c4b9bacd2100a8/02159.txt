@@ -1,0 +1,7 @@
+signId	2159
+text	vända sig
+imageUuid	6ec1533f-a683-46c4-9e09-23d4bd3bb89d
+translationKey	2b5817c7-d469-4085-b155-d4ec5c313675
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6ec1533f-a683-46c4-9e09-23d4bd3bb89d/2b5817c7-d469-4085-b155-d4ec5c313675/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6ec1533f-a683-46c4-9e09-23d4bd3bb89d/2b5817c7-d469-4085-b155-d4ec5c313675
+md5	a91ce9f5c0f78f5c12c4b9bacd2100a8

@@ -1,0 +1,7 @@
+signId	1668
+text	tärning
+imageUuid	31ea4700-b872-4bcc-86e4-21f202168f01
+translationKey	405972a1-9e95-4524-936a-82ab6b8481e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/31ea4700-b872-4bcc-86e4-21f202168f01/405972a1-9e95-4524-936a-82ab6b8481e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/31ea4700-b872-4bcc-86e4-21f202168f01/405972a1-9e95-4524-936a-82ab6b8481e1
+md5	8740ab06204dd9f3cc15e939c47c4222

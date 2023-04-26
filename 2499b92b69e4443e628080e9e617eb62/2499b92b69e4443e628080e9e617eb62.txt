@@ -1,0 +1,8 @@
+
+signId	2785
+text	hjärna
+imageUuid	a92241fa-0413-4300-bc97-740df926ed5b
+translationKey	6a31a759-4e82-4995-9ecd-aabb43401f73
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a92241fa-0413-4300-bc97-740df926ed5b/6a31a759-4e82-4995-9ecd-aabb43401f73/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a92241fa-0413-4300-bc97-740df926ed5b/6a31a759-4e82-4995-9ecd-aabb43401f73
+md5	2499b92b69e4443e628080e9e617eb62

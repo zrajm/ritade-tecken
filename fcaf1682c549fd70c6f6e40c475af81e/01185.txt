@@ -1,0 +1,7 @@
+signId	1185
+text	praktik
+imageUuid	fb422b9e-b977-40b2-9158-357d3eacbdb8
+translationKey	a5be726a-e447-48ff-b4d1-ddadc51daf3c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fb422b9e-b977-40b2-9158-357d3eacbdb8/a5be726a-e447-48ff-b4d1-ddadc51daf3c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fb422b9e-b977-40b2-9158-357d3eacbdb8/a5be726a-e447-48ff-b4d1-ddadc51daf3c
+md5	fcaf1682c549fd70c6f6e40c475af81e

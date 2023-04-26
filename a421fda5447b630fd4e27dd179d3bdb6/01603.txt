@@ -1,0 +1,7 @@
+signId	1603
+text	torsdag 1
+imageUuid	17359d2c-bc34-469d-85d8-ff9ee6bdc1c7
+translationKey	a85cb3c2-d9fc-45dd-b967-de74c9c5903c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/17359d2c-bc34-469d-85d8-ff9ee6bdc1c7/a85cb3c2-d9fc-45dd-b967-de74c9c5903c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/17359d2c-bc34-469d-85d8-ff9ee6bdc1c7/a85cb3c2-d9fc-45dd-b967-de74c9c5903c
+md5	a421fda5447b630fd4e27dd179d3bdb6

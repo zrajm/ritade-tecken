@@ -1,0 +1,8 @@
+
+signId	1497
+text	strumpbyxor
+imageUuid	8b0b92d0-3a62-4218-a1eb-73fbbada0f21
+translationKey	13504216-8c0d-409d-b3ea-e8608d77aa1a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8b0b92d0-3a62-4218-a1eb-73fbbada0f21/13504216-8c0d-409d-b3ea-e8608d77aa1a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8b0b92d0-3a62-4218-a1eb-73fbbada0f21/13504216-8c0d-409d-b3ea-e8608d77aa1a
+md5	a6325ced020625555ef097109364cdcf

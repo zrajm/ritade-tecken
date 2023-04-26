@@ -1,0 +1,7 @@
+signId	2901
+text	pärm
+imageUuid	3a2c7b84-1c7e-4c60-94e8-8fdcd4d8e8d2
+translationKey	39f5dd7e-cd73-4143-85e3-1f1d915cfdd5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a2c7b84-1c7e-4c60-94e8-8fdcd4d8e8d2/39f5dd7e-cd73-4143-85e3-1f1d915cfdd5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a2c7b84-1c7e-4c60-94e8-8fdcd4d8e8d2/39f5dd7e-cd73-4143-85e3-1f1d915cfdd5
+md5	8449bc490f385627640645d1011ce4f4

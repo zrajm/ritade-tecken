@@ -1,0 +1,8 @@
+
+signId	1151
+text	pensionär
+imageUuid	362a809d-f9cf-49ef-a94e-b123c613d8f6
+translationKey	16482901-fbc0-40b7-89d1-16057e8c5b05
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/362a809d-f9cf-49ef-a94e-b123c613d8f6/16482901-fbc0-40b7-89d1-16057e8c5b05/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/362a809d-f9cf-49ef-a94e-b123c613d8f6/16482901-fbc0-40b7-89d1-16057e8c5b05
+md5	b7a67bed6f02195d4a33af439f1e63b5

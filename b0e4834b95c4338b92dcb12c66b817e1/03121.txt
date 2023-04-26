@@ -1,0 +1,7 @@
+signId	3121
+text	grund
+imageUuid	6c791a7e-cf8f-4944-af21-bdd81bb2b81b
+translationKey	67c6719d-1b22-4e4e-9e3b-fd88c22aa159
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6c791a7e-cf8f-4944-af21-bdd81bb2b81b/67c6719d-1b22-4e4e-9e3b-fd88c22aa159/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6c791a7e-cf8f-4944-af21-bdd81bb2b81b/67c6719d-1b22-4e4e-9e3b-fd88c22aa159
+md5	b0e4834b95c4338b92dcb12c66b817e1

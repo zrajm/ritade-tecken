@@ -1,0 +1,7 @@
+signId	1340
+text	skjorta
+imageUuid	fad826c8-c10f-4bbe-b340-773bf3e62529
+translationKey	b5345b05-9ec7-49b3-92ad-b99453641255
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fad826c8-c10f-4bbe-b340-773bf3e62529/b5345b05-9ec7-49b3-92ad-b99453641255/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fad826c8-c10f-4bbe-b340-773bf3e62529/b5345b05-9ec7-49b3-92ad-b99453641255
+md5	cc18ba14077168a6e0e3a8320d62508c

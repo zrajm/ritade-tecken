@@ -1,0 +1,7 @@
+signId	869
+text	landet
+imageUuid	c03f3d29-9b62-424a-bea4-5956824a0978
+translationKey	5eeea350-09c5-4736-8097-ce960a9fc1a5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c03f3d29-9b62-424a-bea4-5956824a0978/5eeea350-09c5-4736-8097-ce960a9fc1a5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c03f3d29-9b62-424a-bea4-5956824a0978/5eeea350-09c5-4736-8097-ce960a9fc1a5
+md5	41123314170476eeeaa1afe566d50b5c

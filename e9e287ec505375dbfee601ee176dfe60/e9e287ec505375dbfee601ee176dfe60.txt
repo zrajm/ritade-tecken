@@ -1,0 +1,8 @@
+
+signId	933
+text	lägenhet
+imageUuid	d6ca671c-9c74-42dd-96ad-a3db08f8afd0
+translationKey	d9700ff3-6a40-4e3c-a928-1a6088677a28
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d6ca671c-9c74-42dd-96ad-a3db08f8afd0/d9700ff3-6a40-4e3c-a928-1a6088677a28/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d6ca671c-9c74-42dd-96ad-a3db08f8afd0/d9700ff3-6a40-4e3c-a928-1a6088677a28
+md5	e9e287ec505375dbfee601ee176dfe60

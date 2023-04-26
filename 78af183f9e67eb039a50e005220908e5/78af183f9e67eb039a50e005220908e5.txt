@@ -1,0 +1,8 @@
+
+signId	1164
+text	pinne
+imageUuid	0d660d8d-ac91-4c5d-a045-0dc1d25fb574
+translationKey	865524e6-f7af-484a-90f4-eb981b689826
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0d660d8d-ac91-4c5d-a045-0dc1d25fb574/865524e6-f7af-484a-90f4-eb981b689826/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0d660d8d-ac91-4c5d-a045-0dc1d25fb574/865524e6-f7af-484a-90f4-eb981b689826
+md5	78af183f9e67eb039a50e005220908e5

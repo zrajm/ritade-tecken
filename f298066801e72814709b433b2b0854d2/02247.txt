@@ -1,0 +1,7 @@
+signId	2247
+text	spruta
+imageUuid	d6309c5c-b0ce-4269-ae8f-aef611c83e6b
+translationKey	89410fea-5b71-4d2a-83a4-31194b0d8425
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d6309c5c-b0ce-4269-ae8f-aef611c83e6b/89410fea-5b71-4d2a-83a4-31194b0d8425/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d6309c5c-b0ce-4269-ae8f-aef611c83e6b/89410fea-5b71-4d2a-83a4-31194b0d8425
+md5	f298066801e72814709b433b2b0854d2

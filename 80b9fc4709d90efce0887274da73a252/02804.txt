@@ -1,0 +1,7 @@
+signId	2804
+text	vitlök
+imageUuid	4500cef7-c7eb-4982-89d1-7ba8160561b3
+translationKey	583ad0f1-0909-4501-a718-6e2d3a183121
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4500cef7-c7eb-4982-89d1-7ba8160561b3/583ad0f1-0909-4501-a718-6e2d3a183121/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4500cef7-c7eb-4982-89d1-7ba8160561b3/583ad0f1-0909-4501-a718-6e2d3a183121
+md5	80b9fc4709d90efce0887274da73a252

@@ -1,0 +1,8 @@
+
+signId	2189
+text	museum
+imageUuid	5715c32d-f87d-40da-a786-370fd9414588
+translationKey	08b88904-8650-4391-b9cf-feafdd7ac3e7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5715c32d-f87d-40da-a786-370fd9414588/08b88904-8650-4391-b9cf-feafdd7ac3e7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5715c32d-f87d-40da-a786-370fd9414588/08b88904-8650-4391-b9cf-feafdd7ac3e7
+md5	276283205bf1c84e2b0d5cb332378ef3

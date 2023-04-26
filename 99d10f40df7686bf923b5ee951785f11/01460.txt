@@ -1,0 +1,7 @@
+signId	1460
+text	spännande
+imageUuid	a3ad35ef-3e58-469b-be87-d9c8b2358fea
+translationKey	506e4030-8759-414d-8b28-50fb7b7a0117
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a3ad35ef-3e58-469b-be87-d9c8b2358fea/506e4030-8759-414d-8b28-50fb7b7a0117/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a3ad35ef-3e58-469b-be87-d9c8b2358fea/506e4030-8759-414d-8b28-50fb7b7a0117
+md5	99d10f40df7686bf923b5ee951785f11

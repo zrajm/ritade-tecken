@@ -1,0 +1,24 @@
+
+signId	74
+text	assiett
+imageUuid	1a3d1bf2-ff96-4829-8042-6de2c2e2be79
+translationKey	5d3a059a-5466-42da-a24a-460a7f21f6fe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1a3d1bf2-ff96-4829-8042-6de2c2e2be79/5d3a059a-5466-42da-a24a-460a7f21f6fe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1a3d1bf2-ff96-4829-8042-6de2c2e2be79/5d3a059a-5466-42da-a24a-460a7f21f6fe
+md5	8c20ae7c40e272bc71880a745a65a088
+
+signId	349
+text	fat
+imageUuid	fe18b546-b63c-4b8c-840c-f19818de0bdd
+translationKey	b961276d-15e4-4cce-b9e6-6937626d11ba
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fe18b546-b63c-4b8c-840c-f19818de0bdd/b961276d-15e4-4cce-b9e6-6937626d11ba/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fe18b546-b63c-4b8c-840c-f19818de0bdd/b961276d-15e4-4cce-b9e6-6937626d11ba
+md5	8c20ae7c40e272bc71880a745a65a088
+
+signId	1558
+text	tallrik
+imageUuid	9cb94541-4b39-4cc5-ad89-da9655b63eda
+translationKey	e8cc90d1-326a-4517-90dc-d76a3ec17689
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9cb94541-4b39-4cc5-ad89-da9655b63eda/e8cc90d1-326a-4517-90dc-d76a3ec17689/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9cb94541-4b39-4cc5-ad89-da9655b63eda/e8cc90d1-326a-4517-90dc-d76a3ec17689
+md5	8c20ae7c40e272bc71880a745a65a088

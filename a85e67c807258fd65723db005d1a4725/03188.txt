@@ -1,0 +1,7 @@
+signId	3188
+text	begrepp
+imageUuid	ea0c8814-b12d-4712-8600-a04dc7760b38
+translationKey	ab837237-ead2-4872-9116-cf5ceff15bae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea0c8814-b12d-4712-8600-a04dc7760b38/ab837237-ead2-4872-9116-cf5ceff15bae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea0c8814-b12d-4712-8600-a04dc7760b38/ab837237-ead2-4872-9116-cf5ceff15bae
+md5	a85e67c807258fd65723db005d1a4725

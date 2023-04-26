@@ -1,0 +1,7 @@
+signId	2480
+text	sköldpadda
+imageUuid	5486a9ee-8661-4c94-aa16-d1531f7d4a43
+translationKey	4f9c02f2-5eba-4e9d-a655-0d223205944d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5486a9ee-8661-4c94-aa16-d1531f7d4a43/4f9c02f2-5eba-4e9d-a655-0d223205944d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5486a9ee-8661-4c94-aa16-d1531f7d4a43/4f9c02f2-5eba-4e9d-a655-0d223205944d
+md5	6ecc8a092d92a1dea3f55d745de1f0af

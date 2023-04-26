@@ -1,0 +1,7 @@
+signId	1207
+text	pussel
+imageUuid	4b1cb218-dde6-4d69-84ed-9a41aef1d363
+translationKey	5e0839b8-bdda-4670-9264-569483993afe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4b1cb218-dde6-4d69-84ed-9a41aef1d363/5e0839b8-bdda-4670-9264-569483993afe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4b1cb218-dde6-4d69-84ed-9a41aef1d363/5e0839b8-bdda-4670-9264-569483993afe
+md5	235f880855dc527c9cb10bf2433b4749

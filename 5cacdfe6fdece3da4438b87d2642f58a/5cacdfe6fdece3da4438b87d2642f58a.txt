@@ -1,0 +1,8 @@
+
+signId	1769
+text	vänster 2
+imageUuid	423f6088-2c7d-40d2-9ffc-a2bac5760700
+translationKey	ab395f66-e2a0-4a1e-a06a-6819e92600a1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/423f6088-2c7d-40d2-9ffc-a2bac5760700/ab395f66-e2a0-4a1e-a06a-6819e92600a1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/423f6088-2c7d-40d2-9ffc-a2bac5760700/ab395f66-e2a0-4a1e-a06a-6819e92600a1
+md5	5cacdfe6fdece3da4438b87d2642f58a

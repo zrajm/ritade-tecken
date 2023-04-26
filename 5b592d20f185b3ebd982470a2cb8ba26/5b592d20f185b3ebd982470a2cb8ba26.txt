@@ -1,0 +1,16 @@
+
+signId	434
+text	få2 (erhålla)
+imageUuid	d7dec13d-06d5-4c3d-9bb4-a17a7e8e1d7a
+translationKey	ad2f67f4-5a8a-4079-9c46-7fa048238ee5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d7dec13d-06d5-4c3d-9bb4-a17a7e8e1d7a/ad2f67f4-5a8a-4079-9c46-7fa048238ee5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d7dec13d-06d5-4c3d-9bb4-a17a7e8e1d7a/ad2f67f4-5a8a-4079-9c46-7fa048238ee5
+md5	5b592d20f185b3ebd982470a2cb8ba26
+
+signId	479
+text	ge 1
+imageUuid	e607ec05-9718-42a9-9614-03473deff12e
+translationKey	ac1b7e03-735d-479b-8b15-60455ec80194
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e607ec05-9718-42a9-9614-03473deff12e/ac1b7e03-735d-479b-8b15-60455ec80194/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e607ec05-9718-42a9-9614-03473deff12e/ac1b7e03-735d-479b-8b15-60455ec80194
+md5	5b592d20f185b3ebd982470a2cb8ba26

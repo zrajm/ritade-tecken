@@ -1,0 +1,7 @@
+signId	2707
+text	godkänna
+imageUuid	6ac7ae4d-0439-41b2-9aaf-8542a2b02cf0
+translationKey	627f5610-af98-41c3-bcd7-73a35b15dd11
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6ac7ae4d-0439-41b2-9aaf-8542a2b02cf0/627f5610-af98-41c3-bcd7-73a35b15dd11/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6ac7ae4d-0439-41b2-9aaf-8542a2b02cf0/627f5610-af98-41c3-bcd7-73a35b15dd11
+md5	96914a5f350b1801680283a87328aef3

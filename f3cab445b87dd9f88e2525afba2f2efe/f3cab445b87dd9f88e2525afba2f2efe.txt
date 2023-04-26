@@ -1,0 +1,24 @@
+
+signId	46
+text	alltid
+imageUuid	48e36ef2-d07b-4025-b2b0-2909cea66436
+translationKey	5b69bec2-338d-4a4c-92ff-0d591fa35101
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/48e36ef2-d07b-4025-b2b0-2909cea66436/5b69bec2-338d-4a4c-92ff-0d591fa35101/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/48e36ef2-d07b-4025-b2b0-2909cea66436/5b69bec2-338d-4a4c-92ff-0d591fa35101
+md5	f3cab445b87dd9f88e2525afba2f2efe
+
+signId	193
+text	bruka (ha för vana)
+imageUuid	6b142389-97b9-47f2-8c67-dabd2dcc2c38
+translationKey	6d418e9a-500c-49c7-94eb-5ce69d60d9fd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b142389-97b9-47f2-8c67-dabd2dcc2c38/6d418e9a-500c-49c7-94eb-5ce69d60d9fd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b142389-97b9-47f2-8c67-dabd2dcc2c38/6d418e9a-500c-49c7-94eb-5ce69d60d9fd
+md5	f3cab445b87dd9f88e2525afba2f2efe
+
+signId	704
+text	jämt
+imageUuid	2e8071d9-70af-4c20-9d3f-52c02b0ed051
+translationKey	89920daa-f1c3-473f-ba40-dfabb16fde6d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2e8071d9-70af-4c20-9d3f-52c02b0ed051/89920daa-f1c3-473f-ba40-dfabb16fde6d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2e8071d9-70af-4c20-9d3f-52c02b0ed051/89920daa-f1c3-473f-ba40-dfabb16fde6d
+md5	f3cab445b87dd9f88e2525afba2f2efe

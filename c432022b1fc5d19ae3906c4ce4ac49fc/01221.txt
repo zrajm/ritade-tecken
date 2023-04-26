@@ -1,0 +1,7 @@
+signId	1221
+text	Q (bokstav)
+imageUuid	f58bb64d-2003-497d-88f4-43ac2fea4234
+translationKey	3d36a153-bc1a-4347-80a7-abac0ea426f5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f58bb64d-2003-497d-88f4-43ac2fea4234/3d36a153-bc1a-4347-80a7-abac0ea426f5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f58bb64d-2003-497d-88f4-43ac2fea4234/3d36a153-bc1a-4347-80a7-abac0ea426f5
+md5	c432022b1fc5d19ae3906c4ce4ac49fc

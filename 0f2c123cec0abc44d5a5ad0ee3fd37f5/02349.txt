@@ -1,0 +1,7 @@
+signId	2349
+text	kika
+imageUuid	ef2c6e6c-0773-419d-ae35-43100e4aa446
+translationKey	6bb68353-30ab-4bea-a73f-10ce59fa67ce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ef2c6e6c-0773-419d-ae35-43100e4aa446/6bb68353-30ab-4bea-a73f-10ce59fa67ce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ef2c6e6c-0773-419d-ae35-43100e4aa446/6bb68353-30ab-4bea-a73f-10ce59fa67ce
+md5	0f2c123cec0abc44d5a5ad0ee3fd37f5

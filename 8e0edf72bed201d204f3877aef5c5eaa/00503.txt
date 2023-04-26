@@ -1,0 +1,7 @@
+signId	503
+text	granne 1
+imageUuid	6175230b-0d45-46e6-976c-c7d69cee3d08
+translationKey	ccdade69-eaa6-4d10-bece-251d281dc43a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6175230b-0d45-46e6-976c-c7d69cee3d08/ccdade69-eaa6-4d10-bece-251d281dc43a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6175230b-0d45-46e6-976c-c7d69cee3d08/ccdade69-eaa6-4d10-bece-251d281dc43a
+md5	8e0edf72bed201d204f3877aef5c5eaa

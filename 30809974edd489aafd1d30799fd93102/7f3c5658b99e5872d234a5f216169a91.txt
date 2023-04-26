@@ -1,0 +1,8 @@
+
+signId	1895
+text	varje
+imageUuid	459a6436-9106-49cd-8362-3159fd416424
+translationKey	c30e3fb4-3c9a-4ec8-8159-027fe0b2c5a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/459a6436-9106-49cd-8362-3159fd416424/c30e3fb4-3c9a-4ec8-8159-027fe0b2c5a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/459a6436-9106-49cd-8362-3159fd416424/c30e3fb4-3c9a-4ec8-8159-027fe0b2c5a7
+md5	7f3c5658b99e5872d234a5f216169a91

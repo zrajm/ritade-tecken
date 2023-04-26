@@ -1,0 +1,8 @@
+
+signId	3081
+text	ställa fram
+imageUuid	4b72779d-fd5c-45c6-a161-b5288add83c1
+translationKey	d00200f6-9fa5-4708-9098-23501c9580f6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4b72779d-fd5c-45c6-a161-b5288add83c1/d00200f6-9fa5-4708-9098-23501c9580f6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4b72779d-fd5c-45c6-a161-b5288add83c1/d00200f6-9fa5-4708-9098-23501c9580f6
+md5	a92d8ef172e14264a22b0392c6a58a5a

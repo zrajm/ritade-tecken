@@ -1,0 +1,7 @@
+signId	1882
+text	bevisa
+imageUuid	26eb345a-60b6-476f-92a1-e80883059875
+translationKey	72047510-ce9a-43ad-9de0-cc4f55d60f5b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/26eb345a-60b6-476f-92a1-e80883059875/72047510-ce9a-43ad-9de0-cc4f55d60f5b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/26eb345a-60b6-476f-92a1-e80883059875/72047510-ce9a-43ad-9de0-cc4f55d60f5b
+md5	5a97f576ff182dff8cf9b36e876f6dd0

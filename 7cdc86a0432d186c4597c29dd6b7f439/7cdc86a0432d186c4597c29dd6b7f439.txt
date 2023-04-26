@@ -1,0 +1,8 @@
+
+signId	1042
+text	målarbok
+imageUuid	2b582f68-855b-4a13-8bbb-b6bbbf48c9d9
+translationKey	09d73b88-02d8-4914-be06-d29e4f7c42b7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2b582f68-855b-4a13-8bbb-b6bbbf48c9d9/09d73b88-02d8-4914-be06-d29e4f7c42b7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2b582f68-855b-4a13-8bbb-b6bbbf48c9d9/09d73b88-02d8-4914-be06-d29e4f7c42b7
+md5	7cdc86a0432d186c4597c29dd6b7f439

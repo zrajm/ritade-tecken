@@ -1,0 +1,7 @@
+signId	1896
+text	fjärde
+imageUuid	dea8113b-09c2-4f9d-976f-800e53699822
+translationKey	e81a0cbe-364d-4350-8283-ef92323e226c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dea8113b-09c2-4f9d-976f-800e53699822/e81a0cbe-364d-4350-8283-ef92323e226c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dea8113b-09c2-4f9d-976f-800e53699822/e81a0cbe-364d-4350-8283-ef92323e226c
+md5	e050b7bbce0426c0b642e058438b473b

@@ -1,0 +1,8 @@
+
+signId	3394
+text	klockan 1
+imageUuid	5a034e92-0b1d-4456-9ae0-93b2c2e5a4b4
+translationKey	81ca77e5-205e-45a6-be16-e577c55a6537
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5a034e92-0b1d-4456-9ae0-93b2c2e5a4b4/81ca77e5-205e-45a6-be16-e577c55a6537/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5a034e92-0b1d-4456-9ae0-93b2c2e5a4b4/81ca77e5-205e-45a6-be16-e577c55a6537
+md5	fede81b34d3a9c2d3bc42226767ac0fb

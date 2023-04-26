@@ -1,0 +1,7 @@
+signId	732
+text	kasta
+imageUuid	c1cf5133-b381-461d-9484-8c528643e5a9
+translationKey	ba0f1e47-1544-41f5-8f19-1b8680100050
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c1cf5133-b381-461d-9484-8c528643e5a9/ba0f1e47-1544-41f5-8f19-1b8680100050/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c1cf5133-b381-461d-9484-8c528643e5a9/ba0f1e47-1544-41f5-8f19-1b8680100050
+md5	e42d37afa6090ef3d4205d2cb07c9c69

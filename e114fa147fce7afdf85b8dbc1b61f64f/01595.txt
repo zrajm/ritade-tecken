@@ -1,0 +1,7 @@
+signId	1595
+text	tofflor
+imageUuid	318b25b4-c9e7-4f80-9913-1eb53c3a5f67
+translationKey	d114534e-8888-4906-a54a-86bd029f569b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/318b25b4-c9e7-4f80-9913-1eb53c3a5f67/d114534e-8888-4906-a54a-86bd029f569b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/318b25b4-c9e7-4f80-9913-1eb53c3a5f67/d114534e-8888-4906-a54a-86bd029f569b
+md5	e114fa147fce7afdf85b8dbc1b61f64f

@@ -1,0 +1,7 @@
+signId	2729
+text	sliten
+imageUuid	8801c8da-13e1-40c2-8c48-c7829f91b690
+translationKey	f7643375-b18a-471d-88ff-a990721d1496
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8801c8da-13e1-40c2-8c48-c7829f91b690/f7643375-b18a-471d-88ff-a990721d1496/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8801c8da-13e1-40c2-8c48-c7829f91b690/f7643375-b18a-471d-88ff-a990721d1496
+md5	06e7f4cca6df6376c66c34e89f72416e

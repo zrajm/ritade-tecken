@@ -1,0 +1,7 @@
+signId	1663
+text	tälta
+imageUuid	36ca931c-3d00-4e65-b5d2-8223cac00811
+translationKey	6c317882-5941-4251-a772-9e0fb1d5bb57
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/36ca931c-3d00-4e65-b5d2-8223cac00811/6c317882-5941-4251-a772-9e0fb1d5bb57/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/36ca931c-3d00-4e65-b5d2-8223cac00811/6c317882-5941-4251-a772-9e0fb1d5bb57
+md5	1b3704b899967df307e4ef13e413a784

@@ -1,0 +1,8 @@
+
+signId	3053
+text	amen
+imageUuid	0f306a38-e928-4fb1-89e9-6e80b0d92be5
+translationKey	f50b00ee-fb63-47a1-914f-5160c6a6c9ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0f306a38-e928-4fb1-89e9-6e80b0d92be5/f50b00ee-fb63-47a1-914f-5160c6a6c9ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0f306a38-e928-4fb1-89e9-6e80b0d92be5/f50b00ee-fb63-47a1-914f-5160c6a6c9ca
+md5	7a89e35a5cf52c0142660e9973a5694d

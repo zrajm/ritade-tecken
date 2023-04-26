@@ -1,0 +1,24 @@
+
+signId	71
+text	artig
+imageUuid	1690b295-c871-42bd-952e-9c5aa0e67876
+translationKey	839132db-391e-4b37-90c5-b2c8e5908493
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1690b295-c871-42bd-952e-9c5aa0e67876/839132db-391e-4b37-90c5-b2c8e5908493/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1690b295-c871-42bd-952e-9c5aa0e67876/839132db-391e-4b37-90c5-b2c8e5908493
+md5	bef4cc8f8a17730c822e2c4e590c8c0e
+
+signId	288
+text	dressyr
+imageUuid	98c7efe0-b6ac-4a27-9289-eeb144c77e45
+translationKey	e89bdeba-f607-4e0d-b004-100266190a91
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/98c7efe0-b6ac-4a27-9289-eeb144c77e45/e89bdeba-f607-4e0d-b004-100266190a91/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/98c7efe0-b6ac-4a27-9289-eeb144c77e45/e89bdeba-f607-4e0d-b004-100266190a91
+md5	bef4cc8f8a17730c822e2c4e590c8c0e
+
+signId	918
+text	lyda
+imageUuid	db800c91-c499-4f81-80ee-2e7541358833
+translationKey	6ef17980-eea4-4dcf-b7b0-5c48263d17cf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/db800c91-c499-4f81-80ee-2e7541358833/6ef17980-eea4-4dcf-b7b0-5c48263d17cf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/db800c91-c499-4f81-80ee-2e7541358833/6ef17980-eea4-4dcf-b7b0-5c48263d17cf
+md5	bef4cc8f8a17730c822e2c4e590c8c0e

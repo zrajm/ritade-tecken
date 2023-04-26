@@ -1,0 +1,7 @@
+signId	953
+text	mage
+imageUuid	1bf2501a-e214-4add-ad36-fe17fa57644f
+translationKey	b450b342-efa4-407b-bac7-53b4dc919f74
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1bf2501a-e214-4add-ad36-fe17fa57644f/b450b342-efa4-407b-bac7-53b4dc919f74/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1bf2501a-e214-4add-ad36-fe17fa57644f/b450b342-efa4-407b-bac7-53b4dc919f74
+md5	5a311442cdc5b0366446b7c8089078a2

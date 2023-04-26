@@ -1,0 +1,8 @@
+
+signId	3319
+text	kristendom
+imageUuid	fd70ccee-ad71-462f-9a1a-ada4bc7f12fc
+translationKey	ff5b5a9e-cc58-4efd-81fc-5e55300b807f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fd70ccee-ad71-462f-9a1a-ada4bc7f12fc/ff5b5a9e-cc58-4efd-81fc-5e55300b807f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fd70ccee-ad71-462f-9a1a-ada4bc7f12fc/ff5b5a9e-cc58-4efd-81fc-5e55300b807f
+md5	9717118e5be8e2131b98beeb67b59de9

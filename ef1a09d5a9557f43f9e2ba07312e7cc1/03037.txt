@@ -1,0 +1,7 @@
+signId	3037
+text	påminna
+imageUuid	ce6a9e33-4e62-442b-9b7b-a4e69ce1a54d
+translationKey	01bbbe83-5e59-4cf4-8c4b-35393e5b84e4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ce6a9e33-4e62-442b-9b7b-a4e69ce1a54d/01bbbe83-5e59-4cf4-8c4b-35393e5b84e4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ce6a9e33-4e62-442b-9b7b-a4e69ce1a54d/01bbbe83-5e59-4cf4-8c4b-35393e5b84e4
+md5	bcd45ba31f4cd1a7a4b6c49b9b674b72

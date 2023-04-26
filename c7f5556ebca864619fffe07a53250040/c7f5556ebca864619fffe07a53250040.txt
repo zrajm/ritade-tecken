@@ -1,0 +1,8 @@
+
+signId	802
+text	korv 2
+imageUuid	5fca2c38-8a73-49e9-9b47-638136789480
+translationKey	f8bd7eda-e096-4264-8691-28f5152b94da
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5fca2c38-8a73-49e9-9b47-638136789480/f8bd7eda-e096-4264-8691-28f5152b94da/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5fca2c38-8a73-49e9-9b47-638136789480/f8bd7eda-e096-4264-8691-28f5152b94da
+md5	c7f5556ebca864619fffe07a53250040

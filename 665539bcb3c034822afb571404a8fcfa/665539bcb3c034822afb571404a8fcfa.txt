@@ -1,0 +1,48 @@
+
+signId	879
+text	lek
+imageUuid	7fd3fb3b-c1aa-4ed4-8b0e-c7348d05d543
+translationKey	fca021d2-61d1-450c-bbdd-2b79dbe1002b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7fd3fb3b-c1aa-4ed4-8b0e-c7348d05d543/fca021d2-61d1-450c-bbdd-2b79dbe1002b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7fd3fb3b-c1aa-4ed4-8b0e-c7348d05d543/fca021d2-61d1-450c-bbdd-2b79dbe1002b
+md5	665539bcb3c034822afb571404a8fcfa
+
+signId	880
+text	leka
+imageUuid	59818eab-da1b-4db6-bed6-dd366e2e5c09
+translationKey	6efa66cf-4a4c-4e1d-bc8e-8e9a11d9065d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/59818eab-da1b-4db6-bed6-dd366e2e5c09/6efa66cf-4a4c-4e1d-bc8e-8e9a11d9065d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/59818eab-da1b-4db6-bed6-dd366e2e5c09/6efa66cf-4a4c-4e1d-bc8e-8e9a11d9065d
+md5	665539bcb3c034822afb571404a8fcfa
+
+signId	1346
+text	skoj
+imageUuid	85211739-fd71-4886-b74e-e3d5b6497463
+translationKey	c89cf0c0-8744-45cb-a202-a211e6f4bc3f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/85211739-fd71-4886-b74e-e3d5b6497463/c89cf0c0-8744-45cb-a202-a211e6f4bc3f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/85211739-fd71-4886-b74e-e3d5b6497463/c89cf0c0-8744-45cb-a202-a211e6f4bc3f
+md5	665539bcb3c034822afb571404a8fcfa
+
+signId	1347
+text	skoja
+imageUuid	192ff7e4-c73e-4140-a98f-ddeb597bc9bf
+translationKey	7abf828a-24d2-47a7-abed-83bcdfb48701
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/192ff7e4-c73e-4140-a98f-ddeb597bc9bf/7abf828a-24d2-47a7-abed-83bcdfb48701/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/192ff7e4-c73e-4140-a98f-ddeb597bc9bf/7abf828a-24d2-47a7-abed-83bcdfb48701
+md5	665539bcb3c034822afb571404a8fcfa
+
+signId	1374
+text	skämt
+imageUuid	aeae5df5-463e-4983-a548-cfdf1243d7f1
+translationKey	65fe8668-22f5-46e1-a7db-8215c4c16626
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aeae5df5-463e-4983-a548-cfdf1243d7f1/65fe8668-22f5-46e1-a7db-8215c4c16626/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aeae5df5-463e-4983-a548-cfdf1243d7f1/65fe8668-22f5-46e1-a7db-8215c4c16626
+md5	665539bcb3c034822afb571404a8fcfa
+
+signId	1375
+text	skämta
+imageUuid	2ae25a69-e226-4e6b-9622-71a1563e2fc3
+translationKey	6c5ae001-4209-4a2c-bc1c-eee2870bf88e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ae25a69-e226-4e6b-9622-71a1563e2fc3/6c5ae001-4209-4a2c-bc1c-eee2870bf88e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ae25a69-e226-4e6b-9622-71a1563e2fc3/6c5ae001-4209-4a2c-bc1c-eee2870bf88e
+md5	665539bcb3c034822afb571404a8fcfa

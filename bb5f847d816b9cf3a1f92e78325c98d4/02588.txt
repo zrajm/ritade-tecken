@@ -1,0 +1,7 @@
+signId	2588
+text	myrmark
+imageUuid	599e292b-33e1-4448-b6a6-c5799b558b4f
+translationKey	cde5f0c0-c6f1-4caf-93de-fb047503687d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/599e292b-33e1-4448-b6a6-c5799b558b4f/cde5f0c0-c6f1-4caf-93de-fb047503687d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/599e292b-33e1-4448-b6a6-c5799b558b4f/cde5f0c0-c6f1-4caf-93de-fb047503687d
+md5	bb5f847d816b9cf3a1f92e78325c98d4

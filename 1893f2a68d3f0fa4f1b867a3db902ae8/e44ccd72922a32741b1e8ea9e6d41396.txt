@@ -1,0 +1,8 @@
+
+signId	2579
+text	grävskopa
+imageUuid	2c7db0aa-8284-4681-828f-da0be412eeef
+translationKey	9e0d18fc-0c4f-4d84-8c79-e7fd40d023c1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2c7db0aa-8284-4681-828f-da0be412eeef/9e0d18fc-0c4f-4d84-8c79-e7fd40d023c1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2c7db0aa-8284-4681-828f-da0be412eeef/9e0d18fc-0c4f-4d84-8c79-e7fd40d023c1
+md5	e44ccd72922a32741b1e8ea9e6d41396

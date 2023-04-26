@@ -1,0 +1,7 @@
+signId	469
+text	förvånad
+imageUuid	143dcfbc-43df-40e5-88c5-0e2a6c12ba2c
+translationKey	ee663596-9f7b-41d3-9e3d-431185b3816a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/143dcfbc-43df-40e5-88c5-0e2a6c12ba2c/ee663596-9f7b-41d3-9e3d-431185b3816a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/143dcfbc-43df-40e5-88c5-0e2a6c12ba2c/ee663596-9f7b-41d3-9e3d-431185b3816a
+md5	48ed32905ca7d16234dc3a591c87ba17

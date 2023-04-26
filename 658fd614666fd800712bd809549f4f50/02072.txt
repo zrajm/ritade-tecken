@@ -1,0 +1,7 @@
+signId	2072
+text	osthyvel
+imageUuid	675df470-81a6-4f2d-a699-a4583bcc17d9
+translationKey	20141783-5f4e-48e6-860d-ab36bdcf0576
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/675df470-81a6-4f2d-a699-a4583bcc17d9/20141783-5f4e-48e6-860d-ab36bdcf0576/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/675df470-81a6-4f2d-a699-a4583bcc17d9/20141783-5f4e-48e6-860d-ab36bdcf0576
+md5	658fd614666fd800712bd809549f4f50

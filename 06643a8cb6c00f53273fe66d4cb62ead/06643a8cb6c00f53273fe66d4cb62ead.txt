@@ -1,0 +1,16 @@
+
+signId	1702
+text	vara (verb)
+imageUuid	f2390dcf-3dc5-4c19-b1bb-a761e31d1a44
+translationKey	8ee03e90-2679-45b5-98d7-2e211ad4fc07
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f2390dcf-3dc5-4c19-b1bb-a761e31d1a44/8ee03e90-2679-45b5-98d7-2e211ad4fc07/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f2390dcf-3dc5-4c19-b1bb-a761e31d1a44/8ee03e90-2679-45b5-98d7-2e211ad4fc07
+md5	06643a8cb6c00f53273fe66d4cb62ead
+
+signId	1810
+text	är
+imageUuid	6bd050c7-f408-4c56-935d-f30698ffedd8
+translationKey	c47568ad-6c35-4fed-baa3-e7dbefa9b24d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6bd050c7-f408-4c56-935d-f30698ffedd8/c47568ad-6c35-4fed-baa3-e7dbefa9b24d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6bd050c7-f408-4c56-935d-f30698ffedd8/c47568ad-6c35-4fed-baa3-e7dbefa9b24d
+md5	06643a8cb6c00f53273fe66d4cb62ead

@@ -1,0 +1,7 @@
+signId	2065
+text	ljuga
+imageUuid	7bbdbe85-df54-4ae3-9343-f5763a362152
+translationKey	d4d7910f-8dc4-48e8-bc57-ee286de05bff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7bbdbe85-df54-4ae3-9343-f5763a362152/d4d7910f-8dc4-48e8-bc57-ee286de05bff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7bbdbe85-df54-4ae3-9343-f5763a362152/d4d7910f-8dc4-48e8-bc57-ee286de05bff
+md5	66c1375c27d67d5e6b7c660614ec66d8

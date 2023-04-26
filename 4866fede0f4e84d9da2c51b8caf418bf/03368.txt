@@ -1,0 +1,7 @@
+signId	3368
+text	värdinna
+imageUuid	069e78e1-8bbd-4ba6-802d-4319e36e05e2
+translationKey	77339d49-0d9d-4169-8c87-bbf4f7120b69
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/069e78e1-8bbd-4ba6-802d-4319e36e05e2/77339d49-0d9d-4169-8c87-bbf4f7120b69/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/069e78e1-8bbd-4ba6-802d-4319e36e05e2/77339d49-0d9d-4169-8c87-bbf4f7120b69
+md5	4866fede0f4e84d9da2c51b8caf418bf

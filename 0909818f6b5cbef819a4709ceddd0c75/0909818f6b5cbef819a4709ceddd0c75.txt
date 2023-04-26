@@ -1,0 +1,24 @@
+
+signId	644
+text	hök
+imageUuid	7b72d4b5-01bb-4afb-bccb-86acd0ecc3e3
+translationKey	ed531d0d-fd94-468f-9d7a-8247370f651c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7b72d4b5-01bb-4afb-bccb-86acd0ecc3e3/ed531d0d-fd94-468f-9d7a-8247370f651c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7b72d4b5-01bb-4afb-bccb-86acd0ecc3e3/ed531d0d-fd94-468f-9d7a-8247370f651c
+md5	0909818f6b5cbef819a4709ceddd0c75
+
+signId	1826
+text	örn
+imageUuid	5f1b631b-8d6f-49e0-80eb-19a6e28ec23c
+translationKey	2365a994-973b-4de7-a7a3-f169c67a3a3a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5f1b631b-8d6f-49e0-80eb-19a6e28ec23c/2365a994-973b-4de7-a7a3-f169c67a3a3a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5f1b631b-8d6f-49e0-80eb-19a6e28ec23c/2365a994-973b-4de7-a7a3-f169c67a3a3a
+md5	0909818f6b5cbef819a4709ceddd0c75
+
+signId	2909
+text	papegoja
+imageUuid	4a8ab1ae-446a-4d01-82fa-83f3fa99e90f
+translationKey	f38bf83a-be72-4bbf-b0d3-8ca22093019b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4a8ab1ae-446a-4d01-82fa-83f3fa99e90f/f38bf83a-be72-4bbf-b0d3-8ca22093019b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4a8ab1ae-446a-4d01-82fa-83f3fa99e90f/f38bf83a-be72-4bbf-b0d3-8ca22093019b
+md5	0909818f6b5cbef819a4709ceddd0c75

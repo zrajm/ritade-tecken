@@ -1,0 +1,7 @@
+signId	1501
+text	stubbe
+imageUuid	e66c8083-ea34-41ed-b6bf-472e435a775c
+translationKey	cd71075f-ef9d-43ad-abc4-eb1d4a720a96
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e66c8083-ea34-41ed-b6bf-472e435a775c/cd71075f-ef9d-43ad-abc4-eb1d4a720a96/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e66c8083-ea34-41ed-b6bf-472e435a775c/cd71075f-ef9d-43ad-abc4-eb1d4a720a96
+md5	58fee8ddd0aa61f948f86e97b7633ad4

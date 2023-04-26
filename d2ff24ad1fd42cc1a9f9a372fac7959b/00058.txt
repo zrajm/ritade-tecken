@@ -1,0 +1,7 @@
+signId	58
+text	applådera
+imageUuid	7f3e307d-781f-423b-893c-8a098984c510
+translationKey	168f533c-080b-43a6-b91d-3316aa8c5496
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f3e307d-781f-423b-893c-8a098984c510/168f533c-080b-43a6-b91d-3316aa8c5496/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f3e307d-781f-423b-893c-8a098984c510/168f533c-080b-43a6-b91d-3316aa8c5496
+md5	d2ff24ad1fd42cc1a9f9a372fac7959b

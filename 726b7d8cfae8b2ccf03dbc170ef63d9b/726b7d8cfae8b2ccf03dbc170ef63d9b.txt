@@ -1,0 +1,8 @@
+
+signId	319
+text	elak
+imageUuid	89d4baaf-731f-4bae-9b27-557517fbf06f
+translationKey	d059e198-df43-4577-be4e-e516fb3d3248
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/89d4baaf-731f-4bae-9b27-557517fbf06f/d059e198-df43-4577-be4e-e516fb3d3248/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/89d4baaf-731f-4bae-9b27-557517fbf06f/d059e198-df43-4577-be4e-e516fb3d3248
+md5	726b7d8cfae8b2ccf03dbc170ef63d9b

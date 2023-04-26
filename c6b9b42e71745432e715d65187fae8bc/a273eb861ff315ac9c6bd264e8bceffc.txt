@@ -1,0 +1,8 @@
+
+signId	2489
+text	vegetarisk
+imageUuid	cf559f11-f4c8-42db-b24c-860924a18ab5
+translationKey	b7a183f7-02a5-449d-bd3b-93000f9806a2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cf559f11-f4c8-42db-b24c-860924a18ab5/b7a183f7-02a5-449d-bd3b-93000f9806a2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cf559f11-f4c8-42db-b24c-860924a18ab5/b7a183f7-02a5-449d-bd3b-93000f9806a2
+md5	a273eb861ff315ac9c6bd264e8bceffc

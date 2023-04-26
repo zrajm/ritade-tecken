@@ -1,0 +1,8 @@
+
+signId	1844
+text	svettas
+imageUuid	272d34ae-ddc3-42d3-a4a8-f857ae3cf192
+translationKey	ac211334-468c-4cfa-ba65-e37381f20b81
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/272d34ae-ddc3-42d3-a4a8-f857ae3cf192/ac211334-468c-4cfa-ba65-e37381f20b81/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/272d34ae-ddc3-42d3-a4a8-f857ae3cf192/ac211334-468c-4cfa-ba65-e37381f20b81
+md5	f1bb539f89b0800a4e81d1b24c962447

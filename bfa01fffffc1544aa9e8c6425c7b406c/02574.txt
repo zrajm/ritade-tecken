@@ -1,0 +1,7 @@
+signId	2574
+text	diplom
+imageUuid	e235d95a-806f-4c22-8578-079cc5d5f736
+translationKey	5700fa07-4950-4093-bfaf-8a9cdb8de06a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e235d95a-806f-4c22-8578-079cc5d5f736/5700fa07-4950-4093-bfaf-8a9cdb8de06a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e235d95a-806f-4c22-8578-079cc5d5f736/5700fa07-4950-4093-bfaf-8a9cdb8de06a
+md5	bfa01fffffc1544aa9e8c6425c7b406c

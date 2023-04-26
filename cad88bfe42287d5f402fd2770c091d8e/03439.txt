@@ -1,0 +1,7 @@
+signId	3439
+text	häftig
+imageUuid	a952c88a-860a-498a-91a0-be093552a1cc
+translationKey	0646ed1f-efd4-4c16-9ef6-d17792725396
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a952c88a-860a-498a-91a0-be093552a1cc/0646ed1f-efd4-4c16-9ef6-d17792725396/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a952c88a-860a-498a-91a0-be093552a1cc/0646ed1f-efd4-4c16-9ef6-d17792725396
+md5	cad88bfe42287d5f402fd2770c091d8e

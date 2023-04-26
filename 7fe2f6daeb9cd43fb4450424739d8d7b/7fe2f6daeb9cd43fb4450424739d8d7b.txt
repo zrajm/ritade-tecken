@@ -1,0 +1,8 @@
+
+signId	2063
+text	kratta
+imageUuid	702fad0c-f6df-4587-9e24-ddd942c753c3
+translationKey	46a79c4d-8395-42f0-80b3-f17631e625e4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/702fad0c-f6df-4587-9e24-ddd942c753c3/46a79c4d-8395-42f0-80b3-f17631e625e4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/702fad0c-f6df-4587-9e24-ddd942c753c3/46a79c4d-8395-42f0-80b3-f17631e625e4
+md5	7fe2f6daeb9cd43fb4450424739d8d7b

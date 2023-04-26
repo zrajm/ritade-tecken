@@ -1,0 +1,7 @@
+signId	114
+text	behå
+imageUuid	34f6be4d-c90f-4a06-90ad-3ca472731585
+translationKey	c7945486-b522-416c-b808-7184bf9b1a9a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/34f6be4d-c90f-4a06-90ad-3ca472731585/c7945486-b522-416c-b808-7184bf9b1a9a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/34f6be4d-c90f-4a06-90ad-3ca472731585/c7945486-b522-416c-b808-7184bf9b1a9a
+md5	dfa6f972c6fcaf2c73962359c9b505fa

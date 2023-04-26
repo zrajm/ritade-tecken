@@ -1,0 +1,7 @@
+signId	874
+text	leda ett djur
+imageUuid	74956f81-1f37-423e-bbf2-8df2a0da89d1
+translationKey	4f1e8d89-f78b-4e93-9f26-58e699f732b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/74956f81-1f37-423e-bbf2-8df2a0da89d1/4f1e8d89-f78b-4e93-9f26-58e699f732b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/74956f81-1f37-423e-bbf2-8df2a0da89d1/4f1e8d89-f78b-4e93-9f26-58e699f732b4
+md5	17dd5d46f07490735ea57628d4ad6063

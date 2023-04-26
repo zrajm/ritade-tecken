@@ -1,0 +1,7 @@
+signId	3430
+text	åklagare
+imageUuid	264c95c4-2dd7-495d-b987-5e245fcea560
+translationKey	db52a171-ceca-4f66-98c2-92c36897b0d0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/264c95c4-2dd7-495d-b987-5e245fcea560/db52a171-ceca-4f66-98c2-92c36897b0d0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/264c95c4-2dd7-495d-b987-5e245fcea560/db52a171-ceca-4f66-98c2-92c36897b0d0
+md5	a8ed949ed97f8cc01fb2eee7604a645c

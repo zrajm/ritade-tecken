@@ -1,0 +1,8 @@
+
+signId	2623
+text	öster
+imageUuid	838fb574-fadc-4342-b79b-fd1b09894d06
+translationKey	47dfe0b6-8476-4014-a2dd-b641fa94e98c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/838fb574-fadc-4342-b79b-fd1b09894d06/47dfe0b6-8476-4014-a2dd-b641fa94e98c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/838fb574-fadc-4342-b79b-fd1b09894d06/47dfe0b6-8476-4014-a2dd-b641fa94e98c
+md5	3797b798ea80477dafdfaa2a9fb9a06d

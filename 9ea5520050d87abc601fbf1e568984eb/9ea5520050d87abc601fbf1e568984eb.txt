@@ -1,0 +1,8 @@
+
+signId	2242
+text	resväska
+imageUuid	53bf1a01-8968-4e25-8583-ea269cf6f2f3
+translationKey	ac4011c8-a1a7-47f6-a33c-ca1cdb1a1cd2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/53bf1a01-8968-4e25-8583-ea269cf6f2f3/ac4011c8-a1a7-47f6-a33c-ca1cdb1a1cd2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/53bf1a01-8968-4e25-8583-ea269cf6f2f3/ac4011c8-a1a7-47f6-a33c-ca1cdb1a1cd2
+md5	9ea5520050d87abc601fbf1e568984eb

@@ -1,0 +1,7 @@
+signId	2377
+text	prioritera
+imageUuid	380de830-a31e-4ed7-b0a4-9b11f41c4de8
+translationKey	8e907a14-e960-472b-82b7-9d86375b6f73
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/380de830-a31e-4ed7-b0a4-9b11f41c4de8/8e907a14-e960-472b-82b7-9d86375b6f73/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/380de830-a31e-4ed7-b0a4-9b11f41c4de8/8e907a14-e960-472b-82b7-9d86375b6f73
+md5	b30a93a2ec1a44dd99b44cffa1613125

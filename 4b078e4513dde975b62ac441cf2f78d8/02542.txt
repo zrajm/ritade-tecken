@@ -1,0 +1,7 @@
+signId	2542
+text	snorkel
+imageUuid	c699d2fa-304c-4d90-80a2-c915f91a775c
+translationKey	70c33a55-ba42-45da-9b75-74bab3a87a61
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c699d2fa-304c-4d90-80a2-c915f91a775c/70c33a55-ba42-45da-9b75-74bab3a87a61/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c699d2fa-304c-4d90-80a2-c915f91a775c/70c33a55-ba42-45da-9b75-74bab3a87a61
+md5	4b078e4513dde975b62ac441cf2f78d8

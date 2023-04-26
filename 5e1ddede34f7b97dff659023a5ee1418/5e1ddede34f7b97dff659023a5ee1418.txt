@@ -1,0 +1,8 @@
+
+signId	2706
+text	Facebook
+imageUuid	7ce0bdd5-c0a6-456f-bd35-eca077ea2c0c
+translationKey	3705439b-9615-48b3-9c6d-5a9f2d218035
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7ce0bdd5-c0a6-456f-bd35-eca077ea2c0c/3705439b-9615-48b3-9c6d-5a9f2d218035/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7ce0bdd5-c0a6-456f-bd35-eca077ea2c0c/3705439b-9615-48b3-9c6d-5a9f2d218035
+md5	5e1ddede34f7b97dff659023a5ee1418

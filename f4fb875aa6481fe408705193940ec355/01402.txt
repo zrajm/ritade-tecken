@@ -1,0 +1,7 @@
+signId	1402
+text	smutsig 2
+imageUuid	02ec06a0-2371-4d0b-93cf-23c47049dc18
+translationKey	838dd0ec-e91d-4a2e-97c5-4b71d747f538
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/02ec06a0-2371-4d0b-93cf-23c47049dc18/838dd0ec-e91d-4a2e-97c5-4b71d747f538/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/02ec06a0-2371-4d0b-93cf-23c47049dc18/838dd0ec-e91d-4a2e-97c5-4b71d747f538
+md5	521c558a2e6025131e7cdab96055ab9f

@@ -1,0 +1,7 @@
+signId	1334
+text	skidor
+imageUuid	de4f1849-bd80-4f2d-8173-beb26c69fe53
+translationKey	9da0fcf1-454a-43bf-9b11-9255c31bc162
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/de4f1849-bd80-4f2d-8173-beb26c69fe53/9da0fcf1-454a-43bf-9b11-9255c31bc162/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/de4f1849-bd80-4f2d-8173-beb26c69fe53/9da0fcf1-454a-43bf-9b11-9255c31bc162
+md5	5633eb7124467c0a4c933c1789746521

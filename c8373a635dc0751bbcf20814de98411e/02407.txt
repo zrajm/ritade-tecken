@@ -1,0 +1,7 @@
+signId	2407
+text	välja 2
+imageUuid	112b1186-b667-407b-8928-96ebab136a75
+translationKey	f39b9ac2-1790-43fb-8047-22a6615384d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/112b1186-b667-407b-8928-96ebab136a75/f39b9ac2-1790-43fb-8047-22a6615384d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/112b1186-b667-407b-8928-96ebab136a75/f39b9ac2-1790-43fb-8047-22a6615384d3
+md5	c8373a635dc0751bbcf20814de98411e

@@ -1,0 +1,7 @@
+signId	1513
+text	stängd
+imageUuid	d76e87a5-0bd5-4736-a3af-4efeb9a5ae76
+translationKey	8f10a503-1fab-4e6f-a778-41f6641bf67c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d76e87a5-0bd5-4736-a3af-4efeb9a5ae76/8f10a503-1fab-4e6f-a778-41f6641bf67c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d76e87a5-0bd5-4736-a3af-4efeb9a5ae76/8f10a503-1fab-4e6f-a778-41f6641bf67c
+md5	a9a5bd9e0f655815612c1aa572ced1f0

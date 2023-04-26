@@ -1,0 +1,7 @@
+signId	1123
+text	orka
+imageUuid	d169bcc9-af3c-45ab-bdb6-bae093944d06
+translationKey	e87ccac0-75bc-474e-9980-cc434baed664
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d169bcc9-af3c-45ab-bdb6-bae093944d06/e87ccac0-75bc-474e-9980-cc434baed664/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d169bcc9-af3c-45ab-bdb6-bae093944d06/e87ccac0-75bc-474e-9980-cc434baed664
+md5	e0c015b5353364a233777e1f423d617c

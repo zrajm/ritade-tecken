@@ -1,0 +1,7 @@
+signId	3284
+text	inspiration
+imageUuid	b9496ac0-c9c3-4a26-b2b8-4bf15134d56a
+translationKey	efee8fe7-86de-4275-b0b5-b8be00cb0444
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b9496ac0-c9c3-4a26-b2b8-4bf15134d56a/efee8fe7-86de-4275-b0b5-b8be00cb0444/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b9496ac0-c9c3-4a26-b2b8-4bf15134d56a/efee8fe7-86de-4275-b0b5-b8be00cb0444
+md5	0aec08b92a2d5ad54e0f8ec59a00fe1c

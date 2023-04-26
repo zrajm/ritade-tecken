@@ -1,0 +1,7 @@
+signId	1861
+text	forska
+imageUuid	7d2fc665-846b-4083-9e2f-b59612f7710c
+translationKey	83e85c07-0f1f-430c-8772-75a1c365f5d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7d2fc665-846b-4083-9e2f-b59612f7710c/83e85c07-0f1f-430c-8772-75a1c365f5d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7d2fc665-846b-4083-9e2f-b59612f7710c/83e85c07-0f1f-430c-8772-75a1c365f5d3
+md5	d29037215cf49afbcd4d9e11cd7d1a2d

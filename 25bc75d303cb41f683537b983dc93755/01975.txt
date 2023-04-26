@@ -1,0 +1,7 @@
+signId	1975
+text	servitris
+imageUuid	295576bc-1889-4fb4-bb9e-97eddd4f73f9
+translationKey	394036d4-14ae-4f17-bee8-8ae2505e5639
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/295576bc-1889-4fb4-bb9e-97eddd4f73f9/394036d4-14ae-4f17-bee8-8ae2505e5639/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/295576bc-1889-4fb4-bb9e-97eddd4f73f9/394036d4-14ae-4f17-bee8-8ae2505e5639
+md5	25bc75d303cb41f683537b983dc93755

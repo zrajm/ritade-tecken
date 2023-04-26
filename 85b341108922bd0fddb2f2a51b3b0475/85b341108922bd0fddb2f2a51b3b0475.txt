@@ -1,0 +1,8 @@
+
+signId	1219
+text	päron 1
+imageUuid	6a0c755a-873b-4b52-b2a8-81742917f1cb
+translationKey	87ae6612-4f9f-494a-887b-d25ed2041ae5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6a0c755a-873b-4b52-b2a8-81742917f1cb/87ae6612-4f9f-494a-887b-d25ed2041ae5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6a0c755a-873b-4b52-b2a8-81742917f1cb/87ae6612-4f9f-494a-887b-d25ed2041ae5
+md5	85b341108922bd0fddb2f2a51b3b0475

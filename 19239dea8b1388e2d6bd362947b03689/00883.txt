@@ -1,0 +1,7 @@
+signId	883
+text	leta
+imageUuid	50bb25e7-e27f-4d64-a177-3ab92c1a8b82
+translationKey	1dc30be0-6a24-443a-b80f-c7badc22cda5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/50bb25e7-e27f-4d64-a177-3ab92c1a8b82/1dc30be0-6a24-443a-b80f-c7badc22cda5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/50bb25e7-e27f-4d64-a177-3ab92c1a8b82/1dc30be0-6a24-443a-b80f-c7badc22cda5
+md5	19239dea8b1388e2d6bd362947b03689

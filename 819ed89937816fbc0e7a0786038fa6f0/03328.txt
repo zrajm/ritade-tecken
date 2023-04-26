@@ -1,0 +1,7 @@
+signId	3328
+text	misshandel
+imageUuid	94c98851-0a09-474f-9f0e-3566af33a78b
+translationKey	3ef88c65-39aa-4294-abea-5e3035dec0c8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/94c98851-0a09-474f-9f0e-3566af33a78b/3ef88c65-39aa-4294-abea-5e3035dec0c8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/94c98851-0a09-474f-9f0e-3566af33a78b/3ef88c65-39aa-4294-abea-5e3035dec0c8
+md5	819ed89937816fbc0e7a0786038fa6f0

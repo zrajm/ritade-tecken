@@ -1,0 +1,7 @@
+signId	3412
+text	saker
+imageUuid	67915c24-7213-455d-bf88-0c04bbd6bf73
+translationKey	12dc4f15-be49-422d-b649-bebce1baaf33
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/67915c24-7213-455d-bf88-0c04bbd6bf73/12dc4f15-be49-422d-b649-bebce1baaf33/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/67915c24-7213-455d-bf88-0c04bbd6bf73/12dc4f15-be49-422d-b649-bebce1baaf33
+md5	389234af4729bee90a954dfc7225e850

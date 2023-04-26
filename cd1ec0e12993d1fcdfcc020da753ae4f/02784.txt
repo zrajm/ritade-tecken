@@ -1,0 +1,7 @@
+signId	2784
+text	hallon
+imageUuid	31735b34-d7c4-4e31-a5ce-b614bc5d4167
+translationKey	d4393f3c-20aa-4158-a4a7-755c311e1946
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/31735b34-d7c4-4e31-a5ce-b614bc5d4167/d4393f3c-20aa-4158-a4a7-755c311e1946/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/31735b34-d7c4-4e31-a5ce-b614bc5d4167/d4393f3c-20aa-4158-a4a7-755c311e1946
+md5	cd1ec0e12993d1fcdfcc020da753ae4f

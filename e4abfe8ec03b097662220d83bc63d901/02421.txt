@@ -1,0 +1,7 @@
+signId	2421
+text	habilitering
+imageUuid	6089ab09-9ff9-4e1b-8b41-bc2421a82a7c
+translationKey	e61ee0c2-a9ce-4f8f-b9b6-9b19ca173018
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6089ab09-9ff9-4e1b-8b41-bc2421a82a7c/e61ee0c2-a9ce-4f8f-b9b6-9b19ca173018/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6089ab09-9ff9-4e1b-8b41-bc2421a82a7c/e61ee0c2-a9ce-4f8f-b9b6-9b19ca173018
+md5	4db3c45741db537c7749cf035211ea17

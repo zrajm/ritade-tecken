@@ -1,0 +1,7 @@
+signId	1208
+text	pussla
+imageUuid	3e1c0140-2393-4f8c-a209-4e6550ac65b9
+translationKey	0c44eae6-4b69-44e1-aaa8-8fa4696c2791
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3e1c0140-2393-4f8c-a209-4e6550ac65b9/0c44eae6-4b69-44e1-aaa8-8fa4696c2791/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3e1c0140-2393-4f8c-a209-4e6550ac65b9/0c44eae6-4b69-44e1-aaa8-8fa4696c2791
+md5	235f880855dc527c9cb10bf2433b4749

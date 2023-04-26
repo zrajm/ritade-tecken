@@ -1,0 +1,7 @@
+signId	2144
+text	Skansen
+imageUuid	905bf35a-188f-48cc-a5ca-55a149069148
+translationKey	b366d5f0-6c57-4d30-8c20-a6786371605d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/905bf35a-188f-48cc-a5ca-55a149069148/b366d5f0-6c57-4d30-8c20-a6786371605d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/905bf35a-188f-48cc-a5ca-55a149069148/b366d5f0-6c57-4d30-8c20-a6786371605d
+md5	ee19c53f337fd8ee0f6e3513b61c461e

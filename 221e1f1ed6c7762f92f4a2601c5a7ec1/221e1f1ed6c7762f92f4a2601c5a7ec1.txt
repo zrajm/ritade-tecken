@@ -1,0 +1,8 @@
+
+signId	2427
+text	julgröt
+imageUuid	837a5b07-b6c4-4aaf-9aab-880a76840aca
+translationKey	1ef0d487-84d1-48dc-a051-000f00822cdf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/837a5b07-b6c4-4aaf-9aab-880a76840aca/1ef0d487-84d1-48dc-a051-000f00822cdf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/837a5b07-b6c4-4aaf-9aab-880a76840aca/1ef0d487-84d1-48dc-a051-000f00822cdf
+md5	221e1f1ed6c7762f92f4a2601c5a7ec1

@@ -1,0 +1,7 @@
+signId	2201
+text	torr
+imageUuid	2730a3d9-fb7c-4923-95cc-e5becd798878
+translationKey	902d3f58-4229-4b7b-b20b-ba8ae281532d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2730a3d9-fb7c-4923-95cc-e5becd798878/902d3f58-4229-4b7b-b20b-ba8ae281532d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2730a3d9-fb7c-4923-95cc-e5becd798878/902d3f58-4229-4b7b-b20b-ba8ae281532d
+md5	a27840c7b13187effb26256317ab3603

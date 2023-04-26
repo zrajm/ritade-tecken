@@ -1,0 +1,8 @@
+
+signId	3385
+text	diesel
+imageUuid	6e4c0a81-ead5-4cf9-b59b-74cdfe2f4b20
+translationKey	43978fdb-9e53-4312-87b2-f800b4e3f22f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6e4c0a81-ead5-4cf9-b59b-74cdfe2f4b20/43978fdb-9e53-4312-87b2-f800b4e3f22f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6e4c0a81-ead5-4cf9-b59b-74cdfe2f4b20/43978fdb-9e53-4312-87b2-f800b4e3f22f
+md5	c0a389039ef25bffb55edeb8a10e58ab

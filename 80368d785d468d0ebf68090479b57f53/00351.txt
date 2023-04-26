@@ -1,0 +1,7 @@
+signId	351
+text	fattig
+imageUuid	4302e065-fe4e-40bf-af84-cc78e21a3e49
+translationKey	bb20d482-34bb-4193-bda8-40146553f5bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4302e065-fe4e-40bf-af84-cc78e21a3e49/bb20d482-34bb-4193-bda8-40146553f5bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4302e065-fe4e-40bf-af84-cc78e21a3e49/bb20d482-34bb-4193-bda8-40146553f5bf
+md5	80368d785d468d0ebf68090479b57f53

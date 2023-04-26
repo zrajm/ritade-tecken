@@ -1,0 +1,8 @@
+
+signId	3411
+text	regel
+imageUuid	140a7fbb-8995-4b13-a8cd-01c45fc1eee2
+translationKey	9e5b6782-18b3-438c-9ae5-97b08ad23f53
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/140a7fbb-8995-4b13-a8cd-01c45fc1eee2/9e5b6782-18b3-438c-9ae5-97b08ad23f53/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/140a7fbb-8995-4b13-a8cd-01c45fc1eee2/9e5b6782-18b3-438c-9ae5-97b08ad23f53
+md5	a7a2ae0c4c2d2171557dcd8cf2ae5199

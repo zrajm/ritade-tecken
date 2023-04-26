@@ -1,0 +1,8 @@
+
+signId	1831
+text	andra 1
+imageUuid	22453449-d2ac-45f7-b5f4-771f2e1439f9
+translationKey	cbff2f2b-dcd9-4f58-8844-98f18409296b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/22453449-d2ac-45f7-b5f4-771f2e1439f9/cbff2f2b-dcd9-4f58-8844-98f18409296b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/22453449-d2ac-45f7-b5f4-771f2e1439f9/cbff2f2b-dcd9-4f58-8844-98f18409296b
+md5	26a0d2e388b226e5a6751bd445e465e5

@@ -1,0 +1,32 @@
+
+signId	292
+text	drottning
+imageUuid	69123b76-2f6a-4052-a7cd-7a351f43d966
+translationKey	2d217a27-3494-4c95-867a-a5e193f5d903
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/69123b76-2f6a-4052-a7cd-7a351f43d966/2d217a27-3494-4c95-867a-a5e193f5d903/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/69123b76-2f6a-4052-a7cd-7a351f43d966/2d217a27-3494-4c95-867a-a5e193f5d903
+md5	9aa697208c3cae1fdf4e31e5eb396931
+
+signId	912
+text	lucia
+imageUuid	042e4581-0c8b-401a-aaed-a07857a97e73
+translationKey	e2e3720b-0005-4497-9dee-c0854674263e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/042e4581-0c8b-401a-aaed-a07857a97e73/e2e3720b-0005-4497-9dee-c0854674263e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/042e4581-0c8b-401a-aaed-a07857a97e73/e2e3720b-0005-4497-9dee-c0854674263e
+md5	9aa697208c3cae1fdf4e31e5eb396931
+
+signId	1192
+text	prins
+imageUuid	a57856fb-b0e8-4a6f-9fe9-913ad94ad6e1
+translationKey	82d70e50-4053-48c9-927e-74d7e7569006
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a57856fb-b0e8-4a6f-9fe9-913ad94ad6e1/82d70e50-4053-48c9-927e-74d7e7569006/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a57856fb-b0e8-4a6f-9fe9-913ad94ad6e1/82d70e50-4053-48c9-927e-74d7e7569006
+md5	9aa697208c3cae1fdf4e31e5eb396931
+
+signId	1193
+text	prinsessa
+imageUuid	417ed4a6-f298-49a3-9da0-df88618a895b
+translationKey	188cce2b-f395-415a-b23c-94c00635f633
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/417ed4a6-f298-49a3-9da0-df88618a895b/188cce2b-f395-415a-b23c-94c00635f633/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/417ed4a6-f298-49a3-9da0-df88618a895b/188cce2b-f395-415a-b23c-94c00635f633
+md5	9aa697208c3cae1fdf4e31e5eb396931

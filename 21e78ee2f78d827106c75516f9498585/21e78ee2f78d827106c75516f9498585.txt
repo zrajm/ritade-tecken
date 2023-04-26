@@ -1,0 +1,8 @@
+
+signId	2802
+text	toalettpapper
+imageUuid	b6991025-388c-40c2-bd3c-d11c2b092d9c
+translationKey	3d1ec060-c83f-4263-aa23-6cefb65757db
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b6991025-388c-40c2-bd3c-d11c2b092d9c/3d1ec060-c83f-4263-aa23-6cefb65757db/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b6991025-388c-40c2-bd3c-d11c2b092d9c/3d1ec060-c83f-4263-aa23-6cefb65757db
+md5	21e78ee2f78d827106c75516f9498585

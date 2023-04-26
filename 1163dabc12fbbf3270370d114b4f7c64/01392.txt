@@ -1,0 +1,7 @@
+signId	1392
+text	släppa
+imageUuid	68f7a7f0-e415-4b37-acf6-7ea37b7c05d7
+translationKey	06f1a06a-06ca-47ae-b54f-8891dce7d9e5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/68f7a7f0-e415-4b37-acf6-7ea37b7c05d7/06f1a06a-06ca-47ae-b54f-8891dce7d9e5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/68f7a7f0-e415-4b37-acf6-7ea37b7c05d7/06f1a06a-06ca-47ae-b54f-8891dce7d9e5
+md5	1163dabc12fbbf3270370d114b4f7c64

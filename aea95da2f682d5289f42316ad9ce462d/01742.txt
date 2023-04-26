@@ -1,0 +1,7 @@
+signId	1742
+text	vinter
+imageUuid	a8d1a7bc-23c1-4cce-ae34-5538f4741b63
+translationKey	bea29b72-8cc7-4491-8976-af07f1d1bac5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a8d1a7bc-23c1-4cce-ae34-5538f4741b63/bea29b72-8cc7-4491-8976-af07f1d1bac5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a8d1a7bc-23c1-4cce-ae34-5538f4741b63/bea29b72-8cc7-4491-8976-af07f1d1bac5
+md5	aea95da2f682d5289f42316ad9ce462d

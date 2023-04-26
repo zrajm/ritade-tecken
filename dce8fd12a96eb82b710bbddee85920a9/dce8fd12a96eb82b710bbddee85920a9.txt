@@ -1,0 +1,8 @@
+
+signId	1793
+text	åt sidan 2
+imageUuid	6586bbcb-b081-4dfa-97d2-082ef220eaa9
+translationKey	2765159d-4d98-4702-8e90-75397293b37c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6586bbcb-b081-4dfa-97d2-082ef220eaa9/2765159d-4d98-4702-8e90-75397293b37c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6586bbcb-b081-4dfa-97d2-082ef220eaa9/2765159d-4d98-4702-8e90-75397293b37c
+md5	dce8fd12a96eb82b710bbddee85920a9

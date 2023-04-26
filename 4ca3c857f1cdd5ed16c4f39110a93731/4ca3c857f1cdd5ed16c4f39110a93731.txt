@@ -1,0 +1,8 @@
+
+signId	2950
+text	bensinstation
+imageUuid	7807252a-9ec0-4caa-a23b-7757919e4074
+translationKey	daae31ba-5237-4efe-be18-d1b62e864c62
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7807252a-9ec0-4caa-a23b-7757919e4074/daae31ba-5237-4efe-be18-d1b62e864c62/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7807252a-9ec0-4caa-a23b-7757919e4074/daae31ba-5237-4efe-be18-d1b62e864c62
+md5	4ca3c857f1cdd5ed16c4f39110a93731

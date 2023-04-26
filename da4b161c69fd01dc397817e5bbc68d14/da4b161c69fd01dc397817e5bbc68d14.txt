@@ -1,0 +1,8 @@
+
+signId	1066
+text	narkos
+imageUuid	52f7146b-5319-4d99-b0c6-b5d62fe21236
+translationKey	d135cfda-e01e-412f-8838-8a5358f83430
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/52f7146b-5319-4d99-b0c6-b5d62fe21236/d135cfda-e01e-412f-8838-8a5358f83430/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/52f7146b-5319-4d99-b0c6-b5d62fe21236/d135cfda-e01e-412f-8838-8a5358f83430
+md5	da4b161c69fd01dc397817e5bbc68d14

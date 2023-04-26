@@ -1,0 +1,7 @@
+signId	2017
+text	dö
+imageUuid	a963ef68-e153-4faf-ab90-822b8a954806
+translationKey	27a20e7a-6126-4392-9761-9f312c67a14d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a963ef68-e153-4faf-ab90-822b8a954806/27a20e7a-6126-4392-9761-9f312c67a14d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a963ef68-e153-4faf-ab90-822b8a954806/27a20e7a-6126-4392-9761-9f312c67a14d
+md5	2d1adc8e1218fe3e5b211a6e3ed5701a

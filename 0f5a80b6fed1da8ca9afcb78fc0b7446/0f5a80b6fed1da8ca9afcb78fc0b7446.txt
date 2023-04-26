@@ -1,0 +1,8 @@
+
+signId	1153
+text	pepparkakeland
+imageUuid	4a45624a-ca52-41e4-8911-3842e18bd39b
+translationKey	c72546db-7649-4a5f-aaf7-71afb8bbd959
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4a45624a-ca52-41e4-8911-3842e18bd39b/c72546db-7649-4a5f-aaf7-71afb8bbd959/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4a45624a-ca52-41e4-8911-3842e18bd39b/c72546db-7649-4a5f-aaf7-71afb8bbd959
+md5	0f5a80b6fed1da8ca9afcb78fc0b7446

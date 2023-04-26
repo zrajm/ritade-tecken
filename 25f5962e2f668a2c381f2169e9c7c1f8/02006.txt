@@ -1,0 +1,7 @@
+signId	2006
+text	målvakt
+imageUuid	824f3b8b-7eb4-44e6-9511-3ebdc0b23cf5
+translationKey	bbd8bfec-62bc-493a-842d-7fc3b62e309d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/824f3b8b-7eb4-44e6-9511-3ebdc0b23cf5/bbd8bfec-62bc-493a-842d-7fc3b62e309d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/824f3b8b-7eb4-44e6-9511-3ebdc0b23cf5/bbd8bfec-62bc-493a-842d-7fc3b62e309d
+md5	2f00edd320d13867b5b3ce6ae7d8b899

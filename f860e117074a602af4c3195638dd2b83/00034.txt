@@ -1,0 +1,7 @@
+signId	34
+text	advent 2
+imageUuid	42bc9906-ac43-4c9b-8561-314c299d1b82
+translationKey	2847c156-6d0c-4b2f-83f2-3c6c69640932
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/42bc9906-ac43-4c9b-8561-314c299d1b82/2847c156-6d0c-4b2f-83f2-3c6c69640932/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/42bc9906-ac43-4c9b-8561-314c299d1b82/2847c156-6d0c-4b2f-83f2-3c6c69640932
+md5	f860e117074a602af4c3195638dd2b83

@@ -1,0 +1,7 @@
+signId	524
+text	gud
+imageUuid	79a8d2b3-e2d6-4e12-9f09-cba3008cd507
+translationKey	3cbc9343-5c76-4057-b26a-ecc5ce7bead5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/79a8d2b3-e2d6-4e12-9f09-cba3008cd507/3cbc9343-5c76-4057-b26a-ecc5ce7bead5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/79a8d2b3-e2d6-4e12-9f09-cba3008cd507/3cbc9343-5c76-4057-b26a-ecc5ce7bead5
+md5	f8d36fcc5c02aa156914386cf0381d0a

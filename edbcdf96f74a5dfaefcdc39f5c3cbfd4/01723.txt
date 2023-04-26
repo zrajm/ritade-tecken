@@ -1,0 +1,7 @@
+signId	1723
+text	vetenskap
+imageUuid	3e21ba75-1fd2-4f3c-b436-1144ca7781bc
+translationKey	3902da9d-4ff3-4bc8-87dc-c91fba8fcafb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3e21ba75-1fd2-4f3c-b436-1144ca7781bc/3902da9d-4ff3-4bc8-87dc-c91fba8fcafb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3e21ba75-1fd2-4f3c-b436-1144ca7781bc/3902da9d-4ff3-4bc8-87dc-c91fba8fcafb
+md5	edbcdf96f74a5dfaefcdc39f5c3cbfd4

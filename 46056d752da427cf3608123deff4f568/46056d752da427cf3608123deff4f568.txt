@@ -1,0 +1,8 @@
+
+signId	2132
+text	lodjur
+imageUuid	7b94f2d6-1410-4541-affb-d45fb29fd68d
+translationKey	1f972980-9544-4906-a152-c64a8496fead
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7b94f2d6-1410-4541-affb-d45fb29fd68d/1f972980-9544-4906-a152-c64a8496fead/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7b94f2d6-1410-4541-affb-d45fb29fd68d/1f972980-9544-4906-a152-c64a8496fead
+md5	46056d752da427cf3608123deff4f568

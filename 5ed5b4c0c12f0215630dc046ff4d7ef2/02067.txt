@@ -1,0 +1,7 @@
+signId	2067
+text	lång
+imageUuid	d63ea0ca-37c7-4ea3-97f8-c54e705aa9a1
+translationKey	d57c3c80-f7c6-4cd2-8e9d-f757a4efa040
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d63ea0ca-37c7-4ea3-97f8-c54e705aa9a1/d57c3c80-f7c6-4cd2-8e9d-f757a4efa040/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d63ea0ca-37c7-4ea3-97f8-c54e705aa9a1/d57c3c80-f7c6-4cd2-8e9d-f757a4efa040
+md5	5ed5b4c0c12f0215630dc046ff4d7ef2

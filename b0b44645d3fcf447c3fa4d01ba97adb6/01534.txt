@@ -1,0 +1,7 @@
+signId	1534
+text	så1 (på det sättet)
+imageUuid	af8f8d6a-2cb4-4548-ae85-1cb92a4c597f
+translationKey	31d36fa5-4b42-4dc7-bfa9-35b7e157f572
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af8f8d6a-2cb4-4548-ae85-1cb92a4c597f/31d36fa5-4b42-4dc7-bfa9-35b7e157f572/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af8f8d6a-2cb4-4548-ae85-1cb92a4c597f/31d36fa5-4b42-4dc7-bfa9-35b7e157f572
+md5	b0b44645d3fcf447c3fa4d01ba97adb6

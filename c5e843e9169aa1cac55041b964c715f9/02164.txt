@@ -1,0 +1,7 @@
+signId	2164
+text	Borgholm
+imageUuid	be6e2747-a32f-4d4c-999b-f88b082a7ed6
+translationKey	57f3583b-a9c4-4d48-9577-407f29886e28
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/be6e2747-a32f-4d4c-999b-f88b082a7ed6/57f3583b-a9c4-4d48-9577-407f29886e28/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/be6e2747-a32f-4d4c-999b-f88b082a7ed6/57f3583b-a9c4-4d48-9577-407f29886e28
+md5	c390bcf7885ea617f99816de451af64a

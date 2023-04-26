@@ -1,0 +1,7 @@
+signId	1173
+text	plåster
+imageUuid	43c7e88d-084e-44e4-8cb7-a876430ca580
+translationKey	5238feea-78f6-4f83-ac90-9868cab017e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/43c7e88d-084e-44e4-8cb7-a876430ca580/5238feea-78f6-4f83-ac90-9868cab017e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/43c7e88d-084e-44e4-8cb7-a876430ca580/5238feea-78f6-4f83-ac90-9868cab017e8
+md5	dcbe0886bed0d7b168f6b833fe08fdf2

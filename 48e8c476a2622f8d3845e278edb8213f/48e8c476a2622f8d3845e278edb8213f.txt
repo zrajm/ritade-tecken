@@ -1,0 +1,16 @@
+
+signId	2070
+text	mäta
+imageUuid	2099a123-a207-4b35-9ba9-6c573ec0fb43
+translationKey	043861c5-9434-421f-a443-9707d7df331f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2099a123-a207-4b35-9ba9-6c573ec0fb43/043861c5-9434-421f-a443-9707d7df331f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2099a123-a207-4b35-9ba9-6c573ec0fb43/043861c5-9434-421f-a443-9707d7df331f
+md5	48e8c476a2622f8d3845e278edb8213f
+
+signId	2133
+text	meter
+imageUuid	c5cc04b3-775d-450f-a77f-5323e03c9983
+translationKey	f05538e1-4aa2-48a8-8bd7-3318be3b9918
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c5cc04b3-775d-450f-a77f-5323e03c9983/f05538e1-4aa2-48a8-8bd7-3318be3b9918/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c5cc04b3-775d-450f-a77f-5323e03c9983/f05538e1-4aa2-48a8-8bd7-3318be3b9918
+md5	48e8c476a2622f8d3845e278edb8213f

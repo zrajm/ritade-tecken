@@ -1,0 +1,8 @@
+
+signId	3337
+text	pronomen
+imageUuid	cf974c68-ae6f-41a1-b294-2b09d763ed52
+translationKey	db3c0ab9-df4f-405b-88cb-58d700cb4a12
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cf974c68-ae6f-41a1-b294-2b09d763ed52/db3c0ab9-df4f-405b-88cb-58d700cb4a12/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cf974c68-ae6f-41a1-b294-2b09d763ed52/db3c0ab9-df4f-405b-88cb-58d700cb4a12
+md5	435cab9e94a42980fd2f33002ba101bd

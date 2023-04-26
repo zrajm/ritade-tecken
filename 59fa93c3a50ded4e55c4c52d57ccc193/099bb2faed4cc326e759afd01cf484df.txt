@@ -1,0 +1,8 @@
+
+signId	1736
+text	vilse
+imageUuid	3aec274a-9945-4ecc-9494-e0fe5038c663
+translationKey	ca35a0ba-dc9a-4e6f-a9e1-22d14c3d71e9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3aec274a-9945-4ecc-9494-e0fe5038c663/ca35a0ba-dc9a-4e6f-a9e1-22d14c3d71e9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3aec274a-9945-4ecc-9494-e0fe5038c663/ca35a0ba-dc9a-4e6f-a9e1-22d14c3d71e9
+md5	099bb2faed4cc326e759afd01cf484df

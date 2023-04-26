@@ -1,0 +1,8 @@
+
+signId	475
+text	garage
+imageUuid	69831ee0-fb4f-4609-a004-6a21934deef9
+translationKey	c6c74426-98fb-4054-8d59-4587104d9d53
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/69831ee0-fb4f-4609-a004-6a21934deef9/c6c74426-98fb-4054-8d59-4587104d9d53/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/69831ee0-fb4f-4609-a004-6a21934deef9/c6c74426-98fb-4054-8d59-4587104d9d53
+md5	c6a1571b9a0156a0e4754c4bd6e60a01

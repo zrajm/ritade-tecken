@@ -1,0 +1,7 @@
+signId	1538
+text	sång
+imageUuid	0f99df81-717a-45f0-ba9a-1ef0e3ae263c
+translationKey	729d8aa1-7525-432b-aed4-d5be0c46fb37
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0f99df81-717a-45f0-ba9a-1ef0e3ae263c/729d8aa1-7525-432b-aed4-d5be0c46fb37/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0f99df81-717a-45f0-ba9a-1ef0e3ae263c/729d8aa1-7525-432b-aed4-d5be0c46fb37
+md5	f97e99c2fe689845f81490e14a4e28f1

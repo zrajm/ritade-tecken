@@ -1,0 +1,7 @@
+signId	2351
+text	kommun
+imageUuid	6b2b164c-6304-4bf8-af64-aadb777f64c1
+translationKey	8c3360d3-86cb-4588-bbb2-f5197f5cbd33
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b2b164c-6304-4bf8-af64-aadb777f64c1/8c3360d3-86cb-4588-bbb2-f5197f5cbd33/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b2b164c-6304-4bf8-af64-aadb777f64c1/8c3360d3-86cb-4588-bbb2-f5197f5cbd33
+md5	d773cdfd028c91aad5422e61b6df63b2

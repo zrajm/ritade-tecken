@@ -1,0 +1,8 @@
+
+signId	194
+text	brun
+imageUuid	7f7c1033-a268-453d-8ba6-50ee0b233918
+translationKey	a08cb23a-51f9-4f72-a7dd-d3d67232e5a0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f7c1033-a268-453d-8ba6-50ee0b233918/a08cb23a-51f9-4f72-a7dd-d3d67232e5a0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f7c1033-a268-453d-8ba6-50ee0b233918/a08cb23a-51f9-4f72-a7dd-d3d67232e5a0
+md5	e64b8a59e072b91add5533f4a2a1d0a5

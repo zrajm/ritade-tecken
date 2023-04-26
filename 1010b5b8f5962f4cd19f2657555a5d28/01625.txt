@@ -1,0 +1,7 @@
+signId	1625
+text	trä
+imageUuid	dfa00390-7e06-4601-b4ed-5621a711cc14
+translationKey	4bf3a6d6-91a2-49bb-929f-90fcb052ee15
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dfa00390-7e06-4601-b4ed-5621a711cc14/4bf3a6d6-91a2-49bb-929f-90fcb052ee15/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dfa00390-7e06-4601-b4ed-5621a711cc14/4bf3a6d6-91a2-49bb-929f-90fcb052ee15
+md5	1010b5b8f5962f4cd19f2657555a5d28

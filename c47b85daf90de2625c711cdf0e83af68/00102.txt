@@ -1,0 +1,7 @@
+signId	102
+text	banka
+imageUuid	f5091a3e-cc7d-43e3-8939-8bf74475915f
+translationKey	2c683a48-6c64-4368-a6d0-5b4e75bd604a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f5091a3e-cc7d-43e3-8939-8bf74475915f/2c683a48-6c64-4368-a6d0-5b4e75bd604a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f5091a3e-cc7d-43e3-8939-8bf74475915f/2c683a48-6c64-4368-a6d0-5b4e75bd604a
+md5	c47b85daf90de2625c711cdf0e83af68

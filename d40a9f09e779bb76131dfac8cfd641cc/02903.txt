@@ -1,0 +1,7 @@
+signId	2903
+text	rakapparat
+imageUuid	9c311c4c-809f-48e0-bb4c-506516bab0c9
+translationKey	60813460-d4ef-4111-bca5-d8d5be1f4716
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9c311c4c-809f-48e0-bb4c-506516bab0c9/60813460-d4ef-4111-bca5-d8d5be1f4716/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9c311c4c-809f-48e0-bb4c-506516bab0c9/60813460-d4ef-4111-bca5-d8d5be1f4716
+md5	d40a9f09e779bb76131dfac8cfd641cc

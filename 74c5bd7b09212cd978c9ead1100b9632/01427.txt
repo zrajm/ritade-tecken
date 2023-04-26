@@ -1,0 +1,7 @@
+signId	1427
+text	sommar
+imageUuid	2173545c-2347-434e-8b5b-e5ebd5fc6c8e
+translationKey	50d942ce-a081-433d-8f4c-057b2a7d5e60
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2173545c-2347-434e-8b5b-e5ebd5fc6c8e/50d942ce-a081-433d-8f4c-057b2a7d5e60/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2173545c-2347-434e-8b5b-e5ebd5fc6c8e/50d942ce-a081-433d-8f4c-057b2a7d5e60
+md5	74c5bd7b09212cd978c9ead1100b9632

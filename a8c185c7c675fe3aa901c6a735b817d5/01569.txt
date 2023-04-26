@@ -1,0 +1,7 @@
+signId	1569
+text	tecken (teckenspråk)
+imageUuid	95d1b344-2cc2-40fd-a300-652946847359
+translationKey	3e8107b1-426a-4ab1-9d0f-947b9b590409
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/95d1b344-2cc2-40fd-a300-652946847359/3e8107b1-426a-4ab1-9d0f-947b9b590409/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/95d1b344-2cc2-40fd-a300-652946847359/3e8107b1-426a-4ab1-9d0f-947b9b590409
+md5	a8c185c7c675fe3aa901c6a735b817d5

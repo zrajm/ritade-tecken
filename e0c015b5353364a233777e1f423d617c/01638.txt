@@ -1,0 +1,7 @@
+signId	1638
+text	tung
+imageUuid	c3908ea4-1112-4de1-94a5-ca32aa2b3090
+translationKey	4a36a6bc-f600-44cb-b24d-3120f54591ed
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c3908ea4-1112-4de1-94a5-ca32aa2b3090/4a36a6bc-f600-44cb-b24d-3120f54591ed/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c3908ea4-1112-4de1-94a5-ca32aa2b3090/4a36a6bc-f600-44cb-b24d-3120f54591ed
+md5	e0c015b5353364a233777e1f423d617c

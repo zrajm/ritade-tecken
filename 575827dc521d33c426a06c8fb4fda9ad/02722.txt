@@ -1,0 +1,7 @@
+signId	2722
+text	klimat
+imageUuid	7e92511b-c69c-4de5-8c82-ebf7be13110b
+translationKey	7bb7ef8a-ee7c-406a-b3db-9ea28a67def5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e92511b-c69c-4de5-8c82-ebf7be13110b/7bb7ef8a-ee7c-406a-b3db-9ea28a67def5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e92511b-c69c-4de5-8c82-ebf7be13110b/7bb7ef8a-ee7c-406a-b3db-9ea28a67def5
+md5	575827dc521d33c426a06c8fb4fda9ad

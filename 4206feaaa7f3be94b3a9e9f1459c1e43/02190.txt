@@ -1,0 +1,7 @@
+signId	2190
+text	november 2
+imageUuid	7cf5f76a-964d-43c8-b50a-5b4702d71a04
+translationKey	dbb96107-4d43-44f3-bd04-f21b4f674505
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7cf5f76a-964d-43c8-b50a-5b4702d71a04/dbb96107-4d43-44f3-bd04-f21b4f674505/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7cf5f76a-964d-43c8-b50a-5b4702d71a04/dbb96107-4d43-44f3-bd04-f21b4f674505
+md5	4206feaaa7f3be94b3a9e9f1459c1e43

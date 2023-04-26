@@ -1,0 +1,7 @@
+signId	1733
+text	vill ha
+imageUuid	9d233220-7f01-4af4-b6ba-10940d59e2a0
+translationKey	a37e25e4-010e-4c06-af24-e73ec4b6b72e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9d233220-7f01-4af4-b6ba-10940d59e2a0/a37e25e4-010e-4c06-af24-e73ec4b6b72e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9d233220-7f01-4af4-b6ba-10940d59e2a0/a37e25e4-010e-4c06-af24-e73ec4b6b72e
+md5	abc67b4ac5b76459b3b5b63aadda25b0

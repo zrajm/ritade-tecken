@@ -1,0 +1,7 @@
+signId	1641
+text	tunnelbana
+imageUuid	a86e6487-23d0-4644-9237-32723d39d3ac
+translationKey	bec17c73-87b1-4f2e-8a17-e7c7afd4c4cc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a86e6487-23d0-4644-9237-32723d39d3ac/bec17c73-87b1-4f2e-8a17-e7c7afd4c4cc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a86e6487-23d0-4644-9237-32723d39d3ac/bec17c73-87b1-4f2e-8a17-e7c7afd4c4cc
+md5	13042bb04f3333eacf23ab26aa902a68

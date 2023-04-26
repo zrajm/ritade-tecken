@@ -1,0 +1,7 @@
+signId	2647
+text	liggunderlag
+imageUuid	c4bdc55d-6fb4-4367-abba-32371c0850c6
+translationKey	c3882cd9-bbd9-4e6c-a924-b32751797470
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c4bdc55d-6fb4-4367-abba-32371c0850c6/c3882cd9-bbd9-4e6c-a924-b32751797470/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c4bdc55d-6fb4-4367-abba-32371c0850c6/c3882cd9-bbd9-4e6c-a924-b32751797470
+md5	3c280a73e27252ee82e1ea2a10343387

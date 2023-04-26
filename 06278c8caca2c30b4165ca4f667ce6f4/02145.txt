@@ -1,0 +1,7 @@
+signId	2145
+text	skog 2
+imageUuid	579069e3-4f44-4b05-8223-ef5ea52abb61
+translationKey	2857898d-150b-456e-99c7-acc2af7c49f7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/579069e3-4f44-4b05-8223-ef5ea52abb61/2857898d-150b-456e-99c7-acc2af7c49f7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/579069e3-4f44-4b05-8223-ef5ea52abb61/2857898d-150b-456e-99c7-acc2af7c49f7
+md5	06278c8caca2c30b4165ca4f667ce6f4

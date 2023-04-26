@@ -1,0 +1,7 @@
+signId	2143
+text	rytmik
+imageUuid	b59c25ed-3cbb-4ba5-9071-5d0bde3ef20d
+translationKey	478de72a-a44f-4074-ad4a-09bb3f47de3c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b59c25ed-3cbb-4ba5-9071-5d0bde3ef20d/478de72a-a44f-4074-ad4a-09bb3f47de3c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b59c25ed-3cbb-4ba5-9071-5d0bde3ef20d/478de72a-a44f-4074-ad4a-09bb3f47de3c
+md5	5aceb4ba1f1267c83d83dfe1db66313c

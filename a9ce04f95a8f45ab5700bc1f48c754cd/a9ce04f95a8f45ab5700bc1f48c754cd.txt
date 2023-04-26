@@ -1,0 +1,8 @@
+
+signId	1013
+text	morgonrock
+imageUuid	a8f04172-0435-41d6-8322-2c626e13da92
+translationKey	bfb6045e-b5fc-4a04-84e2-19bb46259299
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a8f04172-0435-41d6-8322-2c626e13da92/bfb6045e-b5fc-4a04-84e2-19bb46259299/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a8f04172-0435-41d6-8322-2c626e13da92/bfb6045e-b5fc-4a04-84e2-19bb46259299
+md5	a9ce04f95a8f45ab5700bc1f48c754cd

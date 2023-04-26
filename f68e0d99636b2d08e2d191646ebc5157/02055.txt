@@ -1,0 +1,7 @@
+signId	2055
+text	hemsk
+imageUuid	3b0efa4a-544f-4a72-bbd7-128acec5c738
+translationKey	803cf746-bc7b-4440-8d56-e7b1d1f307cb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b0efa4a-544f-4a72-bbd7-128acec5c738/803cf746-bc7b-4440-8d56-e7b1d1f307cb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b0efa4a-544f-4a72-bbd7-128acec5c738/803cf746-bc7b-4440-8d56-e7b1d1f307cb
+md5	f68e0d99636b2d08e2d191646ebc5157

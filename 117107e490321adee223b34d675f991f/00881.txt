@@ -1,0 +1,7 @@
+signId	881
+text	lekplats
+imageUuid	819cf2c6-a01e-42aa-86ef-f8873fc0e1b7
+translationKey	94e07ba8-95c7-4111-9c18-2115ecba5530
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/819cf2c6-a01e-42aa-86ef-f8873fc0e1b7/94e07ba8-95c7-4111-9c18-2115ecba5530/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/819cf2c6-a01e-42aa-86ef-f8873fc0e1b7/94e07ba8-95c7-4111-9c18-2115ecba5530
+md5	117107e490321adee223b34d675f991f

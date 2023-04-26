@@ -1,0 +1,7 @@
+signId	3244
+text	adjektiv
+imageUuid	338e9ca8-c95c-4e59-894c-f510542820bc
+translationKey	ed0c491c-1e08-409b-ad6f-0c7e131b4ea4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/338e9ca8-c95c-4e59-894c-f510542820bc/ed0c491c-1e08-409b-ad6f-0c7e131b4ea4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/338e9ca8-c95c-4e59-894c-f510542820bc/ed0c491c-1e08-409b-ad6f-0c7e131b4ea4
+md5	9e464f9e009283bcfc4d277a0c460c21

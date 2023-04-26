@@ -1,0 +1,8 @@
+
+signId	3210
+text	filosofi
+imageUuid	c3469417-7019-4996-8416-4a7fe3f4afc2
+translationKey	751ebb14-ae27-4a29-9271-c14f0969c50f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c3469417-7019-4996-8416-4a7fe3f4afc2/751ebb14-ae27-4a29-9271-c14f0969c50f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c3469417-7019-4996-8416-4a7fe3f4afc2/751ebb14-ae27-4a29-9271-c14f0969c50f
+md5	39d109fc422f70eeae5d979daf3a108a

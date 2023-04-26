@@ -1,0 +1,16 @@
+
+signId	766
+text	klättra
+imageUuid	e2a3fbee-07b1-40e9-b12c-a88dc8575aab
+translationKey	97f00539-1096-4c7d-a995-d0902996d9a5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e2a3fbee-07b1-40e9-b12c-a88dc8575aab/97f00539-1096-4c7d-a995-d0902996d9a5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e2a3fbee-07b1-40e9-b12c-a88dc8575aab/97f00539-1096-4c7d-a995-d0902996d9a5
+md5	e9cd18eb07361e9fab51f269579d08ca
+
+signId	1470
+text	stege
+imageUuid	8f99e6fa-c761-4a5c-9a3f-3c73b5cd61d6
+translationKey	c3c2cde8-8442-41de-827b-2357eef03ac7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8f99e6fa-c761-4a5c-9a3f-3c73b5cd61d6/c3c2cde8-8442-41de-827b-2357eef03ac7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8f99e6fa-c761-4a5c-9a3f-3c73b5cd61d6/c3c2cde8-8442-41de-827b-2357eef03ac7
+md5	e9cd18eb07361e9fab51f269579d08ca

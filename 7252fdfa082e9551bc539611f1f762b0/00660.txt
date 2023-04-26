@@ -1,0 +1,7 @@
+signId	660
+text	igelkott 1
+imageUuid	5cd7a581-fe23-4c73-96ca-cdbad5efff59
+translationKey	6e4a21bc-c7a9-4f7d-afeb-9740c70bfab2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5cd7a581-fe23-4c73-96ca-cdbad5efff59/6e4a21bc-c7a9-4f7d-afeb-9740c70bfab2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5cd7a581-fe23-4c73-96ca-cdbad5efff59/6e4a21bc-c7a9-4f7d-afeb-9740c70bfab2
+md5	7252fdfa082e9551bc539611f1f762b0

@@ -1,0 +1,8 @@
+
+signId	1750
+text	volleyboll
+imageUuid	bbfe7c88-4377-4e3f-beea-7b537dbb7f17
+translationKey	c3891203-fa12-47b3-a064-8eda6a94e189
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bbfe7c88-4377-4e3f-beea-7b537dbb7f17/c3891203-fa12-47b3-a064-8eda6a94e189/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bbfe7c88-4377-4e3f-beea-7b537dbb7f17/c3891203-fa12-47b3-a064-8eda6a94e189
+md5	a4a4f5fe64c87f943a3a248c18da0162

@@ -1,0 +1,7 @@
+signId	360
+text	fet
+imageUuid	6f3f1156-dd77-4754-816e-2514f4050c19
+translationKey	8750e2a1-9e3f-4013-be23-201c1f69c28b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6f3f1156-dd77-4754-816e-2514f4050c19/8750e2a1-9e3f-4013-be23-201c1f69c28b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6f3f1156-dd77-4754-816e-2514f4050c19/8750e2a1-9e3f-4013-be23-201c1f69c28b
+md5	9b28b2c3acff436229841e54f9dcf260

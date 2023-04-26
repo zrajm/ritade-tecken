@@ -1,0 +1,7 @@
+signId	3365
+text	lotter
+imageUuid	442c3c3c-b087-476f-be02-44f43d554389
+translationKey	ee50ce13-822c-4e50-93aa-1097692a35bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/442c3c3c-b087-476f-be02-44f43d554389/ee50ce13-822c-4e50-93aa-1097692a35bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/442c3c3c-b087-476f-be02-44f43d554389/ee50ce13-822c-4e50-93aa-1097692a35bf
+md5	1c7f9c9118749cc7c45b18e63902fbd6

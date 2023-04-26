@@ -1,0 +1,7 @@
+signId	2810
+text	batteri
+imageUuid	1e553500-1f73-4e8c-ab23-d62390d3862d
+translationKey	49e5033b-afe1-4d5a-990f-a85ea42c2554
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1e553500-1f73-4e8c-ab23-d62390d3862d/49e5033b-afe1-4d5a-990f-a85ea42c2554/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1e553500-1f73-4e8c-ab23-d62390d3862d/49e5033b-afe1-4d5a-990f-a85ea42c2554
+md5	8449bc490f385627640645d1011ce4f4

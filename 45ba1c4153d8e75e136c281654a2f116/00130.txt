@@ -1,0 +1,7 @@
+signId	130
+text	betala
+imageUuid	09c87625-0d1c-41e4-8582-f21a7f66bba1
+translationKey	a5e172ef-bc2b-411c-8913-eee3af23d759
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/09c87625-0d1c-41e4-8582-f21a7f66bba1/a5e172ef-bc2b-411c-8913-eee3af23d759/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/09c87625-0d1c-41e4-8582-f21a7f66bba1/a5e172ef-bc2b-411c-8913-eee3af23d759
+md5	45ba1c4153d8e75e136c281654a2f116

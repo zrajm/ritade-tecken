@@ -1,0 +1,7 @@
+signId	3093
+text	NATO
+imageUuid	c82d2877-7d50-47b5-b6d1-abb941e0c6c2
+translationKey	3a0043e3-3378-4f5c-a269-666972156831
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c82d2877-7d50-47b5-b6d1-abb941e0c6c2/3a0043e3-3378-4f5c-a269-666972156831/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c82d2877-7d50-47b5-b6d1-abb941e0c6c2/3a0043e3-3378-4f5c-a269-666972156831
+md5	c6e5e9e16924181b842ea4c6ff23c834

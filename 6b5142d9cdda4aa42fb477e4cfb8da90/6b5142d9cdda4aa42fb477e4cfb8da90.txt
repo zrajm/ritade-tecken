@@ -1,0 +1,8 @@
+
+signId	547
+text	gömma
+imageUuid	712d9045-4955-4d99-bd86-737d2f79a000
+translationKey	f43910f3-c05f-49f3-85a6-7adf2480ea7f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/712d9045-4955-4d99-bd86-737d2f79a000/f43910f3-c05f-49f3-85a6-7adf2480ea7f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/712d9045-4955-4d99-bd86-737d2f79a000/f43910f3-c05f-49f3-85a6-7adf2480ea7f
+md5	6b5142d9cdda4aa42fb477e4cfb8da90

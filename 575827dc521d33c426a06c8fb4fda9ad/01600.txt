@@ -1,0 +1,7 @@
+signId	1600
+text	torka
+imageUuid	7579bda6-f5b6-41de-be85-5e915b62e942
+translationKey	cc2b055b-98dc-4392-bcb9-25b10e3654ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7579bda6-f5b6-41de-be85-5e915b62e942/cc2b055b-98dc-4392-bcb9-25b10e3654ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7579bda6-f5b6-41de-be85-5e915b62e942/cc2b055b-98dc-4392-bcb9-25b10e3654ca
+md5	575827dc521d33c426a06c8fb4fda9ad

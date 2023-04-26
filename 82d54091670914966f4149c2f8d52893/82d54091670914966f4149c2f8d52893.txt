@@ -1,0 +1,24 @@
+
+signId	75
+text	assistent
+imageUuid	d97707cd-342d-4167-bdd2-3cbfbcebb772
+translationKey	90d36ed3-92da-4f12-a76b-f46d3da079e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d97707cd-342d-4167-bdd2-3cbfbcebb772/90d36ed3-92da-4f12-a76b-f46d3da079e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d97707cd-342d-4167-bdd2-3cbfbcebb772/90d36ed3-92da-4f12-a76b-f46d3da079e8
+md5	82d54091670914966f4149c2f8d52893
+
+signId	1158
+text	personal 1
+imageUuid	30f7a31e-29d0-4841-ba7c-62845ba7bbe3
+translationKey	c3d78faa-de64-4d43-bbda-5e2a591c49d8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/30f7a31e-29d0-4841-ba7c-62845ba7bbe3/c3d78faa-de64-4d43-bbda-5e2a591c49d8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/30f7a31e-29d0-4841-ba7c-62845ba7bbe3/c3d78faa-de64-4d43-bbda-5e2a591c49d8
+md5	82d54091670914966f4149c2f8d52893
+
+signId	3435
+text	tjänst
+imageUuid	880ce126-d2a4-43d6-bad7-5c2a658867f7
+translationKey	e9345bee-e4f7-4a67-9160-d163e98a0ee4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/880ce126-d2a4-43d6-bad7-5c2a658867f7/e9345bee-e4f7-4a67-9160-d163e98a0ee4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/880ce126-d2a4-43d6-bad7-5c2a658867f7/e9345bee-e4f7-4a67-9160-d163e98a0ee4
+md5	82d54091670914966f4149c2f8d52893

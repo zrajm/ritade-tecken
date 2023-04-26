@@ -1,0 +1,24 @@
+
+signId	111
+text	bege sig hem
+imageUuid	748797c7-d40f-43de-8004-741563ce59f9
+translationKey	ab7e8de3-9152-4c56-96e5-6f6afb1197e2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/748797c7-d40f-43de-8004-741563ce59f9/ab7e8de3-9152-4c56-96e5-6f6afb1197e2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/748797c7-d40f-43de-8004-741563ce59f9/ab7e8de3-9152-4c56-96e5-6f6afb1197e2
+md5	57ef85abb6a70fd9a1758f93ca2d2ded
+
+signId	539
+text	gå hem
+imageUuid	bc7f656f-10d1-4e06-921a-ab103a551cfe
+translationKey	f2e4b8f3-aafa-4b51-8c72-c2f5ab1fb0a1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bc7f656f-10d1-4e06-921a-ab103a551cfe/f2e4b8f3-aafa-4b51-8c72-c2f5ab1fb0a1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bc7f656f-10d1-4e06-921a-ab103a551cfe/f2e4b8f3-aafa-4b51-8c72-c2f5ab1fb0a1
+md5	57ef85abb6a70fd9a1758f93ca2d2ded
+
+signId	1786
+text	åka hem
+imageUuid	46ba7d67-aa37-422f-b4be-58d382118698
+translationKey	48a63c03-dd09-4bb2-9b59-baafe9351538
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/46ba7d67-aa37-422f-b4be-58d382118698/48a63c03-dd09-4bb2-9b59-baafe9351538/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/46ba7d67-aa37-422f-b4be-58d382118698/48a63c03-dd09-4bb2-9b59-baafe9351538
+md5	57ef85abb6a70fd9a1758f93ca2d2ded

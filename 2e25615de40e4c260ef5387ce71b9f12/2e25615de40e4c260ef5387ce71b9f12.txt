@@ -1,0 +1,8 @@
+
+signId	476
+text	gardin
+imageUuid	f00f1ccd-e80c-4865-8b95-3015b3d30703
+translationKey	33d5a667-1fee-4299-aff5-18684210db53
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f00f1ccd-e80c-4865-8b95-3015b3d30703/33d5a667-1fee-4299-aff5-18684210db53/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f00f1ccd-e80c-4865-8b95-3015b3d30703/33d5a667-1fee-4299-aff5-18684210db53
+md5	2e25615de40e4c260ef5387ce71b9f12

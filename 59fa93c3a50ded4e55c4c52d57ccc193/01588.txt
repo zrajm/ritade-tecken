@@ -1,0 +1,7 @@
+signId	1588
+text	tivoli
+imageUuid	351c6e88-2ccc-40b0-af10-3f86511e5265
+translationKey	4b370f41-6c36-4108-bcb1-9a485440cc57
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/351c6e88-2ccc-40b0-af10-3f86511e5265/4b370f41-6c36-4108-bcb1-9a485440cc57/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/351c6e88-2ccc-40b0-af10-3f86511e5265/4b370f41-6c36-4108-bcb1-9a485440cc57
+md5	59fa93c3a50ded4e55c4c52d57ccc193

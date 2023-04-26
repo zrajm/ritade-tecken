@@ -1,0 +1,7 @@
+signId	2101
+text	bugga
+imageUuid	57b31ca1-9bbc-4aaa-8448-46737e6c2928
+translationKey	b5072860-de82-47b5-bae3-699f88c29067
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/57b31ca1-9bbc-4aaa-8448-46737e6c2928/b5072860-de82-47b5-bae3-699f88c29067/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/57b31ca1-9bbc-4aaa-8448-46737e6c2928/b5072860-de82-47b5-bae3-699f88c29067
+md5	434f4162b6b715de15e07af79da342d7

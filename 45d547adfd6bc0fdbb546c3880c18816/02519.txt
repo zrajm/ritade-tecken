@@ -1,0 +1,7 @@
+signId	2519
+text	spjut
+imageUuid	13d8113a-88fd-4518-9004-0f0111258392
+translationKey	ca7fe537-2f85-4b83-8a4f-bbc4ee512098
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/13d8113a-88fd-4518-9004-0f0111258392/ca7fe537-2f85-4b83-8a4f-bbc4ee512098/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/13d8113a-88fd-4518-9004-0f0111258392/ca7fe537-2f85-4b83-8a4f-bbc4ee512098
+md5	45d547adfd6bc0fdbb546c3880c18816

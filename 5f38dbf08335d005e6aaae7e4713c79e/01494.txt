@@ -1,0 +1,7 @@
+signId	1494
+text	stress
+imageUuid	982bacb2-3913-4509-b925-a674d97bdbbc
+translationKey	46c33577-2fad-48af-baec-b77ac3c423d4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/982bacb2-3913-4509-b925-a674d97bdbbc/46c33577-2fad-48af-baec-b77ac3c423d4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/982bacb2-3913-4509-b925-a674d97bdbbc/46c33577-2fad-48af-baec-b77ac3c423d4
+md5	5f38dbf08335d005e6aaae7e4713c79e

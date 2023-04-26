@@ -1,0 +1,7 @@
+signId	755
+text	kloss
+imageUuid	31ba7d8c-1665-432d-89b6-f0bdd7cc17fd
+translationKey	007f0cd7-7831-4d2a-ab0c-ee586d5b14a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/31ba7d8c-1665-432d-89b6-f0bdd7cc17fd/007f0cd7-7831-4d2a-ab0c-ee586d5b14a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/31ba7d8c-1665-432d-89b6-f0bdd7cc17fd/007f0cd7-7831-4d2a-ab0c-ee586d5b14a4
+md5	700f8edcd68d0e62fa302cbc1f2e4953

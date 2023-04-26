@@ -1,0 +1,7 @@
+signId	1547
+text	sätta fart
+imageUuid	ed1eb217-d0a4-4f59-8828-9cfe3dcbe092
+translationKey	6b22eded-3200-4855-94a4-8f515b2a464d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ed1eb217-d0a4-4f59-8828-9cfe3dcbe092/6b22eded-3200-4855-94a4-8f515b2a464d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ed1eb217-d0a4-4f59-8828-9cfe3dcbe092/6b22eded-3200-4855-94a4-8f515b2a464d
+md5	cc05848304da0a1898355e23b8ba55c4

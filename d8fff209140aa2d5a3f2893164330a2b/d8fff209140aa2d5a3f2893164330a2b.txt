@@ -1,0 +1,8 @@
+
+signId	1061
+text	naken
+imageUuid	74dd75db-c60a-4dbb-bcf8-24db3e5e12b2
+translationKey	021a6082-95f4-4fc8-8ccb-84fa155ac3ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/74dd75db-c60a-4dbb-bcf8-24db3e5e12b2/021a6082-95f4-4fc8-8ccb-84fa155ac3ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/74dd75db-c60a-4dbb-bcf8-24db3e5e12b2/021a6082-95f4-4fc8-8ccb-84fa155ac3ca
+md5	d8fff209140aa2d5a3f2893164330a2b

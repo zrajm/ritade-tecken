@@ -1,0 +1,8 @@
+
+signId	2766
+text	simhopp
+imageUuid	d98984e7-2af8-4a2a-a4c5-798710b8f5f6
+translationKey	4ac85dcb-d76b-4217-ad21-128026f1a980
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d98984e7-2af8-4a2a-a4c5-798710b8f5f6/4ac85dcb-d76b-4217-ad21-128026f1a980/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d98984e7-2af8-4a2a-a4c5-798710b8f5f6/4ac85dcb-d76b-4217-ad21-128026f1a980
+md5	3b38a002eaa8043a8d75836b53bd0d53

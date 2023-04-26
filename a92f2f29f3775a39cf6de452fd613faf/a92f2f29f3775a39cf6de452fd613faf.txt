@@ -1,0 +1,16 @@
+
+signId	661
+text	igelkott 2
+imageUuid	54de5068-1c7b-4c00-9b52-6bd087e3afa8
+translationKey	fdd6da14-7ae8-4d7b-87dc-daeb6100b096
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/54de5068-1c7b-4c00-9b52-6bd087e3afa8/fdd6da14-7ae8-4d7b-87dc-daeb6100b096/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/54de5068-1c7b-4c00-9b52-6bd087e3afa8/fdd6da14-7ae8-4d7b-87dc-daeb6100b096
+md5	a92f2f29f3775a39cf6de452fd613faf
+
+signId	3359
+text	abborre
+imageUuid	db9a9509-8379-4904-9dc7-b1ed13ccf9fc
+translationKey	ebc4c782-087b-4b0a-a7cc-eaa8c0c39c11
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/db9a9509-8379-4904-9dc7-b1ed13ccf9fc/ebc4c782-087b-4b0a-a7cc-eaa8c0c39c11/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/db9a9509-8379-4904-9dc7-b1ed13ccf9fc/ebc4c782-087b-4b0a-a7cc-eaa8c0c39c11
+md5	a92f2f29f3775a39cf6de452fd613faf

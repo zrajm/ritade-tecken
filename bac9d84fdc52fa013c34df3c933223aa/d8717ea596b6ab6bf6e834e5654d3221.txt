@@ -1,0 +1,8 @@
+
+signId	1505
+text	styck
+imageUuid	5a866b1f-d2a5-4234-9d48-5bbeed44248a
+translationKey	17308e37-2405-4d33-a72c-fc2ba331d93c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5a866b1f-d2a5-4234-9d48-5bbeed44248a/17308e37-2405-4d33-a72c-fc2ba331d93c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5a866b1f-d2a5-4234-9d48-5bbeed44248a/17308e37-2405-4d33-a72c-fc2ba331d93c
+md5	d8717ea596b6ab6bf6e834e5654d3221

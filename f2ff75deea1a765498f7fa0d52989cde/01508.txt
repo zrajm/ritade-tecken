@@ -1,0 +1,7 @@
+signId	1508
+text	stå
+imageUuid	f8b0a850-e836-4508-a92d-391626b30d77
+translationKey	572ee3bf-ab15-4fa1-97c2-23ceaf097f35
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f8b0a850-e836-4508-a92d-391626b30d77/572ee3bf-ab15-4fa1-97c2-23ceaf097f35/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f8b0a850-e836-4508-a92d-391626b30d77/572ee3bf-ab15-4fa1-97c2-23ceaf097f35
+md5	f2ff75deea1a765498f7fa0d52989cde

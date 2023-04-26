@@ -1,0 +1,8 @@
+
+signId	2545
+text	Danmark
+imageUuid	8422263b-6735-4481-9e6a-da9bb8aa80b0
+translationKey	d75c64af-2dd3-4b5e-8b17-2ca3f85a2f68
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8422263b-6735-4481-9e6a-da9bb8aa80b0/d75c64af-2dd3-4b5e-8b17-2ca3f85a2f68/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8422263b-6735-4481-9e6a-da9bb8aa80b0/d75c64af-2dd3-4b5e-8b17-2ca3f85a2f68
+md5	21ef79b70aeeeff284f9fa725a7cbaba

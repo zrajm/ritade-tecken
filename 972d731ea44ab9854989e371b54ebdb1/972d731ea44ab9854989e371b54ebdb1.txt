@@ -1,0 +1,8 @@
+
+signId	3003
+text	korttidsboende
+imageUuid	f07993e6-e018-401a-a0c0-9b829a2bdd08
+translationKey	b7afa685-a634-4da7-8f8a-30cde0f6fc25
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f07993e6-e018-401a-a0c0-9b829a2bdd08/b7afa685-a634-4da7-8f8a-30cde0f6fc25/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f07993e6-e018-401a-a0c0-9b829a2bdd08/b7afa685-a634-4da7-8f8a-30cde0f6fc25
+md5	972d731ea44ab9854989e371b54ebdb1

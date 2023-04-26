@@ -1,0 +1,8 @@
+
+signId	1594
+text	toalett
+imageUuid	38c3091c-f60a-4d85-9ae6-e6fc3207c590
+translationKey	6e663aa3-dfd1-4c8f-b5e0-1c37c7ab92aa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/38c3091c-f60a-4d85-9ae6-e6fc3207c590/6e663aa3-dfd1-4c8f-b5e0-1c37c7ab92aa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/38c3091c-f60a-4d85-9ae6-e6fc3207c590/6e663aa3-dfd1-4c8f-b5e0-1c37c7ab92aa
+md5	6d590bcc68f5b120eecd5367a19fad57

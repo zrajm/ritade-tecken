@@ -1,0 +1,7 @@
+signId	2851
+text	binda
+imageUuid	b6342d56-50c3-4607-86b9-267e9c5d84c7
+translationKey	c4bdcdc4-7a76-4dd0-85da-5a233f0165f8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b6342d56-50c3-4607-86b9-267e9c5d84c7/c4bdcdc4-7a76-4dd0-85da-5a233f0165f8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b6342d56-50c3-4607-86b9-267e9c5d84c7/c4bdcdc4-7a76-4dd0-85da-5a233f0165f8
+md5	8b99c47004cf4fb1508724eb96c17d83

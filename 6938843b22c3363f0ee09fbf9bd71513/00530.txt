@@ -1,0 +1,7 @@
+signId	530
+text	gunga (verb)
+imageUuid	5c2de16a-f039-4887-a497-830a3881d00e
+translationKey	71c7a789-69f4-434a-8143-b654db125c11
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5c2de16a-f039-4887-a497-830a3881d00e/71c7a789-69f4-434a-8143-b654db125c11/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5c2de16a-f039-4887-a497-830a3881d00e/71c7a789-69f4-434a-8143-b654db125c11
+md5	6938843b22c3363f0ee09fbf9bd71513

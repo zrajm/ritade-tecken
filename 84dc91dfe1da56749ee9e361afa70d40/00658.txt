@@ -1,0 +1,7 @@
+signId	658
+text	idrotta
+imageUuid	cda7be79-82e9-48cd-9b80-2201ece5d5a3
+translationKey	c456f444-e85d-46f8-bcb3-07f707f67329
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cda7be79-82e9-48cd-9b80-2201ece5d5a3/c456f444-e85d-46f8-bcb3-07f707f67329/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cda7be79-82e9-48cd-9b80-2201ece5d5a3/c456f444-e85d-46f8-bcb3-07f707f67329
+md5	84dc91dfe1da56749ee9e361afa70d40

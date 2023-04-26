@@ -1,0 +1,7 @@
+signId	1916
+text	klart 3
+imageUuid	aa523263-212f-460d-ace3-563d6900db61
+translationKey	bff87759-d7f5-47c5-8686-d5628b41a80e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aa523263-212f-460d-ace3-563d6900db61/bff87759-d7f5-47c5-8686-d5628b41a80e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aa523263-212f-460d-ace3-563d6900db61/bff87759-d7f5-47c5-8686-d5628b41a80e
+md5	53592cbbc4292f129e9ea06770b0d499

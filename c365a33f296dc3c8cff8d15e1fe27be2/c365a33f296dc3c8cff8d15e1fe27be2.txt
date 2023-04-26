@@ -1,0 +1,8 @@
+
+signId	3060
+text	eller 2
+imageUuid	1d900bed-2f6d-4bd1-862e-e62c7ea8211c
+translationKey	d98ede0b-66b6-4f4b-90b3-f40536241b93
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1d900bed-2f6d-4bd1-862e-e62c7ea8211c/d98ede0b-66b6-4f4b-90b3-f40536241b93/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1d900bed-2f6d-4bd1-862e-e62c7ea8211c/d98ede0b-66b6-4f4b-90b3-f40536241b93
+md5	c365a33f296dc3c8cff8d15e1fe27be2

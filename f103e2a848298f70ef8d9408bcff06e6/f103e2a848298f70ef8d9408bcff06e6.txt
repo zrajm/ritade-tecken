@@ -1,0 +1,8 @@
+
+signId	1927
+text	spark
+imageUuid	88ed2dc7-3f46-4d95-9409-783f9edfaaa9
+translationKey	54222f79-e06d-41ad-9192-b6ad9a3d365c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/88ed2dc7-3f46-4d95-9409-783f9edfaaa9/54222f79-e06d-41ad-9192-b6ad9a3d365c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/88ed2dc7-3f46-4d95-9409-783f9edfaaa9/54222f79-e06d-41ad-9192-b6ad9a3d365c
+md5	f103e2a848298f70ef8d9408bcff06e6

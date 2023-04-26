@@ -1,0 +1,7 @@
+signId	2303
+text	spelar ingen roll
+imageUuid	8bf09514-1d51-471c-aa66-dcbb9a406fd3
+translationKey	fcf064b9-a60f-4ef8-ad27-53cef0ccfa27
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8bf09514-1d51-471c-aa66-dcbb9a406fd3/fcf064b9-a60f-4ef8-ad27-53cef0ccfa27/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8bf09514-1d51-471c-aa66-dcbb9a406fd3/fcf064b9-a60f-4ef8-ad27-53cef0ccfa27
+md5	6f89c4912a5ce66c99d4a298f6500164

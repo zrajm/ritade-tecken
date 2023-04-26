@@ -1,0 +1,8 @@
+
+signId	2428
+text	julkula
+imageUuid	09d7866d-2756-49a7-953d-a710cab98494
+translationKey	9bfd3660-f188-4f02-96b9-315e5ee04c27
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/09d7866d-2756-49a7-953d-a710cab98494/9bfd3660-f188-4f02-96b9-315e5ee04c27/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/09d7866d-2756-49a7-953d-a710cab98494/9bfd3660-f188-4f02-96b9-315e5ee04c27
+md5	7e37517dbfe85cc776edc10abf96583b

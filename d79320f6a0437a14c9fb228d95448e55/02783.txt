@@ -1,0 +1,7 @@
+signId	2783
+text	Gotland
+imageUuid	1e361699-f66a-4142-81e8-6f5c2999888f
+translationKey	0c2c09e6-160b-4f08-afa0-7619aa3902d5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1e361699-f66a-4142-81e8-6f5c2999888f/0c2c09e6-160b-4f08-afa0-7619aa3902d5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1e361699-f66a-4142-81e8-6f5c2999888f/0c2c09e6-160b-4f08-afa0-7619aa3902d5
+md5	d79320f6a0437a14c9fb228d95448e55

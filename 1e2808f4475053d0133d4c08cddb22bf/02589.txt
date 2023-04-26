@@ -1,0 +1,7 @@
+signId	2589
+text	norr
+imageUuid	af2fa423-f1cb-4772-9912-f41db57a60de
+translationKey	c7620d0f-b0c3-4feb-8fa2-e774420c17cf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af2fa423-f1cb-4772-9912-f41db57a60de/c7620d0f-b0c3-4feb-8fa2-e774420c17cf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af2fa423-f1cb-4772-9912-f41db57a60de/c7620d0f-b0c3-4feb-8fa2-e774420c17cf
+md5	1e2808f4475053d0133d4c08cddb22bf

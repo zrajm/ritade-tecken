@@ -1,0 +1,7 @@
+signId	2751
+text	krans
+imageUuid	d65f68c2-be28-4b93-8cbe-3acfd5c8e022
+translationKey	29e32821-9e15-4337-8bd5-0f125b073cc9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d65f68c2-be28-4b93-8cbe-3acfd5c8e022/29e32821-9e15-4337-8bd5-0f125b073cc9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d65f68c2-be28-4b93-8cbe-3acfd5c8e022/29e32821-9e15-4337-8bd5-0f125b073cc9
+md5	cc67d2ff27f84bc7e86acd763f1f47a5

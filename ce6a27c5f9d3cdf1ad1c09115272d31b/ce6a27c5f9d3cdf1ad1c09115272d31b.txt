@@ -1,0 +1,8 @@
+
+signId	2745
+text	rugby
+imageUuid	12a39350-3706-4e60-aa54-54c150a843bf
+translationKey	36d6f649-a974-4137-89d4-8d52392dac9c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/12a39350-3706-4e60-aa54-54c150a843bf/36d6f649-a974-4137-89d4-8d52392dac9c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/12a39350-3706-4e60-aa54-54c150a843bf/36d6f649-a974-4137-89d4-8d52392dac9c
+md5	ce6a27c5f9d3cdf1ad1c09115272d31b

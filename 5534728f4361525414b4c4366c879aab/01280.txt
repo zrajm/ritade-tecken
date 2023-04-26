@@ -1,0 +1,7 @@
+signId	1280
+text	saga
+imageUuid	c93d8f7f-f986-42e7-9b4d-e6dcb783952c
+translationKey	a6563d61-3134-4f6a-b65e-ad40eaa51bae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c93d8f7f-f986-42e7-9b4d-e6dcb783952c/a6563d61-3134-4f6a-b65e-ad40eaa51bae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c93d8f7f-f986-42e7-9b4d-e6dcb783952c/a6563d61-3134-4f6a-b65e-ad40eaa51bae
+md5	5534728f4361525414b4c4366c879aab

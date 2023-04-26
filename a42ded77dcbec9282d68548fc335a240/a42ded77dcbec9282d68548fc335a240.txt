@@ -1,0 +1,16 @@
+
+signId	960
+text	mamma
+imageUuid	7e9993d7-bd60-430a-b321-a122ee474f4d
+translationKey	8b98d858-c0ce-429c-bded-68605fb7bdfb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e9993d7-bd60-430a-b321-a122ee474f4d/8b98d858-c0ce-429c-bded-68605fb7bdfb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e9993d7-bd60-430a-b321-a122ee474f4d/8b98d858-c0ce-429c-bded-68605fb7bdfb
+md5	a42ded77dcbec9282d68548fc335a240
+
+signId	1010
+text	mor
+imageUuid	7f7c13fa-f11d-44b1-8955-ad80dba3329e
+translationKey	401f69f4-6930-4ac9-8696-e028ef04e8b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f7c13fa-f11d-44b1-8955-ad80dba3329e/401f69f4-6930-4ac9-8696-e028ef04e8b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f7c13fa-f11d-44b1-8955-ad80dba3329e/401f69f4-6930-4ac9-8696-e028ef04e8b6
+md5	a42ded77dcbec9282d68548fc335a240

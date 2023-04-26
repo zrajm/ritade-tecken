@@ -1,0 +1,7 @@
+signId	822
+text	kudde
+imageUuid	fb9d4eb9-d52a-4487-8eb8-acb78e8557fd
+translationKey	94c6fcdd-99cc-4ec0-9653-7028a17969d9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fb9d4eb9-d52a-4487-8eb8-acb78e8557fd/94c6fcdd-99cc-4ec0-9653-7028a17969d9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fb9d4eb9-d52a-4487-8eb8-acb78e8557fd/94c6fcdd-99cc-4ec0-9653-7028a17969d9
+md5	5c1e8734aa5c52d580d1decc79c060f2

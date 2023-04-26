@@ -1,0 +1,8 @@
+
+signId	2422
+text	handläggare
+imageUuid	bb91592f-7de1-4504-8823-1917af5425e1
+translationKey	83d0d24f-7758-4011-bfd8-54d10ebbcca6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bb91592f-7de1-4504-8823-1917af5425e1/83d0d24f-7758-4011-bfd8-54d10ebbcca6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bb91592f-7de1-4504-8823-1917af5425e1/83d0d24f-7758-4011-bfd8-54d10ebbcca6
+md5	9910766ea9c0ed7a6eeece507550c85a

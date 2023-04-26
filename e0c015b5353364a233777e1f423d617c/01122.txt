@@ -1,0 +1,7 @@
+signId	1122
+text	ork
+imageUuid	6c257045-87e7-40ad-9d85-1d6acf0c8909
+translationKey	632d625c-f587-4b67-a749-ddadf1b3b4c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6c257045-87e7-40ad-9d85-1d6acf0c8909/632d625c-f587-4b67-a749-ddadf1b3b4c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6c257045-87e7-40ad-9d85-1d6acf0c8909/632d625c-f587-4b67-a749-ddadf1b3b4c4
+md5	e0c015b5353364a233777e1f423d617c

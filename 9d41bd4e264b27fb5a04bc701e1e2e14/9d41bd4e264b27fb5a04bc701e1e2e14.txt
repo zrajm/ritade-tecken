@@ -1,0 +1,8 @@
+
+signId	3200
+text	diskutera 2
+imageUuid	1daef407-6a24-4984-9943-2f88a88ab890
+translationKey	0153f0e1-6b84-43ed-a9ec-bffe37a4d919
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1daef407-6a24-4984-9943-2f88a88ab890/0153f0e1-6b84-43ed-a9ec-bffe37a4d919/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1daef407-6a24-4984-9943-2f88a88ab890/0153f0e1-6b84-43ed-a9ec-bffe37a4d919
+md5	9d41bd4e264b27fb5a04bc701e1e2e14

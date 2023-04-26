@@ -1,0 +1,7 @@
+signId	673
+text	inomhus
+imageUuid	fc203349-33cc-4489-a8e9-3ee940984ab6
+translationKey	e3e2e67c-8346-4b86-a9d0-45e41ff0c6ce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fc203349-33cc-4489-a8e9-3ee940984ab6/e3e2e67c-8346-4b86-a9d0-45e41ff0c6ce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fc203349-33cc-4489-a8e9-3ee940984ab6/e3e2e67c-8346-4b86-a9d0-45e41ff0c6ce
+md5	8fd8d1ac83c80f49ca1666ad0c60bbba

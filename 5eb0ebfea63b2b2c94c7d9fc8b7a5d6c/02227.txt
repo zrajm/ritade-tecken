@@ -1,0 +1,7 @@
+signId	2227
+text	massage
+imageUuid	cd9a1a64-fc5d-4b29-ac83-63f7b3f9bc5b
+translationKey	80440071-aab2-426c-ae32-9ccb1155b792
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cd9a1a64-fc5d-4b29-ac83-63f7b3f9bc5b/80440071-aab2-426c-ae32-9ccb1155b792/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cd9a1a64-fc5d-4b29-ac83-63f7b3f9bc5b/80440071-aab2-426c-ae32-9ccb1155b792
+md5	5eb0ebfea63b2b2c94c7d9fc8b7a5d6c

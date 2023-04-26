@@ -1,0 +1,8 @@
+
+signId	2290
+text	mp3-spelare
+imageUuid	426abeee-1705-49ae-b851-5dd3e96c4176
+translationKey	7574b14a-95e2-404d-9609-d42a34c9a480
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/426abeee-1705-49ae-b851-5dd3e96c4176/7574b14a-95e2-404d-9609-d42a34c9a480/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/426abeee-1705-49ae-b851-5dd3e96c4176/7574b14a-95e2-404d-9609-d42a34c9a480
+md5	91eb47fc8d84f1cdd8f3d395b51f2928

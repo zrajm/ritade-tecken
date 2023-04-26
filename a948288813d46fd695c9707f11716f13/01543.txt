@@ -1,0 +1,7 @@
+signId	1543
+text	säker
+imageUuid	347a0851-c067-4e2e-81d1-8fe241478800
+translationKey	a00c9900-f686-4895-8b69-34648b1d980f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/347a0851-c067-4e2e-81d1-8fe241478800/a00c9900-f686-4895-8b69-34648b1d980f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/347a0851-c067-4e2e-81d1-8fe241478800/a00c9900-f686-4895-8b69-34648b1d980f
+md5	27b108d1f2972f1c12f0e02fc95cc61b

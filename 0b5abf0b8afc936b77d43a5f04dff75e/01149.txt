@@ -1,0 +1,7 @@
+signId	1149
+text	penna
+imageUuid	293adfd2-9d6b-472f-90cf-640f2d285703
+translationKey	27489231-f792-4537-9897-373523ac334d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/293adfd2-9d6b-472f-90cf-640f2d285703/27489231-f792-4537-9897-373523ac334d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/293adfd2-9d6b-472f-90cf-640f2d285703/27489231-f792-4537-9897-373523ac334d
+md5	0b5abf0b8afc936b77d43a5f04dff75e

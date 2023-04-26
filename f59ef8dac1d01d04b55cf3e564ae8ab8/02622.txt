@@ -1,0 +1,7 @@
+signId	2622
+text	ålder
+imageUuid	4d16910a-de41-40d9-84d4-c3095ae3de7f
+translationKey	620c8bbd-d2b8-4ba3-a946-67cb17b1557a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4d16910a-de41-40d9-84d4-c3095ae3de7f/620c8bbd-d2b8-4ba3-a946-67cb17b1557a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4d16910a-de41-40d9-84d4-c3095ae3de7f/620c8bbd-d2b8-4ba3-a946-67cb17b1557a
+md5	f59ef8dac1d01d04b55cf3e564ae8ab8

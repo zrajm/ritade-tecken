@@ -1,0 +1,7 @@
+signId	3401
+text	klockan 8
+imageUuid	4c4881b2-aa9c-42ae-870d-6c072e6ef805
+translationKey	3dda230c-d5fd-4447-97c7-9d3d15f78018
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4c4881b2-aa9c-42ae-870d-6c072e6ef805/3dda230c-d5fd-4447-97c7-9d3d15f78018/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4c4881b2-aa9c-42ae-870d-6c072e6ef805/3dda230c-d5fd-4447-97c7-9d3d15f78018
+md5	ef6fe87d1669fa1bb7330568642b59ae

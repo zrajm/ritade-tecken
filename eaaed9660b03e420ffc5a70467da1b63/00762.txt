@@ -1,0 +1,7 @@
+signId	762
+text	kläcks
+imageUuid	72598065-022e-4c97-9745-3c51af4c9932
+translationKey	74383133-c365-43be-ad92-29fc03c257c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72598065-022e-4c97-9745-3c51af4c9932/74383133-c365-43be-ad92-29fc03c257c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72598065-022e-4c97-9745-3c51af4c9932/74383133-c365-43be-ad92-29fc03c257c7
+md5	eaaed9660b03e420ffc5a70467da1b63

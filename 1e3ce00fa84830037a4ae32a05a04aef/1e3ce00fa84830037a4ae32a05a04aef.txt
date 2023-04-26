@@ -1,0 +1,32 @@
+
+signId	770
+text	knuffa
+imageUuid	23049859-7a81-46fe-9a4a-7d0c6aa3da11
+translationKey	69977393-c6f7-4c5d-8eb5-b95ee64742ff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/23049859-7a81-46fe-9a4a-7d0c6aa3da11/69977393-c6f7-4c5d-8eb5-b95ee64742ff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/23049859-7a81-46fe-9a4a-7d0c6aa3da11/69977393-c6f7-4c5d-8eb5-b95ee64742ff
+md5	1e3ce00fa84830037a4ae32a05a04aef
+
+signId	1482
+text	stopp
+imageUuid	310fa631-cd53-464a-bbde-3540dc7c2793
+translationKey	91cd05a0-86bb-42f2-82ae-ccc6fca2cec4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/310fa631-cd53-464a-bbde-3540dc7c2793/91cd05a0-86bb-42f2-82ae-ccc6fca2cec4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/310fa631-cd53-464a-bbde-3540dc7c2793/91cd05a0-86bb-42f2-82ae-ccc6fca2cec4
+md5	1e3ce00fa84830037a4ae32a05a04aef
+
+signId	1483
+text	stoppa
+imageUuid	7d0bf896-9d6d-422d-bb6f-06d11441455c
+translationKey	7bc1d7b9-5ab2-4579-bc3c-7d3fffb27828
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7d0bf896-9d6d-422d-bb6f-06d11441455c/7bc1d7b9-5ab2-4579-bc3c-7d3fffb27828/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7d0bf896-9d6d-422d-bb6f-06d11441455c/7bc1d7b9-5ab2-4579-bc3c-7d3fffb27828
+md5	1e3ce00fa84830037a4ae32a05a04aef
+
+signId	2503
+text	vägra (variant)
+imageUuid	d57779df-ae9a-43cd-a76a-d2aac191125d
+translationKey	acb74604-4def-4623-868b-8c95133ed742
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d57779df-ae9a-43cd-a76a-d2aac191125d/acb74604-4def-4623-868b-8c95133ed742/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d57779df-ae9a-43cd-a76a-d2aac191125d/acb74604-4def-4623-868b-8c95133ed742
+md5	1e3ce00fa84830037a4ae32a05a04aef

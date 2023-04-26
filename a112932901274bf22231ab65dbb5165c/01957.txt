@@ -1,0 +1,7 @@
+signId	1957
+text	spöke 2
+imageUuid	fc7f91fd-8bd2-4b8f-acae-4c87a488d920
+translationKey	be4ac27b-ec9e-46be-9503-8e8445b3a728
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fc7f91fd-8bd2-4b8f-acae-4c87a488d920/be4ac27b-ec9e-46be-9503-8e8445b3a728/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fc7f91fd-8bd2-4b8f-acae-4c87a488d920/be4ac27b-ec9e-46be-9503-8e8445b3a728
+md5	a112932901274bf22231ab65dbb5165c

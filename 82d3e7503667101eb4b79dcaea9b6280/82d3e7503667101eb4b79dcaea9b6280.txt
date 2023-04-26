@@ -1,0 +1,8 @@
+
+signId	711
+text	kaffe
+imageUuid	7fdddeb6-1bd3-466e-800f-5a3d06b41656
+translationKey	442268b4-c296-46d6-8cfe-10ac023a8fbd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7fdddeb6-1bd3-466e-800f-5a3d06b41656/442268b4-c296-46d6-8cfe-10ac023a8fbd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7fdddeb6-1bd3-466e-800f-5a3d06b41656/442268b4-c296-46d6-8cfe-10ac023a8fbd
+md5	82d3e7503667101eb4b79dcaea9b6280

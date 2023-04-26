@@ -1,0 +1,7 @@
+signId	884
+text	leva
+imageUuid	f624fbeb-889b-4593-9083-608881aba205
+translationKey	dc4ff840-407c-4da5-800e-ccb2ae511e64
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f624fbeb-889b-4593-9083-608881aba205/dc4ff840-407c-4da5-800e-ccb2ae511e64/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f624fbeb-889b-4593-9083-608881aba205/dc4ff840-407c-4da5-800e-ccb2ae511e64
+md5	4a264df94f3d2c95caeba64484877399

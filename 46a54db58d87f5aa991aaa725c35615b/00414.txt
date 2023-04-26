@@ -1,0 +1,7 @@
+signId	414
+text	fråga (verb)
+imageUuid	c0a583a9-ba80-455f-9a91-71d5945553dc
+translationKey	675ccef9-33b3-4253-9372-ff41dce1625f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c0a583a9-ba80-455f-9a91-71d5945553dc/675ccef9-33b3-4253-9372-ff41dce1625f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c0a583a9-ba80-455f-9a91-71d5945553dc/675ccef9-33b3-4253-9372-ff41dce1625f
+md5	46a54db58d87f5aa991aaa725c35615b

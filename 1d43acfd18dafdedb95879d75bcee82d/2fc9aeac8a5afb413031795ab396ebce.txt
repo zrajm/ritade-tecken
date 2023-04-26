@@ -1,0 +1,8 @@
+
+signId	2713
+text	lyfta
+imageUuid	835bc814-b606-4173-9f82-b09acc96f4c7
+translationKey	4076d552-3d49-49d6-aeff-b7cfe94cb006
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/835bc814-b606-4173-9f82-b09acc96f4c7/4076d552-3d49-49d6-aeff-b7cfe94cb006/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/835bc814-b606-4173-9f82-b09acc96f4c7/4076d552-3d49-49d6-aeff-b7cfe94cb006
+md5	2fc9aeac8a5afb413031795ab396ebce

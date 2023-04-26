@@ -1,0 +1,7 @@
+signId	375
+text	fiska
+imageUuid	074a73fa-48d9-41e6-b04a-6b383a510129
+translationKey	6120c52a-329d-4a8f-9132-c025d98bfe1b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/074a73fa-48d9-41e6-b04a-6b383a510129/6120c52a-329d-4a8f-9132-c025d98bfe1b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/074a73fa-48d9-41e6-b04a-6b383a510129/6120c52a-329d-4a8f-9132-c025d98bfe1b
+md5	58319e61a386743c5cf332e2c45ba841

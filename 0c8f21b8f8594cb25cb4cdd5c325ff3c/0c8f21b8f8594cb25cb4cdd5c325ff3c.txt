@@ -1,0 +1,8 @@
+
+signId	2703
+text	sommarlov
+imageUuid	b103dc31-d206-4ba1-a876-3a6730c5b453
+translationKey	ca7f5123-55bc-4e1d-afe8-df5a4f4687a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b103dc31-d206-4ba1-a876-3a6730c5b453/ca7f5123-55bc-4e1d-afe8-df5a4f4687a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b103dc31-d206-4ba1-a876-3a6730c5b453/ca7f5123-55bc-4e1d-afe8-df5a4f4687a7
+md5	0c8f21b8f8594cb25cb4cdd5c325ff3c

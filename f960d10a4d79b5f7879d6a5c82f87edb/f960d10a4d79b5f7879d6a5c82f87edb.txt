@@ -1,0 +1,16 @@
+
+signId	2763
+text	boule
+imageUuid	d0cfe438-f3f1-452f-8c89-44e8ea118e12
+translationKey	f7f0776c-3652-49fc-b1d3-7356c7a93aa1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d0cfe438-f3f1-452f-8c89-44e8ea118e12/f7f0776c-3652-49fc-b1d3-7356c7a93aa1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d0cfe438-f3f1-452f-8c89-44e8ea118e12/f7f0776c-3652-49fc-b1d3-7356c7a93aa1
+md5	f960d10a4d79b5f7879d6a5c82f87edb
+
+signId	3028
+text	boccia
+imageUuid	6642088b-ce5a-4c56-a8ad-442072d46041
+translationKey	054d67d1-cf32-4320-85b8-c8bfea7766fb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6642088b-ce5a-4c56-a8ad-442072d46041/054d67d1-cf32-4320-85b8-c8bfea7766fb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6642088b-ce5a-4c56-a8ad-442072d46041/054d67d1-cf32-4320-85b8-c8bfea7766fb
+md5	f960d10a4d79b5f7879d6a5c82f87edb

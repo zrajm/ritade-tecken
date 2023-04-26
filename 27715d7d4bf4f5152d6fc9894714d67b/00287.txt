@@ -1,0 +1,7 @@
+signId	287
+text	drama
+imageUuid	22fe3a30-c188-43d7-91ce-9c396b83281a
+translationKey	e0b5dce1-7891-493f-be40-18552afcbaf8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/22fe3a30-c188-43d7-91ce-9c396b83281a/e0b5dce1-7891-493f-be40-18552afcbaf8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/22fe3a30-c188-43d7-91ce-9c396b83281a/e0b5dce1-7891-493f-be40-18552afcbaf8
+md5	27715d7d4bf4f5152d6fc9894714d67b

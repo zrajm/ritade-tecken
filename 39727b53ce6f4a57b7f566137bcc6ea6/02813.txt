@@ -1,0 +1,7 @@
+signId	2813
+text	diskmedel
+imageUuid	3b7ad645-2daa-46d1-87b4-f3b2d84341bf
+translationKey	2b0d039d-80b7-45ae-8329-e27396b33290
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b7ad645-2daa-46d1-87b4-f3b2d84341bf/2b0d039d-80b7-45ae-8329-e27396b33290/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b7ad645-2daa-46d1-87b4-f3b2d84341bf/2b0d039d-80b7-45ae-8329-e27396b33290
+md5	39727b53ce6f4a57b7f566137bcc6ea6

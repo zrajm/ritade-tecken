@@ -1,0 +1,7 @@
+signId	1703
+text	varandra
+imageUuid	873701d2-574f-4335-896d-1dc913e16b3a
+translationKey	79fb5a08-0143-43c4-b62b-4a4c65a8bcc3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/873701d2-574f-4335-896d-1dc913e16b3a/79fb5a08-0143-43c4-b62b-4a4c65a8bcc3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/873701d2-574f-4335-896d-1dc913e16b3a/79fb5a08-0143-43c4-b62b-4a4c65a8bcc3
+md5	4bd73339357ee55e279689bed2da3abb

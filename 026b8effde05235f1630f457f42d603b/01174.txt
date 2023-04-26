@@ -1,0 +1,7 @@
+signId	1174
+text	plättar
+imageUuid	bf9ceace-789c-4dce-8534-e7676d4b073e
+translationKey	380926fd-5339-44da-93ab-c04e4c42eff8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bf9ceace-789c-4dce-8534-e7676d4b073e/380926fd-5339-44da-93ab-c04e4c42eff8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bf9ceace-789c-4dce-8534-e7676d4b073e/380926fd-5339-44da-93ab-c04e4c42eff8
+md5	026b8effde05235f1630f457f42d603b

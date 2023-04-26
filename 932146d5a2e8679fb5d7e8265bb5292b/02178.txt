@@ -1,0 +1,7 @@
+signId	2178
+text	föräldrar
+imageUuid	e116702b-e5b0-448c-bf97-d68c6c6e7f0a
+translationKey	0f4e6323-d800-478f-96f5-45a3c2fb68ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e116702b-e5b0-448c-bf97-d68c6c6e7f0a/0f4e6323-d800-478f-96f5-45a3c2fb68ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e116702b-e5b0-448c-bf97-d68c6c6e7f0a/0f4e6323-d800-478f-96f5-45a3c2fb68ab
+md5	932146d5a2e8679fb5d7e8265bb5292b

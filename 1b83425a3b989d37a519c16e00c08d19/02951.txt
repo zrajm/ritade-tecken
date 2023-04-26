@@ -1,0 +1,7 @@
+signId	2951
+text	blodprov
+imageUuid	7f4efff3-8bdd-44be-ab73-e4db6690320e
+translationKey	124324fe-ee93-408c-ba36-3106ce4e03a3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f4efff3-8bdd-44be-ab73-e4db6690320e/124324fe-ee93-408c-ba36-3106ce4e03a3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f4efff3-8bdd-44be-ab73-e4db6690320e/124324fe-ee93-408c-ba36-3106ce4e03a3
+md5	1b83425a3b989d37a519c16e00c08d19

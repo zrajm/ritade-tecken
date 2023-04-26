@@ -1,0 +1,16 @@
+
+signId	387
+text	flyga 1
+imageUuid	4dab335a-3d39-4f9f-b451-1c4926dce637
+translationKey	5501d743-318d-4fb1-911b-4b309c4e7830
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4dab335a-3d39-4f9f-b451-1c4926dce637/5501d743-318d-4fb1-911b-4b309c4e7830/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4dab335a-3d39-4f9f-b451-1c4926dce637/5501d743-318d-4fb1-911b-4b309c4e7830
+md5	39d623011963d87a77cee6ca6ec7714e
+
+signId	389
+text	flygplan
+imageUuid	a28eacad-83a0-4480-9e56-d09517db0740
+translationKey	73681b1f-4ee9-4f2d-ac3f-edc4e548f522
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a28eacad-83a0-4480-9e56-d09517db0740/73681b1f-4ee9-4f2d-ac3f-edc4e548f522/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a28eacad-83a0-4480-9e56-d09517db0740/73681b1f-4ee9-4f2d-ac3f-edc4e548f522
+md5	39d623011963d87a77cee6ca6ec7714e

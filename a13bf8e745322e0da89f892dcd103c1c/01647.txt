@@ -1,0 +1,7 @@
+signId	1647
+text	tv-spel
+imageUuid	7fc7b424-a67e-4bfe-bec2-280f6cb1773d
+translationKey	1610ef4e-9681-423f-9e3e-459bcd54a1e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7fc7b424-a67e-4bfe-bec2-280f6cb1773d/1610ef4e-9681-423f-9e3e-459bcd54a1e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7fc7b424-a67e-4bfe-bec2-280f6cb1773d/1610ef4e-9681-423f-9e3e-459bcd54a1e8
+md5	a13bf8e745322e0da89f892dcd103c1c

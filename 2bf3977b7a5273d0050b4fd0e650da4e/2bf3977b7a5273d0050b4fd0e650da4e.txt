@@ -1,0 +1,8 @@
+
+signId	1060
+text	N (bokstav)
+imageUuid	2cff02d3-7ed3-40fe-805d-11a6e8831202
+translationKey	9467ef5a-fa52-4de0-a30b-254853986619
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2cff02d3-7ed3-40fe-805d-11a6e8831202/9467ef5a-fa52-4de0-a30b-254853986619/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2cff02d3-7ed3-40fe-805d-11a6e8831202/9467ef5a-fa52-4de0-a30b-254853986619
+md5	2bf3977b7a5273d0050b4fd0e650da4e

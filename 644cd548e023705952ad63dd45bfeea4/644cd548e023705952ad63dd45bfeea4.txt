@@ -1,0 +1,8 @@
+
+signId	418
+text	fröken
+imageUuid	afc8580e-db8c-446c-9e61-feb528ec26a4
+translationKey	192454b2-d5a6-496b-990b-3eaadee56be8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/afc8580e-db8c-446c-9e61-feb528ec26a4/192454b2-d5a6-496b-990b-3eaadee56be8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/afc8580e-db8c-446c-9e61-feb528ec26a4/192454b2-d5a6-496b-990b-3eaadee56be8
+md5	644cd548e023705952ad63dd45bfeea4

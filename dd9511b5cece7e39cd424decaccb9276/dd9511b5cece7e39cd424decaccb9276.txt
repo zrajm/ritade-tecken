@@ -1,0 +1,8 @@
+
+signId	1907
+text	människa 1
+imageUuid	ef4902f0-8801-4b9e-87fa-82f9123f3f90
+translationKey	6dc30439-56e4-489e-a04a-f5cd0003000a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ef4902f0-8801-4b9e-87fa-82f9123f3f90/6dc30439-56e4-489e-a04a-f5cd0003000a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ef4902f0-8801-4b9e-87fa-82f9123f3f90/6dc30439-56e4-489e-a04a-f5cd0003000a
+md5	dd9511b5cece7e39cd424decaccb9276

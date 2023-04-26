@@ -1,0 +1,8 @@
+
+signId	1954
+text	passa (bollen)
+imageUuid	a691026e-5709-4c78-94c9-b59ca74db1ec
+translationKey	62dc8f26-0e9e-4d0e-890e-748c6ce76d64
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a691026e-5709-4c78-94c9-b59ca74db1ec/62dc8f26-0e9e-4d0e-890e-748c6ce76d64/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a691026e-5709-4c78-94c9-b59ca74db1ec/62dc8f26-0e9e-4d0e-890e-748c6ce76d64
+md5	d03475ad85bb910d0cbebb0ff8ad215e

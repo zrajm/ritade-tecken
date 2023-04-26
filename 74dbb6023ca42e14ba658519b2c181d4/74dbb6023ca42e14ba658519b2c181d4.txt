@@ -1,0 +1,8 @@
+
+signId	1265
+text	rygg
+imageUuid	8dd2988f-1a4a-45d6-8481-7669d8dcc3c0
+translationKey	10f0f747-66cb-482b-8dc3-8f34ae03edcf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8dd2988f-1a4a-45d6-8481-7669d8dcc3c0/10f0f747-66cb-482b-8dc3-8f34ae03edcf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8dd2988f-1a4a-45d6-8481-7669d8dcc3c0/10f0f747-66cb-482b-8dc3-8f34ae03edcf
+md5	74dbb6023ca42e14ba658519b2c181d4

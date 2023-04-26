@@ -1,0 +1,8 @@
+
+signId	2418
+text	förbi
+imageUuid	f8b3d5d5-139e-40f5-b7df-587c5fc2b57c
+translationKey	1cdf9e74-0c6b-435c-bb7f-fe40881d54d4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f8b3d5d5-139e-40f5-b7df-587c5fc2b57c/1cdf9e74-0c6b-435c-bb7f-fe40881d54d4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f8b3d5d5-139e-40f5-b7df-587c5fc2b57c/1cdf9e74-0c6b-435c-bb7f-fe40881d54d4
+md5	45120b0a50e86e70a4f4050e9d1ba3d1

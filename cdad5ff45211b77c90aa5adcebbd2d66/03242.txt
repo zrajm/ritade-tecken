@@ -1,0 +1,7 @@
+signId	3242
+text	kanal
+imageUuid	9a80896b-c243-421c-bba6-75482cfcee0b
+translationKey	f98d4084-9149-4ea0-82e5-02251305a5c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9a80896b-c243-421c-bba6-75482cfcee0b/f98d4084-9149-4ea0-82e5-02251305a5c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9a80896b-c243-421c-bba6-75482cfcee0b/f98d4084-9149-4ea0-82e5-02251305a5c4
+md5	cdad5ff45211b77c90aa5adcebbd2d66

@@ -1,0 +1,7 @@
+signId	1516
+text	stökigt
+imageUuid	5573835a-7fba-43d2-a7bd-15b888722562
+translationKey	6753481c-a1cd-4256-bfda-59f634d6edb3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5573835a-7fba-43d2-a7bd-15b888722562/6753481c-a1cd-4256-bfda-59f634d6edb3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5573835a-7fba-43d2-a7bd-15b888722562/6753481c-a1cd-4256-bfda-59f634d6edb3
+md5	10d856429df1e0c64f46055fe54bec51

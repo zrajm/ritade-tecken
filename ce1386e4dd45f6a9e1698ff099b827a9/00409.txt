@@ -1,0 +1,7 @@
+signId	409
+text	frukost
+imageUuid	5a12a98d-4fa8-4283-b1f0-928acba2df71
+translationKey	03443ee8-dbe7-4909-9140-c95c15545e03
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5a12a98d-4fa8-4283-b1f0-928acba2df71/03443ee8-dbe7-4909-9140-c95c15545e03/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5a12a98d-4fa8-4283-b1f0-928acba2df71/03443ee8-dbe7-4909-9140-c95c15545e03
+md5	ce1386e4dd45f6a9e1698ff099b827a9

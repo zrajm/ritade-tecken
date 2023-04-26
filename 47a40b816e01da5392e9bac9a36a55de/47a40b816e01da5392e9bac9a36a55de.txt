@@ -1,0 +1,8 @@
+
+signId	399
+text	framför
+imageUuid	f304703e-7951-4017-a4f2-56edbb017eca
+translationKey	10a6ab0f-adac-41cf-8006-5602ae5681ea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f304703e-7951-4017-a4f2-56edbb017eca/10a6ab0f-adac-41cf-8006-5602ae5681ea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f304703e-7951-4017-a4f2-56edbb017eca/10a6ab0f-adac-41cf-8006-5602ae5681ea
+md5	47a40b816e01da5392e9bac9a36a55de

@@ -1,0 +1,8 @@
+
+signId	1421
+text	snöskoter
+imageUuid	abf6e401-2181-459f-9902-7c15ea49a807
+translationKey	955eed5b-94b5-4a15-90c9-ee77f4d58eef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/abf6e401-2181-459f-9902-7c15ea49a807/955eed5b-94b5-4a15-90c9-ee77f4d58eef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/abf6e401-2181-459f-9902-7c15ea49a807/955eed5b-94b5-4a15-90c9-ee77f4d58eef
+md5	f445593bbb57f6adedcf8196ed23489d

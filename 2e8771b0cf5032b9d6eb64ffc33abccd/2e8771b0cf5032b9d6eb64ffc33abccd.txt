@@ -1,0 +1,8 @@
+
+signId	1125
+text	orolig
+imageUuid	54bea65b-e90b-41b4-8ddb-5ab3535519af
+translationKey	c90e80d4-a2b1-4cd8-a0e2-88ef25e8afdc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/54bea65b-e90b-41b4-8ddb-5ab3535519af/c90e80d4-a2b1-4cd8-a0e2-88ef25e8afdc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/54bea65b-e90b-41b4-8ddb-5ab3535519af/c90e80d4-a2b1-4cd8-a0e2-88ef25e8afdc
+md5	2e8771b0cf5032b9d6eb64ffc33abccd

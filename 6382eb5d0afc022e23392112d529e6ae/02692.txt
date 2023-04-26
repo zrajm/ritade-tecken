@@ -1,0 +1,7 @@
+signId	2692
+text	berömd
+imageUuid	89a035b2-7cc1-44a0-91f5-ec9698faec27
+translationKey	12371de1-1c5c-4a1a-a766-39b5c50e3880
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/89a035b2-7cc1-44a0-91f5-ec9698faec27/12371de1-1c5c-4a1a-a766-39b5c50e3880/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/89a035b2-7cc1-44a0-91f5-ec9698faec27/12371de1-1c5c-4a1a-a766-39b5c50e3880
+md5	6382eb5d0afc022e23392112d529e6ae

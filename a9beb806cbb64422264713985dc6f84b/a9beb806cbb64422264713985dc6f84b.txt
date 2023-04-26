@@ -1,0 +1,8 @@
+
+signId	37
+text	akta
+imageUuid	9c5c6f12-58f4-4ff2-ab18-51f41f2b9122
+translationKey	00b88fe4-df63-4464-a6cf-cb6b1183148d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9c5c6f12-58f4-4ff2-ab18-51f41f2b9122/00b88fe4-df63-4464-a6cf-cb6b1183148d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9c5c6f12-58f4-4ff2-ab18-51f41f2b9122/00b88fe4-df63-4464-a6cf-cb6b1183148d
+md5	a9beb806cbb64422264713985dc6f84b

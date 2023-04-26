@@ -1,0 +1,7 @@
+signId	2755
+text	rödbeta
+imageUuid	a2d3a0f7-6d7d-412e-8f6b-271c2cdbe334
+translationKey	1e333992-4256-417c-ab60-f6ec7703bda6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a2d3a0f7-6d7d-412e-8f6b-271c2cdbe334/1e333992-4256-417c-ab60-f6ec7703bda6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a2d3a0f7-6d7d-412e-8f6b-271c2cdbe334/1e333992-4256-417c-ab60-f6ec7703bda6
+md5	f611e9ac921278922e110c4984f5c030

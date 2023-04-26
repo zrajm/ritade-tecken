@@ -1,0 +1,8 @@
+
+signId	2307
+text	svälja
+imageUuid	456834bf-53bd-40dc-ac29-6390772880cb
+translationKey	098853fa-5f7d-494d-9d4e-17875fa9d0da
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/456834bf-53bd-40dc-ac29-6390772880cb/098853fa-5f7d-494d-9d4e-17875fa9d0da/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/456834bf-53bd-40dc-ac29-6390772880cb/098853fa-5f7d-494d-9d4e-17875fa9d0da
+md5	2ef2afaa93493dc2abc3943107a77d04

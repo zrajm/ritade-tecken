@@ -1,0 +1,8 @@
+
+signId	1715
+text	vattenslang
+imageUuid	1d30dd1b-7da2-4584-bca1-5e5bcc65f977
+translationKey	53a0f5bd-10c6-4ec7-b067-33f929026ccc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1d30dd1b-7da2-4584-bca1-5e5bcc65f977/53a0f5bd-10c6-4ec7-b067-33f929026ccc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1d30dd1b-7da2-4584-bca1-5e5bcc65f977/53a0f5bd-10c6-4ec7-b067-33f929026ccc
+md5	04168847480fd6534a0bf8e723d7cf29

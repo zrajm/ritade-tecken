@@ -1,0 +1,8 @@
+
+signId	489
+text	glas (dricksglas)
+imageUuid	d764a094-c551-4064-9325-d3d13793007f
+translationKey	e8de37a4-94ce-42b0-843d-613f6b870bac
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d764a094-c551-4064-9325-d3d13793007f/e8de37a4-94ce-42b0-843d-613f6b870bac/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d764a094-c551-4064-9325-d3d13793007f/e8de37a4-94ce-42b0-843d-613f6b870bac
+md5	e270e3dd6f04aa19ae4912cc49b4eb34

@@ -1,0 +1,7 @@
+signId	2121
+text	iväg
+imageUuid	2efa324d-4f88-4334-bfbd-a3b2f691e97b
+translationKey	68c5caff-9dec-4cd1-9b2b-097d9bceedf6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2efa324d-4f88-4334-bfbd-a3b2f691e97b/68c5caff-9dec-4cd1-9b2b-097d9bceedf6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2efa324d-4f88-4334-bfbd-a3b2f691e97b/68c5caff-9dec-4cd1-9b2b-097d9bceedf6
+md5	01f2de9b82c9d29e266f2253a5e16c3f

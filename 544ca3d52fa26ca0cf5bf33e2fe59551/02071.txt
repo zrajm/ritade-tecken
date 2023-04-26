@@ -1,0 +1,7 @@
+signId	2071
+text	Norge
+imageUuid	05f9f4ec-7d22-4dd6-a48f-a2bdacc5cc50
+translationKey	f2bbeb7b-b2b9-4785-995d-3a0b49158a53
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/05f9f4ec-7d22-4dd6-a48f-a2bdacc5cc50/f2bbeb7b-b2b9-4785-995d-3a0b49158a53/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/05f9f4ec-7d22-4dd6-a48f-a2bdacc5cc50/f2bbeb7b-b2b9-4785-995d-3a0b49158a53
+md5	544ca3d52fa26ca0cf5bf33e2fe59551

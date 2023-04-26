@@ -1,0 +1,7 @@
+signId	2210
+text	almanacka
+imageUuid	eeabe503-a82d-48ab-99bf-03d293c507a2
+translationKey	b10d901f-5245-4742-96d4-54ddcea6bc06
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eeabe503-a82d-48ab-99bf-03d293c507a2/b10d901f-5245-4742-96d4-54ddcea6bc06/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eeabe503-a82d-48ab-99bf-03d293c507a2/b10d901f-5245-4742-96d4-54ddcea6bc06
+md5	f148d9adeb04bb454b6ad760d59d8864

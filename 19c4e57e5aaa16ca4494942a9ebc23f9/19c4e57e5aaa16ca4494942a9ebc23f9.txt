@@ -1,0 +1,16 @@
+
+signId	814
+text	krona (pengar)
+imageUuid	5e5aafe5-0e23-4dec-b66d-686c75f23c5b
+translationKey	5b7bfefd-cb6a-47c6-97fe-6d1f47627600
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e5aafe5-0e23-4dec-b66d-686c75f23c5b/5b7bfefd-cb6a-47c6-97fe-6d1f47627600/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e5aafe5-0e23-4dec-b66d-686c75f23c5b/5b7bfefd-cb6a-47c6-97fe-6d1f47627600
+md5	19c4e57e5aaa16ca4494942a9ebc23f9
+
+signId	825
+text	kung
+imageUuid	99fb6969-7440-4a14-b0be-869692527711
+translationKey	72ade69a-f794-4adf-a144-07e6337071ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/99fb6969-7440-4a14-b0be-869692527711/72ade69a-f794-4adf-a144-07e6337071ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/99fb6969-7440-4a14-b0be-869692527711/72ade69a-f794-4adf-a144-07e6337071ca
+md5	19c4e57e5aaa16ca4494942a9ebc23f9

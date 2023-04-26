@@ -1,0 +1,8 @@
+
+signId	3418
+text	tarm
+imageUuid	49e88b29-ea8b-41c4-9da2-d46c89990040
+translationKey	19f403d7-22aa-4806-972f-96363c360f4a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/49e88b29-ea8b-41c4-9da2-d46c89990040/19f403d7-22aa-4806-972f-96363c360f4a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/49e88b29-ea8b-41c4-9da2-d46c89990040/19f403d7-22aa-4806-972f-96363c360f4a
+md5	9d06680200da1012b9c33b727b4b8261

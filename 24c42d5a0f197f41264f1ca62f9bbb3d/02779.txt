@@ -1,0 +1,7 @@
+signId	2779
+text	fågelholk
+imageUuid	58ae4609-4874-46ee-acc9-2aa1e16f8b04
+translationKey	10add26e-4d2b-4654-87d0-cab908096a8e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/58ae4609-4874-46ee-acc9-2aa1e16f8b04/10add26e-4d2b-4654-87d0-cab908096a8e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/58ae4609-4874-46ee-acc9-2aa1e16f8b04/10add26e-4d2b-4654-87d0-cab908096a8e
+md5	24c42d5a0f197f41264f1ca62f9bbb3d

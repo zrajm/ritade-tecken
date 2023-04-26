@@ -1,0 +1,8 @@
+
+signId	1672
+text	uggla
+imageUuid	68ee9595-8b16-404e-a34c-9b1d3f7df0e1
+translationKey	2e7bd21d-53dc-4187-b3c0-de1f4bc219f7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/68ee9595-8b16-404e-a34c-9b1d3f7df0e1/2e7bd21d-53dc-4187-b3c0-de1f4bc219f7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/68ee9595-8b16-404e-a34c-9b1d3f7df0e1/2e7bd21d-53dc-4187-b3c0-de1f4bc219f7
+md5	f8443c819fe844edeabc47891e37dc30

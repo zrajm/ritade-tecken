@@ -1,0 +1,8 @@
+
+signId	855
+text	körsbär
+imageUuid	496921c3-be19-4792-baec-18b036415d61
+translationKey	1689a31a-0964-47ae-a126-cc8d712f3025
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/496921c3-be19-4792-baec-18b036415d61/1689a31a-0964-47ae-a126-cc8d712f3025/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/496921c3-be19-4792-baec-18b036415d61/1689a31a-0964-47ae-a126-cc8d712f3025
+md5	8085edff9274534c6a31fc3be2e7f18e

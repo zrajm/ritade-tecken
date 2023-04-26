@@ -1,0 +1,8 @@
+
+signId	2441
+text	pingst
+imageUuid	ea65b14b-e28e-4d16-8cbd-ae6b8dcf66fc
+translationKey	aeece4be-6aa5-44cd-905b-5bb620fd3f29
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea65b14b-e28e-4d16-8cbd-ae6b8dcf66fc/aeece4be-6aa5-44cd-905b-5bb620fd3f29/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea65b14b-e28e-4d16-8cbd-ae6b8dcf66fc/aeece4be-6aa5-44cd-905b-5bb620fd3f29
+md5	0d0981e004618b6306da7112502838fa

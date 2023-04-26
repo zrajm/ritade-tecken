@@ -1,0 +1,7 @@
+signId	2341
+text	humla
+imageUuid	208ec0de-6ed2-44c6-8e20-f4a9a4f78065
+translationKey	e68ba638-f7de-4f69-9c0a-a38e9b27f2d9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/208ec0de-6ed2-44c6-8e20-f4a9a4f78065/e68ba638-f7de-4f69-9c0a-a38e9b27f2d9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/208ec0de-6ed2-44c6-8e20-f4a9a4f78065/e68ba638-f7de-4f69-9c0a-a38e9b27f2d9
+md5	3616ddd7a31b1bcd73a759866def89bb

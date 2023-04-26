@@ -1,0 +1,7 @@
+signId	844
+text	källare
+imageUuid	4f6ef5f4-ea20-4513-8b95-3bea03c57105
+translationKey	dff5b2a4-19fc-42d6-a0ca-13eb4d1ef9ed
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4f6ef5f4-ea20-4513-8b95-3bea03c57105/dff5b2a4-19fc-42d6-a0ca-13eb4d1ef9ed/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4f6ef5f4-ea20-4513-8b95-3bea03c57105/dff5b2a4-19fc-42d6-a0ca-13eb4d1ef9ed
+md5	6a83954423e925051d48db831e419dd4

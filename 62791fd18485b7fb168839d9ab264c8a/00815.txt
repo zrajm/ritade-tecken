@@ -1,0 +1,7 @@
+signId	815
+text	kropp
+imageUuid	58a3fb44-05a1-4695-ad73-508870d95099
+translationKey	7a2d6697-a2f6-441b-a1a7-b07d6bd4ca9d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/58a3fb44-05a1-4695-ad73-508870d95099/7a2d6697-a2f6-441b-a1a7-b07d6bd4ca9d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/58a3fb44-05a1-4695-ad73-508870d95099/7a2d6697-a2f6-441b-a1a7-b07d6bd4ca9d
+md5	62791fd18485b7fb168839d9ab264c8a

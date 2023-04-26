@@ -1,0 +1,7 @@
+signId	685
+text	jacka 2
+imageUuid	cb81c046-f0ec-4b5c-954f-bb576db7cc42
+translationKey	15fbd5e0-2b6f-4e7f-966c-38087c2b84bd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cb81c046-f0ec-4b5c-954f-bb576db7cc42/15fbd5e0-2b6f-4e7f-966c-38087c2b84bd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cb81c046-f0ec-4b5c-954f-bb576db7cc42/15fbd5e0-2b6f-4e7f-966c-38087c2b84bd
+md5	2c56c32bdf0b03182f3a4f4c6930e087

@@ -1,0 +1,8 @@
+
+signId	151
+text	blyg
+imageUuid	8dc63ec7-898d-49cb-a53e-facb51160709
+translationKey	f0944d38-8afd-4246-afd3-bd40384cbae2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8dc63ec7-898d-49cb-a53e-facb51160709/f0944d38-8afd-4246-afd3-bd40384cbae2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8dc63ec7-898d-49cb-a53e-facb51160709/f0944d38-8afd-4246-afd3-bd40384cbae2
+md5	ce23f78658eaa648bb9ee1dd398e4b10

@@ -1,0 +1,7 @@
+signId	2467
+text	kub
+imageUuid	4dc8f791-a91f-401c-a0ba-5b7a58ee8b78
+translationKey	a33b744e-7175-4aad-8779-50d6dd0d0bff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4dc8f791-a91f-401c-a0ba-5b7a58ee8b78/a33b744e-7175-4aad-8779-50d6dd0d0bff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4dc8f791-a91f-401c-a0ba-5b7a58ee8b78/a33b744e-7175-4aad-8779-50d6dd0d0bff
+md5	b18b355eada1c55e238a3b11d332526b

@@ -1,0 +1,8 @@
+
+signId	1227
+text	ramla
+imageUuid	ddc08129-7305-4704-bb09-1f4aba1520d9
+translationKey	5474979d-94d1-4c80-bb22-03d7ea528f39
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ddc08129-7305-4704-bb09-1f4aba1520d9/5474979d-94d1-4c80-bb22-03d7ea528f39/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ddc08129-7305-4704-bb09-1f4aba1520d9/5474979d-94d1-4c80-bb22-03d7ea528f39
+md5	7cd2a12729dd64c353642a689ce9c9a6

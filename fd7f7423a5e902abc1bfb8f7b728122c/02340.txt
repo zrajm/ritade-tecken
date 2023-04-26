@@ -1,0 +1,7 @@
+signId	2340
+text	hitta på
+imageUuid	9430dfee-87d9-44b8-b437-771c0e6d24e2
+translationKey	b06b132d-5f8b-42e4-bf65-af10027d13f8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9430dfee-87d9-44b8-b437-771c0e6d24e2/b06b132d-5f8b-42e4-bf65-af10027d13f8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9430dfee-87d9-44b8-b437-771c0e6d24e2/b06b132d-5f8b-42e4-bf65-af10027d13f8
+md5	fd7f7423a5e902abc1bfb8f7b728122c

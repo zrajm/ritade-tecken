@@ -1,0 +1,8 @@
+
+signId	1217
+text	päls
+imageUuid	c058d0ec-95bd-495b-9968-a082de6512ec
+translationKey	6f414b40-13ae-4e84-bc66-bd18227743a2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c058d0ec-95bd-495b-9968-a082de6512ec/6f414b40-13ae-4e84-bc66-bd18227743a2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c058d0ec-95bd-495b-9968-a082de6512ec/6f414b40-13ae-4e84-bc66-bd18227743a2
+md5	719a399488f299a33557ef24ce95f7e1

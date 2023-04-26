@@ -1,0 +1,7 @@
+signId	1367
+text	skylt
+imageUuid	570e6324-6352-4426-9136-f4b30aee2d26
+translationKey	d2152a76-f522-4d74-a8aa-b2557c6e5fa3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/570e6324-6352-4426-9136-f4b30aee2d26/d2152a76-f522-4d74-a8aa-b2557c6e5fa3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/570e6324-6352-4426-9136-f4b30aee2d26/d2152a76-f522-4d74-a8aa-b2557c6e5fa3
+md5	87840337c3196bdefefa2104042ea44e

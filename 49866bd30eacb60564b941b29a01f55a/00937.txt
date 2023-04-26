@@ -1,0 +1,7 @@
+signId	937
+text	läkare
+imageUuid	8d919934-816b-4899-9a88-7dfd0c64b4f0
+translationKey	940a65c2-7dd4-4a32-9488-420f930ac823
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8d919934-816b-4899-9a88-7dfd0c64b4f0/940a65c2-7dd4-4a32-9488-420f930ac823/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8d919934-816b-4899-9a88-7dfd0c64b4f0/940a65c2-7dd4-4a32-9488-420f930ac823
+md5	49866bd30eacb60564b941b29a01f55a

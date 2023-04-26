@@ -1,0 +1,8 @@
+
+signId	189
+text	brodera
+imageUuid	2e6ec9c0-4e02-4cfc-ae0d-3e8e1817c16d
+translationKey	705200c2-49d0-4a1e-8531-ceb2be05e50d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2e6ec9c0-4e02-4cfc-ae0d-3e8e1817c16d/705200c2-49d0-4a1e-8531-ceb2be05e50d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2e6ec9c0-4e02-4cfc-ae0d-3e8e1817c16d/705200c2-49d0-4a1e-8531-ceb2be05e50d
+md5	7f6f257f3f537e976ffac6f4c75595ee

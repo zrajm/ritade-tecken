@@ -1,0 +1,7 @@
+signId	1252
+text	rop
+imageUuid	3af30a1f-5e41-4581-816d-bee6972de4d5
+translationKey	2374ccbb-ee12-4af1-9bde-b260da40c75b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3af30a1f-5e41-4581-816d-bee6972de4d5/2374ccbb-ee12-4af1-9bde-b260da40c75b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3af30a1f-5e41-4581-816d-bee6972de4d5/2374ccbb-ee12-4af1-9bde-b260da40c75b
+md5	5765405b5ad304114a08c3491e88ac1d

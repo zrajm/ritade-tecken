@@ -1,0 +1,8 @@
+
+signId	738
+text	keps
+imageUuid	139fb162-9e9f-4cc9-86ab-e0a820798ecc
+translationKey	29bf5293-e1d9-45ca-9f4d-9f441e13f1d2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/139fb162-9e9f-4cc9-86ab-e0a820798ecc/29bf5293-e1d9-45ca-9f4d-9f441e13f1d2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/139fb162-9e9f-4cc9-86ab-e0a820798ecc/29bf5293-e1d9-45ca-9f4d-9f441e13f1d2
+md5	f0b0df124130c2434a2fc448d9bb1a68

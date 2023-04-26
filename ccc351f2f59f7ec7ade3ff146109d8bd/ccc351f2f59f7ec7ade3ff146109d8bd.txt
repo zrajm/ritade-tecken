@@ -1,0 +1,8 @@
+
+signId	88
+text	badbyxor
+imageUuid	5c1eff0b-ef8f-4a58-8f23-3ffb78b585ca
+translationKey	cafbeb4f-311d-45c7-a92f-1c697f022fb6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5c1eff0b-ef8f-4a58-8f23-3ffb78b585ca/cafbeb4f-311d-45c7-a92f-1c697f022fb6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5c1eff0b-ef8f-4a58-8f23-3ffb78b585ca/cafbeb4f-311d-45c7-a92f-1c697f022fb6
+md5	ccc351f2f59f7ec7ade3ff146109d8bd

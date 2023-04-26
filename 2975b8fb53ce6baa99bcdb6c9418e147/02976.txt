@@ -1,0 +1,7 @@
+signId	2976
+text	bestick
+imageUuid	d434f770-6889-4cd6-a273-b1ebf0e8b9fd
+translationKey	5e6edc0d-f4be-4581-a60a-a98de876391f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d434f770-6889-4cd6-a273-b1ebf0e8b9fd/5e6edc0d-f4be-4581-a60a-a98de876391f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d434f770-6889-4cd6-a273-b1ebf0e8b9fd/5e6edc0d-f4be-4581-a60a-a98de876391f
+md5	2975b8fb53ce6baa99bcdb6c9418e147

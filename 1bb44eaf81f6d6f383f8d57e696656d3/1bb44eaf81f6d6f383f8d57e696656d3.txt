@@ -1,0 +1,8 @@
+
+signId	1537
+text	såga
+imageUuid	ed444e49-5f10-4e51-ae73-02ea636fa1c6
+translationKey	bc0f1667-a376-4be2-9953-fe23cdc3a18d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ed444e49-5f10-4e51-ae73-02ea636fa1c6/bc0f1667-a376-4be2-9953-fe23cdc3a18d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ed444e49-5f10-4e51-ae73-02ea636fa1c6/bc0f1667-a376-4be2-9953-fe23cdc3a18d
+md5	1bb44eaf81f6d6f383f8d57e696656d3

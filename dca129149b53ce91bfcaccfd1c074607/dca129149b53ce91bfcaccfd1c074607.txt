@@ -1,0 +1,8 @@
+
+signId	3332
+text	perspektiv
+imageUuid	8e2a33ca-db3e-4fe0-98e8-f6cff4e9d2f7
+translationKey	edb0f0db-04f3-4c04-a1ad-ac09ff25c96b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8e2a33ca-db3e-4fe0-98e8-f6cff4e9d2f7/edb0f0db-04f3-4c04-a1ad-ac09ff25c96b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8e2a33ca-db3e-4fe0-98e8-f6cff4e9d2f7/edb0f0db-04f3-4c04-a1ad-ac09ff25c96b
+md5	dca129149b53ce91bfcaccfd1c074607

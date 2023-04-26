@@ -1,0 +1,7 @@
+signId	2629
+text	bassäng
+imageUuid	29e5d4fc-893f-45e4-b521-6f5fcd115c59
+translationKey	715c762a-849c-4a55-9e84-259c7bdc8b99
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/29e5d4fc-893f-45e4-b521-6f5fcd115c59/715c762a-849c-4a55-9e84-259c7bdc8b99/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/29e5d4fc-893f-45e4-b521-6f5fcd115c59/715c762a-849c-4a55-9e84-259c7bdc8b99
+md5	2536c10344913d1f83624cbf06df450c

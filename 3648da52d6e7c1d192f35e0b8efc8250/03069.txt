@@ -1,0 +1,7 @@
+signId	3069
+text	korsfäst
+imageUuid	601263dd-7eba-4e0b-b900-9e1e87ce72eb
+translationKey	35601fca-d224-41e3-b5cf-5ff7001ed755
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/601263dd-7eba-4e0b-b900-9e1e87ce72eb/35601fca-d224-41e3-b5cf-5ff7001ed755/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/601263dd-7eba-4e0b-b900-9e1e87ce72eb/35601fca-d224-41e3-b5cf-5ff7001ed755
+md5	3648da52d6e7c1d192f35e0b8efc8250

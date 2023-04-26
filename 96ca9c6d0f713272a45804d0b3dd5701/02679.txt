@@ -1,0 +1,7 @@
+signId	2679
+text	utspridd
+imageUuid	7c99a4d4-de7d-4d1a-99a9-dcf532945497
+translationKey	53c6a928-11d0-4d21-97da-0b3c826aa409
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7c99a4d4-de7d-4d1a-99a9-dcf532945497/53c6a928-11d0-4d21-97da-0b3c826aa409/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7c99a4d4-de7d-4d1a-99a9-dcf532945497/53c6a928-11d0-4d21-97da-0b3c826aa409
+md5	96ca9c6d0f713272a45804d0b3dd5701

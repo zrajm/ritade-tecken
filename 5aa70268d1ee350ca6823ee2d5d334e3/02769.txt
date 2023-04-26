@@ -1,0 +1,7 @@
+signId	2769
+text	röka
+imageUuid	be8f38d0-162b-42bc-b189-33dcc382954f
+translationKey	5d1ce48b-877b-4523-8c16-c6482b43012a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/be8f38d0-162b-42bc-b189-33dcc382954f/5d1ce48b-877b-4523-8c16-c6482b43012a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/be8f38d0-162b-42bc-b189-33dcc382954f/5d1ce48b-877b-4523-8c16-c6482b43012a
+md5	5aa70268d1ee350ca6823ee2d5d334e3

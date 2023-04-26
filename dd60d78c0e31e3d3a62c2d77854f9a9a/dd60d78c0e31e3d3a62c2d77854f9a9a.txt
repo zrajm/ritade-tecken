@@ -1,0 +1,8 @@
+
+signId	2373
+text	parti
+imageUuid	9aa7f546-06f4-47bd-87fe-3a6533314a87
+translationKey	8b628cee-5535-4f4a-85f1-a40424886685
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9aa7f546-06f4-47bd-87fe-3a6533314a87/8b628cee-5535-4f4a-85f1-a40424886685/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9aa7f546-06f4-47bd-87fe-3a6533314a87/8b628cee-5535-4f4a-85f1-a40424886685
+md5	dd60d78c0e31e3d3a62c2d77854f9a9a

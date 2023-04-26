@@ -1,0 +1,8 @@
+
+signId	2821
+text	lera
+imageUuid	4234a247-4b48-4e01-89d9-02d8950ae7c1
+translationKey	5075bf40-5cbd-4f12-a956-7ab3f2bc76d8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4234a247-4b48-4e01-89d9-02d8950ae7c1/5075bf40-5cbd-4f12-a956-7ab3f2bc76d8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4234a247-4b48-4e01-89d9-02d8950ae7c1/5075bf40-5cbd-4f12-a956-7ab3f2bc76d8
+md5	f1226561591bc1e57123148ff0e62853

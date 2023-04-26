@@ -1,0 +1,7 @@
+signId	2336
+text	gruppbostad
+imageUuid	b2c8c210-b48f-4591-b00a-b655da924d87
+translationKey	3d2d902c-1c49-45b8-b2c3-1196651514b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b2c8c210-b48f-4591-b00a-b655da924d87/3d2d902c-1c49-45b8-b2c3-1196651514b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b2c8c210-b48f-4591-b00a-b655da924d87/3d2d902c-1c49-45b8-b2c3-1196651514b8
+md5	e41e5da3369d0c62b915e050fde9da42

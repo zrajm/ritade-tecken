@@ -1,0 +1,8 @@
+
+signId	2395
+text	socialdemokraterna
+imageUuid	3a2c3235-e7a3-4aae-b045-47041f7233d2
+translationKey	1d9ff539-cea0-414c-867c-b857ee1db7bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a2c3235-e7a3-4aae-b045-47041f7233d2/1d9ff539-cea0-414c-867c-b857ee1db7bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a2c3235-e7a3-4aae-b045-47041f7233d2/1d9ff539-cea0-414c-867c-b857ee1db7bf
+md5	d593d0dc2aa2b73cef36a220ed525b35

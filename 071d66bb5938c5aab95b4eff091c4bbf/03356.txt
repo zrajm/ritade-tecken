@@ -1,0 +1,7 @@
+signId	3356
+text	räv 2
+imageUuid	aa413a37-c862-43e2-a996-f827668f82fd
+translationKey	121bc4b4-1358-470c-a5a0-94ef6e27902d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aa413a37-c862-43e2-a996-f827668f82fd/121bc4b4-1358-470c-a5a0-94ef6e27902d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aa413a37-c862-43e2-a996-f827668f82fd/121bc4b4-1358-470c-a5a0-94ef6e27902d
+md5	071d66bb5938c5aab95b4eff091c4bbf

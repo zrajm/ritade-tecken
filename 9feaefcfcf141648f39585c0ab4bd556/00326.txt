@@ -1,0 +1,7 @@
+signId	326
+text	emellertid
+imageUuid	023d90de-dbd4-4d5f-826e-b559d37c0e10
+translationKey	0278f975-96e0-4f7f-bf42-0e22cf773428
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/023d90de-dbd4-4d5f-826e-b559d37c0e10/0278f975-96e0-4f7f-bf42-0e22cf773428/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/023d90de-dbd4-4d5f-826e-b559d37c0e10/0278f975-96e0-4f7f-bf42-0e22cf773428
+md5	9feaefcfcf141648f39585c0ab4bd556

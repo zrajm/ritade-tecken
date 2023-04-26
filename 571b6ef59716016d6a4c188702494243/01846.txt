@@ -1,0 +1,7 @@
+signId	1846
+text	beslut
+imageUuid	b624c8c9-3af8-462b-a056-d10535514c22
+translationKey	23298cdb-5b36-430e-85dd-7850eedb3a75
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b624c8c9-3af8-462b-a056-d10535514c22/23298cdb-5b36-430e-85dd-7850eedb3a75/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b624c8c9-3af8-462b-a056-d10535514c22/23298cdb-5b36-430e-85dd-7850eedb3a75
+md5	571b6ef59716016d6a4c188702494243

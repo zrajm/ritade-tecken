@@ -1,0 +1,8 @@
+
+signId	1382
+text	slott
+imageUuid	8830b586-e528-469f-a872-94500635f79b
+translationKey	2c67185a-70c4-44ae-903f-8fd0a6bd7256
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8830b586-e528-469f-a872-94500635f79b/2c67185a-70c4-44ae-903f-8fd0a6bd7256/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8830b586-e528-469f-a872-94500635f79b/2c67185a-70c4-44ae-903f-8fd0a6bd7256
+md5	72097e102ed3a178922e719a13eaac4e

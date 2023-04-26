@@ -1,0 +1,7 @@
+signId	1590
+text	tjock 2
+imageUuid	e1870198-5927-4bc1-a14c-7489f4a51eeb
+translationKey	4f2eda6a-911a-4a38-ab68-0d08aad3f790
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e1870198-5927-4bc1-a14c-7489f4a51eeb/4f2eda6a-911a-4a38-ab68-0d08aad3f790/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e1870198-5927-4bc1-a14c-7489f4a51eeb/4f2eda6a-911a-4a38-ab68-0d08aad3f790
+md5	9b28b2c3acff436229841e54f9dcf260

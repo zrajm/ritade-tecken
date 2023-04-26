@@ -1,0 +1,8 @@
+
+signId	173
+text	bort (iväg)
+imageUuid	709c8189-ee3e-4cca-a335-e7bcf5396330
+translationKey	3357ac30-3f85-4bfd-a3c1-5bd72de67be9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/709c8189-ee3e-4cca-a335-e7bcf5396330/3357ac30-3f85-4bfd-a3c1-5bd72de67be9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/709c8189-ee3e-4cca-a335-e7bcf5396330/3357ac30-3f85-4bfd-a3c1-5bd72de67be9
+md5	29398f1dfbc3fd8559ca05303a7854bc

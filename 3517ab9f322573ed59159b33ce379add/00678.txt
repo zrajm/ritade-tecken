@@ -1,0 +1,7 @@
+signId	678
+text	inuti
+imageUuid	ba6e0679-d5c3-4441-ac33-5dda144341e4
+translationKey	3a5d9b7b-f388-4648-9cde-c6a30964debb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ba6e0679-d5c3-4441-ac33-5dda144341e4/3a5d9b7b-f388-4648-9cde-c6a30964debb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ba6e0679-d5c3-4441-ac33-5dda144341e4/3a5d9b7b-f388-4648-9cde-c6a30964debb
+md5	3517ab9f322573ed59159b33ce379add

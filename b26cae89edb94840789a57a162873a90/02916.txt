@@ -1,0 +1,7 @@
+signId	2916
+text	blodpudding
+imageUuid	96bef2ec-b202-4d4a-8f6f-d8d706554fa7
+translationKey	986c60d0-f2bb-4934-a675-9136f0569883
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/96bef2ec-b202-4d4a-8f6f-d8d706554fa7/986c60d0-f2bb-4934-a675-9136f0569883/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/96bef2ec-b202-4d4a-8f6f-d8d706554fa7/986c60d0-f2bb-4934-a675-9136f0569883
+md5	b26cae89edb94840789a57a162873a90

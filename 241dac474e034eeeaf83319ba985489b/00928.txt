@@ -1,0 +1,7 @@
+signId	928
+text	långsam
+imageUuid	b780cdc4-df3d-4811-8b76-cc6208d93007
+translationKey	845e8748-d7b1-4576-8b16-9bfe43176e08
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b780cdc4-df3d-4811-8b76-cc6208d93007/845e8748-d7b1-4576-8b16-9bfe43176e08/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b780cdc4-df3d-4811-8b76-cc6208d93007/845e8748-d7b1-4576-8b16-9bfe43176e08
+md5	241dac474e034eeeaf83319ba985489b

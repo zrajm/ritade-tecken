@@ -1,0 +1,7 @@
+signId	163
+text	bo (verb)
+imageUuid	ba20bd9f-3e45-4dd0-ada2-fc6a9d68809c
+translationKey	34c4eec9-d9e9-4c8b-bee2-f9796c3cf052
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ba20bd9f-3e45-4dd0-ada2-fc6a9d68809c/34c4eec9-d9e9-4c8b-bee2-f9796c3cf052/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ba20bd9f-3e45-4dd0-ada2-fc6a9d68809c/34c4eec9-d9e9-4c8b-bee2-f9796c3cf052
+md5	0388cc62c532158fdefbb13cba6fd878

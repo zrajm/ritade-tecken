@@ -1,0 +1,7 @@
+signId	559
+text	halsduk
+imageUuid	071d159b-261f-4bcd-b681-20128f84d972
+translationKey	dd4a5712-bb72-490e-a0b7-71ee7c1bc91b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/071d159b-261f-4bcd-b681-20128f84d972/dd4a5712-bb72-490e-a0b7-71ee7c1bc91b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/071d159b-261f-4bcd-b681-20128f84d972/dd4a5712-bb72-490e-a0b7-71ee7c1bc91b
+md5	9ad5f7b10c86d54494593d04b077a31d

@@ -1,0 +1,7 @@
+signId	1570
+text	teckna (teckenspråk)
+imageUuid	b439dd2e-f003-417f-896b-581d390e85c4
+translationKey	d0b926e9-f277-41a2-9501-498b12e5bdfe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b439dd2e-f003-417f-896b-581d390e85c4/d0b926e9-f277-41a2-9501-498b12e5bdfe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b439dd2e-f003-417f-896b-581d390e85c4/d0b926e9-f277-41a2-9501-498b12e5bdfe
+md5	a8c185c7c675fe3aa901c6a735b817d5

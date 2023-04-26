@@ -1,0 +1,8 @@
+
+signId	553
+text	haklapp
+imageUuid	598218f7-0d1a-4573-8694-a19dad6d6855
+translationKey	c51c51d3-623c-4967-a704-0df22a610df2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/598218f7-0d1a-4573-8694-a19dad6d6855/c51c51d3-623c-4967-a704-0df22a610df2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/598218f7-0d1a-4573-8694-a19dad6d6855/c51c51d3-623c-4967-a704-0df22a610df2
+md5	4c82681813b053f62a9f34fa91e5ebe5

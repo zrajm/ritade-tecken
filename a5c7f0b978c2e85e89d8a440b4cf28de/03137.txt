@@ -1,0 +1,7 @@
+signId	3137
+text	sträv
+imageUuid	b2acdc53-b3bc-4066-953f-9b3b859466d6
+translationKey	4aeaa1c3-273e-4423-8220-24c1f186bc1a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b2acdc53-b3bc-4066-953f-9b3b859466d6/4aeaa1c3-273e-4423-8220-24c1f186bc1a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b2acdc53-b3bc-4066-953f-9b3b859466d6/4aeaa1c3-273e-4423-8220-24c1f186bc1a
+md5	a5c7f0b978c2e85e89d8a440b4cf28de

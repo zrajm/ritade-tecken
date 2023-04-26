@@ -1,0 +1,7 @@
+signId	1766
+text	välling 2
+imageUuid	42ef3825-9c57-4ba6-b5c7-c3ed5f03ea9c
+translationKey	5a7b6593-f17f-475f-9e42-35711f51825d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/42ef3825-9c57-4ba6-b5c7-c3ed5f03ea9c/5a7b6593-f17f-475f-9e42-35711f51825d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/42ef3825-9c57-4ba6-b5c7-c3ed5f03ea9c/5a7b6593-f17f-475f-9e42-35711f51825d
+md5	5c63d4df7995fb091057c2a61f5ab7c1

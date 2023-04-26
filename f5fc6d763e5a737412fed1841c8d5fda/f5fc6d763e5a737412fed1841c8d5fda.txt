@@ -1,0 +1,8 @@
+
+signId	2217
+text	flytväst
+imageUuid	e9dba78b-ee18-4ec9-90b6-a78d635784e7
+translationKey	4e6eb142-497a-43f5-a1ef-c9afbbca4f0d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e9dba78b-ee18-4ec9-90b6-a78d635784e7/4e6eb142-497a-43f5-a1ef-c9afbbca4f0d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e9dba78b-ee18-4ec9-90b6-a78d635784e7/4e6eb142-497a-43f5-a1ef-c9afbbca4f0d
+md5	f5fc6d763e5a737412fed1841c8d5fda

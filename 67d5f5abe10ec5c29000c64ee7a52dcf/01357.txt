@@ -1,0 +1,7 @@
+signId	1357
+text	skratta 2
+imageUuid	ad701037-4168-49d7-ba91-5c466b274a34
+translationKey	c8be2996-475d-426c-b7d0-9047786349e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ad701037-4168-49d7-ba91-5c466b274a34/c8be2996-475d-426c-b7d0-9047786349e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ad701037-4168-49d7-ba91-5c466b274a34/c8be2996-475d-426c-b7d0-9047786349e8
+md5	67d5f5abe10ec5c29000c64ee7a52dcf

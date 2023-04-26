@@ -1,0 +1,7 @@
+signId	1948
+text	smärta
+imageUuid	86ab9fea-0700-4e58-ad22-3920035a5d71
+translationKey	d8a2372d-b2f8-451a-85b3-d22abf2df1d5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86ab9fea-0700-4e58-ad22-3920035a5d71/d8a2372d-b2f8-451a-85b3-d22abf2df1d5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86ab9fea-0700-4e58-ad22-3920035a5d71/d8a2372d-b2f8-451a-85b3-d22abf2df1d5
+md5	e33d38fb4e8df87505624cc65fada4d2

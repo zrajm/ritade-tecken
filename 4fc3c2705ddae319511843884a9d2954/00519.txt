@@ -1,0 +1,7 @@
+signId	519
+text	grävmaskin
+imageUuid	910406f5-b53f-4c28-8596-0fd7a237185c
+translationKey	f171fcfe-0ceb-474a-b4be-a6718873fc43
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/910406f5-b53f-4c28-8596-0fd7a237185c/f171fcfe-0ceb-474a-b4be-a6718873fc43/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/910406f5-b53f-4c28-8596-0fd7a237185c/f171fcfe-0ceb-474a-b4be-a6718873fc43
+md5	4fc3c2705ddae319511843884a9d2954

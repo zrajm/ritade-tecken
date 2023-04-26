@@ -1,0 +1,8 @@
+
+signId	2448
+text	Spanien
+imageUuid	4b0139cc-85a1-4e3f-ae1b-b2c2743dcb3e
+translationKey	1e238b27-daf4-45e0-b6b4-ce0361f1f692
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4b0139cc-85a1-4e3f-ae1b-b2c2743dcb3e/1e238b27-daf4-45e0-b6b4-ce0361f1f692/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4b0139cc-85a1-4e3f-ae1b-b2c2743dcb3e/1e238b27-daf4-45e0-b6b4-ce0361f1f692
+md5	6a5b46100880a17e7c99682c27c67d73

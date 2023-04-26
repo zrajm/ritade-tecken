@@ -1,0 +1,7 @@
+signId	3096
+text	USA
+imageUuid	56e1cd23-9019-4a98-bd02-48bb30254d55
+translationKey	3a0e4e73-4fdb-43f6-a0be-023faf63d572
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/56e1cd23-9019-4a98-bd02-48bb30254d55/3a0e4e73-4fdb-43f6-a0be-023faf63d572/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/56e1cd23-9019-4a98-bd02-48bb30254d55/3a0e4e73-4fdb-43f6-a0be-023faf63d572
+md5	c1518ac8a25def6f1cd078920d629072

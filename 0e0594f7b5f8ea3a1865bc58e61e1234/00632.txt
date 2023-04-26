@@ -1,0 +1,7 @@
+signId	632
+text	hänga i linor
+imageUuid	3301cf3a-6adb-4286-bc10-90d31118e3b5
+translationKey	6cba2fb0-f34a-4126-a439-886e760b57bd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3301cf3a-6adb-4286-bc10-90d31118e3b5/6cba2fb0-f34a-4126-a439-886e760b57bd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3301cf3a-6adb-4286-bc10-90d31118e3b5/6cba2fb0-f34a-4126-a439-886e760b57bd
+md5	cdaa7d66bdb8069154620841ca9f8ba3

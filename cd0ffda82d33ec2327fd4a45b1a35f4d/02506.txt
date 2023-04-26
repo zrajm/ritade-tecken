@@ -1,0 +1,7 @@
+signId	2506
+text	innebandy
+imageUuid	f6af8064-49dd-4394-9777-1ce5b41f6364
+translationKey	6c9e0706-e4b6-4585-803f-c90418f549d6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f6af8064-49dd-4394-9777-1ce5b41f6364/6c9e0706-e4b6-4585-803f-c90418f549d6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f6af8064-49dd-4394-9777-1ce5b41f6364/6c9e0706-e4b6-4585-803f-c90418f549d6
+md5	cd0ffda82d33ec2327fd4a45b1a35f4d

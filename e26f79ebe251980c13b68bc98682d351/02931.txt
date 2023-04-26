@@ -1,0 +1,7 @@
+signId	2931
+text	astma
+imageUuid	ed23e208-f49b-4d5a-8216-a87edf9a1bc8
+translationKey	ae845492-2290-45bf-91b9-fb1c1f477311
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ed23e208-f49b-4d5a-8216-a87edf9a1bc8/ae845492-2290-45bf-91b9-fb1c1f477311/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ed23e208-f49b-4d5a-8216-a87edf9a1bc8/ae845492-2290-45bf-91b9-fb1c1f477311
+md5	e26f79ebe251980c13b68bc98682d351

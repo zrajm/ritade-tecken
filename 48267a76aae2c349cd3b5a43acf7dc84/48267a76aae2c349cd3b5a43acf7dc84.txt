@@ -1,0 +1,8 @@
+
+signId	1398
+text	smink 1
+imageUuid	8570aa5a-8138-4d32-96cd-d4c76b27f76e
+translationKey	d357857a-abab-4aec-b95f-77ebeb1f2bef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8570aa5a-8138-4d32-96cd-d4c76b27f76e/d357857a-abab-4aec-b95f-77ebeb1f2bef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8570aa5a-8138-4d32-96cd-d4c76b27f76e/d357857a-abab-4aec-b95f-77ebeb1f2bef
+md5	48267a76aae2c349cd3b5a43acf7dc84

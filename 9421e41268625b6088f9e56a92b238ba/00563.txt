@@ -1,0 +1,7 @@
+signId	563
+text	hamburgare
+imageUuid	9fb08ca7-ea23-4458-9f1c-6eb152d04c84
+translationKey	b28ec882-210a-4fbb-9b4d-aa4d941c182f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9fb08ca7-ea23-4458-9f1c-6eb152d04c84/b28ec882-210a-4fbb-9b4d-aa4d941c182f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9fb08ca7-ea23-4458-9f1c-6eb152d04c84/b28ec882-210a-4fbb-9b4d-aa4d941c182f
+md5	9421e41268625b6088f9e56a92b238ba

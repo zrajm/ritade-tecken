@@ -1,0 +1,7 @@
+signId	445
+text	fönster 1
+imageUuid	3d82b4ac-4d74-4538-9f8f-4bb80c023f2e
+translationKey	db49b88b-ed8c-44e5-9f59-6dd63e9a027c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3d82b4ac-4d74-4538-9f8f-4bb80c023f2e/db49b88b-ed8c-44e5-9f59-6dd63e9a027c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3d82b4ac-4d74-4538-9f8f-4bb80c023f2e/db49b88b-ed8c-44e5-9f59-6dd63e9a027c
+md5	76e418020246b08119373be7cd1604f9

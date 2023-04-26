@@ -1,0 +1,7 @@
+signId	2677
+text	splittra
+imageUuid	529cd281-4471-4620-92ce-63e35ffe6975
+translationKey	824cf56a-8a78-4d59-8f07-f93607052710
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/529cd281-4471-4620-92ce-63e35ffe6975/824cf56a-8a78-4d59-8f07-f93607052710/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/529cd281-4471-4620-92ce-63e35ffe6975/824cf56a-8a78-4d59-8f07-f93607052710
+md5	96ca9c6d0f713272a45804d0b3dd5701

@@ -1,0 +1,7 @@
+signId	2587
+text	matolja
+imageUuid	73122db9-4fbe-4f78-a83a-f349e4fe49e1
+translationKey	7fe8f7fe-4dfa-4c1b-8491-263553148458
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/73122db9-4fbe-4f78-a83a-f349e4fe49e1/7fe8f7fe-4dfa-4c1b-8491-263553148458/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/73122db9-4fbe-4f78-a83a-f349e4fe49e1/7fe8f7fe-4dfa-4c1b-8491-263553148458
+md5	e90536fd74a0116df4fd84aefa36d015

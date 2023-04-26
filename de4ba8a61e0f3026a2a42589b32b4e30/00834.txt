@@ -1,0 +1,7 @@
+signId	834
+text	kvinna
+imageUuid	13153af1-2593-4762-95c6-d6900c2b00e3
+translationKey	f2573042-08cd-4259-bb15-27d3fbc78ac8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/13153af1-2593-4762-95c6-d6900c2b00e3/f2573042-08cd-4259-bb15-27d3fbc78ac8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/13153af1-2593-4762-95c6-d6900c2b00e3/f2573042-08cd-4259-bb15-27d3fbc78ac8
+md5	de4ba8a61e0f3026a2a42589b32b4e30

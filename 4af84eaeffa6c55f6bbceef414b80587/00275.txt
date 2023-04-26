@@ -1,0 +1,7 @@
+signId	275
+text	djur
+imageUuid	35abae93-af26-469c-8cc1-47aea9e3f7d7
+translationKey	12ee457b-a1e0-4192-ae58-d7f56edf716c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/35abae93-af26-469c-8cc1-47aea9e3f7d7/12ee457b-a1e0-4192-ae58-d7f56edf716c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/35abae93-af26-469c-8cc1-47aea9e3f7d7/12ee457b-a1e0-4192-ae58-d7f56edf716c
+md5	4af84eaeffa6c55f6bbceef414b80587

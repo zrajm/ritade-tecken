@@ -1,0 +1,8 @@
+
+signId	1432
+text	soppa
+imageUuid	5e272733-21e4-43e0-abea-71c13602ac99
+translationKey	793b0128-4b2c-4dab-8c67-835cb81a73e5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e272733-21e4-43e0-abea-71c13602ac99/793b0128-4b2c-4dab-8c67-835cb81a73e5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e272733-21e4-43e0-abea-71c13602ac99/793b0128-4b2c-4dab-8c67-835cb81a73e5
+md5	3e415c8678d1c402854e959c6e548dc5

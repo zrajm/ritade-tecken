@@ -1,0 +1,8 @@
+
+signId	3323
+text	lingvistik
+imageUuid	b35d30da-0477-4303-a1ce-679f1476f372
+translationKey	2abf4212-736d-4a54-9cf7-2d07d4dd5ed0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b35d30da-0477-4303-a1ce-679f1476f372/2abf4212-736d-4a54-9cf7-2d07d4dd5ed0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b35d30da-0477-4303-a1ce-679f1476f372/2abf4212-736d-4a54-9cf7-2d07d4dd5ed0
+md5	8cdae59fcc70613afe6d4f783f41853b

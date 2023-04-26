@@ -1,0 +1,16 @@
+
+signId	526
+text	guld
+imageUuid	59428dc6-22d4-4b5d-831c-4ffeb1bed643
+translationKey	2777fd9a-dc8c-4711-a5a4-f85fd1b4ad12
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/59428dc6-22d4-4b5d-831c-4ffeb1bed643/2777fd9a-dc8c-4711-a5a4-f85fd1b4ad12/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/59428dc6-22d4-4b5d-831c-4ffeb1bed643/2777fd9a-dc8c-4711-a5a4-f85fd1b4ad12
+md5	a0609d0cbcb425307f00bc651f49bea0
+
+signId	2908
+text	diamant
+imageUuid	84890869-9e50-46b7-aa1b-8139ba54dcf0
+translationKey	e6a9eb69-757c-4cca-9128-19d46dff5058
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/84890869-9e50-46b7-aa1b-8139ba54dcf0/e6a9eb69-757c-4cca-9128-19d46dff5058/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/84890869-9e50-46b7-aa1b-8139ba54dcf0/e6a9eb69-757c-4cca-9128-19d46dff5058
+md5	a0609d0cbcb425307f00bc651f49bea0

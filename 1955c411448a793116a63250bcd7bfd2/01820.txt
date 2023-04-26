@@ -1,0 +1,7 @@
+signId	1820
+text	öppen
+imageUuid	44be86eb-c6ec-4fba-8061-d859a566cb0d
+translationKey	f218a1c9-44e4-4690-b957-dda258b43c3d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/44be86eb-c6ec-4fba-8061-d859a566cb0d/f218a1c9-44e4-4690-b957-dda258b43c3d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/44be86eb-c6ec-4fba-8061-d859a566cb0d/f218a1c9-44e4-4690-b957-dda258b43c3d
+md5	1955c411448a793116a63250bcd7bfd2

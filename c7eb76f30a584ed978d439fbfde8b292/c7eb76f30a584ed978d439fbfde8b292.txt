@@ -1,0 +1,8 @@
+
+signId	1387
+text	släcka
+imageUuid	13e29620-53ad-4399-8b94-811c6e170d9c
+translationKey	ed476c71-522c-4090-865c-ff14742eb25f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/13e29620-53ad-4399-8b94-811c6e170d9c/ed476c71-522c-4090-865c-ff14742eb25f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/13e29620-53ad-4399-8b94-811c6e170d9c/ed476c71-522c-4090-865c-ff14742eb25f
+md5	c7eb76f30a584ed978d439fbfde8b292

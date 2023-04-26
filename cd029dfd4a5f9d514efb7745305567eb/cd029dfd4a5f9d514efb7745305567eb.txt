@@ -1,0 +1,8 @@
+
+signId	688
+text	januari
+imageUuid	32be521e-e00c-4a02-ad25-23207c1e20d0
+translationKey	b4387c9c-3379-46da-88b5-4e8fe173578b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/32be521e-e00c-4a02-ad25-23207c1e20d0/b4387c9c-3379-46da-88b5-4e8fe173578b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/32be521e-e00c-4a02-ad25-23207c1e20d0/b4387c9c-3379-46da-88b5-4e8fe173578b
+md5	cd029dfd4a5f9d514efb7745305567eb

@@ -1,0 +1,7 @@
+signId	560
+text	halt (halka)
+imageUuid	fa01a624-5cff-48b1-b723-1aeacbd8f78e
+translationKey	387a2f29-35de-4bf1-9d15-ada87d0073b2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fa01a624-5cff-48b1-b723-1aeacbd8f78e/387a2f29-35de-4bf1-9d15-ada87d0073b2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fa01a624-5cff-48b1-b723-1aeacbd8f78e/387a2f29-35de-4bf1-9d15-ada87d0073b2
+md5	d1f47d0221b2f1f17086bd12363848f9

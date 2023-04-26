@@ -1,0 +1,7 @@
+signId	703
+text	juni
+imageUuid	47be3412-9c4b-4cb4-8e60-a90f0c0654d1
+translationKey	f508cf66-ab62-4881-8fc4-49cb1654ab81
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/47be3412-9c4b-4cb4-8e60-a90f0c0654d1/f508cf66-ab62-4881-8fc4-49cb1654ab81/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/47be3412-9c4b-4cb4-8e60-a90f0c0654d1/f508cf66-ab62-4881-8fc4-49cb1654ab81
+md5	ba3104aa281f854554685cbf39f9bc5e

@@ -1,0 +1,7 @@
+signId	455
+text	förmiddag
+imageUuid	8a5bc20a-e67d-4902-9d77-5084d2ca1a8b
+translationKey	f29d502d-f8b2-42bd-8e97-8d886679099f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8a5bc20a-e67d-4902-9d77-5084d2ca1a8b/f29d502d-f8b2-42bd-8e97-8d886679099f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8a5bc20a-e67d-4902-9d77-5084d2ca1a8b/f29d502d-f8b2-42bd-8e97-8d886679099f
+md5	2aaa5079734df44f0dd464c0ac1704de

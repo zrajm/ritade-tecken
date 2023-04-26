@@ -1,0 +1,7 @@
+signId	3229
+text	skuggdocka
+imageUuid	078e2ac0-aada-4570-895c-81ad93e736de
+translationKey	bab84f07-6047-4cdf-baab-f333ed57e24a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/078e2ac0-aada-4570-895c-81ad93e736de/bab84f07-6047-4cdf-baab-f333ed57e24a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/078e2ac0-aada-4570-895c-81ad93e736de/bab84f07-6047-4cdf-baab-f333ed57e24a
+md5	6d848d16f57d3f9bd3b1d5ac267b752f

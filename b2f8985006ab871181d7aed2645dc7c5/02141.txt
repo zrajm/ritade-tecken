@@ -1,0 +1,7 @@
+signId	2141
+text	Pippi Långstrump
+imageUuid	aefbe524-3ed5-4c80-9d71-753d7f7e77f8
+translationKey	661f5b39-96f8-42b0-a78f-b2b672234150
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aefbe524-3ed5-4c80-9d71-753d7f7e77f8/661f5b39-96f8-42b0-a78f-b2b672234150/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aefbe524-3ed5-4c80-9d71-753d7f7e77f8/661f5b39-96f8-42b0-a78f-b2b672234150
+md5	b2f8985006ab871181d7aed2645dc7c5

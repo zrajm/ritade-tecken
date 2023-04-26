@@ -1,0 +1,7 @@
+signId	31
+text	A (bokstav)
+imageUuid	968b3222-1f42-480b-8ac3-f6342b410cf6
+translationKey	c521c1d7-7dd5-462f-a537-c95b7ba10fab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/968b3222-1f42-480b-8ac3-f6342b410cf6/c521c1d7-7dd5-462f-a537-c95b7ba10fab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/968b3222-1f42-480b-8ac3-f6342b410cf6/c521c1d7-7dd5-462f-a537-c95b7ba10fab
+md5	297a3b84e9e1b1dac8d3997c03531f1f

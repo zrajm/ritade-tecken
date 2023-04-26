@@ -1,0 +1,8 @@
+
+signId	2099
+text	blåbär
+imageUuid	d122ed44-884e-4566-9846-0040fc3a1317
+translationKey	2723585f-86df-47b2-9969-67318d9d868a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d122ed44-884e-4566-9846-0040fc3a1317/2723585f-86df-47b2-9969-67318d9d868a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d122ed44-884e-4566-9846-0040fc3a1317/2723585f-86df-47b2-9969-67318d9d868a
+md5	e0a4d791304ec4a9a772785a4d79b93b

@@ -1,0 +1,8 @@
+
+signId	2191
+text	nästa vecka
+imageUuid	32bda81e-c2e2-4131-85d3-f2bac115f514
+translationKey	cbf47246-2b6e-468a-8a03-774f1cc6977a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/32bda81e-c2e2-4131-85d3-f2bac115f514/cbf47246-2b6e-468a-8a03-774f1cc6977a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/32bda81e-c2e2-4131-85d3-f2bac115f514/cbf47246-2b6e-468a-8a03-774f1cc6977a
+md5	a76fc9b35e4ed08d3af7e0b16e16eb93

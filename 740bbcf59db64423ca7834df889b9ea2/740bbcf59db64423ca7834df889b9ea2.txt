@@ -1,0 +1,8 @@
+
+signId	1455
+text	sprattelgubbe
+imageUuid	3380e99e-bfae-4ff8-8d5f-acf4d8292300
+translationKey	cd8b6167-d229-461f-90d2-3a1704f3381c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3380e99e-bfae-4ff8-8d5f-acf4d8292300/cd8b6167-d229-461f-90d2-3a1704f3381c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3380e99e-bfae-4ff8-8d5f-acf4d8292300/cd8b6167-d229-461f-90d2-3a1704f3381c
+md5	740bbcf59db64423ca7834df889b9ea2

@@ -1,0 +1,7 @@
+signId	2420
+text	geografi
+imageUuid	a8380a7e-4351-4a73-867c-54af544ffc7e
+translationKey	a77d05f1-39b1-469d-aef7-b321b94b2a93
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a8380a7e-4351-4a73-867c-54af544ffc7e/a77d05f1-39b1-469d-aef7-b321b94b2a93/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a8380a7e-4351-4a73-867c-54af544ffc7e/a77d05f1-39b1-469d-aef7-b321b94b2a93
+md5	36ef5f31bb7022de82a0c7e84283beab

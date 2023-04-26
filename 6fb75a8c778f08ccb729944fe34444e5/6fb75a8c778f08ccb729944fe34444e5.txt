@@ -1,0 +1,16 @@
+
+signId	2665
+text	stryka (kläder)
+imageUuid	d37d5d80-02b2-4570-899d-6f9e51041a35
+translationKey	a2f6d657-d2e0-4333-a778-d5a096ab091a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d37d5d80-02b2-4570-899d-6f9e51041a35/a2f6d657-d2e0-4333-a778-d5a096ab091a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d37d5d80-02b2-4570-899d-6f9e51041a35/a2f6d657-d2e0-4333-a778-d5a096ab091a
+md5	6fb75a8c778f08ccb729944fe34444e5
+
+signId	2718
+text	strykjärn
+imageUuid	bd9cd12e-23e8-4b1d-927e-2ac3d6ef2bfb
+translationKey	44624eeb-ce4f-4858-bf3e-ce22a06322db
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bd9cd12e-23e8-4b1d-927e-2ac3d6ef2bfb/44624eeb-ce4f-4858-bf3e-ce22a06322db/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bd9cd12e-23e8-4b1d-927e-2ac3d6ef2bfb/44624eeb-ce4f-4858-bf3e-ce22a06322db
+md5	6fb75a8c778f08ccb729944fe34444e5

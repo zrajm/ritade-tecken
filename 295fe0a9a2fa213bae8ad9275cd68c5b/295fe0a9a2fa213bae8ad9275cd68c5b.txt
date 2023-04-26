@@ -1,0 +1,8 @@
+
+signId	1325
+text	ska
+imageUuid	27e2a94a-7d1b-4387-96e1-095e2bac18ac
+translationKey	5466e9e1-f967-440a-9b2d-c673db8fa2bd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/27e2a94a-7d1b-4387-96e1-095e2bac18ac/5466e9e1-f967-440a-9b2d-c673db8fa2bd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/27e2a94a-7d1b-4387-96e1-095e2bac18ac/5466e9e1-f967-440a-9b2d-c673db8fa2bd
+md5	295fe0a9a2fa213bae8ad9275cd68c5b

@@ -1,0 +1,8 @@
+
+signId	3049
+text	militär
+imageUuid	6cbd5444-7c64-48b5-8d28-c3ed240fb1b8
+translationKey	27766d8c-4944-4c7f-b74e-68832e9b5abd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6cbd5444-7c64-48b5-8d28-c3ed240fb1b8/27766d8c-4944-4c7f-b74e-68832e9b5abd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6cbd5444-7c64-48b5-8d28-c3ed240fb1b8/27766d8c-4944-4c7f-b74e-68832e9b5abd
+md5	8dcfcbfbe526d2ec0760be5dc739693e

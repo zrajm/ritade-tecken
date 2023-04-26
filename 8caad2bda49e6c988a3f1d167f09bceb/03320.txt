@@ -1,0 +1,7 @@
+signId	3320
+text	kultur
+imageUuid	e7e7f3ac-1f07-4b25-8d8d-e6d9f95d113a
+translationKey	d5d77096-941d-47c8-83e6-8879679d6a28
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e7e7f3ac-1f07-4b25-8d8d-e6d9f95d113a/d5d77096-941d-47c8-83e6-8879679d6a28/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e7e7f3ac-1f07-4b25-8d8d-e6d9f95d113a/d5d77096-941d-47c8-83e6-8879679d6a28
+md5	8caad2bda49e6c988a3f1d167f09bceb

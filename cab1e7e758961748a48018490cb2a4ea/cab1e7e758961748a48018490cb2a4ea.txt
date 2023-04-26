@@ -1,0 +1,8 @@
+
+signId	2611
+text	tunga (i munnen)
+imageUuid	e454139a-f91c-46c4-acb9-29d8382c424e
+translationKey	bc489bdc-ad53-414f-a8e0-536623a21aca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e454139a-f91c-46c4-acb9-29d8382c424e/bc489bdc-ad53-414f-a8e0-536623a21aca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e454139a-f91c-46c4-acb9-29d8382c424e/bc489bdc-ad53-414f-a8e0-536623a21aca
+md5	cab1e7e758961748a48018490cb2a4ea

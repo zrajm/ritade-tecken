@@ -1,0 +1,7 @@
+signId	200
+text	bula i pannan
+imageUuid	852e709e-b460-4aac-b2c1-0ed2d3a60b49
+translationKey	44367336-8e5c-4616-b28d-abc8fe84ae6f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/852e709e-b460-4aac-b2c1-0ed2d3a60b49/44367336-8e5c-4616-b28d-abc8fe84ae6f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/852e709e-b460-4aac-b2c1-0ed2d3a60b49/44367336-8e5c-4616-b28d-abc8fe84ae6f
+md5	a73102bc7bcf205f49e5047bbed9e067

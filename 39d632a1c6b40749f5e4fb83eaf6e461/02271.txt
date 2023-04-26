@@ -1,0 +1,7 @@
+signId	2271
+text	garderob
+imageUuid	f00dd6d2-5920-4943-92f6-69f5d4b33600
+translationKey	8111ccfb-9d18-4b12-93b8-1de3dbb7a61c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f00dd6d2-5920-4943-92f6-69f5d4b33600/8111ccfb-9d18-4b12-93b8-1de3dbb7a61c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f00dd6d2-5920-4943-92f6-69f5d4b33600/8111ccfb-9d18-4b12-93b8-1de3dbb7a61c
+md5	39d632a1c6b40749f5e4fb83eaf6e461

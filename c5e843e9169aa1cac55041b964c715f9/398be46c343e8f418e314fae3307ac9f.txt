@@ -1,0 +1,8 @@
+
+signId	2835
+text	tunna
+imageUuid	0be1f5fc-3020-48d8-9f0d-24c7dc38762a
+translationKey	061503aa-89c0-40c4-8373-baada8cc0a9f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0be1f5fc-3020-48d8-9f0d-24c7dc38762a/061503aa-89c0-40c4-8373-baada8cc0a9f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0be1f5fc-3020-48d8-9f0d-24c7dc38762a/061503aa-89c0-40c4-8373-baada8cc0a9f
+md5	398be46c343e8f418e314fae3307ac9f

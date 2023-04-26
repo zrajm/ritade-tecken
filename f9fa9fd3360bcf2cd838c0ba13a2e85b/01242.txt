@@ -1,0 +1,7 @@
+signId	1242
+text	rida
+imageUuid	eafb1d55-4228-4056-a689-e660afa140d3
+translationKey	a90b4a82-de66-4e7a-8544-05d4a4e1a38c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eafb1d55-4228-4056-a689-e660afa140d3/a90b4a82-de66-4e7a-8544-05d4a4e1a38c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eafb1d55-4228-4056-a689-e660afa140d3/a90b4a82-de66-4e7a-8544-05d4a4e1a38c
+md5	f9fa9fd3360bcf2cd838c0ba13a2e85b

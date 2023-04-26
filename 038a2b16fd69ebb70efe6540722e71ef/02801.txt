@@ -1,0 +1,7 @@
+signId	2801
+text	svarta vinbär
+imageUuid	c895da1d-7cbd-4d2a-a072-e7cc58addbc5
+translationKey	f0146678-5972-418b-93f2-e97aa1beaed5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c895da1d-7cbd-4d2a-a072-e7cc58addbc5/f0146678-5972-418b-93f2-e97aa1beaed5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c895da1d-7cbd-4d2a-a072-e7cc58addbc5/f0146678-5972-418b-93f2-e97aa1beaed5
+md5	038a2b16fd69ebb70efe6540722e71ef

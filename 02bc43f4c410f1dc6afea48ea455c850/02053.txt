@@ -1,0 +1,7 @@
+signId	2053
+text	glas (material)
+imageUuid	4e22f9aa-0aa2-4555-bbc3-046e7f0dcfbd
+translationKey	0f3b8bc5-6a1a-4311-9594-67c50c183317
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e22f9aa-0aa2-4555-bbc3-046e7f0dcfbd/0f3b8bc5-6a1a-4311-9594-67c50c183317/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e22f9aa-0aa2-4555-bbc3-046e7f0dcfbd/0f3b8bc5-6a1a-4311-9594-67c50c183317
+md5	02bc43f4c410f1dc6afea48ea455c850

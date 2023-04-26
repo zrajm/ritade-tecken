@@ -1,0 +1,7 @@
+signId	3089
+text	durkslag
+imageUuid	dc4030e9-601d-4f06-a785-3de7eb8eb750
+translationKey	812dbe2c-5f6e-41e5-8953-3fdd192311eb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dc4030e9-601d-4f06-a785-3de7eb8eb750/812dbe2c-5f6e-41e5-8953-3fdd192311eb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dc4030e9-601d-4f06-a785-3de7eb8eb750/812dbe2c-5f6e-41e5-8953-3fdd192311eb
+md5	0097353695dfab82fbe8947316856723

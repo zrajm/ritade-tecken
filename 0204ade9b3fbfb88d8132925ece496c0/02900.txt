@@ -1,0 +1,7 @@
+signId	2900
+text	purjolök
+imageUuid	002ec531-be05-4ee4-ab4f-233d43c59184
+translationKey	64483aa5-5bf0-450f-9d5d-0086f72c8a06
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/002ec531-be05-4ee4-ab4f-233d43c59184/64483aa5-5bf0-450f-9d5d-0086f72c8a06/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/002ec531-be05-4ee4-ab4f-233d43c59184/64483aa5-5bf0-450f-9d5d-0086f72c8a06
+md5	0204ade9b3fbfb88d8132925ece496c0

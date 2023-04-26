@@ -1,0 +1,7 @@
+signId	1410
+text	snigel
+imageUuid	180437f4-a64d-43f3-9a84-a1a4402eba54
+translationKey	5a0e30ba-83f7-4235-96e5-4e5960e0202f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/180437f4-a64d-43f3-9a84-a1a4402eba54/5a0e30ba-83f7-4235-96e5-4e5960e0202f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/180437f4-a64d-43f3-9a84-a1a4402eba54/5a0e30ba-83f7-4235-96e5-4e5960e0202f
+md5	978d74ae06032a9615bb7fb36b33bdf4

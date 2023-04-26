@@ -1,0 +1,7 @@
+signId	2056
+text	hörapparat
+imageUuid	e4a860ec-83af-40bf-9b54-b7654cf0ce6e
+translationKey	14d4d3fa-aa84-49ed-b46f-ec844b4b12c6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e4a860ec-83af-40bf-9b54-b7654cf0ce6e/14d4d3fa-aa84-49ed-b46f-ec844b4b12c6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e4a860ec-83af-40bf-9b54-b7654cf0ce6e/14d4d3fa-aa84-49ed-b46f-ec844b4b12c6
+md5	d27705a54c8b847db379905967eedaf0

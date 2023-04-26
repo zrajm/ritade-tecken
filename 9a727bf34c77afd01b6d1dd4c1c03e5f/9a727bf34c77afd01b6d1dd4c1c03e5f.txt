@@ -1,0 +1,8 @@
+
+signId	826
+text	kurator
+imageUuid	5ade12cc-a3f2-4086-98ca-e0d943562355
+translationKey	496ad7e9-887d-41ce-a1d4-e86d652f146f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ade12cc-a3f2-4086-98ca-e0d943562355/496ad7e9-887d-41ce-a1d4-e86d652f146f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ade12cc-a3f2-4086-98ca-e0d943562355/496ad7e9-887d-41ce-a1d4-e86d652f146f
+md5	9a727bf34c77afd01b6d1dd4c1c03e5f

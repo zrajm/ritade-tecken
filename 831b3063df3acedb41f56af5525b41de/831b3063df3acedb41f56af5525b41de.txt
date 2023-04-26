@@ -1,0 +1,8 @@
+
+signId	494
+text	glömma
+imageUuid	355ffcc3-7d04-4540-a2bb-caf786dd347b
+translationKey	a20a504c-8758-4cd5-b71a-55474c8c10fa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/355ffcc3-7d04-4540-a2bb-caf786dd347b/a20a504c-8758-4cd5-b71a-55474c8c10fa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/355ffcc3-7d04-4540-a2bb-caf786dd347b/a20a504c-8758-4cd5-b71a-55474c8c10fa
+md5	831b3063df3acedb41f56af5525b41de

@@ -1,0 +1,7 @@
+signId	1917
+text	lida
+imageUuid	85fe24c5-2ec7-49ca-843f-9f885da1ab19
+translationKey	52783c1d-11c7-4e8c-aee8-d02da08b8869
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/85fe24c5-2ec7-49ca-843f-9f885da1ab19/52783c1d-11c7-4e8c-aee8-d02da08b8869/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/85fe24c5-2ec7-49ca-843f-9f885da1ab19/52783c1d-11c7-4e8c-aee8-d02da08b8869
+md5	e33d38fb4e8df87505624cc65fada4d2

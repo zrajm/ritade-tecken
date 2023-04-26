@@ -1,0 +1,7 @@
+signId	1064
+text	napp
+imageUuid	b4fd877f-9f30-4055-8624-0e916fbf7b23
+translationKey	3193c928-0077-402c-894c-3f53cba6a73b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b4fd877f-9f30-4055-8624-0e916fbf7b23/3193c928-0077-402c-894c-3f53cba6a73b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b4fd877f-9f30-4055-8624-0e916fbf7b23/3193c928-0077-402c-894c-3f53cba6a73b
+md5	50b17422d0278515f2502e4632ddb394

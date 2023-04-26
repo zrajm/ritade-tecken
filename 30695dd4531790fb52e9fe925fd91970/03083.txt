@@ -1,0 +1,7 @@
+signId	3083
+text	tugga
+imageUuid	78d88b4b-264a-435b-bb8f-456281cd8fb5
+translationKey	599f3692-14c8-4e07-9784-57af4ca80117
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/78d88b4b-264a-435b-bb8f-456281cd8fb5/599f3692-14c8-4e07-9784-57af4ca80117/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/78d88b4b-264a-435b-bb8f-456281cd8fb5/599f3692-14c8-4e07-9784-57af4ca80117
+md5	30695dd4531790fb52e9fe925fd91970

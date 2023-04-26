@@ -1,0 +1,8 @@
+
+signId	520
+text	grön
+imageUuid	416d04b9-fbb3-4768-a745-ee007a9cdf2e
+translationKey	f47d2a39-34e5-40ea-a15e-9b0f7e7f01d6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/416d04b9-fbb3-4768-a745-ee007a9cdf2e/f47d2a39-34e5-40ea-a15e-9b0f7e7f01d6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/416d04b9-fbb3-4768-a745-ee007a9cdf2e/f47d2a39-34e5-40ea-a15e-9b0f7e7f01d6
+md5	6554df7a58ad1a2c0c6a2f818ea10f5b

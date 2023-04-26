@@ -1,0 +1,48 @@
+
+signId	318
+text	el
+imageUuid	d97e66f7-3767-49b2-bbc9-7d920fcd5c09
+translationKey	f71fa40a-f440-4292-a20b-ad9148f5b6c6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d97e66f7-3767-49b2-bbc9-7d920fcd5c09/f71fa40a-f440-4292-a20b-ad9148f5b6c6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d97e66f7-3767-49b2-bbc9-7d920fcd5c09/f71fa40a-f440-4292-a20b-ad9148f5b6c6
+md5	8449bc490f385627640645d1011ce4f4
+
+signId	322
+text	elektricitet
+imageUuid	978cf0a3-83f3-4377-ae14-d71dc3664e98
+translationKey	a9622220-9b50-4e98-8ab7-5aae13f999ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/978cf0a3-83f3-4377-ae14-d71dc3664e98/a9622220-9b50-4e98-8ab7-5aae13f999ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/978cf0a3-83f3-4377-ae14-d71dc3664e98/a9622220-9b50-4e98-8ab7-5aae13f999ab
+md5	8449bc490f385627640645d1011ce4f4
+
+signId	1500
+text	ström
+imageUuid	3d5ded02-073b-44e1-bea1-350c0c62fbe9
+translationKey	f57bcb66-933a-4f2b-bd7e-0e79833399bc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3d5ded02-073b-44e1-bea1-350c0c62fbe9/f57bcb66-933a-4f2b-bd7e-0e79833399bc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3d5ded02-073b-44e1-bea1-350c0c62fbe9/f57bcb66-933a-4f2b-bd7e-0e79833399bc
+md5	8449bc490f385627640645d1011ce4f4
+
+signId	2810
+text	batteri
+imageUuid	1e553500-1f73-4e8c-ab23-d62390d3862d
+translationKey	49e5033b-afe1-4d5a-990f-a85ea42c2554
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1e553500-1f73-4e8c-ab23-d62390d3862d/49e5033b-afe1-4d5a-990f-a85ea42c2554/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1e553500-1f73-4e8c-ab23-d62390d3862d/49e5033b-afe1-4d5a-990f-a85ea42c2554
+md5	8449bc490f385627640645d1011ce4f4
+
+signId	2901
+text	pärm
+imageUuid	3a2c7b84-1c7e-4c60-94e8-8fdcd4d8e8d2
+translationKey	39f5dd7e-cd73-4143-85e3-1f1d915cfdd5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a2c7b84-1c7e-4c60-94e8-8fdcd4d8e8d2/39f5dd7e-cd73-4143-85e3-1f1d915cfdd5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a2c7b84-1c7e-4c60-94e8-8fdcd4d8e8d2/39f5dd7e-cd73-4143-85e3-1f1d915cfdd5
+md5	8449bc490f385627640645d1011ce4f4
+
+signId	3370
+text	elektriker
+imageUuid	baf3122a-b9a8-4b6c-b974-7f125000db52
+translationKey	1609245d-85a6-4b3b-b989-787b6792d410
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/baf3122a-b9a8-4b6c-b974-7f125000db52/1609245d-85a6-4b3b-b989-787b6792d410/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/baf3122a-b9a8-4b6c-b974-7f125000db52/1609245d-85a6-4b3b-b989-787b6792d410
+md5	8449bc490f385627640645d1011ce4f4

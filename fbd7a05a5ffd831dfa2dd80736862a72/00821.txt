@@ -1,0 +1,7 @@
+signId	821
+text	kräm (salva)
+imageUuid	367bb162-63f2-4058-8d9a-01ab1a0a27e2
+translationKey	90793921-c189-4ab8-846d-f9af6e1ff996
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/367bb162-63f2-4058-8d9a-01ab1a0a27e2/90793921-c189-4ab8-846d-f9af6e1ff996/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/367bb162-63f2-4058-8d9a-01ab1a0a27e2/90793921-c189-4ab8-846d-f9af6e1ff996
+md5	fbd7a05a5ffd831dfa2dd80736862a72

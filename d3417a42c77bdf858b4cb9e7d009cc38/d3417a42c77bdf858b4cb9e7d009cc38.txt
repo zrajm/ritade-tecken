@@ -1,0 +1,8 @@
+
+signId	1960
+text	andra 3
+imageUuid	2bc159bc-8c66-4e23-ad7d-0a4368d1ee9d
+translationKey	ff9b014a-4448-4525-9296-9b52cf1c3f06
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2bc159bc-8c66-4e23-ad7d-0a4368d1ee9d/ff9b014a-4448-4525-9296-9b52cf1c3f06/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2bc159bc-8c66-4e23-ad7d-0a4368d1ee9d/ff9b014a-4448-4525-9296-9b52cf1c3f06
+md5	d3417a42c77bdf858b4cb9e7d009cc38

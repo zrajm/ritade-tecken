@@ -1,0 +1,7 @@
+signId	1000
+text	mittemot
+imageUuid	722a44a5-f8b5-4111-aecd-a16312c09fda
+translationKey	bee16e3b-8bda-463e-afbc-3627e0e398f4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/722a44a5-f8b5-4111-aecd-a16312c09fda/bee16e3b-8bda-463e-afbc-3627e0e398f4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/722a44a5-f8b5-4111-aecd-a16312c09fda/bee16e3b-8bda-463e-afbc-3627e0e398f4
+md5	ab22ba999f18a8aff340c447a76407dc

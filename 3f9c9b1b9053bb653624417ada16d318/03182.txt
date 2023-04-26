@@ -1,0 +1,7 @@
+signId	3182
+text	affisch
+imageUuid	8147ff7e-435b-4340-8255-2c984f3e8a5d
+translationKey	a5739f6e-c4b5-4857-908b-5b3b51b799d8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8147ff7e-435b-4340-8255-2c984f3e8a5d/a5739f6e-c4b5-4857-908b-5b3b51b799d8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8147ff7e-435b-4340-8255-2c984f3e8a5d/a5739f6e-c4b5-4857-908b-5b3b51b799d8
+md5	3f9c9b1b9053bb653624417ada16d318

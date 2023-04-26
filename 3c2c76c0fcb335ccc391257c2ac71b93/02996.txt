@@ -1,0 +1,7 @@
+signId	2996
+text	gips
+imageUuid	514bae39-1dde-400f-bf20-3ae69436a71a
+translationKey	9c3c4bb4-5cd5-4b43-8bdd-6c574bc39da1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/514bae39-1dde-400f-bf20-3ae69436a71a/9c3c4bb4-5cd5-4b43-8bdd-6c574bc39da1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/514bae39-1dde-400f-bf20-3ae69436a71a/9c3c4bb4-5cd5-4b43-8bdd-6c574bc39da1
+md5	3c2c76c0fcb335ccc391257c2ac71b93

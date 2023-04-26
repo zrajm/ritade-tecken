@@ -1,0 +1,7 @@
+signId	912
+text	lucia
+imageUuid	042e4581-0c8b-401a-aaed-a07857a97e73
+translationKey	e2e3720b-0005-4497-9dee-c0854674263e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/042e4581-0c8b-401a-aaed-a07857a97e73/e2e3720b-0005-4497-9dee-c0854674263e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/042e4581-0c8b-401a-aaed-a07857a97e73/e2e3720b-0005-4497-9dee-c0854674263e
+md5	9aa697208c3cae1fdf4e31e5eb396931

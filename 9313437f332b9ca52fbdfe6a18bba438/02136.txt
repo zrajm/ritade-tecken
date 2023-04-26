@@ -1,0 +1,7 @@
+signId	2136
+text	måla (konst)
+imageUuid	4a77ad00-cac0-41c3-8079-d29271f4ff0e
+translationKey	84832802-e105-42de-b5de-d68e5910a4c9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4a77ad00-cac0-41c3-8079-d29271f4ff0e/84832802-e105-42de-b5de-d68e5910a4c9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4a77ad00-cac0-41c3-8079-d29271f4ff0e/84832802-e105-42de-b5de-d68e5910a4c9
+md5	9313437f332b9ca52fbdfe6a18bba438

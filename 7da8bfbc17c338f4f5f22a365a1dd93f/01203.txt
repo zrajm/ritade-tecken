@@ -1,0 +1,7 @@
+signId	1203
+text	pulver
+imageUuid	242f8d2b-147e-457b-a064-d0abb75600a9
+translationKey	a85495ef-cdfd-447a-a383-ca7ae812efc1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/242f8d2b-147e-457b-a064-d0abb75600a9/a85495ef-cdfd-447a-a383-ca7ae812efc1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/242f8d2b-147e-457b-a064-d0abb75600a9/a85495ef-cdfd-447a-a383-ca7ae812efc1
+md5	d23bb324ca62d96e199d675352baea16

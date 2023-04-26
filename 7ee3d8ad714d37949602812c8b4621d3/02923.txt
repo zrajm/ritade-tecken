@@ -1,0 +1,7 @@
+signId	2923
+text	julkrubba
+imageUuid	19c6448a-5864-444a-b802-27345c3e2b53
+translationKey	9371b3a7-edcd-44ad-a004-878d9b070edc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/19c6448a-5864-444a-b802-27345c3e2b53/9371b3a7-edcd-44ad-a004-878d9b070edc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/19c6448a-5864-444a-b802-27345c3e2b53/9371b3a7-edcd-44ad-a004-878d9b070edc
+md5	7ee3d8ad714d37949602812c8b4621d3

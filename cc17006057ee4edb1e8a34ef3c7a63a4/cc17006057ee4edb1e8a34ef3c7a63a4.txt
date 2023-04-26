@@ -1,0 +1,8 @@
+
+signId	2376
+text	politiskt program
+imageUuid	a076efb7-486e-48c4-9a7d-801f93c7616e
+translationKey	5851ddfd-f4f1-491a-bc31-5afd5ba47585
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a076efb7-486e-48c4-9a7d-801f93c7616e/5851ddfd-f4f1-491a-bc31-5afd5ba47585/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a076efb7-486e-48c4-9a7d-801f93c7616e/5851ddfd-f4f1-491a-bc31-5afd5ba47585
+md5	cc17006057ee4edb1e8a34ef3c7a63a4

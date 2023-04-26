@@ -1,0 +1,8 @@
+
+signId	2213
+text	blinka
+imageUuid	12a42b95-6b62-4c53-9921-eef5482d766f
+translationKey	12dd104d-1031-4808-9b36-7706c3e3cbb1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/12a42b95-6b62-4c53-9921-eef5482d766f/12dd104d-1031-4808-9b36-7706c3e3cbb1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/12a42b95-6b62-4c53-9921-eef5482d766f/12dd104d-1031-4808-9b36-7706c3e3cbb1
+md5	9c538b667d2de830b7ee11ea456c2b9d

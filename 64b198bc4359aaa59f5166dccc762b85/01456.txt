@@ -1,0 +1,7 @@
+signId	1456
+text	spricka (verb)
+imageUuid	086631ba-e007-4daf-b58c-1c763fbfc077
+translationKey	a2276db3-e1c3-4be2-9ddf-61b2e3d09239
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/086631ba-e007-4daf-b58c-1c763fbfc077/a2276db3-e1c3-4be2-9ddf-61b2e3d09239/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/086631ba-e007-4daf-b58c-1c763fbfc077/a2276db3-e1c3-4be2-9ddf-61b2e3d09239
+md5	64b198bc4359aaa59f5166dccc762b85

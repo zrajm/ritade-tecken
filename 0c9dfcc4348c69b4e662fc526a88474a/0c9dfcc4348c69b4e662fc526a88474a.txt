@@ -1,0 +1,16 @@
+
+signId	693
+text	jogga
+imageUuid	76454c52-a3de-4802-9489-a0d3e951f548
+translationKey	c76e8338-97a4-46c9-bf46-c497bb4d4d44
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/76454c52-a3de-4802-9489-a0d3e951f548/c76e8338-97a4-46c9-bf46-c497bb4d4d44/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/76454c52-a3de-4802-9489-a0d3e951f548/c76e8338-97a4-46c9-bf46-c497bb4d4d44
+md5	0c9dfcc4348c69b4e662fc526a88474a
+
+signId	1457
+text	springa 1
+imageUuid	92207830-2ede-474c-a744-5976ebe074f4
+translationKey	3a7baebd-457f-4574-82a8-05555794cf5e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/92207830-2ede-474c-a744-5976ebe074f4/3a7baebd-457f-4574-82a8-05555794cf5e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/92207830-2ede-474c-a744-5976ebe074f4/3a7baebd-457f-4574-82a8-05555794cf5e
+md5	0c9dfcc4348c69b4e662fc526a88474a

@@ -1,0 +1,16 @@
+
+signId	378
+text	flagga
+imageUuid	72997236-bba8-438e-a7fd-53cdefafd12e
+translationKey	374e9af5-387a-4760-9fab-49e657999c5e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72997236-bba8-438e-a7fd-53cdefafd12e/374e9af5-387a-4760-9fab-49e657999c5e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72997236-bba8-438e-a7fd-53cdefafd12e/374e9af5-387a-4760-9fab-49e657999c5e
+md5	1f601905d41c5b13a63476a42126d4c7
+
+signId	3085
+text	padel
+imageUuid	d0e48fa3-9b23-4986-85a2-c9b38d8fe730
+translationKey	e71febad-8db5-4860-85cb-35c4656494c6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d0e48fa3-9b23-4986-85a2-c9b38d8fe730/e71febad-8db5-4860-85cb-35c4656494c6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d0e48fa3-9b23-4986-85a2-c9b38d8fe730/e71febad-8db5-4860-85cb-35c4656494c6
+md5	1f601905d41c5b13a63476a42126d4c7

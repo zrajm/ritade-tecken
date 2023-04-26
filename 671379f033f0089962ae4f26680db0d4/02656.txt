@@ -1,0 +1,7 @@
+signId	2656
+text	persienn
+imageUuid	d356a9e7-4030-4c5b-abc9-39928455cd47
+translationKey	38ab83a1-decf-4535-8b50-ef46e373b8a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d356a9e7-4030-4c5b-abc9-39928455cd47/38ab83a1-decf-4535-8b50-ef46e373b8a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d356a9e7-4030-4c5b-abc9-39928455cd47/38ab83a1-decf-4535-8b50-ef46e373b8a7
+md5	671379f033f0089962ae4f26680db0d4

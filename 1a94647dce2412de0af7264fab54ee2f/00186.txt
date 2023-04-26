@@ -1,0 +1,7 @@
+signId	186
+text	brinna
+imageUuid	0d2efeb1-5c9d-4f40-b2e0-453bd8457610
+translationKey	aea66d7d-5c1f-4f6b-870f-89c15b82562b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0d2efeb1-5c9d-4f40-b2e0-453bd8457610/aea66d7d-5c1f-4f6b-870f-89c15b82562b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0d2efeb1-5c9d-4f40-b2e0-453bd8457610/aea66d7d-5c1f-4f6b-870f-89c15b82562b
+md5	1a94647dce2412de0af7264fab54ee2f

@@ -1,0 +1,8 @@
+
+signId	1894
+text	bita (som ett djur)
+imageUuid	ffbf64dd-b60a-4fd9-94cb-780a167aea0f
+translationKey	763a24e3-c8e2-41b6-b6b3-64a91feebd49
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ffbf64dd-b60a-4fd9-94cb-780a167aea0f/763a24e3-c8e2-41b6-b6b3-64a91feebd49/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ffbf64dd-b60a-4fd9-94cb-780a167aea0f/763a24e3-c8e2-41b6-b6b3-64a91feebd49
+md5	b196b53b37f454346ae32bcc4e297c00

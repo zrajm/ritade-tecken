@@ -1,0 +1,8 @@
+
+signId	838
+text	kylskåp
+imageUuid	a450fcb7-da12-46c0-9d90-d9c0921e7f72
+translationKey	b92d4c87-d2df-463a-b8ce-734861748338
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a450fcb7-da12-46c0-9d90-d9c0921e7f72/b92d4c87-d2df-463a-b8ce-734861748338/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a450fcb7-da12-46c0-9d90-d9c0921e7f72/b92d4c87-d2df-463a-b8ce-734861748338
+md5	d81a0bcd67826c7e4237d4858ceb3511

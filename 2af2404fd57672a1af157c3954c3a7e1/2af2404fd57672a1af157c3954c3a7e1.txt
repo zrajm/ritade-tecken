@@ -1,0 +1,8 @@
+
+signId	582
+text	helikopter
+imageUuid	12da9003-8c32-4eab-9554-c5689a0bf216
+translationKey	0438c6c4-ef97-47ab-a40b-4938b9fcebaa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/12da9003-8c32-4eab-9554-c5689a0bf216/0438c6c4-ef97-47ab-a40b-4938b9fcebaa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/12da9003-8c32-4eab-9554-c5689a0bf216/0438c6c4-ef97-47ab-a40b-4938b9fcebaa
+md5	2af2404fd57672a1af157c3954c3a7e1

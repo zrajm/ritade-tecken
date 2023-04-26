@@ -1,0 +1,7 @@
+signId	1022
+text	multiplicera
+imageUuid	f0bef33c-1e27-4e2f-b9ad-00f4c46237f6
+translationKey	d398f6cf-878b-4de4-b29d-427c2164e399
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f0bef33c-1e27-4e2f-b9ad-00f4c46237f6/d398f6cf-878b-4de4-b29d-427c2164e399/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f0bef33c-1e27-4e2f-b9ad-00f4c46237f6/d398f6cf-878b-4de4-b29d-427c2164e399
+md5	ce839f0f94f36af5ee9351deef3ac641

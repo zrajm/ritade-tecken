@@ -1,0 +1,7 @@
+signId	1160
+text	piano
+imageUuid	1a0216fc-b654-447c-a4a0-4dcb0bfdc382
+translationKey	fdaa1266-896f-4099-a60a-e127b1bc7a75
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1a0216fc-b654-447c-a4a0-4dcb0bfdc382/fdaa1266-896f-4099-a60a-e127b1bc7a75/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1a0216fc-b654-447c-a4a0-4dcb0bfdc382/fdaa1266-896f-4099-a60a-e127b1bc7a75
+md5	45c7bdfde208b4d758b7a95f930a9204

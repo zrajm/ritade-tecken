@@ -1,0 +1,7 @@
+signId	1962
+text	ingenjör
+imageUuid	db8955b7-4ef4-4272-a488-47b04bb2d839
+translationKey	da8279e3-013b-4e60-9a77-15cb70e8048b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/db8955b7-4ef4-4272-a488-47b04bb2d839/da8279e3-013b-4e60-9a77-15cb70e8048b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/db8955b7-4ef4-4272-a488-47b04bb2d839/da8279e3-013b-4e60-9a77-15cb70e8048b
+md5	e720fda6d6e4745968370e3e5a17c2ce

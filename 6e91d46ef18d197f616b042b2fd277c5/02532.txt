@@ -1,0 +1,7 @@
+signId	2532
+text	vass
+imageUuid	251f45ce-2a3f-42ac-8cbb-68e2f3dcde66
+translationKey	f2da808f-e833-43d1-b6c0-8f9de26c6599
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/251f45ce-2a3f-42ac-8cbb-68e2f3dcde66/f2da808f-e833-43d1-b6c0-8f9de26c6599/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/251f45ce-2a3f-42ac-8cbb-68e2f3dcde66/f2da808f-e833-43d1-b6c0-8f9de26c6599
+md5	6e91d46ef18d197f616b042b2fd277c5

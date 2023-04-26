@@ -1,0 +1,8 @@
+
+signId	1563
+text	tant
+imageUuid	ddcdeb79-419d-4613-a6bc-204fec86a3d1
+translationKey	be198863-ae6f-4dad-ba3f-5faa388a9f18
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ddcdeb79-419d-4613-a6bc-204fec86a3d1/be198863-ae6f-4dad-ba3f-5faa388a9f18/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ddcdeb79-419d-4613-a6bc-204fec86a3d1/be198863-ae6f-4dad-ba3f-5faa388a9f18
+md5	e3c9aeb2c54eb5c844d16b3ee1fb7421

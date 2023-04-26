@@ -1,0 +1,8 @@
+
+signId	1303
+text	september
+imageUuid	740e3ea2-0057-4cac-8764-aa3fa85121c7
+translationKey	e4986c57-569d-4782-a564-708b018cd99d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/740e3ea2-0057-4cac-8764-aa3fa85121c7/e4986c57-569d-4782-a564-708b018cd99d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/740e3ea2-0057-4cac-8764-aa3fa85121c7/e4986c57-569d-4782-a564-708b018cd99d
+md5	ae81fc31233fa9eba8aa08eec4682b8b

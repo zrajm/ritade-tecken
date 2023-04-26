@@ -1,0 +1,7 @@
+signId	1068
+text	natt
+imageUuid	6bc6eb12-ace7-4fde-a77e-2894350c2ea2
+translationKey	33bb56e3-5ffa-4e8b-9d05-7997da2eaf16
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6bc6eb12-ace7-4fde-a77e-2894350c2ea2/33bb56e3-5ffa-4e8b-9d05-7997da2eaf16/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6bc6eb12-ace7-4fde-a77e-2894350c2ea2/33bb56e3-5ffa-4e8b-9d05-7997da2eaf16
+md5	ab1df110be20aebb65da784ed3c8fb87

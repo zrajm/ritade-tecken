@@ -1,0 +1,7 @@
+signId	2638
+text	hud
+imageUuid	981ecd89-8ea6-44cf-8f63-9f33c1f6331a
+translationKey	05c4d2f2-d8f7-4d1e-bc9b-541ba9061921
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/981ecd89-8ea6-44cf-8f63-9f33c1f6331a/05c4d2f2-d8f7-4d1e-bc9b-541ba9061921/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/981ecd89-8ea6-44cf-8f63-9f33c1f6331a/05c4d2f2-d8f7-4d1e-bc9b-541ba9061921
+md5	642dc47c85ea5d5a1290b2389d715016

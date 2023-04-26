@@ -1,0 +1,7 @@
+signId	756
+text	klosstorn
+imageUuid	d44c7b2c-de7e-4bed-9b1e-a7f123c98108
+translationKey	6bd4d0d2-206b-4dda-8a27-e557282a434c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d44c7b2c-de7e-4bed-9b1e-a7f123c98108/6bd4d0d2-206b-4dda-8a27-e557282a434c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d44c7b2c-de7e-4bed-9b1e-a7f123c98108/6bd4d0d2-206b-4dda-8a27-e557282a434c
+md5	40b6dce8d581d5d834debb5701e748d5

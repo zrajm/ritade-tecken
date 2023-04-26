@@ -1,0 +1,8 @@
+
+signId	3186
+text	Babblarna 1
+imageUuid	dce3e9ee-12bc-40ad-9853-107945be16ed
+translationKey	ddb0145e-3949-45fa-80b6-3a7c86786fff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dce3e9ee-12bc-40ad-9853-107945be16ed/ddb0145e-3949-45fa-80b6-3a7c86786fff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dce3e9ee-12bc-40ad-9853-107945be16ed/ddb0145e-3949-45fa-80b6-3a7c86786fff
+md5	8e0a3e7569de45dd9e703b2c9b175fa8

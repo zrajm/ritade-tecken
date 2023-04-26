@@ -1,0 +1,7 @@
+signId	364
+text	film
+imageUuid	01a5c794-d53f-4f09-b0ac-5b3738c36550
+translationKey	ebd9e537-08cc-47b4-8fa8-8fbb506ba2bc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/01a5c794-d53f-4f09-b0ac-5b3738c36550/ebd9e537-08cc-47b4-8fa8-8fbb506ba2bc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/01a5c794-d53f-4f09-b0ac-5b3738c36550/ebd9e537-08cc-47b4-8fa8-8fbb506ba2bc
+md5	46eae98b00081a176a3c9d7693db9bfd

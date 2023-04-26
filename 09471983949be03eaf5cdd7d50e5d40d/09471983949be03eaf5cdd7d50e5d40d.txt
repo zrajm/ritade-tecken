@@ -1,0 +1,8 @@
+
+signId	2042
+text	coca-cola
+imageUuid	d973159c-8c53-4bdb-9e5a-aa89e787266b
+translationKey	e4770f59-7634-4091-b915-c5cf772c551a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d973159c-8c53-4bdb-9e5a-aa89e787266b/e4770f59-7634-4091-b915-c5cf772c551a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d973159c-8c53-4bdb-9e5a-aa89e787266b/e4770f59-7634-4091-b915-c5cf772c551a
+md5	09471983949be03eaf5cdd7d50e5d40d

@@ -1,0 +1,7 @@
+signId	2304
+text	sugen
+imageUuid	7979be8a-f4ee-40aa-8bcd-c71e21596809
+translationKey	ec5904ca-2b80-4d93-a761-f9c0e074e98f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7979be8a-f4ee-40aa-8bcd-c71e21596809/ec5904ca-2b80-4d93-a761-f9c0e074e98f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7979be8a-f4ee-40aa-8bcd-c71e21596809/ec5904ca-2b80-4d93-a761-f9c0e074e98f
+md5	22f7dd369c2ffc589d687f46d82bf4ef

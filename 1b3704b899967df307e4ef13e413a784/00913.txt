@@ -1,0 +1,7 @@
+signId	913
+text	lugn
+imageUuid	f2c17aec-d57c-4964-a888-ef5a3d78564b
+translationKey	4b9d2f25-7cc8-471e-9b9f-344cfa2cbb24
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f2c17aec-d57c-4964-a888-ef5a3d78564b/4b9d2f25-7cc8-471e-9b9f-344cfa2cbb24/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f2c17aec-d57c-4964-a888-ef5a3d78564b/4b9d2f25-7cc8-471e-9b9f-344cfa2cbb24
+md5	1b3704b899967df307e4ef13e413a784

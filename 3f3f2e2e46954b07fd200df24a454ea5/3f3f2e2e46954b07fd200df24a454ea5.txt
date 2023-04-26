@@ -1,0 +1,8 @@
+
+signId	515
+text	grädde
+imageUuid	7744c509-3482-4df3-ba1e-95e1f3e86d0a
+translationKey	a22b8aa7-a25c-47a5-97ae-57b5a2b821cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7744c509-3482-4df3-ba1e-95e1f3e86d0a/a22b8aa7-a25c-47a5-97ae-57b5a2b821cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7744c509-3482-4df3-ba1e-95e1f3e86d0a/a22b8aa7-a25c-47a5-97ae-57b5a2b821cd
+md5	3f3f2e2e46954b07fd200df24a454ea5

@@ -1,0 +1,7 @@
+signId	1304
+text	servera
+imageUuid	f553ea6f-5831-4e8f-ae45-7f589fbe0135
+translationKey	9d52bf08-5b87-44a2-ae82-9d6bf063ff94
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f553ea6f-5831-4e8f-ae45-7f589fbe0135/9d52bf08-5b87-44a2-ae82-9d6bf063ff94/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f553ea6f-5831-4e8f-ae45-7f589fbe0135/9d52bf08-5b87-44a2-ae82-9d6bf063ff94
+md5	25bc75d303cb41f683537b983dc93755

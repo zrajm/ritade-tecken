@@ -1,0 +1,7 @@
+signId	587
+text	herre
+imageUuid	274df230-2997-48af-8454-90e62e04640f
+translationKey	cdedc5c5-4201-4b88-8bf0-1f2df13cd7db
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/274df230-2997-48af-8454-90e62e04640f/cdedc5c5-4201-4b88-8bf0-1f2df13cd7db/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/274df230-2997-48af-8454-90e62e04640f/cdedc5c5-4201-4b88-8bf0-1f2df13cd7db
+md5	da1f9fd1d8bcf4a808587cd902a52e20

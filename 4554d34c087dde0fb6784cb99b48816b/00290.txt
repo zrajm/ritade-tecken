@@ -1,0 +1,7 @@
+signId	290
+text	droppa
+imageUuid	1084678f-6da1-49de-839c-189524f60baf
+translationKey	28747ac2-4d39-458e-ac6d-5fa9d4a1d1c0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1084678f-6da1-49de-839c-189524f60baf/28747ac2-4d39-458e-ac6d-5fa9d4a1d1c0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1084678f-6da1-49de-839c-189524f60baf/28747ac2-4d39-458e-ac6d-5fa9d4a1d1c0
+md5	4554d34c087dde0fb6784cb99b48816b

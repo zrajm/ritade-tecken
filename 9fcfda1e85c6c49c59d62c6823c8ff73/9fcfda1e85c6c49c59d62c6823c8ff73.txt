@@ -1,0 +1,8 @@
+
+signId	2507
+text	galopp
+imageUuid	5f627efb-742a-453d-8b98-4d900f000278
+translationKey	69d08d2d-e9cf-4ea3-847f-2ddba6af48da
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5f627efb-742a-453d-8b98-4d900f000278/69d08d2d-e9cf-4ea3-847f-2ddba6af48da/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5f627efb-742a-453d-8b98-4d900f000278/69d08d2d-e9cf-4ea3-847f-2ddba6af48da
+md5	9fcfda1e85c6c49c59d62c6823c8ff73

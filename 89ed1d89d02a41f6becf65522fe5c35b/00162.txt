@@ -1,0 +1,7 @@
+signId	162
+text	bo (rede)
+imageUuid	508d74c2-e460-4872-90ca-8023f5a72d4b
+translationKey	d8c4302b-ff45-4ba7-a378-456738876e15
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/508d74c2-e460-4872-90ca-8023f5a72d4b/d8c4302b-ff45-4ba7-a378-456738876e15/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/508d74c2-e460-4872-90ca-8023f5a72d4b/d8c4302b-ff45-4ba7-a378-456738876e15
+md5	89ed1d89d02a41f6becf65522fe5c35b

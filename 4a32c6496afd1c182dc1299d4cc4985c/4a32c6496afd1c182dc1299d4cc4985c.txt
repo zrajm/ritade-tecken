@@ -1,0 +1,8 @@
+
+signId	444
+text	följa
+imageUuid	f7b6f1fd-3a79-4975-825e-bd3e44cc30a1
+translationKey	410d5794-9419-405c-834d-74fd0b82a4ea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f7b6f1fd-3a79-4975-825e-bd3e44cc30a1/410d5794-9419-405c-834d-74fd0b82a4ea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f7b6f1fd-3a79-4975-825e-bd3e44cc30a1/410d5794-9419-405c-834d-74fd0b82a4ea
+md5	4a32c6496afd1c182dc1299d4cc4985c

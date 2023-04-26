@@ -1,0 +1,8 @@
+
+signId	3051
+text	Herren
+imageUuid	90780934-9c69-407e-95d6-9e30a9658688
+translationKey	130ac21f-280e-4dd3-8d0e-f330910cfc46
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/90780934-9c69-407e-95d6-9e30a9658688/130ac21f-280e-4dd3-8d0e-f330910cfc46/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/90780934-9c69-407e-95d6-9e30a9658688/130ac21f-280e-4dd3-8d0e-f330910cfc46
+md5	5cf0b4058e81baffd1ccdb339ea2a6a0

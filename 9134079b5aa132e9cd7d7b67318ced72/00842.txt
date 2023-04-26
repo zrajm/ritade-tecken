@@ -1,0 +1,7 @@
+signId	842
+text	kyssa
+imageUuid	2901b35f-b4f8-422f-b6a0-ac9f2facfa95
+translationKey	1be9580e-389a-4175-b835-a9042dc06583
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2901b35f-b4f8-422f-b6a0-ac9f2facfa95/1be9580e-389a-4175-b835-a9042dc06583/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2901b35f-b4f8-422f-b6a0-ac9f2facfa95/1be9580e-389a-4175-b835-a9042dc06583
+md5	9134079b5aa132e9cd7d7b67318ced72

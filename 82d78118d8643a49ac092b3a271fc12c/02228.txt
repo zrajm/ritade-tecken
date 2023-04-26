@@ -1,0 +1,7 @@
+signId	2228
+text	melon
+imageUuid	4dad8a18-259e-4ff5-aa5c-312810e8f951
+translationKey	8dc03e71-abd0-459d-b47b-226dcc168e8f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4dad8a18-259e-4ff5-aa5c-312810e8f951/8dc03e71-abd0-459d-b47b-226dcc168e8f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4dad8a18-259e-4ff5-aa5c-312810e8f951/8dc03e71-abd0-459d-b47b-226dcc168e8f
+md5	84cec28b20aceeb561f76e31c699aeb1

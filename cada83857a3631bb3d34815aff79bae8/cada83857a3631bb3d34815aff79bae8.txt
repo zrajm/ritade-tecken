@@ -1,0 +1,8 @@
+
+signId	750
+text	klasskamrat
+imageUuid	c8ba1e53-5a17-4b77-8156-bfdb0736afb7
+translationKey	1d06d568-f5b7-4494-81db-27afca640d9b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c8ba1e53-5a17-4b77-8156-bfdb0736afb7/1d06d568-f5b7-4494-81db-27afca640d9b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c8ba1e53-5a17-4b77-8156-bfdb0736afb7/1d06d568-f5b7-4494-81db-27afca640d9b
+md5	cada83857a3631bb3d34815aff79bae8

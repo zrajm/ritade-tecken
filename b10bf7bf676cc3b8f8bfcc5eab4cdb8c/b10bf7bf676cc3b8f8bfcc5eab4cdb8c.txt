@@ -1,0 +1,8 @@
+
+signId	3211
+text	fiskdamm
+imageUuid	60c13a9f-d784-4c5f-9eed-47c9a3224c56
+translationKey	65ae7f25-e710-44f1-9786-855e83c101cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/60c13a9f-d784-4c5f-9eed-47c9a3224c56/65ae7f25-e710-44f1-9786-855e83c101cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/60c13a9f-d784-4c5f-9eed-47c9a3224c56/65ae7f25-e710-44f1-9786-855e83c101cd
+md5	b10bf7bf676cc3b8f8bfcc5eab4cdb8c

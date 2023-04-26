@@ -1,0 +1,8 @@
+
+signId	2504
+text	sann
+imageUuid	3cec3b9f-03b0-4ab9-83d0-11da0fc61f6e
+translationKey	7ab03dce-5aff-4dd0-95eb-58315214e5cf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3cec3b9f-03b0-4ab9-83d0-11da0fc61f6e/7ab03dce-5aff-4dd0-95eb-58315214e5cf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3cec3b9f-03b0-4ab9-83d0-11da0fc61f6e/7ab03dce-5aff-4dd0-95eb-58315214e5cf
+md5	52ae0e82f93b39ed9b74471f103a1e1e

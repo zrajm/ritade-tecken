@@ -1,0 +1,7 @@
+signId	1488
+text	storasyskon
+imageUuid	0baa7891-a803-40ee-bdbb-f8563a11503c
+translationKey	cf4e521d-8450-4585-8669-377d718b9be8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0baa7891-a803-40ee-bdbb-f8563a11503c/cf4e521d-8450-4585-8669-377d718b9be8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0baa7891-a803-40ee-bdbb-f8563a11503c/cf4e521d-8450-4585-8669-377d718b9be8
+md5	db07a4d80e3bd069499b82c9dc05931d

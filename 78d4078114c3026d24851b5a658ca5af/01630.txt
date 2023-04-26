@@ -1,0 +1,7 @@
+signId	1630
+text	träffa 2
+imageUuid	9b59c6a6-bf35-48e2-8d1f-5bce847be9e3
+translationKey	b5dc7899-73c8-4d9c-9c34-6acde6677abc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9b59c6a6-bf35-48e2-8d1f-5bce847be9e3/b5dc7899-73c8-4d9c-9c34-6acde6677abc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9b59c6a6-bf35-48e2-8d1f-5bce847be9e3/b5dc7899-73c8-4d9c-9c34-6acde6677abc
+md5	78d4078114c3026d24851b5a658ca5af

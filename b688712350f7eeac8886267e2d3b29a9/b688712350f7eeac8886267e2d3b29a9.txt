@@ -1,0 +1,8 @@
+
+signId	2240
+text	pyssla
+imageUuid	51228c84-080b-4a61-a917-6ad8b501dd75
+translationKey	54452f81-8089-4369-bd45-68c203c4d2cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/51228c84-080b-4a61-a917-6ad8b501dd75/54452f81-8089-4369-bd45-68c203c4d2cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/51228c84-080b-4a61-a917-6ad8b501dd75/54452f81-8089-4369-bd45-68c203c4d2cd
+md5	b688712350f7eeac8886267e2d3b29a9

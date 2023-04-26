@@ -1,0 +1,7 @@
+signId	3046
+text	handskar
+imageUuid	b0e8c7cd-dc24-4f16-b213-8f1916ef893f
+translationKey	e175f517-3b75-44df-9b07-f5932c44328d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b0e8c7cd-dc24-4f16-b213-8f1916ef893f/e175f517-3b75-44df-9b07-f5932c44328d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b0e8c7cd-dc24-4f16-b213-8f1916ef893f/e175f517-3b75-44df-9b07-f5932c44328d
+md5	ceb9f4e29009ac59e113f8673ca144f9

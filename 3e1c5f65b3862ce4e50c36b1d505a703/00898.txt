@@ -1,0 +1,7 @@
+signId	898
+text	lita på
+imageUuid	f0ac0f9d-d468-4b6d-b375-9a4ef1f42615
+translationKey	432157ef-25a8-4833-9d1d-3e8c1c9fd6c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f0ac0f9d-d468-4b6d-b375-9a4ef1f42615/432157ef-25a8-4833-9d1d-3e8c1c9fd6c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f0ac0f9d-d468-4b6d-b375-9a4ef1f42615/432157ef-25a8-4833-9d1d-3e8c1c9fd6c7
+md5	3e1c5f65b3862ce4e50c36b1d505a703

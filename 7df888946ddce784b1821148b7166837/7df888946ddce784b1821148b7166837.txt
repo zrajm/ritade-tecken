@@ -1,0 +1,8 @@
+
+signId	2967
+text	röntgen
+imageUuid	bd67e13f-7568-4037-b8ce-8b5cfd917f0a
+translationKey	1f40ec4e-8784-4438-9295-d661605a9faf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bd67e13f-7568-4037-b8ce-8b5cfd917f0a/1f40ec4e-8784-4438-9295-d661605a9faf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bd67e13f-7568-4037-b8ce-8b5cfd917f0a/1f40ec4e-8784-4438-9295-d661605a9faf
+md5	7df888946ddce784b1821148b7166837

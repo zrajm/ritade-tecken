@@ -1,0 +1,7 @@
+signId	3055
+text	bilbälte
+imageUuid	cfd0ac22-d110-4ab7-9ed6-1ea8c2febd72
+translationKey	398cc26f-b99e-4d39-abe3-756507668468
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cfd0ac22-d110-4ab7-9ed6-1ea8c2febd72/398cc26f-b99e-4d39-abe3-756507668468/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cfd0ac22-d110-4ab7-9ed6-1ea8c2febd72/398cc26f-b99e-4d39-abe3-756507668468
+md5	25ac129c1db78e2eb366c594127dd58d

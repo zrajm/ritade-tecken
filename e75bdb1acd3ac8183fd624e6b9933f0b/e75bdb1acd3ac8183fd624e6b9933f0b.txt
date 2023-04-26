@@ -1,0 +1,8 @@
+
+signId	2531
+text	ganska
+imageUuid	37a93ada-d68d-4a76-a0ba-15b8fdc34f65
+translationKey	f219c017-dcd8-4ab5-b0f2-b413c809f4a2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/37a93ada-d68d-4a76-a0ba-15b8fdc34f65/f219c017-dcd8-4ab5-b0f2-b413c809f4a2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/37a93ada-d68d-4a76-a0ba-15b8fdc34f65/f219c017-dcd8-4ab5-b0f2-b413c809f4a2
+md5	e75bdb1acd3ac8183fd624e6b9933f0b

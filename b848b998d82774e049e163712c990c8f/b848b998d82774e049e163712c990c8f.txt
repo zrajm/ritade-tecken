@@ -1,0 +1,8 @@
+
+signId	1924
+text	varsin
+imageUuid	ea8c5301-a438-4863-9eac-c53e63fd2973
+translationKey	2c3b6668-3d0d-4086-b76c-29c6c9e89cb6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea8c5301-a438-4863-9eac-c53e63fd2973/2c3b6668-3d0d-4086-b76c-29c6c9e89cb6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea8c5301-a438-4863-9eac-c53e63fd2973/2c3b6668-3d0d-4086-b76c-29c6c9e89cb6
+md5	b848b998d82774e049e163712c990c8f

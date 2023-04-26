@@ -1,0 +1,7 @@
+signId	886
+text	leverera
+imageUuid	fe9c7de0-ca78-406f-916d-9ba59e0fe952
+translationKey	3d0073cf-0ffe-45af-a33d-df4d290a97cb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fe9c7de0-ca78-406f-916d-9ba59e0fe952/3d0073cf-0ffe-45af-a33d-df4d290a97cb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fe9c7de0-ca78-406f-916d-9ba59e0fe952/3d0073cf-0ffe-45af-a33d-df4d290a97cb
+md5	d733210b0c73f7d5323e46339921ae58

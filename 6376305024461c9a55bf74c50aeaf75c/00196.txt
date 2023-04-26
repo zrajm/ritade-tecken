@@ -1,0 +1,7 @@
+signId	196
+text	bråka 2
+imageUuid	d74bb154-2430-4a0c-9d61-4a813a4b4ce7
+translationKey	714bec5f-7283-420e-943b-1ee6f8c6dffd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d74bb154-2430-4a0c-9d61-4a813a4b4ce7/714bec5f-7283-420e-943b-1ee6f8c6dffd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d74bb154-2430-4a0c-9d61-4a813a4b4ce7/714bec5f-7283-420e-943b-1ee6f8c6dffd
+md5	6376305024461c9a55bf74c50aeaf75c

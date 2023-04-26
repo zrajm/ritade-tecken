@@ -1,0 +1,7 @@
+signId	709
+text	kafé 2
+imageUuid	b2c988d3-5373-495e-a02a-c3421235ab25
+translationKey	d043d5fc-9226-4458-8bab-df85dd9613a0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b2c988d3-5373-495e-a02a-c3421235ab25/d043d5fc-9226-4458-8bab-df85dd9613a0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b2c988d3-5373-495e-a02a-c3421235ab25/d043d5fc-9226-4458-8bab-df85dd9613a0
+md5	f5dc3ea2eadc66f2863d4de49645e21d

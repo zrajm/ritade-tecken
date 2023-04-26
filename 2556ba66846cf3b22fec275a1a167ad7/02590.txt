@@ -1,0 +1,7 @@
+signId	2590
+text	näsduk
+imageUuid	5d2d389c-a224-4f38-97b3-4bdc9cfbee13
+translationKey	578089fe-7e2e-4cc3-b0b3-3892be2f9d63
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5d2d389c-a224-4f38-97b3-4bdc9cfbee13/578089fe-7e2e-4cc3-b0b3-3892be2f9d63/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5d2d389c-a224-4f38-97b3-4bdc9cfbee13/578089fe-7e2e-4cc3-b0b3-3892be2f9d63
+md5	2556ba66846cf3b22fec275a1a167ad7

@@ -1,0 +1,7 @@
+signId	2241
+text	raka ben
+imageUuid	d2712c1e-7c56-4506-8296-629abd5ae581
+translationKey	182994d6-6b72-439e-a932-0df334ee72dd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d2712c1e-7c56-4506-8296-629abd5ae581/182994d6-6b72-439e-a932-0df334ee72dd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d2712c1e-7c56-4506-8296-629abd5ae581/182994d6-6b72-439e-a932-0df334ee72dd
+md5	baf212db7294d7b38c41e65be8fca7d7

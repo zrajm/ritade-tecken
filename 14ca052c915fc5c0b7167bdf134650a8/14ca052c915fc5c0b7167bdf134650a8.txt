@@ -1,0 +1,8 @@
+
+signId	2661
+text	smitta
+imageUuid	a5d39631-05fc-4db9-afd3-8ab1ba65e98e
+translationKey	4cdbbddb-6ccd-4f1d-b5bc-8b98fd60589f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a5d39631-05fc-4db9-afd3-8ab1ba65e98e/4cdbbddb-6ccd-4f1d-b5bc-8b98fd60589f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a5d39631-05fc-4db9-afd3-8ab1ba65e98e/4cdbbddb-6ccd-4f1d-b5bc-8b98fd60589f
+md5	14ca052c915fc5c0b7167bdf134650a8

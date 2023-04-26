@@ -1,0 +1,7 @@
+signId	1686
+text	utflykt
+imageUuid	7315d0e2-3a08-4f1a-8efa-833d968a251b
+translationKey	ac277a1d-1aba-499e-92fe-8a1e68dab3c6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7315d0e2-3a08-4f1a-8efa-833d968a251b/ac277a1d-1aba-499e-92fe-8a1e68dab3c6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7315d0e2-3a08-4f1a-8efa-833d968a251b/ac277a1d-1aba-499e-92fe-8a1e68dab3c6
+md5	8b32016fbd1ba5618e212f484c15753d

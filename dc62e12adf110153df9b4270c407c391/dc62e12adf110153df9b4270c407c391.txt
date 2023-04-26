@@ -1,0 +1,16 @@
+
+signId	486
+text	giraff
+imageUuid	dbd7b3c3-f57d-44c7-a9df-337d660cdd1f
+translationKey	bcfda807-1c56-49d9-bd75-76cac1649b80
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dbd7b3c3-f57d-44c7-a9df-337d660cdd1f/bcfda807-1c56-49d9-bd75-76cac1649b80/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dbd7b3c3-f57d-44c7-a9df-337d660cdd1f/bcfda807-1c56-49d9-bd75-76cac1649b80
+md5	dc62e12adf110153df9b4270c407c391
+
+signId	1985
+text	dinosaurie 1
+imageUuid	bd8df93d-0865-418a-87da-8fa063c06d46
+translationKey	1bdef03d-f854-4114-81d7-ff5cbc71567f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bd8df93d-0865-418a-87da-8fa063c06d46/1bdef03d-f854-4114-81d7-ff5cbc71567f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bd8df93d-0865-418a-87da-8fa063c06d46/1bdef03d-f854-4114-81d7-ff5cbc71567f
+md5	dc62e12adf110153df9b4270c407c391

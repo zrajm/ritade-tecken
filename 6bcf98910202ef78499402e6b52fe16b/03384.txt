@@ -1,0 +1,7 @@
+signId	3384
+text	cykel 2
+imageUuid	1983622b-d13b-4128-ad82-768e0eab6f9b
+translationKey	9137227d-05e0-43b4-a05b-d5f927bfd210
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1983622b-d13b-4128-ad82-768e0eab6f9b/9137227d-05e0-43b4-a05b-d5f927bfd210/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1983622b-d13b-4128-ad82-768e0eab6f9b/9137227d-05e0-43b4-a05b-d5f927bfd210
+md5	6bcf98910202ef78499402e6b52fe16b

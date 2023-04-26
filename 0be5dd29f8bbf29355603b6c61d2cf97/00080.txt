@@ -1,0 +1,7 @@
+signId	80
+text	avlopp
+imageUuid	d419b7fe-1dc2-43bf-a551-f06db5ac9403
+translationKey	5b1a7c57-c314-474f-9003-8814776c2c77
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d419b7fe-1dc2-43bf-a551-f06db5ac9403/5b1a7c57-c314-474f-9003-8814776c2c77/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d419b7fe-1dc2-43bf-a551-f06db5ac9403/5b1a7c57-c314-474f-9003-8814776c2c77
+md5	0be5dd29f8bbf29355603b6c61d2cf97

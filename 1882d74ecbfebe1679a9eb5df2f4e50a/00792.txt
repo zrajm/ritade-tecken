@@ -1,0 +1,7 @@
+signId	792
+text	kontrollera
+imageUuid	73fa0cb3-fd6c-48ad-85fc-0446177724f3
+translationKey	dbc4519d-cfa6-48d1-a5ca-3d010f945917
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/73fa0cb3-fd6c-48ad-85fc-0446177724f3/dbc4519d-cfa6-48d1-a5ca-3d010f945917/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/73fa0cb3-fd6c-48ad-85fc-0446177724f3/dbc4519d-cfa6-48d1-a5ca-3d010f945917
+md5	1882d74ecbfebe1679a9eb5df2f4e50a

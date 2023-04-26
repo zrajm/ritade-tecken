@@ -1,0 +1,8 @@
+
+signId	348
+text	fastfrusen
+imageUuid	19eff095-7b08-41fe-98a1-b6a81478a9e8
+translationKey	29f4ea79-5062-4cb6-833d-52535b9616d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/19eff095-7b08-41fe-98a1-b6a81478a9e8/29f4ea79-5062-4cb6-833d-52535b9616d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/19eff095-7b08-41fe-98a1-b6a81478a9e8/29f4ea79-5062-4cb6-833d-52535b9616d1
+md5	aa9ca11f283ae92683be802e2bf5b49b

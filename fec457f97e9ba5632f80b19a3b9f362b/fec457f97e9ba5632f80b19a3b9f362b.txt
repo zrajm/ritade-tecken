@@ -1,0 +1,8 @@
+
+signId	100
+text	bandy
+imageUuid	503ac6dc-5bc4-47e9-b034-1bb82c031fcc
+translationKey	c2d3a6fe-4979-4b58-836f-af094539f112
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/503ac6dc-5bc4-47e9-b034-1bb82c031fcc/c2d3a6fe-4979-4b58-836f-af094539f112/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/503ac6dc-5bc4-47e9-b034-1bb82c031fcc/c2d3a6fe-4979-4b58-836f-af094539f112
+md5	fec457f97e9ba5632f80b19a3b9f362b

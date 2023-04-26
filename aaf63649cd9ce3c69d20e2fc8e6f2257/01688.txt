@@ -1,0 +1,7 @@
+signId	1688
+text	utvecklas
+imageUuid	d11ba51b-6d72-4f30-9b0d-a272bfe4e9b6
+translationKey	cff7d526-b8b3-4f44-bdc4-7868f7fe3ebf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d11ba51b-6d72-4f30-9b0d-a272bfe4e9b6/cff7d526-b8b3-4f44-bdc4-7868f7fe3ebf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d11ba51b-6d72-4f30-9b0d-a272bfe4e9b6/cff7d526-b8b3-4f44-bdc4-7868f7fe3ebf
+md5	aaf63649cd9ce3c69d20e2fc8e6f2257

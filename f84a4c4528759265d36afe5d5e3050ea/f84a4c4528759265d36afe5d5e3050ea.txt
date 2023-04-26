@@ -1,0 +1,32 @@
+
+signId	344
+text	farlig
+imageUuid	3822314d-da4f-499f-b8cd-76b618235d95
+translationKey	7fc01601-eea2-4386-8278-1e8331a5cd11
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3822314d-da4f-499f-b8cd-76b618235d95/7fc01601-eea2-4386-8278-1e8331a5cd11/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3822314d-da4f-499f-b8cd-76b618235d95/7fc01601-eea2-4386-8278-1e8331a5cd11
+md5	f84a4c4528759265d36afe5d5e3050ea
+
+signId	355
+text	feg
+imageUuid	1188dc1c-89ef-46aa-95fb-0c1ddc725bc7
+translationKey	e5c759f0-0fbd-4c42-b7fc-598444e3804e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1188dc1c-89ef-46aa-95fb-0c1ddc725bc7/e5c759f0-0fbd-4c42-b7fc-598444e3804e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1188dc1c-89ef-46aa-95fb-0c1ddc725bc7/e5c759f0-0fbd-4c42-b7fc-598444e3804e
+md5	f84a4c4528759265d36afe5d5e3050ea
+
+signId	1269
+text	rädd
+imageUuid	4537efb4-9b6c-4f6d-9b7c-88746a9ba809
+translationKey	d3872272-7b79-4d0d-97bb-9e1724b26f23
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4537efb4-9b6c-4f6d-9b7c-88746a9ba809/d3872272-7b79-4d0d-97bb-9e1724b26f23/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4537efb4-9b6c-4f6d-9b7c-88746a9ba809/d3872272-7b79-4d0d-97bb-9e1724b26f23
+md5	f84a4c4528759265d36afe5d5e3050ea
+
+signId	2208
+text	vågar inte
+imageUuid	93411b65-4183-4e84-8a75-e865ad098689
+translationKey	020ff3f8-8f43-4056-8822-3324522fd10b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/93411b65-4183-4e84-8a75-e865ad098689/020ff3f8-8f43-4056-8822-3324522fd10b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/93411b65-4183-4e84-8a75-e865ad098689/020ff3f8-8f43-4056-8822-3324522fd10b
+md5	f84a4c4528759265d36afe5d5e3050ea

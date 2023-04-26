@@ -1,0 +1,7 @@
+signId	609
+text	hos
+imageUuid	59a8b5d3-379a-478a-a83b-01c936fc3c5d
+translationKey	b958a74f-196e-45d0-8eed-198fe3e9128b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/59a8b5d3-379a-478a-a83b-01c936fc3c5d/b958a74f-196e-45d0-8eed-198fe3e9128b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/59a8b5d3-379a-478a-a83b-01c936fc3c5d/b958a74f-196e-45d0-8eed-198fe3e9128b
+md5	c4a00f0b5e1dd95266d53109e1ad3ba6

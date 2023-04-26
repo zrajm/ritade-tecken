@@ -1,0 +1,7 @@
+signId	2295
+text	puls
+imageUuid	a2ea56a5-6c83-4831-8d02-1058e957f803
+translationKey	69e7c663-66c8-45b1-9816-8fccdbdfb5e9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a2ea56a5-6c83-4831-8d02-1058e957f803/69e7c663-66c8-45b1-9816-8fccdbdfb5e9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a2ea56a5-6c83-4831-8d02-1058e957f803/69e7c663-66c8-45b1-9816-8fccdbdfb5e9
+md5	31c7a7538e1a5d29a199ee2a7b750761

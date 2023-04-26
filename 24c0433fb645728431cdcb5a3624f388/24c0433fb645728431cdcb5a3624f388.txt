@@ -1,0 +1,8 @@
+
+signId	2014
+text	åttonde
+imageUuid	fe59f2ea-dde4-44ed-b728-a902ab31f9e1
+translationKey	92818bca-1bfe-431f-a196-858fd1e8a5e3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fe59f2ea-dde4-44ed-b728-a902ab31f9e1/92818bca-1bfe-431f-a196-858fd1e8a5e3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fe59f2ea-dde4-44ed-b728-a902ab31f9e1/92818bca-1bfe-431f-a196-858fd1e8a5e3
+md5	24c0433fb645728431cdcb5a3624f388

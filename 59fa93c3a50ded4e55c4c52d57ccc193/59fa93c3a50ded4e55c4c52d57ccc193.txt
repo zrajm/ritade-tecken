@@ -1,0 +1,24 @@
+
+signId	1588
+text	tivoli
+imageUuid	351c6e88-2ccc-40b0-af10-3f86511e5265
+translationKey	4b370f41-6c36-4108-bcb1-9a485440cc57
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/351c6e88-2ccc-40b0-af10-3f86511e5265/4b370f41-6c36-4108-bcb1-9a485440cc57/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/351c6e88-2ccc-40b0-af10-3f86511e5265/4b370f41-6c36-4108-bcb1-9a485440cc57
+md5	59fa93c3a50ded4e55c4c52d57ccc193
+
+signId	2811
+text	karusell
+imageUuid	6b5b8201-3bf4-4d9f-9423-e06ac6542ab6
+translationKey	079ec649-0baf-4edf-abce-5424ce80e5ee
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b5b8201-3bf4-4d9f-9423-e06ac6542ab6/079ec649-0baf-4edf-abce-5424ce80e5ee/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b5b8201-3bf4-4d9f-9423-e06ac6542ab6/079ec649-0baf-4edf-abce-5424ce80e5ee
+md5	59fa93c3a50ded4e55c4c52d57ccc193
+
+signId	2864
+text	Liseberg
+imageUuid	a4176f23-58ae-4b17-99d1-a96ec57583a5
+translationKey	2d1159a2-f87b-4159-8abf-509b7aa2531d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a4176f23-58ae-4b17-99d1-a96ec57583a5/2d1159a2-f87b-4159-8abf-509b7aa2531d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a4176f23-58ae-4b17-99d1-a96ec57583a5/2d1159a2-f87b-4159-8abf-509b7aa2531d
+md5	59fa93c3a50ded4e55c4c52d57ccc193

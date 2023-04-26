@@ -1,0 +1,8 @@
+
+signId	2481
+text	sopor
+imageUuid	fdd7ea2a-e21d-4c4f-a0ea-251a933dd5ab
+translationKey	02acb569-9eef-4c03-9393-bf17f23ad8ea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fdd7ea2a-e21d-4c4f-a0ea-251a933dd5ab/02acb569-9eef-4c03-9393-bf17f23ad8ea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fdd7ea2a-e21d-4c4f-a0ea-251a933dd5ab/02acb569-9eef-4c03-9393-bf17f23ad8ea
+md5	08333a397c521c22648c583855263b5f

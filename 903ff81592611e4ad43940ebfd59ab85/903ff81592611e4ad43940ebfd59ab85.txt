@@ -1,0 +1,8 @@
+
+signId	2194
+text	skrämma 2
+imageUuid	deb5c0e6-96c3-49ae-b4e3-cb5c49aa6a0d
+translationKey	a41331f5-4e0c-4f67-a190-36b8de931b8d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/deb5c0e6-96c3-49ae-b4e3-cb5c49aa6a0d/a41331f5-4e0c-4f67-a190-36b8de931b8d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/deb5c0e6-96c3-49ae-b4e3-cb5c49aa6a0d/a41331f5-4e0c-4f67-a190-36b8de931b8d
+md5	903ff81592611e4ad43940ebfd59ab85

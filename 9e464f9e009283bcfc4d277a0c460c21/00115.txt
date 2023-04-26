@@ -1,0 +1,7 @@
+signId	115
+text	behålla
+imageUuid	d3df5ce7-86a1-4e0a-8f6c-29a80e21d0bc
+translationKey	7f8fed46-c9db-41fe-9356-a8054b74378d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d3df5ce7-86a1-4e0a-8f6c-29a80e21d0bc/7f8fed46-c9db-41fe-9356-a8054b74378d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d3df5ce7-86a1-4e0a-8f6c-29a80e21d0bc/7f8fed46-c9db-41fe-9356-a8054b74378d
+md5	9e464f9e009283bcfc4d277a0c460c21

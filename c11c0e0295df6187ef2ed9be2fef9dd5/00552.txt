@@ -1,0 +1,7 @@
+signId	552
+text	hage
+imageUuid	faab442b-bb20-497e-ab27-779fe86d9748
+translationKey	fd3bb03b-0b29-4a40-a8f0-3313feb2071b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/faab442b-bb20-497e-ab27-779fe86d9748/fd3bb03b-0b29-4a40-a8f0-3313feb2071b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/faab442b-bb20-497e-ab27-779fe86d9748/fd3bb03b-0b29-4a40-a8f0-3313feb2071b
+md5	c11c0e0295df6187ef2ed9be2fef9dd5

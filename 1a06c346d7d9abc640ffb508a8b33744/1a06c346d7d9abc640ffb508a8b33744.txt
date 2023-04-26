@@ -1,0 +1,8 @@
+
+signId	1479
+text	stjärngosse
+imageUuid	ad300243-b1f5-4aff-8a8b-8f16403928be
+translationKey	5804a346-2e31-4e5f-a908-df5c066e9be6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ad300243-b1f5-4aff-8a8b-8f16403928be/5804a346-2e31-4e5f-a908-df5c066e9be6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ad300243-b1f5-4aff-8a8b-8f16403928be/5804a346-2e31-4e5f-a908-df5c066e9be6
+md5	1a06c346d7d9abc640ffb508a8b33744

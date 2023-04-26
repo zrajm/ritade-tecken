@@ -1,0 +1,7 @@
+signId	207
+text	buss
+imageUuid	cd94df0b-3aeb-4aa9-9f20-911e71ab1ef2
+translationKey	3e36fc40-9d91-41c2-a310-b55679f92b5e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cd94df0b-3aeb-4aa9-9f20-911e71ab1ef2/3e36fc40-9d91-41c2-a310-b55679f92b5e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cd94df0b-3aeb-4aa9-9f20-911e71ab1ef2/3e36fc40-9d91-41c2-a310-b55679f92b5e
+md5	597caf1aa333d4ae27d8ca6b4af0599b

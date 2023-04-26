@@ -1,0 +1,16 @@
+
+signId	217
+text	bänk
+imageUuid	637c1e05-c548-4680-95be-1ea2625e38da
+translationKey	3f7b63ac-2379-4078-965a-083080a29911
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/637c1e05-c548-4680-95be-1ea2625e38da/3f7b63ac-2379-4078-965a-083080a29911/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/637c1e05-c548-4680-95be-1ea2625e38da/3f7b63ac-2379-4078-965a-083080a29911
+md5	7db6ddc8600063cc31ed4c14cc6f6c0e
+
+signId	3358
+text	bar
+imageUuid	4e50bd14-fa93-4225-8d40-f09bd3b41e2f
+translationKey	2fc3e98e-ccd7-42c5-be61-f63e897b63f9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e50bd14-fa93-4225-8d40-f09bd3b41e2f/2fc3e98e-ccd7-42c5-be61-f63e897b63f9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e50bd14-fa93-4225-8d40-f09bd3b41e2f/2fc3e98e-ccd7-42c5-be61-f63e897b63f9
+md5	7db6ddc8600063cc31ed4c14cc6f6c0e

@@ -1,0 +1,16 @@
+
+signId	1877
+text	publik
+imageUuid	01d89dbb-e251-453c-96ef-3567647446a8
+translationKey	788d9cfd-6220-4d4b-bb44-4ffc8b15c0f5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/01d89dbb-e251-453c-96ef-3567647446a8/788d9cfd-6220-4d4b-bb44-4ffc8b15c0f5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/01d89dbb-e251-453c-96ef-3567647446a8/788d9cfd-6220-4d4b-bb44-4ffc8b15c0f5
+md5	0981af6b0b8f01307677c9b8c8415d62
+
+signId	3436
+text	parlament
+imageUuid	5bbd7c50-6864-4f77-b69b-85cbebdfcd12
+translationKey	9c3726eb-e225-4581-9de2-8541b4d31191
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5bbd7c50-6864-4f77-b69b-85cbebdfcd12/9c3726eb-e225-4581-9de2-8541b4d31191/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5bbd7c50-6864-4f77-b69b-85cbebdfcd12/9c3726eb-e225-4581-9de2-8541b4d31191
+md5	0981af6b0b8f01307677c9b8c8415d62

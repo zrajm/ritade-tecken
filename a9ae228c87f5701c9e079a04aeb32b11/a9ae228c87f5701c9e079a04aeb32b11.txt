@@ -1,0 +1,8 @@
+
+signId	3122
+text	klä ut sig
+imageUuid	3b106fd4-ace4-4ee3-9186-c724cf4524f6
+translationKey	d240a341-b66e-4894-8605-d1cc84b2ac15
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b106fd4-ace4-4ee3-9186-c724cf4524f6/d240a341-b66e-4894-8605-d1cc84b2ac15/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b106fd4-ace4-4ee3-9186-c724cf4524f6/d240a341-b66e-4894-8605-d1cc84b2ac15
+md5	a9ae228c87f5701c9e079a04aeb32b11

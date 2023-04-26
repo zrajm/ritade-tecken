@@ -1,0 +1,7 @@
+signId	1293
+text	Sankta Lucia
+imageUuid	3c44ceb5-8730-4b5d-900b-08ecadbcf8a7
+translationKey	0d665bed-83b6-4f78-bd40-394a09d70ec1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3c44ceb5-8730-4b5d-900b-08ecadbcf8a7/0d665bed-83b6-4f78-bd40-394a09d70ec1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3c44ceb5-8730-4b5d-900b-08ecadbcf8a7/0d665bed-83b6-4f78-bd40-394a09d70ec1
+md5	42bb6288a94e3fedf5c2ae4b40987e2f

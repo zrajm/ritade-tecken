@@ -1,0 +1,8 @@
+
+signId	2881
+text	blåklocka
+imageUuid	550059ab-ad3a-4584-ab1a-cd1928b1abc4
+translationKey	cf44dea3-3953-4927-99ca-476211844c64
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/550059ab-ad3a-4584-ab1a-cd1928b1abc4/cf44dea3-3953-4927-99ca-476211844c64/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/550059ab-ad3a-4584-ab1a-cd1928b1abc4/cf44dea3-3953-4927-99ca-476211844c64
+md5	ceb7f0c6db031eb8eac931e3fcd2a5dd

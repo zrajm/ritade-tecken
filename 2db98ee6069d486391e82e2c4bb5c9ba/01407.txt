@@ -1,0 +1,7 @@
+signId	1407
+text	smör
+imageUuid	02fc2e7c-59dc-48a0-a422-887b392a751c
+translationKey	f21bb231-4439-434f-8aed-7ab05372d250
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/02fc2e7c-59dc-48a0-a422-887b392a751c/f21bb231-4439-434f-8aed-7ab05372d250/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/02fc2e7c-59dc-48a0-a422-887b392a751c/f21bb231-4439-434f-8aed-7ab05372d250
+md5	2db98ee6069d486391e82e2c4bb5c9ba

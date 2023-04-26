@@ -1,0 +1,7 @@
+signId	3407
+text	mottagning (sjukvård)
+imageUuid	24f3197f-eea0-48ac-a59d-0a4f6c3bba29
+translationKey	bf5cf0ed-c86e-45a0-80c1-7772eaf7d651
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/24f3197f-eea0-48ac-a59d-0a4f6c3bba29/bf5cf0ed-c86e-45a0-80c1-7772eaf7d651/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/24f3197f-eea0-48ac-a59d-0a4f6c3bba29/bf5cf0ed-c86e-45a0-80c1-7772eaf7d651
+md5	fd899484e11bd07d9f22fcf60d0902d4

@@ -1,0 +1,8 @@
+
+signId	1842
+text	bur
+imageUuid	05c30809-a56c-43f2-a55a-f7fb17276838
+translationKey	1e33afaf-4ce6-406b-8140-c0d516f6886d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/05c30809-a56c-43f2-a55a-f7fb17276838/1e33afaf-4ce6-406b-8140-c0d516f6886d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/05c30809-a56c-43f2-a55a-f7fb17276838/1e33afaf-4ce6-406b-8140-c0d516f6886d
+md5	49b21f632e09fe669f5b97421352657d

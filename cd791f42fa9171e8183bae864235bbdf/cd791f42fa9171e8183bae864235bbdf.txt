@@ -1,0 +1,16 @@
+
+signId	932
+text	läder
+imageUuid	f1036773-a2f1-4924-b172-31c86223d733
+translationKey	0e36913b-c8cb-401c-8f24-0b49509a09b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f1036773-a2f1-4924-b172-31c86223d733/0e36913b-c8cb-401c-8f24-0b49509a09b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f1036773-a2f1-4924-b172-31c86223d733/0e36913b-c8cb-401c-8f24-0b49509a09b9
+md5	cd791f42fa9171e8183bae864235bbdf
+
+signId	1338
+text	skinn (i skinnjacka)
+imageUuid	67de902c-e4c7-4fa8-9517-62e22c319559
+translationKey	e00d9414-4173-4df0-8265-eba6d519f892
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/67de902c-e4c7-4fa8-9517-62e22c319559/e00d9414-4173-4df0-8265-eba6d519f892/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/67de902c-e4c7-4fa8-9517-62e22c319559/e00d9414-4173-4df0-8265-eba6d519f892
+md5	cd791f42fa9171e8183bae864235bbdf

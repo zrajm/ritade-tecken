@@ -1,0 +1,7 @@
+signId	3020
+text	tennisboll
+imageUuid	72b3fc95-a0bb-464b-984e-233a7db06cf4
+translationKey	4c448940-67ed-41a3-be1a-07793d6ba422
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72b3fc95-a0bb-464b-984e-233a7db06cf4/4c448940-67ed-41a3-be1a-07793d6ba422/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72b3fc95-a0bb-464b-984e-233a7db06cf4/4c448940-67ed-41a3-be1a-07793d6ba422
+md5	322ddb7a71ce8b9c10395bbb9913e935

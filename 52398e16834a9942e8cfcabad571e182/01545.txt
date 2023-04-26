@@ -1,0 +1,7 @@
+signId	1545
+text	säl
+imageUuid	055271e0-6792-4729-bdb4-70d338ae8a4e
+translationKey	7e9d7c0d-0016-4cc7-9c1e-2e43152b7daa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/055271e0-6792-4729-bdb4-70d338ae8a4e/7e9d7c0d-0016-4cc7-9c1e-2e43152b7daa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/055271e0-6792-4729-bdb4-70d338ae8a4e/7e9d7c0d-0016-4cc7-9c1e-2e43152b7daa
+md5	52398e16834a9942e8cfcabad571e182

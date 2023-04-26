@@ -1,0 +1,8 @@
+
+signId	3228
+text	skapa
+imageUuid	b0f607eb-8e77-4d19-a56e-02e4756ae4f2
+translationKey	6723d4b0-0b5b-4d23-a91b-3c9630bf6652
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b0f607eb-8e77-4d19-a56e-02e4756ae4f2/6723d4b0-0b5b-4d23-a91b-3c9630bf6652/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b0f607eb-8e77-4d19-a56e-02e4756ae4f2/6723d4b0-0b5b-4d23-a91b-3c9630bf6652
+md5	3237a932b7c1c092cd894cca5ecc51dd

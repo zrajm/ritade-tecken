@@ -1,0 +1,8 @@
+
+signId	251
+text	dator
+imageUuid	7f87f69f-6a4f-41d8-953d-11780158816c
+translationKey	bb074a39-1511-40aa-bf68-36cb3181c211
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f87f69f-6a4f-41d8-953d-11780158816c/bb074a39-1511-40aa-bf68-36cb3181c211/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f87f69f-6a4f-41d8-953d-11780158816c/bb074a39-1511-40aa-bf68-36cb3181c211
+md5	afa97585a4cf9316e1d78bf7b7bffe55

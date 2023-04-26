@@ -1,0 +1,7 @@
+signId	1150
+text	pensel
+imageUuid	a0328796-1458-4bc9-a754-8280dfec5e0d
+translationKey	ca16e8c0-7fa3-4e23-9728-2646284ba846
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0328796-1458-4bc9-a754-8280dfec5e0d/ca16e8c0-7fa3-4e23-9728-2646284ba846/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0328796-1458-4bc9-a754-8280dfec5e0d/ca16e8c0-7fa3-4e23-9728-2646284ba846
+md5	5c6037acdec0cb94a5071a2aece38044

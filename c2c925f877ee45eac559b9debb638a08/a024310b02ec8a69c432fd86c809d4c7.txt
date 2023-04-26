@@ -1,0 +1,8 @@
+
+signId	1518
+text	stövlar 2
+imageUuid	21e0bbd2-95aa-4a8c-85b5-ea978363b958
+translationKey	64d66fd5-2397-44cb-86dc-7d51349e00fe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/21e0bbd2-95aa-4a8c-85b5-ea978363b958/64d66fd5-2397-44cb-86dc-7d51349e00fe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/21e0bbd2-95aa-4a8c-85b5-ea978363b958/64d66fd5-2397-44cb-86dc-7d51349e00fe
+md5	a024310b02ec8a69c432fd86c809d4c7

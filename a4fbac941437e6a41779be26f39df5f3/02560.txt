@@ -1,0 +1,7 @@
+signId	2560
+text	gnagare
+imageUuid	1cb5e889-3f2d-43fb-9422-4836fefa9aca
+translationKey	3710d74c-0b2e-4f54-9ed4-72b27515411a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1cb5e889-3f2d-43fb-9422-4836fefa9aca/3710d74c-0b2e-4f54-9ed4-72b27515411a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1cb5e889-3f2d-43fb-9422-4836fefa9aca/3710d74c-0b2e-4f54-9ed4-72b27515411a
+md5	a4fbac941437e6a41779be26f39df5f3

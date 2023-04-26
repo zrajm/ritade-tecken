@@ -1,0 +1,7 @@
+signId	3185
+text	avtal
+imageUuid	0a3dbcfe-e624-4aad-ad61-c48bb3303211
+translationKey	50331ca0-8cd6-468b-ba76-311ecc90931d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0a3dbcfe-e624-4aad-ad61-c48bb3303211/50331ca0-8cd6-468b-ba76-311ecc90931d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0a3dbcfe-e624-4aad-ad61-c48bb3303211/50331ca0-8cd6-468b-ba76-311ecc90931d
+md5	28b6fd8ccadef20fa47c8293e68a9d04

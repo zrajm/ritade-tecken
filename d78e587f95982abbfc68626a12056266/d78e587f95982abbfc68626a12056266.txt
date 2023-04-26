@@ -1,0 +1,8 @@
+
+signId	171
+text	borsta
+imageUuid	42ebb422-42e0-403c-bfd8-7c6fafba91e4
+translationKey	9cf64e2b-fff4-4333-9a1e-240bae555405
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/42ebb422-42e0-403c-bfd8-7c6fafba91e4/9cf64e2b-fff4-4333-9a1e-240bae555405/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/42ebb422-42e0-403c-bfd8-7c6fafba91e4/9cf64e2b-fff4-4333-9a1e-240bae555405
+md5	d78e587f95982abbfc68626a12056266

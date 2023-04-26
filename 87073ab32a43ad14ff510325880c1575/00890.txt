@@ -1,0 +1,7 @@
+signId	890
+text	lika
+imageUuid	afd55962-e476-4833-a89c-93aaf8f52903
+translationKey	25c593c5-21c0-4083-b87d-1381e09ceadf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/afd55962-e476-4833-a89c-93aaf8f52903/25c593c5-21c0-4083-b87d-1381e09ceadf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/afd55962-e476-4833-a89c-93aaf8f52903/25c593c5-21c0-4083-b87d-1381e09ceadf
+md5	87073ab32a43ad14ff510325880c1575

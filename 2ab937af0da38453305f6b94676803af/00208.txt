@@ -1,0 +1,7 @@
+signId	208
+text	bygga
+imageUuid	da17d8a8-8b71-443e-9029-148353528133
+translationKey	fe07c176-ec4b-46ee-950f-61a585348780
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/da17d8a8-8b71-443e-9029-148353528133/fe07c176-ec4b-46ee-950f-61a585348780/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/da17d8a8-8b71-443e-9029-148353528133/fe07c176-ec4b-46ee-950f-61a585348780
+md5	6708fa3e002af0eaea53af75dfa5f4f4

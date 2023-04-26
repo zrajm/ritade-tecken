@@ -1,0 +1,7 @@
+signId	2650
+text	lyx
+imageUuid	4b21af74-4596-44b0-8a73-015deec693d4
+translationKey	d280ac11-003c-46f2-87b6-777e1cc073ce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4b21af74-4596-44b0-8a73-015deec693d4/d280ac11-003c-46f2-87b6-777e1cc073ce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4b21af74-4596-44b0-8a73-015deec693d4/d280ac11-003c-46f2-87b6-777e1cc073ce
+md5	9f4cdddb60f2d69eff8b612b86d1f067

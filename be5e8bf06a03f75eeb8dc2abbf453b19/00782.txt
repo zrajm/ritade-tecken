@@ -1,0 +1,7 @@
+signId	782
+text	kollision
+imageUuid	5d508f47-1ef3-4580-a0c6-c919caf56fd2
+translationKey	2383a9cc-4687-479f-a8b6-49c3a2b4705f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5d508f47-1ef3-4580-a0c6-c919caf56fd2/2383a9cc-4687-479f-a8b6-49c3a2b4705f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5d508f47-1ef3-4580-a0c6-c919caf56fd2/2383a9cc-4687-479f-a8b6-49c3a2b4705f
+md5	29d5d05ab47180615123dc18115e3e17

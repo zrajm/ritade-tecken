@@ -1,0 +1,7 @@
+signId	619
+text	huvud
+imageUuid	ae8175f5-f870-4d16-9dbc-459385c8ef49
+translationKey	8444d904-e7bc-4878-9f27-404dc6404bdb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ae8175f5-f870-4d16-9dbc-459385c8ef49/8444d904-e7bc-4878-9f27-404dc6404bdb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ae8175f5-f870-4d16-9dbc-459385c8ef49/8444d904-e7bc-4878-9f27-404dc6404bdb
+md5	105c4b42278e2b0cfbcd10a47fdbfc18

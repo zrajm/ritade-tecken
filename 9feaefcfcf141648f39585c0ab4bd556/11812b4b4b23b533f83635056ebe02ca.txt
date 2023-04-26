@@ -1,0 +1,8 @@
+
+signId	981
+text	men (konjunktion)
+imageUuid	05b27ba4-a291-4b95-98d0-24ca411d0941
+translationKey	5d2d509b-6ae5-42ce-b013-a68a85aa6597
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/05b27ba4-a291-4b95-98d0-24ca411d0941/5d2d509b-6ae5-42ce-b013-a68a85aa6597/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/05b27ba4-a291-4b95-98d0-24ca411d0941/5d2d509b-6ae5-42ce-b013-a68a85aa6597
+md5	11812b4b4b23b533f83635056ebe02ca

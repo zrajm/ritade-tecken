@@ -1,0 +1,8 @@
+
+signId	2612
+text	tving (verktyg)
+imageUuid	f0c9396d-1e9e-4454-b9b7-cbe75e55037c
+translationKey	45f19b25-cb7a-41a5-9472-409c8fba72c5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f0c9396d-1e9e-4454-b9b7-cbe75e55037c/45f19b25-cb7a-41a5-9472-409c8fba72c5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f0c9396d-1e9e-4454-b9b7-cbe75e55037c/45f19b25-cb7a-41a5-9472-409c8fba72c5
+md5	84f4e4dede0f8fdb7266dcf23203acea

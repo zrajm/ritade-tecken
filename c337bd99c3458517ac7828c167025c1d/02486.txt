@@ -1,0 +1,7 @@
+signId	2486
+text	tärna
+imageUuid	6707293c-366b-41e3-aaa5-33cbd5fa934f
+translationKey	36103924-e86c-4954-9eac-558633393c84
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6707293c-366b-41e3-aaa5-33cbd5fa934f/36103924-e86c-4954-9eac-558633393c84/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6707293c-366b-41e3-aaa5-33cbd5fa934f/36103924-e86c-4954-9eac-558633393c84
+md5	c337bd99c3458517ac7828c167025c1d

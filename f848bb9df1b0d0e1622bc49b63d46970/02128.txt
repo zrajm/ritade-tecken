@@ -1,0 +1,7 @@
+signId	2128
+text	laga mat 1
+imageUuid	6206fe40-292d-4c6c-8d5b-e4c536bac25e
+translationKey	7605b3f7-eb06-4d33-84d8-4aaa14aa8f1a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6206fe40-292d-4c6c-8d5b-e4c536bac25e/7605b3f7-eb06-4d33-84d8-4aaa14aa8f1a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6206fe40-292d-4c6c-8d5b-e4c536bac25e/7605b3f7-eb06-4d33-84d8-4aaa14aa8f1a
+md5	f848bb9df1b0d0e1622bc49b63d46970

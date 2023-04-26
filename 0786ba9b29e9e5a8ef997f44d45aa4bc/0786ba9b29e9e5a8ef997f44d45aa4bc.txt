@@ -1,0 +1,8 @@
+
+signId	1258
+text	rullstol
+imageUuid	17ec6606-1853-4e65-a968-1e7969158503
+translationKey	8375a7b3-e3f6-4986-ac14-3683498fd6d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/17ec6606-1853-4e65-a968-1e7969158503/8375a7b3-e3f6-4986-ac14-3683498fd6d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/17ec6606-1853-4e65-a968-1e7969158503/8375a7b3-e3f6-4986-ac14-3683498fd6d3
+md5	0786ba9b29e9e5a8ef997f44d45aa4bc

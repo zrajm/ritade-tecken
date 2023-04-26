@@ -1,0 +1,7 @@
+signId	365
+text	filma
+imageUuid	9635708b-98dc-4dfa-ac9b-5e5676d86440
+translationKey	1adf0707-d5a5-4ce7-8abe-c14ba2caa96a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9635708b-98dc-4dfa-ac9b-5e5676d86440/1adf0707-d5a5-4ce7-8abe-c14ba2caa96a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9635708b-98dc-4dfa-ac9b-5e5676d86440/1adf0707-d5a5-4ce7-8abe-c14ba2caa96a
+md5	3d544a871d0980af799400b0b7905ac9

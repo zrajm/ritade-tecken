@@ -1,0 +1,8 @@
+
+signId	2768
+text	surfa
+imageUuid	281f0eff-1cbe-498b-a80d-5acdf240aefa
+translationKey	c96f5d3b-dc63-42f4-8266-2835b5d7d507
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/281f0eff-1cbe-498b-a80d-5acdf240aefa/c96f5d3b-dc63-42f4-8266-2835b5d7d507/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/281f0eff-1cbe-498b-a80d-5acdf240aefa/c96f5d3b-dc63-42f4-8266-2835b5d7d507
+md5	e50c07c9937b377ea3ccf9c579de7f11

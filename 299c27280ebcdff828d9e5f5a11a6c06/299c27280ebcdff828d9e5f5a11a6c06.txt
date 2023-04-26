@@ -1,0 +1,8 @@
+
+signId	1509
+text	stånga
+imageUuid	0cf7b406-80b0-4d7b-bd79-f41c390f4a7c
+translationKey	fa91cf16-959f-4e03-a3d3-b2cbcfa67fbf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0cf7b406-80b0-4d7b-bd79-f41c390f4a7c/fa91cf16-959f-4e03-a3d3-b2cbcfa67fbf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0cf7b406-80b0-4d7b-bd79-f41c390f4a7c/fa91cf16-959f-4e03-a3d3-b2cbcfa67fbf
+md5	299c27280ebcdff828d9e5f5a11a6c06

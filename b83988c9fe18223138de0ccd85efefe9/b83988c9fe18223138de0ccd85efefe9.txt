@@ -1,0 +1,8 @@
+
+signId	1524
+text	svans
+imageUuid	34df3cb0-63c5-4168-92cc-3da90178c655
+translationKey	69e43ddd-eb93-4d45-94f6-03a59886693c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/34df3cb0-63c5-4168-92cc-3da90178c655/69e43ddd-eb93-4d45-94f6-03a59886693c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/34df3cb0-63c5-4168-92cc-3da90178c655/69e43ddd-eb93-4d45-94f6-03a59886693c
+md5	b83988c9fe18223138de0ccd85efefe9

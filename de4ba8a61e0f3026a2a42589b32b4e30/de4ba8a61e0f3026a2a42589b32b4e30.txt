@@ -1,0 +1,16 @@
+
+signId	379
+text	flicka
+imageUuid	36db8844-6fea-4bd8-bf1c-fc87b5ef5862
+translationKey	3bcda209-88ff-4815-90a8-798ebe23a2be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/36db8844-6fea-4bd8-bf1c-fc87b5ef5862/3bcda209-88ff-4815-90a8-798ebe23a2be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/36db8844-6fea-4bd8-bf1c-fc87b5ef5862/3bcda209-88ff-4815-90a8-798ebe23a2be
+md5	de4ba8a61e0f3026a2a42589b32b4e30
+
+signId	834
+text	kvinna
+imageUuid	13153af1-2593-4762-95c6-d6900c2b00e3
+translationKey	f2573042-08cd-4259-bb15-27d3fbc78ac8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/13153af1-2593-4762-95c6-d6900c2b00e3/f2573042-08cd-4259-bb15-27d3fbc78ac8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/13153af1-2593-4762-95c6-d6900c2b00e3/f2573042-08cd-4259-bb15-27d3fbc78ac8
+md5	de4ba8a61e0f3026a2a42589b32b4e30

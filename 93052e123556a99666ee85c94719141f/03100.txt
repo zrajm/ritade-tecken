@@ -1,0 +1,7 @@
+signId	3100
+text	förhandla
+imageUuid	034af96c-321c-4b3b-bd75-6e284de932de
+translationKey	89d0a47e-4ad3-4c32-97b2-0d416702caec
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/034af96c-321c-4b3b-bd75-6e284de932de/89d0a47e-4ad3-4c32-97b2-0d416702caec/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/034af96c-321c-4b3b-bd75-6e284de932de/89d0a47e-4ad3-4c32-97b2-0d416702caec
+md5	93052e123556a99666ee85c94719141f

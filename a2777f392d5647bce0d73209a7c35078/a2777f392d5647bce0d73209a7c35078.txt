@@ -1,0 +1,8 @@
+
+signId	969
+text	matrast
+imageUuid	80487222-08bd-4cb3-8816-07074489698c
+translationKey	a674088c-f15c-4398-9492-91b6c0976f57
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/80487222-08bd-4cb3-8816-07074489698c/a674088c-f15c-4398-9492-91b6c0976f57/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/80487222-08bd-4cb3-8816-07074489698c/a674088c-f15c-4398-9492-91b6c0976f57
+md5	a2777f392d5647bce0d73209a7c35078

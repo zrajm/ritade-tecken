@@ -1,0 +1,7 @@
+signId	1705
+text	varenda
+imageUuid	28c9103c-40b2-4b3d-b2f2-181ec6330627
+translationKey	951cdb01-6aed-4657-88d4-19e76b055a3b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/28c9103c-40b2-4b3d-b2f2-181ec6330627/951cdb01-6aed-4657-88d4-19e76b055a3b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/28c9103c-40b2-4b3d-b2f2-181ec6330627/951cdb01-6aed-4657-88d4-19e76b055a3b
+md5	30809974edd489aafd1d30799fd93102

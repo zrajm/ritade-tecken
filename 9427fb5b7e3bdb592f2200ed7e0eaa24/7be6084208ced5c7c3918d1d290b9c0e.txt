@@ -1,0 +1,8 @@
+
+signId	1372
+text	skåp
+imageUuid	5778bc37-60c4-43ee-b371-6c94621111e0
+translationKey	29fb193c-f0fc-49a2-ac01-b12eff22108a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5778bc37-60c4-43ee-b371-6c94621111e0/29fb193c-f0fc-49a2-ac01-b12eff22108a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5778bc37-60c4-43ee-b371-6c94621111e0/29fb193c-f0fc-49a2-ac01-b12eff22108a
+md5	7be6084208ced5c7c3918d1d290b9c0e

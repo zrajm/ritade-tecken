@@ -1,0 +1,7 @@
+signId	940
+text	längta
+imageUuid	8978efbf-25b3-46d4-a364-67ea1c170d3c
+translationKey	81b27a1c-176e-483c-8824-5be0535dbf86
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8978efbf-25b3-46d4-a364-67ea1c170d3c/81b27a1c-176e-483c-8824-5be0535dbf86/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8978efbf-25b3-46d4-a364-67ea1c170d3c/81b27a1c-176e-483c-8824-5be0535dbf86
+md5	f860e117074a602af4c3195638dd2b83

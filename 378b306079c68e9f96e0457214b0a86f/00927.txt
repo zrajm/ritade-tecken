@@ -1,0 +1,7 @@
+signId	927
+text	lång tid
+imageUuid	b786886e-bbf4-47b4-94f7-891f0f886554
+translationKey	51210352-5bb1-46bb-86fc-22663892e478
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b786886e-bbf4-47b4-94f7-891f0f886554/51210352-5bb1-46bb-86fc-22663892e478/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b786886e-bbf4-47b4-94f7-891f0f886554/51210352-5bb1-46bb-86fc-22663892e478
+md5	378b306079c68e9f96e0457214b0a86f

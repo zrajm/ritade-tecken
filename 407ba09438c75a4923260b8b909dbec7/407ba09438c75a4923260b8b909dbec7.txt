@@ -1,0 +1,8 @@
+
+signId	2767
+text	fästing
+imageUuid	fc7bc93b-b3fb-461f-ab05-28c5c89c51cf
+translationKey	0e568f63-9a4b-43c6-8550-95eebfce09e7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fc7bc93b-b3fb-461f-ab05-28c5c89c51cf/0e568f63-9a4b-43c6-8550-95eebfce09e7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fc7bc93b-b3fb-461f-ab05-28c5c89c51cf/0e568f63-9a4b-43c6-8550-95eebfce09e7
+md5	407ba09438c75a4923260b8b909dbec7

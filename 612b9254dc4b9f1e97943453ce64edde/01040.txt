@@ -1,0 +1,7 @@
+signId	1040
+text	måla 1
+imageUuid	b84b4548-34eb-4aa5-a40f-95c7a7ed7c34
+translationKey	5b131f45-2fa5-42ba-8ce4-d938beded26a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b84b4548-34eb-4aa5-a40f-95c7a7ed7c34/5b131f45-2fa5-42ba-8ce4-d938beded26a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b84b4548-34eb-4aa5-a40f-95c7a7ed7c34/5b131f45-2fa5-42ba-8ce4-d938beded26a
+md5	612b9254dc4b9f1e97943453ce64edde

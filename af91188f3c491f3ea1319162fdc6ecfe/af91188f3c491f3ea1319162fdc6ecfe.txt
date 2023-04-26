@@ -1,0 +1,16 @@
+
+signId	2925
+text	jäst
+imageUuid	509a0a8b-a60b-4391-acdc-4878912be86b
+translationKey	c51f009c-dbe0-4027-aa66-daacf7240f11
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/509a0a8b-a60b-4391-acdc-4878912be86b/c51f009c-dbe0-4027-aa66-daacf7240f11/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/509a0a8b-a60b-4391-acdc-4878912be86b/c51f009c-dbe0-4027-aa66-daacf7240f11
+md5	af91188f3c491f3ea1319162fdc6ecfe
+
+signId	3257
+text	jäsa
+imageUuid	294e9f8f-bdf1-4c56-9833-5d15669e10b5
+translationKey	f7a056e1-98e9-4c8a-be09-892d1eacec7f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/294e9f8f-bdf1-4c56-9833-5d15669e10b5/f7a056e1-98e9-4c8a-be09-892d1eacec7f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/294e9f8f-bdf1-4c56-9833-5d15669e10b5/f7a056e1-98e9-4c8a-be09-892d1eacec7f
+md5	af91188f3c491f3ea1319162fdc6ecfe

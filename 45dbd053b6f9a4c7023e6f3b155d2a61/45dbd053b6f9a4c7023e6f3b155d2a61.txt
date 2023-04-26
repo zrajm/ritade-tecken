@@ -1,0 +1,16 @@
+
+signId	2719
+text	kompass
+imageUuid	a056f818-c15b-432d-a024-3038ccec5556
+translationKey	caaee9a8-0544-4b15-aeab-31990b1dd2c6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a056f818-c15b-432d-a024-3038ccec5556/caaee9a8-0544-4b15-aeab-31990b1dd2c6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a056f818-c15b-432d-a024-3038ccec5556/caaee9a8-0544-4b15-aeab-31990b1dd2c6
+md5	45dbd053b6f9a4c7023e6f3b155d2a61
+
+signId	2774
+text	orientering
+imageUuid	2dec7b1a-a1bb-4c1c-87d3-5ab456d5ad03
+translationKey	3e85bff9-e590-4a35-a6dd-5e078fdbe5e3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2dec7b1a-a1bb-4c1c-87d3-5ab456d5ad03/3e85bff9-e590-4a35-a6dd-5e078fdbe5e3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2dec7b1a-a1bb-4c1c-87d3-5ab456d5ad03/3e85bff9-e590-4a35-a6dd-5e078fdbe5e3
+md5	45dbd053b6f9a4c7023e6f3b155d2a61

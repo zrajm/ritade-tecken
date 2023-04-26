@@ -1,0 +1,7 @@
+signId	3239
+text	energi
+imageUuid	f0e32a03-346e-42b0-812c-85a800464458
+translationKey	faa4efbf-5076-4ee9-a0e0-cfd646c5e0bc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f0e32a03-346e-42b0-812c-85a800464458/faa4efbf-5076-4ee9-a0e0-cfd646c5e0bc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f0e32a03-346e-42b0-812c-85a800464458/faa4efbf-5076-4ee9-a0e0-cfd646c5e0bc
+md5	cc05848304da0a1898355e23b8ba55c4

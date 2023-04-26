@@ -1,0 +1,8 @@
+
+signId	1443
+text	specialpedagog
+imageUuid	615e600f-3d5b-438a-9b16-619fae3d48ec
+translationKey	21cabb80-2b2e-47b3-a8cd-99209800a0a2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/615e600f-3d5b-438a-9b16-619fae3d48ec/21cabb80-2b2e-47b3-a8cd-99209800a0a2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/615e600f-3d5b-438a-9b16-619fae3d48ec/21cabb80-2b2e-47b3-a8cd-99209800a0a2
+md5	9f3d43dcc79e1414e61868b15fbfb07a

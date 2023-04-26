@@ -1,0 +1,16 @@
+
+signId	487
+text	gitarr
+imageUuid	b513b2a4-9491-4f64-9d75-91ef253cfe63
+translationKey	ff0bbc9b-d08a-4e31-8ec0-31ea5891e158
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b513b2a4-9491-4f64-9d75-91ef253cfe63/ff0bbc9b-d08a-4e31-8ec0-31ea5891e158/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b513b2a4-9491-4f64-9d75-91ef253cfe63/ff0bbc9b-d08a-4e31-8ec0-31ea5891e158
+md5	21a94bfa1a89deda46da2c4cb759cbd1
+
+signId	3035
+text	orkester
+imageUuid	ecc828e6-ff15-43b5-9052-0b53aa6a077a
+translationKey	d3fbce09-1b0d-473e-a581-6982f1608a89
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ecc828e6-ff15-43b5-9052-0b53aa6a077a/d3fbce09-1b0d-473e-a581-6982f1608a89/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ecc828e6-ff15-43b5-9052-0b53aa6a077a/d3fbce09-1b0d-473e-a581-6982f1608a89
+md5	21a94bfa1a89deda46da2c4cb759cbd1

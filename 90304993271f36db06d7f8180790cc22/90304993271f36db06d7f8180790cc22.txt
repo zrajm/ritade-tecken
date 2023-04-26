@@ -1,0 +1,8 @@
+
+signId	779
+text	kohage
+imageUuid	dd0e78e9-e56f-427e-b85c-89bb58b642f7
+translationKey	f3c26b92-93b6-4e05-ab82-356e3097979a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dd0e78e9-e56f-427e-b85c-89bb58b642f7/f3c26b92-93b6-4e05-ab82-356e3097979a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dd0e78e9-e56f-427e-b85c-89bb58b642f7/f3c26b92-93b6-4e05-ab82-356e3097979a
+md5	90304993271f36db06d7f8180790cc22

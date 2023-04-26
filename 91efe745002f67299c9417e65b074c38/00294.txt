@@ -1,0 +1,7 @@
+signId	294
+text	drömma
+imageUuid	2071fe62-6fe7-47bf-bdcf-8c4bc5d906aa
+translationKey	d22fcf5d-b677-4b99-a518-0cfe232ef9dd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2071fe62-6fe7-47bf-bdcf-8c4bc5d906aa/d22fcf5d-b677-4b99-a518-0cfe232ef9dd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2071fe62-6fe7-47bf-bdcf-8c4bc5d906aa/d22fcf5d-b677-4b99-a518-0cfe232ef9dd
+md5	91efe745002f67299c9417e65b074c38

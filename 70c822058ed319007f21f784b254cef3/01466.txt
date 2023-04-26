@@ -1,0 +1,7 @@
+signId	1466
+text	stark
+imageUuid	aac4cdc6-b7c3-4d3e-bc37-93b0454db841
+translationKey	332fb082-5b35-4413-8524-6fd17fb479e0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aac4cdc6-b7c3-4d3e-bc37-93b0454db841/332fb082-5b35-4413-8524-6fd17fb479e0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aac4cdc6-b7c3-4d3e-bc37-93b0454db841/332fb082-5b35-4413-8524-6fd17fb479e0
+md5	70c822058ed319007f21f784b254cef3

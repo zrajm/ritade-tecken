@@ -1,0 +1,7 @@
+signId	2832
+text	spindelnät
+imageUuid	2fcd2d07-4d16-4fae-867a-50820b587fe1
+translationKey	26bad329-9d49-4456-90eb-1d7f0d672a8b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2fcd2d07-4d16-4fae-867a-50820b587fe1/26bad329-9d49-4456-90eb-1d7f0d672a8b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2fcd2d07-4d16-4fae-867a-50820b587fe1/26bad329-9d49-4456-90eb-1d7f0d672a8b
+md5	73435414da2d14cbf1c9ed0d25706369

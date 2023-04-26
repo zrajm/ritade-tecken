@@ -1,0 +1,8 @@
+
+signId	1955
+text	direkt
+imageUuid	593a3b93-515a-41ac-ac2d-5c51e11c07ee
+translationKey	8f4d1a63-983d-48a0-9cf8-f2413abfaf5f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/593a3b93-515a-41ac-ac2d-5c51e11c07ee/8f4d1a63-983d-48a0-9cf8-f2413abfaf5f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/593a3b93-515a-41ac-ac2d-5c51e11c07ee/8f4d1a63-983d-48a0-9cf8-f2413abfaf5f
+md5	54d81b8cf1b15a7f3242a8221d44973a

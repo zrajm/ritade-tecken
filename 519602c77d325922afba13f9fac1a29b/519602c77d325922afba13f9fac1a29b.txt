@@ -1,0 +1,8 @@
+
+signId	1614
+text	tro
+imageUuid	bf9276aa-4dd5-428a-8b2c-40bcf03533d5
+translationKey	1779a621-3b18-4f44-af03-7b749ee3a710
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bf9276aa-4dd5-428a-8b2c-40bcf03533d5/1779a621-3b18-4f44-af03-7b749ee3a710/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bf9276aa-4dd5-428a-8b2c-40bcf03533d5/1779a621-3b18-4f44-af03-7b749ee3a710
+md5	519602c77d325922afba13f9fac1a29b

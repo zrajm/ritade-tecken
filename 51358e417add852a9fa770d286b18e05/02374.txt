@@ -1,0 +1,7 @@
+signId	2374
+text	pipa (rökdon)
+imageUuid	de717de3-7785-47fe-9903-db9500ed851f
+translationKey	2bf7733b-e653-4d9a-8a0f-fe64092c8d3c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/de717de3-7785-47fe-9903-db9500ed851f/2bf7733b-e653-4d9a-8a0f-fe64092c8d3c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/de717de3-7785-47fe-9903-db9500ed851f/2bf7733b-e653-4d9a-8a0f-fe64092c8d3c
+md5	51358e417add852a9fa770d286b18e05

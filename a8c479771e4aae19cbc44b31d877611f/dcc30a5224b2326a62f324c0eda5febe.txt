@@ -1,0 +1,8 @@
+
+signId	1282
+text	saknas
+imageUuid	edeba085-0e2b-4f7b-a900-8b38c5da0bc8
+translationKey	05734fbc-e6c5-4948-aa6a-061c1f0834d2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/edeba085-0e2b-4f7b-a900-8b38c5da0bc8/05734fbc-e6c5-4948-aa6a-061c1f0834d2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/edeba085-0e2b-4f7b-a900-8b38c5da0bc8/05734fbc-e6c5-4948-aa6a-061c1f0834d2
+md5	dcc30a5224b2326a62f324c0eda5febe

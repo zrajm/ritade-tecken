@@ -1,0 +1,8 @@
+
+signId	2947
+text	armbåge
+imageUuid	8c73942d-db69-40b0-8665-6964fbbfe414
+translationKey	959ea678-c78a-47dd-aada-be64d8d851b3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c73942d-db69-40b0-8665-6964fbbfe414/959ea678-c78a-47dd-aada-be64d8d851b3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c73942d-db69-40b0-8665-6964fbbfe414/959ea678-c78a-47dd-aada-be64d8d851b3
+md5	612325880a63bf2f22bbc67104f44f37

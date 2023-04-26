@@ -1,0 +1,8 @@
+
+signId	2268
+text	fängelse
+imageUuid	d3e61b67-ccca-4a2c-9d7a-84c66d3d8f3c
+translationKey	49dd3b48-6f98-4840-8d68-7a3bb2b5d693
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d3e61b67-ccca-4a2c-9d7a-84c66d3d8f3c/49dd3b48-6f98-4840-8d68-7a3bb2b5d693/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d3e61b67-ccca-4a2c-9d7a-84c66d3d8f3c/49dd3b48-6f98-4840-8d68-7a3bb2b5d693
+md5	33e0608720676c7798b7b6e7ebd177df

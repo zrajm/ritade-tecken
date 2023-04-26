@@ -1,0 +1,8 @@
+
+signId	1326
+text	skada
+imageUuid	954fc8fa-0ff2-4f75-8ec8-474b0adcaed2
+translationKey	72e39595-73e3-45a9-8912-9be8559cb00d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/954fc8fa-0ff2-4f75-8ec8-474b0adcaed2/72e39595-73e3-45a9-8912-9be8559cb00d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/954fc8fa-0ff2-4f75-8ec8-474b0adcaed2/72e39595-73e3-45a9-8912-9be8559cb00d
+md5	e2bf2c23811879452d504edd0a335bf0

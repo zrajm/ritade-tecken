@@ -1,0 +1,16 @@
+
+signId	1644
+text	tusen (tal)
+imageUuid	238b32f1-b351-45c6-a6ca-611625b6f05c
+translationKey	b4ee0121-3438-4d52-b629-c8157c29737c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/238b32f1-b351-45c6-a6ca-611625b6f05c/b4ee0121-3438-4d52-b629-c8157c29737c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/238b32f1-b351-45c6-a6ca-611625b6f05c/b4ee0121-3438-4d52-b629-c8157c29737c
+md5	15bb15ecc599c8468c69d9399ac0c12f
+
+signId	2869
+text	1000 (tal)
+imageUuid	e46afcf2-fe03-4267-8169-de6f5fdfdc5a
+translationKey	967c6015-95bd-43d4-8215-4ec092d142a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e46afcf2-fe03-4267-8169-de6f5fdfdc5a/967c6015-95bd-43d4-8215-4ec092d142a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e46afcf2-fe03-4267-8169-de6f5fdfdc5a/967c6015-95bd-43d4-8215-4ec092d142a7
+md5	15bb15ecc599c8468c69d9399ac0c12f

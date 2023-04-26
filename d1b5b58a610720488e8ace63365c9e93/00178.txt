@@ -1,0 +1,7 @@
+signId	178
+text	brandbil
+imageUuid	15482152-23d4-4598-ad15-a9845c53226f
+translationKey	b113f1df-83e0-41a6-ae1d-3a52bc77c7ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/15482152-23d4-4598-ad15-a9845c53226f/b113f1df-83e0-41a6-ae1d-3a52bc77c7ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/15482152-23d4-4598-ad15-a9845c53226f/b113f1df-83e0-41a6-ae1d-3a52bc77c7ab
+md5	d1b5b58a610720488e8ace63365c9e93

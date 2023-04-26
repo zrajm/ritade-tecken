@@ -1,0 +1,8 @@
+
+signId	2620
+text	vårda
+imageUuid	56e40a00-b878-4fa2-a64e-5ed1f5fe6248
+translationKey	c36d79d0-bce0-4e71-9ea9-d5501d172ad5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/56e40a00-b878-4fa2-a64e-5ed1f5fe6248/c36d79d0-bce0-4e71-9ea9-d5501d172ad5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/56e40a00-b878-4fa2-a64e-5ed1f5fe6248/c36d79d0-bce0-4e71-9ea9-d5501d172ad5
+md5	554607e51dd8597fe1d54bbf5288adb9

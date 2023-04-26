@@ -1,0 +1,8 @@
+
+signId	2715
+text	kvitto
+imageUuid	9322cb15-4925-4674-9662-ecbc7948598b
+translationKey	54cc0272-99a9-4a53-824d-cd85fba6f4ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9322cb15-4925-4674-9662-ecbc7948598b/54cc0272-99a9-4a53-824d-cd85fba6f4ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9322cb15-4925-4674-9662-ecbc7948598b/54cc0272-99a9-4a53-824d-cd85fba6f4ab
+md5	b87594fcfc6b3f65462dd12faece90d6

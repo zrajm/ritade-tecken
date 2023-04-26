@@ -1,0 +1,16 @@
+
+signId	99
+text	bandspelare
+imageUuid	e0e5a576-28a1-45e1-859d-77b31ab4b197
+translationKey	3983a9ce-e36a-4262-a007-5152ddbf3276
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e0e5a576-28a1-45e1-859d-77b31ab4b197/3983a9ce-e36a-4262-a007-5152ddbf3276/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e0e5a576-28a1-45e1-859d-77b31ab4b197/3983a9ce-e36a-4262-a007-5152ddbf3276
+md5	5022ba683e94a81539922e1f619c7fe2
+
+signId	1725
+text	video
+imageUuid	4a084572-eaf2-4101-b226-e7d6aa91420e
+translationKey	bfa38941-175c-44f7-acdf-56696c6e4384
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4a084572-eaf2-4101-b226-e7d6aa91420e/bfa38941-175c-44f7-acdf-56696c6e4384/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4a084572-eaf2-4101-b226-e7d6aa91420e/bfa38941-175c-44f7-acdf-56696c6e4384
+md5	5022ba683e94a81539922e1f619c7fe2

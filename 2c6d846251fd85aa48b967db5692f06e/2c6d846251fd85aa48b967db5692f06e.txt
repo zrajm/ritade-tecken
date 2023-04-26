@@ -1,0 +1,16 @@
+
+signId	506
+text	gratulera
+imageUuid	88da0a59-7c23-4f5a-9cfc-509efc429e87
+translationKey	5f9caa64-18c9-40fa-b6c3-0c258a24e287
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/88da0a59-7c23-4f5a-9cfc-509efc429e87/5f9caa64-18c9-40fa-b6c3-0c258a24e287/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/88da0a59-7c23-4f5a-9cfc-509efc429e87/5f9caa64-18c9-40fa-b6c3-0c258a24e287
+md5	2c6d846251fd85aa48b967db5692f06e
+
+signId	2624
+text	grattis
+imageUuid	eb5b9b92-febf-42e6-8a90-eac7f58f4575
+translationKey	90d735ea-cf65-49a6-9733-5ac516ba22e6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eb5b9b92-febf-42e6-8a90-eac7f58f4575/90d735ea-cf65-49a6-9733-5ac516ba22e6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eb5b9b92-febf-42e6-8a90-eac7f58f4575/90d735ea-cf65-49a6-9733-5ac516ba22e6
+md5	2c6d846251fd85aa48b967db5692f06e

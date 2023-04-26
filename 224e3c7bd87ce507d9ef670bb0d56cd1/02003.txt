@@ -1,0 +1,7 @@
+signId	2003
+text	sjunde
+imageUuid	bd46723c-43b2-4800-a3aa-655220b4d2d7
+translationKey	69abda09-bfc7-4f80-94ad-73a2d9937f06
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bd46723c-43b2-4800-a3aa-655220b4d2d7/69abda09-bfc7-4f80-94ad-73a2d9937f06/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bd46723c-43b2-4800-a3aa-655220b4d2d7/69abda09-bfc7-4f80-94ad-73a2d9937f06
+md5	224e3c7bd87ce507d9ef670bb0d56cd1

@@ -1,0 +1,7 @@
+signId	3024
+text	välsigna
+imageUuid	5e1a16f9-4e3c-4f9f-8f2e-256a9ec3571d
+translationKey	316fc8f3-46d9-44c9-93a9-60b3545fd54d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e1a16f9-4e3c-4f9f-8f2e-256a9ec3571d/316fc8f3-46d9-44c9-93a9-60b3545fd54d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e1a16f9-4e3c-4f9f-8f2e-256a9ec3571d/316fc8f3-46d9-44c9-93a9-60b3545fd54d
+md5	a38ba61ab58360ba2e8b1efae085c19c

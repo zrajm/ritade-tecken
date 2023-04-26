@@ -1,0 +1,7 @@
+signId	1105
+text	oljud
+imageUuid	880c071d-5948-4c77-a96e-961e9a81cd59
+translationKey	89620435-d93c-4b10-be45-0d7742f74a2d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/880c071d-5948-4c77-a96e-961e9a81cd59/89620435-d93c-4b10-be45-0d7742f74a2d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/880c071d-5948-4c77-a96e-961e9a81cd59/89620435-d93c-4b10-be45-0d7742f74a2d
+md5	3f1b51762e3598864c2d25c2dab035ae

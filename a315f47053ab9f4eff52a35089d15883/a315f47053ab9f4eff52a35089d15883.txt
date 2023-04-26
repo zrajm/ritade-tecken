@@ -1,0 +1,16 @@
+
+signId	636
+text	häxa
+imageUuid	0bc66863-0b95-43c6-ae88-c5ab366d2176
+translationKey	6ab6e7d3-edcf-4b92-9b4c-4ae706e786aa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0bc66863-0b95-43c6-ae88-c5ab366d2176/6ab6e7d3-edcf-4b92-9b4c-4ae706e786aa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0bc66863-0b95-43c6-ae88-c5ab366d2176/6ab6e7d3-edcf-4b92-9b4c-4ae706e786aa
+md5	a315f47053ab9f4eff52a35089d15883
+
+signId	1617
+text	troll
+imageUuid	519288eb-f6f5-4fdf-b415-6f3983cd64d8
+translationKey	732acab6-2689-43c5-9ea2-e3176937c957
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/519288eb-f6f5-4fdf-b415-6f3983cd64d8/732acab6-2689-43c5-9ea2-e3176937c957/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/519288eb-f6f5-4fdf-b415-6f3983cd64d8/732acab6-2689-43c5-9ea2-e3176937c957
+md5	a315f47053ab9f4eff52a35089d15883

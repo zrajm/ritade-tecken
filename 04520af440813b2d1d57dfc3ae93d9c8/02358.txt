@@ -1,0 +1,7 @@
+signId	2358
+text	landsting
+imageUuid	9a0a4eb2-19c7-4e0d-826e-c0784a10882d
+translationKey	aa8a1999-a277-44e7-9593-09eb50d11e8a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9a0a4eb2-19c7-4e0d-826e-c0784a10882d/aa8a1999-a277-44e7-9593-09eb50d11e8a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9a0a4eb2-19c7-4e0d-826e-c0784a10882d/aa8a1999-a277-44e7-9593-09eb50d11e8a
+md5	04520af440813b2d1d57dfc3ae93d9c8

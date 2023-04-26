@@ -1,0 +1,8 @@
+
+signId	3112
+text	Afghanistan 2
+imageUuid	72fcb3d0-a498-4ea6-a616-24bc02a48d8b
+translationKey	857e05fa-ad83-4d3c-ae8b-2108834b863a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72fcb3d0-a498-4ea6-a616-24bc02a48d8b/857e05fa-ad83-4d3c-ae8b-2108834b863a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72fcb3d0-a498-4ea6-a616-24bc02a48d8b/857e05fa-ad83-4d3c-ae8b-2108834b863a
+md5	4afeb810d51aaaf96e128e11a2275c40

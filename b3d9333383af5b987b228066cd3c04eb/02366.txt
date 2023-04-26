@@ -1,0 +1,7 @@
+signId	2366
+text	naturligtvis
+imageUuid	7cf3534a-c9ba-47e4-93ad-f17e3568c31a
+translationKey	b11ed65c-844e-427d-9af2-d24008db4048
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7cf3534a-c9ba-47e4-93ad-f17e3568c31a/b11ed65c-844e-427d-9af2-d24008db4048/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7cf3534a-c9ba-47e4-93ad-f17e3568c31a/b11ed65c-844e-427d-9af2-d24008db4048
+md5	b3d9333383af5b987b228066cd3c04eb

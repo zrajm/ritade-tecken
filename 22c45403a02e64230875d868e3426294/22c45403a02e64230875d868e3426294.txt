@@ -1,0 +1,8 @@
+
+signId	2007
+text	sätt
+imageUuid	230f0cc5-fd12-434c-ad8f-113c73714eaf
+translationKey	db4ddfbc-a29e-4809-b177-1d28a5d68610
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/230f0cc5-fd12-434c-ad8f-113c73714eaf/db4ddfbc-a29e-4809-b177-1d28a5d68610/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/230f0cc5-fd12-434c-ad8f-113c73714eaf/db4ddfbc-a29e-4809-b177-1d28a5d68610
+md5	22c45403a02e64230875d868e3426294

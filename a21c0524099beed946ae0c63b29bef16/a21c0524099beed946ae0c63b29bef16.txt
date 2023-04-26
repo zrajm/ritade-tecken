@@ -1,0 +1,8 @@
+
+signId	2468
+text	ladda ned
+imageUuid	956e9342-8603-4abf-b52f-45c51d5420f1
+translationKey	4436dd4d-054e-4cb0-a0d0-86e1d4ba8d93
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/956e9342-8603-4abf-b52f-45c51d5420f1/4436dd4d-054e-4cb0-a0d0-86e1d4ba8d93/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/956e9342-8603-4abf-b52f-45c51d5420f1/4436dd4d-054e-4cb0-a0d0-86e1d4ba8d93
+md5	a21c0524099beed946ae0c63b29bef16

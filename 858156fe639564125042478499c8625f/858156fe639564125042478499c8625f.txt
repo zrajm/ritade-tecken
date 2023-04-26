@@ -1,0 +1,8 @@
+
+signId	2259
+text	besviken
+imageUuid	d1df0e8b-e2e6-4f0e-9926-a76bc6f9de34
+translationKey	6eb616d7-1b32-444e-bf9e-a4f035a92927
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d1df0e8b-e2e6-4f0e-9926-a76bc6f9de34/6eb616d7-1b32-444e-bf9e-a4f035a92927/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d1df0e8b-e2e6-4f0e-9926-a76bc6f9de34/6eb616d7-1b32-444e-bf9e-a4f035a92927
+md5	858156fe639564125042478499c8625f

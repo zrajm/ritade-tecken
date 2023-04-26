@@ -1,0 +1,8 @@
+
+signId	3144
+text	valdag
+imageUuid	eb1c1612-2a4e-4e7c-b0d2-638fa571db3c
+translationKey	d6e3780a-0ae0-4f22-ba21-f9793212cb4c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eb1c1612-2a4e-4e7c-b0d2-638fa571db3c/d6e3780a-0ae0-4f22-ba21-f9793212cb4c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eb1c1612-2a4e-4e7c-b0d2-638fa571db3c/d6e3780a-0ae0-4f22-ba21-f9793212cb4c
+md5	d83637bac194329953874a2d927d542c

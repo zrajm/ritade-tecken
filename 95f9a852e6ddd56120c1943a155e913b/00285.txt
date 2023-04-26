@@ -1,0 +1,7 @@
+signId	285
+text	dragkedja
+imageUuid	079a7c37-bd07-4163-bb83-34c89ac40725
+translationKey	7cede3a0-3b64-4d8f-a425-1c84b0eb4b34
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/079a7c37-bd07-4163-bb83-34c89ac40725/7cede3a0-3b64-4d8f-a425-1c84b0eb4b34/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/079a7c37-bd07-4163-bb83-34c89ac40725/7cede3a0-3b64-4d8f-a425-1c84b0eb4b34
+md5	95f9a852e6ddd56120c1943a155e913b

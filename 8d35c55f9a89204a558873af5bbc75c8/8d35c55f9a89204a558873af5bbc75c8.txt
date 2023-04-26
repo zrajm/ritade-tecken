@@ -1,0 +1,8 @@
+
+signId	2140
+text	pengar 2
+imageUuid	a6387413-3d55-4a07-9737-06c4b4092ab7
+translationKey	309b2764-19f4-4d69-b566-e52d498c42d8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a6387413-3d55-4a07-9737-06c4b4092ab7/309b2764-19f4-4d69-b566-e52d498c42d8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a6387413-3d55-4a07-9737-06c4b4092ab7/309b2764-19f4-4d69-b566-e52d498c42d8
+md5	8d35c55f9a89204a558873af5bbc75c8

@@ -1,0 +1,7 @@
+signId	2332
+text	förkyld
+imageUuid	1d0c84cc-a120-4bbf-8afb-c88e236f960c
+translationKey	f6fef23b-ba60-403d-8438-09476be8919c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1d0c84cc-a120-4bbf-8afb-c88e236f960c/f6fef23b-ba60-403d-8438-09476be8919c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1d0c84cc-a120-4bbf-8afb-c88e236f960c/f6fef23b-ba60-403d-8438-09476be8919c
+md5	d84e39d68e4a2ff95b101e77226e0b3d

@@ -1,0 +1,8 @@
+
+signId	2205
+text	vila 2
+imageUuid	f928a492-7317-4e58-a569-094ab21fb563
+translationKey	0d4136a0-05d1-4d9d-bbb7-cafa9e78e8c1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f928a492-7317-4e58-a569-094ab21fb563/0d4136a0-05d1-4d9d-bbb7-cafa9e78e8c1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f928a492-7317-4e58-a569-094ab21fb563/0d4136a0-05d1-4d9d-bbb7-cafa9e78e8c1
+md5	d6eb26fa742b367986ac5c0e03e73e30

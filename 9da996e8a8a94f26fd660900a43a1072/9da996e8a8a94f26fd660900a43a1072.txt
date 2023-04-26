@@ -1,0 +1,8 @@
+
+signId	1414
+text	snäll
+imageUuid	d2856c2c-948e-44a7-8b4b-8e35182041d0
+translationKey	25a83f87-625c-4b9b-9e8e-4a8b6a8a9b1a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d2856c2c-948e-44a7-8b4b-8e35182041d0/25a83f87-625c-4b9b-9e8e-4a8b6a8a9b1a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d2856c2c-948e-44a7-8b4b-8e35182041d0/25a83f87-625c-4b9b-9e8e-4a8b6a8a9b1a
+md5	9da996e8a8a94f26fd660900a43a1072

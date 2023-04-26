@@ -1,0 +1,7 @@
+signId	1138
+text	paprika
+imageUuid	2b7c9e20-ac25-48bb-803f-0b161577d1fa
+translationKey	b8da5361-f023-461e-9c17-334c4c3e5502
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2b7c9e20-ac25-48bb-803f-0b161577d1fa/b8da5361-f023-461e-9c17-334c4c3e5502/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2b7c9e20-ac25-48bb-803f-0b161577d1fa/b8da5361-f023-461e-9c17-334c4c3e5502
+md5	6f0351ef02f76ce9a7de889213a12c57

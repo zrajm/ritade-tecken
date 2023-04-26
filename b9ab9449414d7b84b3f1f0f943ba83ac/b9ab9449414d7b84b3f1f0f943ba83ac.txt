@@ -1,0 +1,8 @@
+
+signId	1782
+text	zebra
+imageUuid	6e2414ae-3883-4b8b-972d-19f637fe0ab2
+translationKey	d4026b99-3081-4d3e-80ff-9037c798e06d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6e2414ae-3883-4b8b-972d-19f637fe0ab2/d4026b99-3081-4d3e-80ff-9037c798e06d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6e2414ae-3883-4b8b-972d-19f637fe0ab2/d4026b99-3081-4d3e-80ff-9037c798e06d
+md5	b9ab9449414d7b84b3f1f0f943ba83ac

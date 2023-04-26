@@ -1,0 +1,7 @@
+signId	2352
+text	koppel
+imageUuid	365d42b2-b037-44b6-9b52-9de077c53231
+translationKey	88b32f00-6c97-43a8-bffa-24a6ff971cc1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/365d42b2-b037-44b6-9b52-9de077c53231/88b32f00-6c97-43a8-bffa-24a6ff971cc1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/365d42b2-b037-44b6-9b52-9de077c53231/88b32f00-6c97-43a8-bffa-24a6ff971cc1
+md5	d59c9f6befe68fa62cb478d65444514e

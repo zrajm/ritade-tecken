@@ -1,0 +1,7 @@
+signId	2108
+text	fotbollsplan
+imageUuid	73db888b-e3ef-4c8f-9ebb-7792c448eda8
+translationKey	c443b469-2c4c-419c-8816-b3c0d7bef773
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/73db888b-e3ef-4c8f-9ebb-7792c448eda8/c443b469-2c4c-419c-8816-b3c0d7bef773/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/73db888b-e3ef-4c8f-9ebb-7792c448eda8/c443b469-2c4c-419c-8816-b3c0d7bef773
+md5	45610fa6e83277aa4a65818362943f87

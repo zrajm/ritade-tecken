@@ -1,0 +1,8 @@
+
+signId	2757
+text	fordon
+imageUuid	447cfa89-c375-475b-8041-25da5fbd658e
+translationKey	6f8fa958-6c72-472e-a5b2-7d76e16aa604
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/447cfa89-c375-475b-8041-25da5fbd658e/6f8fa958-6c72-472e-a5b2-7d76e16aa604/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/447cfa89-c375-475b-8041-25da5fbd658e/6f8fa958-6c72-472e-a5b2-7d76e16aa604
+md5	fd5759177252d6ef89d1cfc6e3a0c583

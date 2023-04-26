@@ -1,0 +1,7 @@
+signId	181
+text	brasa
+imageUuid	32ccd84e-aa2c-4b24-b24d-0e94c908634e
+translationKey	a7caa8fa-4054-4dc2-89c4-85ee612d5837
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/32ccd84e-aa2c-4b24-b24d-0e94c908634e/a7caa8fa-4054-4dc2-89c4-85ee612d5837/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/32ccd84e-aa2c-4b24-b24d-0e94c908634e/a7caa8fa-4054-4dc2-89c4-85ee612d5837
+md5	1a94647dce2412de0af7264fab54ee2f

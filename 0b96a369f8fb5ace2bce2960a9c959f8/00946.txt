@@ -1,0 +1,7 @@
+signId	946
+text	läsk
+imageUuid	e198951c-77d0-4022-aea4-e18d47dfe6e1
+translationKey	5f94fcdb-0091-4929-9ca5-83f5a36f132b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e198951c-77d0-4022-aea4-e18d47dfe6e1/5f94fcdb-0091-4929-9ca5-83f5a36f132b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e198951c-77d0-4022-aea4-e18d47dfe6e1/5f94fcdb-0091-4929-9ca5-83f5a36f132b
+md5	da3a1e074b5475be27050122dc26c995

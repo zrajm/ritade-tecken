@@ -1,0 +1,7 @@
+signId	2146
+text	skälla
+imageUuid	6528d512-3176-4e34-83e3-fe7d598d1bcb
+translationKey	f3c231b0-228f-4257-b46d-153c24cb497f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6528d512-3176-4e34-83e3-fe7d598d1bcb/f3c231b0-228f-4257-b46d-153c24cb497f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6528d512-3176-4e34-83e3-fe7d598d1bcb/f3c231b0-228f-4257-b46d-153c24cb497f
+md5	911bba02547c65774227503463d3e985

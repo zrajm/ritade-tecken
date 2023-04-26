@@ -1,0 +1,7 @@
+signId	1564
+text	tappa
+imageUuid	0692482a-a68e-4d2e-b8c8-16b8ef981b8b
+translationKey	335e48ab-3aa7-4f35-89a0-4030744f33d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0692482a-a68e-4d2e-b8c8-16b8ef981b8b/335e48ab-3aa7-4f35-89a0-4030744f33d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0692482a-a68e-4d2e-b8c8-16b8ef981b8b/335e48ab-3aa7-4f35-89a0-4030744f33d1
+md5	f899a3cd4d96d7b5f6883e066b75e09a

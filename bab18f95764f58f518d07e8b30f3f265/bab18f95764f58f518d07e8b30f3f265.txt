@@ -1,0 +1,8 @@
+
+signId	443
+text	födelsedag
+imageUuid	684044f3-eedf-474b-bd02-1b6d287bf62e
+translationKey	2b92bb38-aef3-4513-b9ee-a713b9575975
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/684044f3-eedf-474b-bd02-1b6d287bf62e/2b92bb38-aef3-4513-b9ee-a713b9575975/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/684044f3-eedf-474b-bd02-1b6d287bf62e/2b92bb38-aef3-4513-b9ee-a713b9575975
+md5	bab18f95764f58f518d07e8b30f3f265

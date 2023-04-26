@@ -1,0 +1,7 @@
+signId	961
+text	man (person)
+imageUuid	f033b18c-afe9-4ee8-b745-58778289c6eb
+translationKey	939c4e98-c446-4bce-b169-3f97fd1ee347
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f033b18c-afe9-4ee8-b745-58778289c6eb/939c4e98-c446-4bce-b169-3f97fd1ee347/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f033b18c-afe9-4ee8-b745-58778289c6eb/939c4e98-c446-4bce-b169-3f97fd1ee347
+md5	da1f9fd1d8bcf4a808587cd902a52e20

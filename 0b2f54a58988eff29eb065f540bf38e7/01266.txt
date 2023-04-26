@@ -1,0 +1,7 @@
+signId	1266
+text	ryggsäck
+imageUuid	53d7896f-55a3-437e-9aa7-9e60f0644658
+translationKey	6fa4fb6c-3234-43a9-a187-232c67238cd3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/53d7896f-55a3-437e-9aa7-9e60f0644658/6fa4fb6c-3234-43a9-a187-232c67238cd3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/53d7896f-55a3-437e-9aa7-9e60f0644658/6fa4fb6c-3234-43a9-a187-232c67238cd3
+md5	0b2f54a58988eff29eb065f540bf38e7

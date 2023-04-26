@@ -1,0 +1,7 @@
+signId	710
+text	kafé 3
+imageUuid	de289577-3d57-4d92-a110-8643743c638d
+translationKey	ada3de0b-0dfc-4763-a7a5-2394bbcf3721
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/de289577-3d57-4d92-a110-8643743c638d/ada3de0b-0dfc-4763-a7a5-2394bbcf3721/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/de289577-3d57-4d92-a110-8643743c638d/ada3de0b-0dfc-4763-a7a5-2394bbcf3721
+md5	bf8d49a691dc30b2050bd69edbd8f4e5

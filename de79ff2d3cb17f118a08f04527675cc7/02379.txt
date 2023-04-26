@@ -1,0 +1,7 @@
+signId	2379
+text	registrera
+imageUuid	d0936822-9bcd-41c3-81b4-a82b8c433540
+translationKey	45c06fd4-5b14-4f90-97f8-1924f9de672c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d0936822-9bcd-41c3-81b4-a82b8c433540/45c06fd4-5b14-4f90-97f8-1924f9de672c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d0936822-9bcd-41c3-81b4-a82b8c433540/45c06fd4-5b14-4f90-97f8-1924f9de672c
+md5	de79ff2d3cb17f118a08f04527675cc7

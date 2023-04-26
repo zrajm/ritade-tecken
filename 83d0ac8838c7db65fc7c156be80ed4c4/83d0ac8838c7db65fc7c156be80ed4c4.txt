@@ -1,0 +1,16 @@
+
+signId	1888
+text	ungdom
+imageUuid	8eac6763-a4bb-4b45-b2fa-d7741a53ee98
+translationKey	d86b46f8-1da1-4894-8eec-2a511b3d451d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8eac6763-a4bb-4b45-b2fa-d7741a53ee98/d86b46f8-1da1-4894-8eec-2a511b3d451d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8eac6763-a4bb-4b45-b2fa-d7741a53ee98/d86b46f8-1da1-4894-8eec-2a511b3d451d
+md5	83d0ac8838c7db65fc7c156be80ed4c4
+
+signId	1966
+text	tonåring
+imageUuid	ea716aa0-69e3-4e18-ad81-eb87457c5439
+translationKey	c00ad8d9-20e3-40d6-9f3c-d8399ff8e8db
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea716aa0-69e3-4e18-ad81-eb87457c5439/c00ad8d9-20e3-40d6-9f3c-d8399ff8e8db/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea716aa0-69e3-4e18-ad81-eb87457c5439/c00ad8d9-20e3-40d6-9f3c-d8399ff8e8db
+md5	83d0ac8838c7db65fc7c156be80ed4c4

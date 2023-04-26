@@ -1,0 +1,7 @@
+signId	2391
+text	skottkärra
+imageUuid	867ee305-631f-4d48-81a9-18a23e48cca8
+translationKey	89b6f7d2-d368-461a-a8f1-b0630895fff7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/867ee305-631f-4d48-81a9-18a23e48cca8/89b6f7d2-d368-461a-a8f1-b0630895fff7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/867ee305-631f-4d48-81a9-18a23e48cca8/89b6f7d2-d368-461a-a8f1-b0630895fff7
+md5	fc7154917ae22b3bb5c53979c326fab4

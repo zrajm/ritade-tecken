@@ -1,0 +1,7 @@
+signId	372
+text	firma
+imageUuid	dd434ad3-0607-47d3-844e-7c0ccffc0e45
+translationKey	128da4e3-bdce-4b75-82bc-fee71f115c5a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dd434ad3-0607-47d3-844e-7c0ccffc0e45/128da4e3-bdce-4b75-82bc-fee71f115c5a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dd434ad3-0607-47d3-844e-7c0ccffc0e45/128da4e3-bdce-4b75-82bc-fee71f115c5a
+md5	ee51ad9a4da6092a3d3c895e076d3e88

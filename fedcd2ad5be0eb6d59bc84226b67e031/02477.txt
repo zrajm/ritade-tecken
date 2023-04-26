@@ -1,0 +1,7 @@
+signId	2477
+text	rulltrappa
+imageUuid	b241ad44-0972-478b-8b44-93799179f474
+translationKey	ff0aade0-218b-4b50-bbd0-6ed706ced834
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b241ad44-0972-478b-8b44-93799179f474/ff0aade0-218b-4b50-bbd0-6ed706ced834/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b241ad44-0972-478b-8b44-93799179f474/ff0aade0-218b-4b50-bbd0-6ed706ced834
+md5	fedcd2ad5be0eb6d59bc84226b67e031

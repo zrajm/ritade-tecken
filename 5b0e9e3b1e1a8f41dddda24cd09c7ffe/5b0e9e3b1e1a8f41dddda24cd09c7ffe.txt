@@ -1,0 +1,8 @@
+
+signId	1807
+text	ängel
+imageUuid	5012c2cb-3d99-49c8-8b6b-5d2a996f8f26
+translationKey	c75d29f5-0da1-4b90-bac9-244736690f49
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5012c2cb-3d99-49c8-8b6b-5d2a996f8f26/c75d29f5-0da1-4b90-bac9-244736690f49/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5012c2cb-3d99-49c8-8b6b-5d2a996f8f26/c75d29f5-0da1-4b90-bac9-244736690f49
+md5	5b0e9e3b1e1a8f41dddda24cd09c7ffe

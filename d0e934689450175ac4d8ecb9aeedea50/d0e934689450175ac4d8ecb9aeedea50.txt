@@ -1,0 +1,8 @@
+
+signId	584
+text	hemlig
+imageUuid	bd027a3e-c2e1-497a-b98e-07a52db15be9
+translationKey	e21d0a17-24d4-4f50-b819-fa8b416613ce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bd027a3e-c2e1-497a-b98e-07a52db15be9/e21d0a17-24d4-4f50-b819-fa8b416613ce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bd027a3e-c2e1-497a-b98e-07a52db15be9/e21d0a17-24d4-4f50-b819-fa8b416613ce
+md5	d0e934689450175ac4d8ecb9aeedea50

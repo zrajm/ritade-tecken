@@ -1,0 +1,7 @@
+signId	2546
+text	tjäna
+imageUuid	791d5118-dde5-4dab-836f-34ad6132f45a
+translationKey	2da58333-4e59-40b6-98af-455097ec5d89
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/791d5118-dde5-4dab-836f-34ad6132f45a/2da58333-4e59-40b6-98af-455097ec5d89/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/791d5118-dde5-4dab-836f-34ad6132f45a/2da58333-4e59-40b6-98af-455097ec5d89
+md5	eb350e02a20e7a31b2c9380944d729c4

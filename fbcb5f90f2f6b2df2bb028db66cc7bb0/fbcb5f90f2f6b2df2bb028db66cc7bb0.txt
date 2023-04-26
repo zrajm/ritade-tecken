@@ -1,0 +1,8 @@
+
+signId	1936
+text	viktig
+imageUuid	49b8b1c1-85c5-4116-bbc1-4ee45515f991
+translationKey	2a3691ee-0675-4adf-bb3e-9197d6c4b221
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/49b8b1c1-85c5-4116-bbc1-4ee45515f991/2a3691ee-0675-4adf-bb3e-9197d6c4b221/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/49b8b1c1-85c5-4116-bbc1-4ee45515f991/2a3691ee-0675-4adf-bb3e-9197d6c4b221
+md5	fbcb5f90f2f6b2df2bb028db66cc7bb0

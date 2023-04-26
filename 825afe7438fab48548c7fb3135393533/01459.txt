@@ -1,0 +1,7 @@
+signId	1459
+text	spårvagn
+imageUuid	785ca351-cfa6-4927-a5c9-7d49cab94c37
+translationKey	c2eb365d-b7e8-4b75-a8f5-6ae6fced2bb0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/785ca351-cfa6-4927-a5c9-7d49cab94c37/c2eb365d-b7e8-4b75-a8f5-6ae6fced2bb0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/785ca351-cfa6-4927-a5c9-7d49cab94c37/c2eb365d-b7e8-4b75-a8f5-6ae6fced2bb0
+md5	825afe7438fab48548c7fb3135393533

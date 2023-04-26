@@ -1,0 +1,7 @@
+signId	585
+text	hemma
+imageUuid	0b448959-f508-4fdb-82ff-f806de2d0116
+translationKey	2c948f7a-ad83-4b15-98e1-d3410c40985f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0b448959-f508-4fdb-82ff-f806de2d0116/2c948f7a-ad83-4b15-98e1-d3410c40985f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0b448959-f508-4fdb-82ff-f806de2d0116/2c948f7a-ad83-4b15-98e1-d3410c40985f
+md5	eca2da20e618c493a3718daad2b7631d

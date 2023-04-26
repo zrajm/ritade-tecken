@@ -1,0 +1,7 @@
+signId	1993
+text	grotta
+imageUuid	5c5d0df4-beb0-472b-9fea-f263735b42ce
+translationKey	5017613e-7f17-400d-9d25-bf35888c025d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5c5d0df4-beb0-472b-9fea-f263735b42ce/5017613e-7f17-400d-9d25-bf35888c025d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5c5d0df4-beb0-472b-9fea-f263735b42ce/5017613e-7f17-400d-9d25-bf35888c025d
+md5	bf5d9abdaa1c85d97111dcf3cbb678d7

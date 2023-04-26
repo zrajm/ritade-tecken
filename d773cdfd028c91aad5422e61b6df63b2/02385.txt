@@ -1,0 +1,7 @@
+signId	2385
+text	samhälle
+imageUuid	6c6febbe-6534-48e2-8b65-a92fe5b5561a
+translationKey	ed45730a-b4c2-4943-984b-672d01d00a2b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6c6febbe-6534-48e2-8b65-a92fe5b5561a/ed45730a-b4c2-4943-984b-672d01d00a2b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6c6febbe-6534-48e2-8b65-a92fe5b5561a/ed45730a-b4c2-4943-984b-672d01d00a2b
+md5	d773cdfd028c91aad5422e61b6df63b2

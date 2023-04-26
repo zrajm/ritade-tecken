@@ -1,0 +1,8 @@
+
+signId	2030
+text	dribbla
+imageUuid	3286379d-c6a3-46a9-b1d0-9a7592836670
+translationKey	3144c8d0-3e21-441c-ad11-222a9bcec8c1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3286379d-c6a3-46a9-b1d0-9a7592836670/3144c8d0-3e21-441c-ad11-222a9bcec8c1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3286379d-c6a3-46a9-b1d0-9a7592836670/3144c8d0-3e21-441c-ad11-222a9bcec8c1
+md5	70fcf9b044845c3e27dbd128555c107a

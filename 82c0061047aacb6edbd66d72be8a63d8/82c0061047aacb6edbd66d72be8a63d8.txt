@@ -1,0 +1,8 @@
+
+signId	1607
+text	trappa
+imageUuid	d8490839-8463-46ac-9700-1377df3862ba
+translationKey	5660844c-e686-483d-bf99-f541c016287c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d8490839-8463-46ac-9700-1377df3862ba/5660844c-e686-483d-bf99-f541c016287c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d8490839-8463-46ac-9700-1377df3862ba/5660844c-e686-483d-bf99-f541c016287c
+md5	82c0061047aacb6edbd66d72be8a63d8

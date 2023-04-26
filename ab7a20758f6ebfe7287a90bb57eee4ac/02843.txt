@@ -1,0 +1,7 @@
+signId	2843
+text	tre (siffra)
+imageUuid	de95d3e5-72ea-420e-9585-c4dfad396665
+translationKey	3394869e-cce4-4d95-bb6a-358b205872e4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/de95d3e5-72ea-420e-9585-c4dfad396665/3394869e-cce4-4d95-bb6a-358b205872e4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/de95d3e5-72ea-420e-9585-c4dfad396665/3394869e-cce4-4d95-bb6a-358b205872e4
+md5	ab7a20758f6ebfe7287a90bb57eee4ac

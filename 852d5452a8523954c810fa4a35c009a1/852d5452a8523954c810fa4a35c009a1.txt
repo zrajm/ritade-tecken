@@ -1,0 +1,8 @@
+
+signId	1953
+text	billig
+imageUuid	1a3dd02d-6cec-4a29-aae0-59bf98254b21
+translationKey	0fbdf22f-b838-420d-b266-3ed1f2e752cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1a3dd02d-6cec-4a29-aae0-59bf98254b21/0fbdf22f-b838-420d-b266-3ed1f2e752cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1a3dd02d-6cec-4a29-aae0-59bf98254b21/0fbdf22f-b838-420d-b266-3ed1f2e752cd
+md5	852d5452a8523954c810fa4a35c009a1

@@ -1,0 +1,8 @@
+
+signId	2795
+text	p-piller
+imageUuid	fb6baaa5-cc23-4cab-92e7-4b50a0f02708
+translationKey	a75838d2-07b9-473c-96d2-a0270d176bde
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fb6baaa5-cc23-4cab-92e7-4b50a0f02708/a75838d2-07b9-473c-96d2-a0270d176bde/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fb6baaa5-cc23-4cab-92e7-4b50a0f02708/a75838d2-07b9-473c-96d2-a0270d176bde
+md5	8f2abdf343600ab02f9ab83e9ad38bca

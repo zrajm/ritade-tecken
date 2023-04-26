@@ -1,0 +1,8 @@
+
+signId	2672
+text	vindkraft
+imageUuid	b660d8cd-47c3-48c2-92ff-b6a40cfe6497
+translationKey	68fb2bb2-ec49-4db2-ae52-eab062c6fcd0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b660d8cd-47c3-48c2-92ff-b6a40cfe6497/68fb2bb2-ec49-4db2-ae52-eab062c6fcd0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b660d8cd-47c3-48c2-92ff-b6a40cfe6497/68fb2bb2-ec49-4db2-ae52-eab062c6fcd0
+md5	94b41d4634de3016b45d548e58eec43b

@@ -1,0 +1,7 @@
+signId	1695
+text	vakta
+imageUuid	9d1f5916-dbb4-4066-8041-efa7ee75b318
+translationKey	eb4cd45d-47db-4669-b398-9748329f0545
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9d1f5916-dbb4-4066-8041-efa7ee75b318/eb4cd45d-47db-4669-b398-9748329f0545/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9d1f5916-dbb4-4066-8041-efa7ee75b318/eb4cd45d-47db-4669-b398-9748329f0545
+md5	1882d74ecbfebe1679a9eb5df2f4e50a

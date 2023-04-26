@@ -1,0 +1,7 @@
+signId	3416
+text	storlek
+imageUuid	83c98189-3d4c-41c3-ad11-258826d5b75b
+translationKey	61ba689d-b899-4570-86e0-9a8b3430a64d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/83c98189-3d4c-41c3-ad11-258826d5b75b/61ba689d-b899-4570-86e0-9a8b3430a64d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/83c98189-3d4c-41c3-ad11-258826d5b75b/61ba689d-b899-4570-86e0-9a8b3430a64d
+md5	9ac163a2aa5c8f61ea20d8c5d3a324fa

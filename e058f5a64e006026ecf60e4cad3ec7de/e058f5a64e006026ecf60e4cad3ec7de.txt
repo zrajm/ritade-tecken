@@ -1,0 +1,8 @@
+
+signId	2098
+text	blod 2
+imageUuid	ba5aaf82-57d6-4391-9797-55d86f799961
+translationKey	7846d368-b7b2-415c-9991-1e7fb5f08caf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ba5aaf82-57d6-4391-9797-55d86f799961/7846d368-b7b2-415c-9991-1e7fb5f08caf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ba5aaf82-57d6-4391-9797-55d86f799961/7846d368-b7b2-415c-9991-1e7fb5f08caf
+md5	e058f5a64e006026ecf60e4cad3ec7de

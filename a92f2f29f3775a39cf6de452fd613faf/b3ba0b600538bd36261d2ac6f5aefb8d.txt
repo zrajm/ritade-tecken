@@ -1,0 +1,8 @@
+
+signId	1929
+text	media
+imageUuid	4e567dee-cb36-405e-9fda-1e74ef180765
+translationKey	ade82f64-6382-49c3-a1b2-a507bdf27413
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e567dee-cb36-405e-9fda-1e74ef180765/ade82f64-6382-49c3-a1b2-a507bdf27413/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e567dee-cb36-405e-9fda-1e74ef180765/ade82f64-6382-49c3-a1b2-a507bdf27413
+md5	b3ba0b600538bd36261d2ac6f5aefb8d

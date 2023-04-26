@@ -1,0 +1,7 @@
+signId	1808
+text	äntligen
+imageUuid	2a20c929-e9cf-4829-8636-faeae2f1ee28
+translationKey	6e61c863-d30d-436a-b8ee-f0ad227a45b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2a20c929-e9cf-4829-8636-faeae2f1ee28/6e61c863-d30d-436a-b8ee-f0ad227a45b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2a20c929-e9cf-4829-8636-faeae2f1ee28/6e61c863-d30d-436a-b8ee-f0ad227a45b4
+md5	ecf7527469af78fd5004518ee2880b12

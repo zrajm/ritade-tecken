@@ -1,0 +1,7 @@
+signId	990
+text	miljö
+imageUuid	2bb97fc4-8335-4caf-ab4e-0eeeb4de16d1
+translationKey	32cc8ca6-b6d1-4670-bff5-07c2164b779b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2bb97fc4-8335-4caf-ab4e-0eeeb4de16d1/32cc8ca6-b6d1-4670-bff5-07c2164b779b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2bb97fc4-8335-4caf-ab4e-0eeeb4de16d1/32cc8ca6-b6d1-4670-bff5-07c2164b779b
+md5	c11c0e0295df6187ef2ed9be2fef9dd5

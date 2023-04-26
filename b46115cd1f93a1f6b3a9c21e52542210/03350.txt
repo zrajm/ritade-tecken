@@ -1,0 +1,7 @@
+signId	3350
+text	straff
+imageUuid	a9341642-882b-4e8b-bc8a-f5a3349e5d2b
+translationKey	578b37a5-0298-4504-bff8-a1f611b82ecc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a9341642-882b-4e8b-bc8a-f5a3349e5d2b/578b37a5-0298-4504-bff8-a1f611b82ecc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a9341642-882b-4e8b-bc8a-f5a3349e5d2b/578b37a5-0298-4504-bff8-a1f611b82ecc
+md5	b46115cd1f93a1f6b3a9c21e52542210

@@ -1,0 +1,7 @@
+signId	464
+text	förståndig
+imageUuid	95d8d3f8-e07c-4bb4-85b1-0d21815db62f
+translationKey	788d5af8-75b4-4edf-aa61-09721a44c825
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/95d8d3f8-e07c-4bb4-85b1-0d21815db62f/788d5af8-75b4-4edf-aa61-09721a44c825/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/95d8d3f8-e07c-4bb4-85b1-0d21815db62f/788d5af8-75b4-4edf-aa61-09721a44c825
+md5	87f11c85738d28fa50273e92f767b26c

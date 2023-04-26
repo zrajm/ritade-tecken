@@ -1,0 +1,7 @@
+signId	2037
+text	barra
+imageUuid	99fa0335-c346-40a4-8868-9a5839a92407
+translationKey	2748aaf0-72ae-40a9-bc7e-3574dbba4304
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/99fa0335-c346-40a4-8868-9a5839a92407/2748aaf0-72ae-40a9-bc7e-3574dbba4304/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/99fa0335-c346-40a4-8868-9a5839a92407/2748aaf0-72ae-40a9-bc7e-3574dbba4304
+md5	f408636ea4727657216cdb124331f591

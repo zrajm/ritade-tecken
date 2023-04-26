@@ -1,0 +1,7 @@
+signId	2636
+text	fotvård
+imageUuid	8368f438-0a26-4fd0-a1f2-fbb8784547c4
+translationKey	60fd80aa-cf38-497a-8629-466b5be5e54e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8368f438-0a26-4fd0-a1f2-fbb8784547c4/60fd80aa-cf38-497a-8629-466b5be5e54e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8368f438-0a26-4fd0-a1f2-fbb8784547c4/60fd80aa-cf38-497a-8629-466b5be5e54e
+md5	a8f7ef4464a4ca6d2472fed84c41846a

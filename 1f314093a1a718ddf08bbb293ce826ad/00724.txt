@@ -1,0 +1,7 @@
+signId	724
+text	kanot
+imageUuid	0299eec3-a43a-4c93-a294-553ac91aa4fb
+translationKey	529cd850-fb32-48aa-a9a1-49a3ce1a9842
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0299eec3-a43a-4c93-a294-553ac91aa4fb/529cd850-fb32-48aa-a9a1-49a3ce1a9842/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0299eec3-a43a-4c93-a294-553ac91aa4fb/529cd850-fb32-48aa-a9a1-49a3ce1a9842
+md5	1f314093a1a718ddf08bbb293ce826ad

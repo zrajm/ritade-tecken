@@ -1,0 +1,8 @@
+
+signId	1760
+text	väder
+imageUuid	091c2bb2-0383-4eb0-8a64-18a6b493e5fb
+translationKey	407d8fbb-38ba-4b89-8a5c-603abe99117b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/091c2bb2-0383-4eb0-8a64-18a6b493e5fb/407d8fbb-38ba-4b89-8a5c-603abe99117b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/091c2bb2-0383-4eb0-8a64-18a6b493e5fb/407d8fbb-38ba-4b89-8a5c-603abe99117b
+md5	374caa37c49183c83f349bc86a44b736

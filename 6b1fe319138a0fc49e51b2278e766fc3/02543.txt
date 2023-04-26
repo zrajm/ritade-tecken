@@ -1,0 +1,7 @@
+signId	2543
+text	karaoke
+imageUuid	b4336beb-7e17-4ebc-8e09-5ce8c13f2c18
+translationKey	a1d2f4c1-96d4-4c37-9eac-fb27c86c5ef6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b4336beb-7e17-4ebc-8e09-5ce8c13f2c18/a1d2f4c1-96d4-4c37-9eac-fb27c86c5ef6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b4336beb-7e17-4ebc-8e09-5ce8c13f2c18/a1d2f4c1-96d4-4c37-9eac-fb27c86c5ef6
+md5	6b1fe319138a0fc49e51b2278e766fc3

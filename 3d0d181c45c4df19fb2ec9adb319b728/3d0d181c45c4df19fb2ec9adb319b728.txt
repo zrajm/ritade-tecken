@@ -1,0 +1,8 @@
+
+signId	1264
+text	ruva
+imageUuid	6184ffc3-2acb-461b-9304-364293f398f0
+translationKey	94eeec31-511c-4601-86eb-cbad16c11005
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6184ffc3-2acb-461b-9304-364293f398f0/94eeec31-511c-4601-86eb-cbad16c11005/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6184ffc3-2acb-461b-9304-364293f398f0/94eeec31-511c-4601-86eb-cbad16c11005
+md5	3d0d181c45c4df19fb2ec9adb319b728

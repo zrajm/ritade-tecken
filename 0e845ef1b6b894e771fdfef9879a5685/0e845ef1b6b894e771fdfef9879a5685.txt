@@ -1,0 +1,8 @@
+
+signId	3134
+text	slev
+imageUuid	9e18e771-aa7f-464d-9953-c378f6783344
+translationKey	9c6df027-1560-4fe1-bf0d-a4e9c77817d7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9e18e771-aa7f-464d-9953-c378f6783344/9c6df027-1560-4fe1-bf0d-a4e9c77817d7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9e18e771-aa7f-464d-9953-c378f6783344/9c6df027-1560-4fe1-bf0d-a4e9c77817d7
+md5	0e845ef1b6b894e771fdfef9879a5685

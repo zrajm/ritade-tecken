@@ -1,0 +1,7 @@
+signId	16
+text	16_2 (tal)
+imageUuid	ea28a527-6960-4554-825f-452f4372bb0a
+translationKey	7415866c-e5b8-4708-abbd-a2d80b59c88c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea28a527-6960-4554-825f-452f4372bb0a/7415866c-e5b8-4708-abbd-a2d80b59c88c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea28a527-6960-4554-825f-452f4372bb0a/7415866c-e5b8-4708-abbd-a2d80b59c88c
+md5	5d82024ab2a7db302e5135360aeb6317

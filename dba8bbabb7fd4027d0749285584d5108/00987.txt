@@ -1,0 +1,7 @@
+signId	987
+text	middag (tid)
+imageUuid	efb6f516-1920-4192-96ec-633b14fb99c9
+translationKey	ff7023c2-6f93-4faf-897e-0b8cdf78eb8d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/efb6f516-1920-4192-96ec-633b14fb99c9/ff7023c2-6f93-4faf-897e-0b8cdf78eb8d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/efb6f516-1920-4192-96ec-633b14fb99c9/ff7023c2-6f93-4faf-897e-0b8cdf78eb8d
+md5	dba8bbabb7fd4027d0749285584d5108

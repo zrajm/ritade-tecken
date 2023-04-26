@@ -1,0 +1,8 @@
+
+signId	3310
+text	invånare
+imageUuid	6b734085-3112-46b3-88ab-5aa089921d99
+translationKey	9ae77810-9438-4bc5-9123-344cef05c46f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b734085-3112-46b3-88ab-5aa089921d99/9ae77810-9438-4bc5-9123-344cef05c46f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b734085-3112-46b3-88ab-5aa089921d99/9ae77810-9438-4bc5-9123-344cef05c46f
+md5	3cc31a5309270357f0cd2021e2c6e92d

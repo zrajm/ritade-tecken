@@ -1,0 +1,8 @@
+
+signId	2273
+text	gissa
+imageUuid	411f0dd2-6f38-426b-8181-49fb0c9af994
+translationKey	d71cd6f4-2cca-4b71-9732-99dd58df1280
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/411f0dd2-6f38-426b-8181-49fb0c9af994/d71cd6f4-2cca-4b71-9732-99dd58df1280/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/411f0dd2-6f38-426b-8181-49fb0c9af994/d71cd6f4-2cca-4b71-9732-99dd58df1280
+md5	31ae32cebc3675b52a98ef1fdabb27b4

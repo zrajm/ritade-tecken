@@ -1,0 +1,7 @@
+signId	3158
+text	femton 2
+imageUuid	e839ede5-89f1-4eed-be55-254f84f5f587
+translationKey	00e8d57a-9bdd-44d2-be8b-f79d8da71ab5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e839ede5-89f1-4eed-be55-254f84f5f587/00e8d57a-9bdd-44d2-be8b-f79d8da71ab5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e839ede5-89f1-4eed-be55-254f84f5f587/00e8d57a-9bdd-44d2-be8b-f79d8da71ab5
+md5	c52fd508e7ccd6eee3712a2d6d60378a

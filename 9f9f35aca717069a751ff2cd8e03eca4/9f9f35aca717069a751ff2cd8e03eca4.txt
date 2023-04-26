@@ -1,0 +1,8 @@
+
+signId	2021
+text	samla
+imageUuid	53f0bf3d-7d3c-4b31-8c2a-7bb65032ea91
+translationKey	c3c25a16-effa-4e02-a517-31ba32bcad75
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/53f0bf3d-7d3c-4b31-8c2a-7bb65032ea91/c3c25a16-effa-4e02-a517-31ba32bcad75/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/53f0bf3d-7d3c-4b31-8c2a-7bb65032ea91/c3c25a16-effa-4e02-a517-31ba32bcad75
+md5	9f9f35aca717069a751ff2cd8e03eca4

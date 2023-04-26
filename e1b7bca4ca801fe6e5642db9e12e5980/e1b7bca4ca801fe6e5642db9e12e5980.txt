@@ -1,0 +1,8 @@
+
+signId	2369
+text	ostbågar
+imageUuid	9d4fd17d-c4f9-45db-9f91-d112541c27a7
+translationKey	870029ac-a4f4-442b-9187-8e4c8b6aee78
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9d4fd17d-c4f9-45db-9f91-d112541c27a7/870029ac-a4f4-442b-9187-8e4c8b6aee78/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9d4fd17d-c4f9-45db-9f91-d112541c27a7/870029ac-a4f4-442b-9187-8e4c8b6aee78
+md5	e1b7bca4ca801fe6e5642db9e12e5980

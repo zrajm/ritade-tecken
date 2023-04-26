@@ -1,0 +1,8 @@
+
+signId	224
+text	börja
+imageUuid	09ab9d74-ebab-4314-ba27-a42c73793536
+translationKey	d244bb82-71ad-4638-b5ff-c9e9ffa55ab9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/09ab9d74-ebab-4314-ba27-a42c73793536/d244bb82-71ad-4638-b5ff-c9e9ffa55ab9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/09ab9d74-ebab-4314-ba27-a42c73793536/d244bb82-71ad-4638-b5ff-c9e9ffa55ab9
+md5	b55b52795f2e45c45b42fdbb0974bf7e

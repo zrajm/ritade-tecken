@@ -1,0 +1,7 @@
+signId	2907
+text	ögonfrans
+imageUuid	29070174-4134-4e9b-b406-6b1c98f212b4
+translationKey	8335cb2e-5607-4018-8b6e-4a7acff006a8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/29070174-4134-4e9b-b406-6b1c98f212b4/8335cb2e-5607-4018-8b6e-4a7acff006a8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/29070174-4134-4e9b-b406-6b1c98f212b4/8335cb2e-5607-4018-8b6e-4a7acff006a8
+md5	e51386c469405530c9e61e578e017d4e

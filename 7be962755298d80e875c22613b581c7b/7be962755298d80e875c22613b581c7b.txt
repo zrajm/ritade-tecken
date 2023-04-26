@@ -1,0 +1,8 @@
+
+signId	567
+text	hand
+imageUuid	edd74969-8d38-4e1d-8922-cc85591fcd29
+translationKey	842ed716-009d-4604-98a3-20c36e11f871
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/edd74969-8d38-4e1d-8922-cc85591fcd29/842ed716-009d-4604-98a3-20c36e11f871/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/edd74969-8d38-4e1d-8922-cc85591fcd29/842ed716-009d-4604-98a3-20c36e11f871
+md5	7be962755298d80e875c22613b581c7b

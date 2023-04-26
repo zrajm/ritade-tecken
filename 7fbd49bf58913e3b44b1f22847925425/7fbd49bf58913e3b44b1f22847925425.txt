@@ -1,0 +1,8 @@
+
+signId	298
+text	duktig
+imageUuid	1b37913f-f8b8-4cde-80d0-91846ec50323
+translationKey	bffc543e-4cbd-49cc-8d38-b34d2689292b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1b37913f-f8b8-4cde-80d0-91846ec50323/bffc543e-4cbd-49cc-8d38-b34d2689292b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1b37913f-f8b8-4cde-80d0-91846ec50323/bffc543e-4cbd-49cc-8d38-b34d2689292b
+md5	7fbd49bf58913e3b44b1f22847925425

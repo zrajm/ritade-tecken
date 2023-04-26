@@ -1,0 +1,7 @@
+signId	759
+text	klä av
+imageUuid	bbd2a5cc-a8df-45ab-85dd-919c302c0923
+translationKey	26598e9d-4ea3-49fb-a7a8-486f76b36082
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bbd2a5cc-a8df-45ab-85dd-919c302c0923/26598e9d-4ea3-49fb-a7a8-486f76b36082/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bbd2a5cc-a8df-45ab-85dd-919c302c0923/26598e9d-4ea3-49fb-a7a8-486f76b36082
+md5	f4498591c9c29ef0b1ca449a27d9af55

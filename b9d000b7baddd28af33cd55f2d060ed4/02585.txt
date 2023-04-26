@@ -1,0 +1,7 @@
+signId	2585
+text	köttfärs
+imageUuid	57bf16d9-729d-448e-8ec4-fd1032529499
+translationKey	88d8bc25-3594-47b3-9a97-ec9a75e3e2c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/57bf16d9-729d-448e-8ec4-fd1032529499/88d8bc25-3594-47b3-9a97-ec9a75e3e2c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/57bf16d9-729d-448e-8ec4-fd1032529499/88d8bc25-3594-47b3-9a97-ec9a75e3e2c4
+md5	b9d000b7baddd28af33cd55f2d060ed4

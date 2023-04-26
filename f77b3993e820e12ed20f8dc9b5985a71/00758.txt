@@ -1,0 +1,7 @@
+signId	758
+text	klubba
+imageUuid	0966e358-d130-497b-9bd8-bc1ffc79b6ec
+translationKey	473f4120-31a0-4420-b36d-b45045b561bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0966e358-d130-497b-9bd8-bc1ffc79b6ec/473f4120-31a0-4420-b36d-b45045b561bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0966e358-d130-497b-9bd8-bc1ffc79b6ec/473f4120-31a0-4420-b36d-b45045b561bf
+md5	f77b3993e820e12ed20f8dc9b5985a71

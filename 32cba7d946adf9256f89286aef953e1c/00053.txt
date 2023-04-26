@@ -1,0 +1,7 @@
+signId	53
+text	ansikte 2
+imageUuid	7f020c37-6ddf-44de-9fea-6846c9ea9559
+translationKey	27efe17c-d8eb-4eff-9245-6ac2b4f2d5b7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f020c37-6ddf-44de-9fea-6846c9ea9559/27efe17c-d8eb-4eff-9245-6ac2b4f2d5b7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f020c37-6ddf-44de-9fea-6846c9ea9559/27efe17c-d8eb-4eff-9245-6ac2b4f2d5b7
+md5	32cba7d946adf9256f89286aef953e1c

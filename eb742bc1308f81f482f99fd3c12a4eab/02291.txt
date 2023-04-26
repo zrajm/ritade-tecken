@@ -1,0 +1,7 @@
+signId	2291
+text	naturlig
+imageUuid	d355f52b-3915-460c-be17-4df4a09f79df
+translationKey	6d57649f-b872-4db4-b88a-e848e682e821
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d355f52b-3915-460c-be17-4df4a09f79df/6d57649f-b872-4db4-b88a-e848e682e821/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d355f52b-3915-460c-be17-4df4a09f79df/6d57649f-b872-4db4-b88a-e848e682e821
+md5	eb742bc1308f81f482f99fd3c12a4eab

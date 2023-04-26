@@ -1,0 +1,7 @@
+signId	2221
+text	hårborste
+imageUuid	aa512855-0cde-48f2-a4c0-09543c0109cb
+translationKey	3298c5b7-0e4b-430e-a402-5551e64f6614
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aa512855-0cde-48f2-a4c0-09543c0109cb/3298c5b7-0e4b-430e-a402-5551e64f6614/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aa512855-0cde-48f2-a4c0-09543c0109cb/3298c5b7-0e4b-430e-a402-5551e64f6614
+md5	3796bd79df0099fc8bb45ba7c6ddfdf3

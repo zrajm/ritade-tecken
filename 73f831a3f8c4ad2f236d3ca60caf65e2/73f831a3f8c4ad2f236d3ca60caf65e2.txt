@@ -1,0 +1,8 @@
+
+signId	926
+text	lång (om personer)
+imageUuid	f59369a7-ad73-4f4c-b61e-ed2bbb3bb88b
+translationKey	2c091c67-d5bc-4b4b-9f2e-90a476fe0281
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f59369a7-ad73-4f4c-b61e-ed2bbb3bb88b/2c091c67-d5bc-4b4b-9f2e-90a476fe0281/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f59369a7-ad73-4f4c-b61e-ed2bbb3bb88b/2c091c67-d5bc-4b4b-9f2e-90a476fe0281
+md5	73f831a3f8c4ad2f236d3ca60caf65e2

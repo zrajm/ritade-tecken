@@ -1,0 +1,7 @@
+signId	1961
+text	styra
+imageUuid	64f8cec6-c60e-4aae-8b3b-004b8672c1d0
+translationKey	7b0a8044-f24c-464c-b7ef-cd540a6de259
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/64f8cec6-c60e-4aae-8b3b-004b8672c1d0/7b0a8044-f24c-464c-b7ef-cd540a6de259/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/64f8cec6-c60e-4aae-8b3b-004b8672c1d0/7b0a8044-f24c-464c-b7ef-cd540a6de259
+md5	434f4162b6b715de15e07af79da342d7

@@ -1,0 +1,7 @@
+signId	3199
+text	diskriminera
+imageUuid	8fcd115c-9624-4a9b-b957-ae4f304e1171
+translationKey	ba903201-d013-4bd7-8611-c92aa3a43a2a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8fcd115c-9624-4a9b-b957-ae4f304e1171/ba903201-d013-4bd7-8611-c92aa3a43a2a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8fcd115c-9624-4a9b-b957-ae4f304e1171/ba903201-d013-4bd7-8611-c92aa3a43a2a
+md5	4c81b3136575ea7a967c4e86f0cb790b

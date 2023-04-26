@@ -1,0 +1,7 @@
+signId	2944
+text	vattenflaska
+imageUuid	fcfa0594-f1dd-43e3-b8a2-e9e3d973d5d5
+translationKey	302b80fa-9bf2-4172-b31e-1d19c916e740
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fcfa0594-f1dd-43e3-b8a2-e9e3d973d5d5/302b80fa-9bf2-4172-b31e-1d19c916e740/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fcfa0594-f1dd-43e3-b8a2-e9e3d973d5d5/302b80fa-9bf2-4172-b31e-1d19c916e740
+md5	d502f5b516cbd8803bd0b567efd1536f

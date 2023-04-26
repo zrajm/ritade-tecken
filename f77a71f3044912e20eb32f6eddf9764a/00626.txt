@@ -1,0 +1,7 @@
+signId	626
+text	hälsa
+imageUuid	05e9ef11-5a56-4f60-8699-777514f6eb59
+translationKey	98ebc222-b111-499d-9167-b5c005d94bc4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/05e9ef11-5a56-4f60-8699-777514f6eb59/98ebc222-b111-499d-9167-b5c005d94bc4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/05e9ef11-5a56-4f60-8699-777514f6eb59/98ebc222-b111-499d-9167-b5c005d94bc4
+md5	f77a71f3044912e20eb32f6eddf9764a

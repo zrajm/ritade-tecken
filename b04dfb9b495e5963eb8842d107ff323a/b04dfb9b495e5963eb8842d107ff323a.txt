@@ -1,0 +1,8 @@
+
+signId	3066
+text	gott nytt år
+imageUuid	e2b56aa4-a94c-43d8-9242-89afa500248b
+translationKey	65fe75d0-5244-4d90-beb8-a1bc5f4d2eee
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e2b56aa4-a94c-43d8-9242-89afa500248b/65fe75d0-5244-4d90-beb8-a1bc5f4d2eee/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e2b56aa4-a94c-43d8-9242-89afa500248b/65fe75d0-5244-4d90-beb8-a1bc5f4d2eee
+md5	b04dfb9b495e5963eb8842d107ff323a

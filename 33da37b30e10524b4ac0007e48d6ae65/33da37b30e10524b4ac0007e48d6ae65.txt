@@ -1,0 +1,8 @@
+
+signId	3114
+text	Ryssland 2
+imageUuid	3b46bde6-3f4b-4323-8613-faa47ccf7e33
+translationKey	a85c73a5-1ef6-4fdb-96c5-6d9feb1fb547
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b46bde6-3f4b-4323-8613-faa47ccf7e33/a85c73a5-1ef6-4fdb-96c5-6d9feb1fb547/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b46bde6-3f4b-4323-8613-faa47ccf7e33/a85c73a5-1ef6-4fdb-96c5-6d9feb1fb547
+md5	33da37b30e10524b4ac0007e48d6ae65

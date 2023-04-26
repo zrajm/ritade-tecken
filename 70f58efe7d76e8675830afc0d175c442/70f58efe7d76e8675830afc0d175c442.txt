@@ -1,0 +1,8 @@
+
+signId	2721
+text	jullov
+imageUuid	450d0646-0e4a-40a9-9fb3-51e1f9a596b6
+translationKey	5b209121-9eb1-4f31-9a11-03927278399e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/450d0646-0e4a-40a9-9fb3-51e1f9a596b6/5b209121-9eb1-4f31-9a11-03927278399e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/450d0646-0e4a-40a9-9fb3-51e1f9a596b6/5b209121-9eb1-4f31-9a11-03927278399e
+md5	70f58efe7d76e8675830afc0d175c442

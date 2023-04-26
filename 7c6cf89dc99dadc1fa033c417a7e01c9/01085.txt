@@ -1,0 +1,7 @@
+signId	1085
+text	nyfiken
+imageUuid	cb6ed378-eb1a-4c90-bfc2-d8812c32529a
+translationKey	3fcab262-8126-4bec-9ee8-ce7d94bf0a25
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cb6ed378-eb1a-4c90-bfc2-d8812c32529a/3fcab262-8126-4bec-9ee8-ce7d94bf0a25/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cb6ed378-eb1a-4c90-bfc2-d8812c32529a/3fcab262-8126-4bec-9ee8-ce7d94bf0a25
+md5	7c6cf89dc99dadc1fa033c417a7e01c9

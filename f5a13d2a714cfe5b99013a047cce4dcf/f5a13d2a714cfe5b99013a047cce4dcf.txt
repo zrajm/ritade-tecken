@@ -1,0 +1,8 @@
+
+signId	417
+text	frälsare
+imageUuid	a0deca6b-40ff-4cd6-92a1-35bea60c851c
+translationKey	c927c4f6-0671-4294-9170-b300acfbd990
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0deca6b-40ff-4cd6-92a1-35bea60c851c/c927c4f6-0671-4294-9170-b300acfbd990/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0deca6b-40ff-4cd6-92a1-35bea60c851c/c927c4f6-0671-4294-9170-b300acfbd990
+md5	f5a13d2a714cfe5b99013a047cce4dcf

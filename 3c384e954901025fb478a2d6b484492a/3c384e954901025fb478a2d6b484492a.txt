@@ -1,0 +1,8 @@
+
+signId	2764
+text	gråsugga
+imageUuid	bf18e5f0-a47d-461d-abcc-74d0a51390d0
+translationKey	3e2108a5-7a11-4711-a402-d51f65ea9f57
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bf18e5f0-a47d-461d-abcc-74d0a51390d0/3e2108a5-7a11-4711-a402-d51f65ea9f57/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bf18e5f0-a47d-461d-abcc-74d0a51390d0/3e2108a5-7a11-4711-a402-d51f65ea9f57
+md5	3c384e954901025fb478a2d6b484492a

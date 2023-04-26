@@ -1,0 +1,8 @@
+
+signId	2148
+text	slåss
+imageUuid	a0b51cd5-17ca-4e7e-8442-9afed940f253
+translationKey	a8d090cc-50c3-4a54-8b59-c979e984a455
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0b51cd5-17ca-4e7e-8442-9afed940f253/a8d090cc-50c3-4a54-8b59-c979e984a455/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0b51cd5-17ca-4e7e-8442-9afed940f253/a8d090cc-50c3-4a54-8b59-c979e984a455
+md5	5c7b79c2eb66f9604e60c7741c4f1207

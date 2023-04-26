@@ -1,0 +1,7 @@
+signId	2442
+text	pirat
+imageUuid	2ff93d4e-04ba-42b0-b145-56d2e7c85201
+translationKey	a343f580-6a41-4e9b-9689-c8aca2f94301
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ff93d4e-04ba-42b0-b145-56d2e7c85201/a343f580-6a41-4e9b-9689-c8aca2f94301/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ff93d4e-04ba-42b0-b145-56d2e7c85201/a343f580-6a41-4e9b-9689-c8aca2f94301
+md5	474f1abf359f0c2adbe426da23e5c75f

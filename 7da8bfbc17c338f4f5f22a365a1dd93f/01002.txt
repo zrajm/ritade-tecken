@@ -1,0 +1,7 @@
+signId	1002
+text	mjöl
+imageUuid	367dd25e-6867-4eb7-b605-b914ec7c6bf8
+translationKey	8f0c54bd-b4ca-403e-8c4d-64d15c793894
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/367dd25e-6867-4eb7-b605-b914ec7c6bf8/8f0c54bd-b4ca-403e-8c4d-64d15c793894/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/367dd25e-6867-4eb7-b605-b914ec7c6bf8/8f0c54bd-b4ca-403e-8c4d-64d15c793894
+md5	d23bb324ca62d96e199d675352baea16

@@ -1,0 +1,8 @@
+
+signId	2872
+text	akvarium
+imageUuid	564b2602-28a7-4e8e-93aa-9c75b1454a8e
+translationKey	eb5a7bce-0825-4fc1-bec6-e62b1b3a55e5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/564b2602-28a7-4e8e-93aa-9c75b1454a8e/eb5a7bce-0825-4fc1-bec6-e62b1b3a55e5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/564b2602-28a7-4e8e-93aa-9c75b1454a8e/eb5a7bce-0825-4fc1-bec6-e62b1b3a55e5
+md5	56a7e53c4638a2c26dbe2465f4a510d0

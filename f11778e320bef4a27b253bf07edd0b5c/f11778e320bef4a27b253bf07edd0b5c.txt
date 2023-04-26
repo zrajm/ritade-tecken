@@ -1,0 +1,8 @@
+
+signId	3131
+text	päronträd
+imageUuid	3a881b1d-20e6-42b6-9692-a75ac1745c18
+translationKey	0a5f4bf4-5550-453e-8c15-dc1032d20ed5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a881b1d-20e6-42b6-9692-a75ac1745c18/0a5f4bf4-5550-453e-8c15-dc1032d20ed5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a881b1d-20e6-42b6-9692-a75ac1745c18/0a5f4bf4-5550-453e-8c15-dc1032d20ed5
+md5	f11778e320bef4a27b253bf07edd0b5c

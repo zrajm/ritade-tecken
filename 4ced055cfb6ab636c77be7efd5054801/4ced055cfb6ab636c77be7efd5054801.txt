@@ -1,0 +1,8 @@
+
+signId	2879
+text	bankkort
+imageUuid	31e14f03-f3b0-4323-92bb-d51adc740bc5
+translationKey	86b55b1e-6f6e-4215-9a95-b67bdfe0c040
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/31e14f03-f3b0-4323-92bb-d51adc740bc5/86b55b1e-6f6e-4215-9a95-b67bdfe0c040/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/31e14f03-f3b0-4323-92bb-d51adc740bc5/86b55b1e-6f6e-4215-9a95-b67bdfe0c040
+md5	4ced055cfb6ab636c77be7efd5054801

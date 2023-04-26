@@ -1,0 +1,7 @@
+signId	2602
+text	stavar
+imageUuid	37009f9c-ea43-4e2b-846d-1ecf06bcbc71
+translationKey	5f861549-5a09-43eb-aea3-a762d989c19e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/37009f9c-ea43-4e2b-846d-1ecf06bcbc71/5f861549-5a09-43eb-aea3-a762d989c19e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/37009f9c-ea43-4e2b-846d-1ecf06bcbc71/5f861549-5a09-43eb-aea3-a762d989c19e
+md5	74cdb4c81aa7e3ad256cc55dd61cbf0b

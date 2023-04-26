@@ -1,0 +1,8 @@
+
+signId	948
+text	lök
+imageUuid	f865c4bc-2fc8-4d30-be40-25eec1561686
+translationKey	6497002c-55ab-4ca0-b62e-2a9df50ccbaa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f865c4bc-2fc8-4d30-be40-25eec1561686/6497002c-55ab-4ca0-b62e-2a9df50ccbaa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f865c4bc-2fc8-4d30-be40-25eec1561686/6497002c-55ab-4ca0-b62e-2a9df50ccbaa
+md5	ac57bbaf7475fe79623d2f6954b3b091

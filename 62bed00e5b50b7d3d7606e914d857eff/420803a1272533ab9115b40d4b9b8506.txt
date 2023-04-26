@@ -1,0 +1,8 @@
+
+signId	1729
+text	vilja
+imageUuid	dc27a63f-c4b7-448a-ab3b-e2b2e4b80049
+translationKey	1283818f-3480-43f5-9e3b-c71a3f0c3d64
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dc27a63f-c4b7-448a-ab3b-e2b2e4b80049/1283818f-3480-43f5-9e3b-c71a3f0c3d64/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dc27a63f-c4b7-448a-ab3b-e2b2e4b80049/1283818f-3480-43f5-9e3b-c71a3f0c3d64
+md5	420803a1272533ab9115b40d4b9b8506

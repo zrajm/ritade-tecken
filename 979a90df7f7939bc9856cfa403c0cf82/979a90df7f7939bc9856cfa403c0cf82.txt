@@ -1,0 +1,8 @@
+
+signId	2932
+text	brödrost
+imageUuid	6e00cc04-9971-415a-818e-71840d835b4d
+translationKey	5a6cb2ec-851c-4525-af01-8dff00f68a1e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6e00cc04-9971-415a-818e-71840d835b4d/5a6cb2ec-851c-4525-af01-8dff00f68a1e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6e00cc04-9971-415a-818e-71840d835b4d/5a6cb2ec-851c-4525-af01-8dff00f68a1e
+md5	979a90df7f7939bc9856cfa403c0cf82

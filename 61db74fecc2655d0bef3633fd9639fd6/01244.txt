@@ -1,0 +1,7 @@
+signId	1244
+text	ringa
+imageUuid	cb92cfe7-7f3a-47e7-859c-fc4e4a4bf4f7
+translationKey	da60570c-6120-47cf-95a5-0391597434cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cb92cfe7-7f3a-47e7-859c-fc4e4a4bf4f7/da60570c-6120-47cf-95a5-0391597434cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cb92cfe7-7f3a-47e7-859c-fc4e4a4bf4f7/da60570c-6120-47cf-95a5-0391597434cd
+md5	61db74fecc2655d0bef3633fd9639fd6

@@ -1,0 +1,7 @@
+signId	1224
+text	radera
+imageUuid	1df9504e-8407-4630-a9bc-2a42ca46b307
+translationKey	26209cb5-eb88-40dc-a974-43db408a613b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1df9504e-8407-4630-a9bc-2a42ca46b307/26209cb5-eb88-40dc-a974-43db408a613b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1df9504e-8407-4630-a9bc-2a42ca46b307/26209cb5-eb88-40dc-a974-43db408a613b
+md5	a66eb6a199c434d412e3cd6ae936b471

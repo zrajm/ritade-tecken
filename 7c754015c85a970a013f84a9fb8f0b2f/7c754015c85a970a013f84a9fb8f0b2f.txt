@@ -1,0 +1,8 @@
+
+signId	2778
+text	Frankrike
+imageUuid	017f82fd-cc36-42bb-bcd0-37d18dae7add
+translationKey	1c53bd7a-b86c-40a3-b014-9d642ec06066
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/017f82fd-cc36-42bb-bcd0-37d18dae7add/1c53bd7a-b86c-40a3-b014-9d642ec06066/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/017f82fd-cc36-42bb-bcd0-37d18dae7add/1c53bd7a-b86c-40a3-b014-9d642ec06066
+md5	7c754015c85a970a013f84a9fb8f0b2f

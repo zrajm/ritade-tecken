@@ -1,0 +1,7 @@
+signId	3325
+text	markör
+imageUuid	7ecd4da0-703d-4248-9d99-5cbe19cc0e8d
+translationKey	3b1a44f1-9b0c-4866-a278-fc467264b884
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7ecd4da0-703d-4248-9d99-5cbe19cc0e8d/3b1a44f1-9b0c-4866-a278-fc467264b884/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7ecd4da0-703d-4248-9d99-5cbe19cc0e8d/3b1a44f1-9b0c-4866-a278-fc467264b884
+md5	56ee3d325c7aa278fbe9db0413265ebf

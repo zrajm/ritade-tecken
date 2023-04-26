@@ -1,0 +1,7 @@
+signId	1363
+text	skruva
+imageUuid	0621a501-553b-4cbf-9cfa-4fac81824104
+translationKey	8f0f6330-f3c2-4b9b-ad7f-2d90393f4534
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0621a501-553b-4cbf-9cfa-4fac81824104/8f0f6330-f3c2-4b9b-ad7f-2d90393f4534/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0621a501-553b-4cbf-9cfa-4fac81824104/8f0f6330-f3c2-4b9b-ad7f-2d90393f4534
+md5	16aa61473ed757089fd8ce3770252265

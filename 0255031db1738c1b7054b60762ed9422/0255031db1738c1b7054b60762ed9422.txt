@@ -1,0 +1,8 @@
+
+signId	1778
+text	Y (bokstav)
+imageUuid	1cfcacd1-fa9a-45ba-86f4-3af4cd954429
+translationKey	deef02b8-1762-4992-b8aa-8d5cd07c307b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1cfcacd1-fa9a-45ba-86f4-3af4cd954429/deef02b8-1762-4992-b8aa-8d5cd07c307b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1cfcacd1-fa9a-45ba-86f4-3af4cd954429/deef02b8-1762-4992-b8aa-8d5cd07c307b
+md5	0255031db1738c1b7054b60762ed9422

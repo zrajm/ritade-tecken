@@ -1,0 +1,8 @@
+
+signId	2524
+text	ovän
+imageUuid	c286e564-fa87-4de1-b95d-f66bc25f4a95
+translationKey	7d83b3b1-e5ca-4943-a50b-60ad4e759e6d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c286e564-fa87-4de1-b95d-f66bc25f4a95/7d83b3b1-e5ca-4943-a50b-60ad4e759e6d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c286e564-fa87-4de1-b95d-f66bc25f4a95/7d83b3b1-e5ca-4943-a50b-60ad4e759e6d
+md5	0aef54e38f114ad7dd6a923bb246b839

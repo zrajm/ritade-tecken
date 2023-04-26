@@ -1,0 +1,7 @@
+signId	3120
+text	diadem
+imageUuid	525d2a47-5c20-4f4a-be35-6a91dfb7b20f
+translationKey	67fabe14-d887-491d-9abd-78e9267ee707
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/525d2a47-5c20-4f4a-be35-6a91dfb7b20f/67fabe14-d887-491d-9abd-78e9267ee707/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/525d2a47-5c20-4f4a-be35-6a91dfb7b20f/67fabe14-d887-491d-9abd-78e9267ee707
+md5	e47c71b1bfe1b4ce50928fc5c9fb67b4

@@ -1,0 +1,7 @@
+signId	157
+text	bläckfisk
+imageUuid	fe4f4dce-e416-41dd-9598-b33a3e144ddb
+translationKey	2a07e87f-986a-4342-a387-31fba7df3226
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fe4f4dce-e416-41dd-9598-b33a3e144ddb/2a07e87f-986a-4342-a387-31fba7df3226/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fe4f4dce-e416-41dd-9598-b33a3e144ddb/2a07e87f-986a-4342-a387-31fba7df3226
+md5	be5ed8790f764e19e17a52bf8566621d

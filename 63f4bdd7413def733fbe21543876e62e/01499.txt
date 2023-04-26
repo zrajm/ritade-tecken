@@ -1,0 +1,7 @@
+signId	1499
+text	strö över
+imageUuid	7245b532-c204-4e3c-bc6f-f142e193965a
+translationKey	9ddf1b5a-33b8-4d16-8ab4-75351ac81c2a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7245b532-c204-4e3c-bc6f-f142e193965a/9ddf1b5a-33b8-4d16-8ab4-75351ac81c2a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7245b532-c204-4e3c-bc6f-f142e193965a/9ddf1b5a-33b8-4d16-8ab4-75351ac81c2a
+md5	63f4bdd7413def733fbe21543876e62e

@@ -1,0 +1,7 @@
+signId	1720
+text	verkstad
+imageUuid	5eb06b5d-29c1-44c2-920b-6205263ec109
+translationKey	03979f5b-0a10-4241-b85e-f726641a6593
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5eb06b5d-29c1-44c2-920b-6205263ec109/03979f5b-0a10-4241-b85e-f726641a6593/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5eb06b5d-29c1-44c2-920b-6205263ec109/03979f5b-0a10-4241-b85e-f726641a6593
+md5	bf8d49a691dc30b2050bd69edbd8f4e5

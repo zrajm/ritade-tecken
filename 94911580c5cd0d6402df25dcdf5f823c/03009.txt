@@ -1,0 +1,7 @@
+signId	3009
+text	mening
+imageUuid	096a589d-d58c-4bbc-9127-4cdbfa9def75
+translationKey	6bb015b8-dc8a-4091-b484-8eb21ef00799
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/096a589d-d58c-4bbc-9127-4cdbfa9def75/6bb015b8-dc8a-4091-b484-8eb21ef00799/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/096a589d-d58c-4bbc-9127-4cdbfa9def75/6bb015b8-dc8a-4091-b484-8eb21ef00799
+md5	94911580c5cd0d6402df25dcdf5f823c

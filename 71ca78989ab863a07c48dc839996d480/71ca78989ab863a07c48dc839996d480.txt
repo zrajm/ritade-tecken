@@ -1,0 +1,8 @@
+
+signId	889
+text	ligga 1 (om personer)
+imageUuid	9ea098cd-ec95-4423-875f-ac72f9bb79fb
+translationKey	8f7d5a07-a791-4c03-b84c-aba37e4629d0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9ea098cd-ec95-4423-875f-ac72f9bb79fb/8f7d5a07-a791-4c03-b84c-aba37e4629d0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9ea098cd-ec95-4423-875f-ac72f9bb79fb/8f7d5a07-a791-4c03-b84c-aba37e4629d0
+md5	71ca78989ab863a07c48dc839996d480

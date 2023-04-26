@@ -1,0 +1,8 @@
+
+signId	3072
+text	makt
+imageUuid	cf5844fb-ce69-4a70-94d5-fc3c5acd58e7
+translationKey	2f230b54-2723-4300-8eca-d47ec378ca62
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cf5844fb-ce69-4a70-94d5-fc3c5acd58e7/2f230b54-2723-4300-8eca-d47ec378ca62/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cf5844fb-ce69-4a70-94d5-fc3c5acd58e7/2f230b54-2723-4300-8eca-d47ec378ca62
+md5	ac0e82e59016b65ee9b920a334618d3b

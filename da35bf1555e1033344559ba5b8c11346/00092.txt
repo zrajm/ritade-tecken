@@ -1,0 +1,7 @@
+signId	92
+text	baka
+imageUuid	c2884926-c30b-4bea-87c7-70c01782cef8
+translationKey	d934ca21-062f-4d80-a33a-60c989be2cbf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c2884926-c30b-4bea-87c7-70c01782cef8/d934ca21-062f-4d80-a33a-60c989be2cbf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c2884926-c30b-4bea-87c7-70c01782cef8/d934ca21-062f-4d80-a33a-60c989be2cbf
+md5	da35bf1555e1033344559ba5b8c11346

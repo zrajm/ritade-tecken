@@ -1,0 +1,16 @@
+
+signId	630
+text	hända
+imageUuid	d4ea61c5-7272-4cb5-94b0-164e9a2c77a4
+translationKey	3b4e96a8-de27-4428-9c1b-dce7c73c5f97
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d4ea61c5-7272-4cb5-94b0-164e9a2c77a4/3b4e96a8-de27-4428-9c1b-dce7c73c5f97/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d4ea61c5-7272-4cb5-94b0-164e9a2c77a4/3b4e96a8-de27-4428-9c1b-dce7c73c5f97
+md5	2ca0e25ed130366ad7b465dfc1130013
+
+signId	659
+text	ifall
+imageUuid	bd2689c7-ce8c-4123-9118-dcac35c18f89
+translationKey	88fdc579-efd3-4530-a328-6e6d4e80a221
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bd2689c7-ce8c-4123-9118-dcac35c18f89/88fdc579-efd3-4530-a328-6e6d4e80a221/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bd2689c7-ce8c-4123-9118-dcac35c18f89/88fdc579-efd3-4530-a328-6e6d4e80a221
+md5	2ca0e25ed130366ad7b465dfc1130013

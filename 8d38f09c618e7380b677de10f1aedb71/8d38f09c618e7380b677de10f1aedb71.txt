@@ -1,0 +1,8 @@
+
+signId	801
+text	korv 1
+imageUuid	f3372814-37fa-471f-8770-4091ed41c0be
+translationKey	63320549-83fe-4827-9db7-43890018d40e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f3372814-37fa-471f-8770-4091ed41c0be/63320549-83fe-4827-9db7-43890018d40e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f3372814-37fa-471f-8770-4091ed41c0be/63320549-83fe-4827-9db7-43890018d40e
+md5	8d38f09c618e7380b677de10f1aedb71

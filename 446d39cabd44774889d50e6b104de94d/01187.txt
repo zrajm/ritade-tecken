@@ -1,0 +1,7 @@
+signId	1187
+text	prata
+imageUuid	8deaff75-8004-443a-b50a-521ec499dc2e
+translationKey	d62076f6-3aa4-4a60-941f-5c37db9aa3d6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8deaff75-8004-443a-b50a-521ec499dc2e/d62076f6-3aa4-4a60-941f-5c37db9aa3d6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8deaff75-8004-443a-b50a-521ec499dc2e/d62076f6-3aa4-4a60-941f-5c37db9aa3d6
+md5	446d39cabd44774889d50e6b104de94d

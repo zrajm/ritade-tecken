@@ -1,0 +1,7 @@
+signId	2994
+text	förskoleklass
+imageUuid	e6ab48a7-8ff8-4ee8-8d25-d05961975caa
+translationKey	973222c8-200e-471c-a379-1339460527aa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e6ab48a7-8ff8-4ee8-8d25-d05961975caa/973222c8-200e-471c-a379-1339460527aa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e6ab48a7-8ff8-4ee8-8d25-d05961975caa/973222c8-200e-471c-a379-1339460527aa
+md5	2b64486b3991ddfabd34b45ca0aa6ac6

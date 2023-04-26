@@ -1,0 +1,7 @@
+signId	412
+text	frysa
+imageUuid	a0ad5e50-2ad9-4599-9229-5c5c05048c7d
+translationKey	61f36ac0-ed64-421f-a336-574ccead379b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0ad5e50-2ad9-4599-9229-5c5c05048c7d/61f36ac0-ed64-421f-a336-574ccead379b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0ad5e50-2ad9-4599-9229-5c5c05048c7d/61f36ac0-ed64-421f-a336-574ccead379b
+md5	14d745adc35c9233b689ebee9c844f9b

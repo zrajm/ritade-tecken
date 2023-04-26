@@ -1,0 +1,8 @@
+
+signId	352
+text	favorit
+imageUuid	34140ced-0ccc-42c9-8519-5e85384b590d
+translationKey	1a2b0820-8f5a-4b3d-82f6-a8982f56639a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/34140ced-0ccc-42c9-8519-5e85384b590d/1a2b0820-8f5a-4b3d-82f6-a8982f56639a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/34140ced-0ccc-42c9-8519-5e85384b590d/1a2b0820-8f5a-4b3d-82f6-a8982f56639a
+md5	4e5a8c3d4573e8c9cc1d5881a263f887

@@ -1,0 +1,8 @@
+
+signId	3424
+text	uppfatta
+imageUuid	c51c561a-2bc8-4547-8799-19bcc149b50c
+translationKey	270e4d23-5fa0-4acf-b37c-15a7189b8e65
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c51c561a-2bc8-4547-8799-19bcc149b50c/270e4d23-5fa0-4acf-b37c-15a7189b8e65/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c51c561a-2bc8-4547-8799-19bcc149b50c/270e4d23-5fa0-4acf-b37c-15a7189b8e65
+md5	931eb0601d4a2bac52b793687702a359

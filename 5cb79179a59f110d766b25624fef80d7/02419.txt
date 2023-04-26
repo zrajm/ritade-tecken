@@ -1,0 +1,7 @@
+signId	2419
+text	försvara
+imageUuid	8038acaf-a9f2-4315-81a5-989578f69095
+translationKey	699d1602-42e5-4fcb-bda0-b8baff5c0ceb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8038acaf-a9f2-4315-81a5-989578f69095/699d1602-42e5-4fcb-bda0-b8baff5c0ceb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8038acaf-a9f2-4315-81a5-989578f69095/699d1602-42e5-4fcb-bda0-b8baff5c0ceb
+md5	5cb79179a59f110d766b25624fef80d7

@@ -1,0 +1,32 @@
+
+signId	2644
+text	koncentrera sig
+imageUuid	1f95b059-64bd-4fa9-b55a-5082ebafb52e
+translationKey	e5771a51-5323-4a2b-b904-2789aa3c31ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1f95b059-64bd-4fa9-b55a-5082ebafb52e/e5771a51-5323-4a2b-b904-2789aa3c31ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1f95b059-64bd-4fa9-b55a-5082ebafb52e/e5771a51-5323-4a2b-b904-2789aa3c31ab
+md5	3e6cf10906188c51683d6b124acd20f3
+
+signId	3260
+text	fokusera
+imageUuid	d47997fd-3a7b-4603-b448-1fd02a18f4a4
+translationKey	90f4ff6f-96eb-45b7-a0f1-cbd806aefa65
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d47997fd-3a7b-4603-b448-1fd02a18f4a4/90f4ff6f-96eb-45b7-a0f1-cbd806aefa65/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d47997fd-3a7b-4603-b448-1fd02a18f4a4/90f4ff6f-96eb-45b7-a0f1-cbd806aefa65
+md5	3e6cf10906188c51683d6b124acd20f3
+
+signId	3261
+text	fokus
+imageUuid	ee8d3554-f689-459e-83b0-da8434efc503
+translationKey	25c95cd7-6b87-42d2-8069-93e9a798d6c3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ee8d3554-f689-459e-83b0-da8434efc503/25c95cd7-6b87-42d2-8069-93e9a798d6c3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ee8d3554-f689-459e-83b0-da8434efc503/25c95cd7-6b87-42d2-8069-93e9a798d6c3
+md5	3e6cf10906188c51683d6b124acd20f3
+
+signId	3262
+text	koncentration
+imageUuid	078b0631-8911-424a-bc25-4f25ccae222b
+translationKey	fb317c0e-5fd3-4cff-83a6-fdc8dbb80cbe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/078b0631-8911-424a-bc25-4f25ccae222b/fb317c0e-5fd3-4cff-83a6-fdc8dbb80cbe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/078b0631-8911-424a-bc25-4f25ccae222b/fb317c0e-5fd3-4cff-83a6-fdc8dbb80cbe
+md5	3e6cf10906188c51683d6b124acd20f3

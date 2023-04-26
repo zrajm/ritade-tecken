@@ -1,0 +1,16 @@
+
+signId	1261
+text	rusa
+imageUuid	3688b6ef-c68d-4f7a-887f-a19b3638984d
+translationKey	f9c441f7-82c8-4feb-9378-16cd99b3475c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3688b6ef-c68d-4f7a-887f-a19b3638984d/f9c441f7-82c8-4feb-9378-16cd99b3475c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3688b6ef-c68d-4f7a-887f-a19b3638984d/f9c441f7-82c8-4feb-9378-16cd99b3475c
+md5	3ad982cf921d7f73623d1fbe3a2f6e44
+
+signId	1458
+text	springa 2
+imageUuid	8c6e5319-cac0-44c2-bad6-f133802e12ed
+translationKey	6c9c5164-c807-4593-958d-195f144c778e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c6e5319-cac0-44c2-bad6-f133802e12ed/6c9c5164-c807-4593-958d-195f144c778e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c6e5319-cac0-44c2-bad6-f133802e12ed/6c9c5164-c807-4593-958d-195f144c778e
+md5	3ad982cf921d7f73623d1fbe3a2f6e44

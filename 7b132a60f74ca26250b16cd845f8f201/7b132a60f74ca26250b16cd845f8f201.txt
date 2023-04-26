@@ -1,0 +1,8 @@
+
+signId	508
+text	gris 1
+imageUuid	2e9f5704-37f4-410d-83c9-bd12ff7e8e0c
+translationKey	a01b0860-a7a1-41ce-a647-041385e41607
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2e9f5704-37f4-410d-83c9-bd12ff7e8e0c/a01b0860-a7a1-41ce-a647-041385e41607/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2e9f5704-37f4-410d-83c9-bd12ff7e8e0c/a01b0860-a7a1-41ce-a647-041385e41607
+md5	7b132a60f74ca26250b16cd845f8f201

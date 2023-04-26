@@ -1,0 +1,7 @@
+signId	3176
+text	stridsvagn
+imageUuid	2360ed7d-76ed-41e8-b3db-e1340a39ac1c
+translationKey	ba87ef0e-2af2-4100-afbe-c2975b24c0c0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2360ed7d-76ed-41e8-b3db-e1340a39ac1c/ba87ef0e-2af2-4100-afbe-c2975b24c0c0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2360ed7d-76ed-41e8-b3db-e1340a39ac1c/ba87ef0e-2af2-4100-afbe-c2975b24c0c0
+md5	b052c9976f1a92e34efca6803ab18b20

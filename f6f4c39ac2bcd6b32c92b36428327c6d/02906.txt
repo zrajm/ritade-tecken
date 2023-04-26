@@ -1,0 +1,7 @@
+signId	2906
+text	yoga
+imageUuid	db5fbf8c-10fb-4436-b8a8-de056594245d
+translationKey	2926ce0e-635f-4049-a45a-391f5d5a72f7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/db5fbf8c-10fb-4436-b8a8-de056594245d/2926ce0e-635f-4049-a45a-391f5d5a72f7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/db5fbf8c-10fb-4436-b8a8-de056594245d/2926ce0e-635f-4049-a45a-391f5d5a72f7
+md5	f6f4c39ac2bcd6b32c92b36428327c6d

@@ -1,0 +1,7 @@
+signId	1104
+text	olika
+imageUuid	5f278cb9-3cba-4075-8e9f-0e224e42744c
+translationKey	70876611-3e11-4893-af03-5f6555f4bd9d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5f278cb9-3cba-4075-8e9f-0e224e42744c/70876611-3e11-4893-af03-5f6555f4bd9d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5f278cb9-3cba-4075-8e9f-0e224e42744c/70876611-3e11-4893-af03-5f6555f4bd9d
+md5	33251ca272a6870cf6de5d488164ff80

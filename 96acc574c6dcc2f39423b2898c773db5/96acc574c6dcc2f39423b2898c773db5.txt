@@ -1,0 +1,8 @@
+
+signId	1137
+text	pappersdrake
+imageUuid	0771cf9e-b4a7-4bf0-9ef8-f8fcbb8caacd
+translationKey	0735c47f-b5ef-45e6-9a7f-d348b8d9f1c1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0771cf9e-b4a7-4bf0-9ef8-f8fcbb8caacd/0735c47f-b5ef-45e6-9a7f-d348b8d9f1c1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0771cf9e-b4a7-4bf0-9ef8-f8fcbb8caacd/0735c47f-b5ef-45e6-9a7f-d348b8d9f1c1
+md5	96acc574c6dcc2f39423b2898c773db5

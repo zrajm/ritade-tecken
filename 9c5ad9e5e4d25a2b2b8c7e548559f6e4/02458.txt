@@ -1,0 +1,7 @@
+signId	2458
+text	figur (geometrisk)
+imageUuid	fa143b8f-4d57-4ac8-a1e0-04d6bf50aae7
+translationKey	be1959dd-cb94-4b82-a398-8442aeebb583
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fa143b8f-4d57-4ac8-a1e0-04d6bf50aae7/be1959dd-cb94-4b82-a398-8442aeebb583/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fa143b8f-4d57-4ac8-a1e0-04d6bf50aae7/be1959dd-cb94-4b82-a398-8442aeebb583
+md5	9c5ad9e5e4d25a2b2b8c7e548559f6e4

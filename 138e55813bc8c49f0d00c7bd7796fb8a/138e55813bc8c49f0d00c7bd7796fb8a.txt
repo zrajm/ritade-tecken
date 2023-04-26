@@ -1,0 +1,8 @@
+
+signId	558
+text	halsband
+imageUuid	07543aac-29bb-4b98-8748-ec82ab8e8f90
+translationKey	29e71a0a-412a-45b3-8e9b-f888d32bb697
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/07543aac-29bb-4b98-8748-ec82ab8e8f90/29e71a0a-412a-45b3-8e9b-f888d32bb697/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/07543aac-29bb-4b98-8748-ec82ab8e8f90/29e71a0a-412a-45b3-8e9b-f888d32bb697
+md5	138e55813bc8c49f0d00c7bd7796fb8a

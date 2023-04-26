@@ -1,0 +1,7 @@
+signId	1774
+text	väst
+imageUuid	4c6397f1-fcdb-4d9a-9436-5e51093c564d
+translationKey	e729f9fb-b77a-468f-99e5-c7c6fff407d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4c6397f1-fcdb-4d9a-9436-5e51093c564d/e729f9fb-b77a-468f-99e5-c7c6fff407d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4c6397f1-fcdb-4d9a-9436-5e51093c564d/e729f9fb-b77a-468f-99e5-c7c6fff407d1
+md5	fd567bb5e710fc6663ea0b38b937e185

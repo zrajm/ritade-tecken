@@ -1,0 +1,7 @@
+signId	1549
+text	söndag
+imageUuid	c15db2d2-b620-4104-950a-df98bf5c57eb
+translationKey	af1ddb61-53b1-4244-b81f-0dfa6b5d77a6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c15db2d2-b620-4104-950a-df98bf5c57eb/af1ddb61-53b1-4244-b81f-0dfa6b5d77a6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c15db2d2-b620-4104-950a-df98bf5c57eb/af1ddb61-53b1-4244-b81f-0dfa6b5d77a6
+md5	e8877d6e7bfaba241811d4d7490fb1b9

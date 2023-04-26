@@ -1,0 +1,7 @@
+signId	3351
+text	Stålmannen
+imageUuid	b7a10aa9-fc69-4b09-96ae-455c4baa05eb
+translationKey	f446a3ed-f35c-41ba-9b74-6770f5b40465
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b7a10aa9-fc69-4b09-96ae-455c4baa05eb/f446a3ed-f35c-41ba-9b74-6770f5b40465/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b7a10aa9-fc69-4b09-96ae-455c4baa05eb/f446a3ed-f35c-41ba-9b74-6770f5b40465
+md5	b0aa700f90ad84f35cb877d90963fa8b

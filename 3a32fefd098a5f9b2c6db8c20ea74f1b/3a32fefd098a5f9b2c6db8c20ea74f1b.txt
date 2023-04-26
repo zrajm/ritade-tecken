@@ -1,0 +1,8 @@
+
+signId	2372
+text	panna
+imageUuid	8f9e0973-d391-47f3-8608-7837de9dd730
+translationKey	cea2a9b6-d8a9-412b-8f0f-43c3734f29ff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8f9e0973-d391-47f3-8608-7837de9dd730/cea2a9b6-d8a9-412b-8f0f-43c3734f29ff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8f9e0973-d391-47f3-8608-7837de9dd730/cea2a9b6-d8a9-412b-8f0f-43c3734f29ff
+md5	3a32fefd098a5f9b2c6db8c20ea74f1b

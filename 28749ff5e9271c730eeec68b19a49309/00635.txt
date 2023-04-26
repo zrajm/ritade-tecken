@@ -1,0 +1,7 @@
+signId	635
+text	häst
+imageUuid	5548d3f3-6ed9-4a98-9207-4dd90ffdac50
+translationKey	5e514263-4ab2-47e8-9540-4526b01d58af
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5548d3f3-6ed9-4a98-9207-4dd90ffdac50/5e514263-4ab2-47e8-9540-4526b01d58af/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5548d3f3-6ed9-4a98-9207-4dd90ffdac50/5e514263-4ab2-47e8-9540-4526b01d58af
+md5	28749ff5e9271c730eeec68b19a49309

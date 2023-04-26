@@ -1,0 +1,7 @@
+signId	3102
+text	huvudstad
+imageUuid	d2b78c2e-5197-4ca0-8854-ed0c8f7b8b5f
+translationKey	6e101e2b-f6b3-445f-a46b-75415fa35bef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d2b78c2e-5197-4ca0-8854-ed0c8f7b8b5f/6e101e2b-f6b3-445f-a46b-75415fa35bef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d2b78c2e-5197-4ca0-8854-ed0c8f7b8b5f/6e101e2b-f6b3-445f-a46b-75415fa35bef
+md5	f8d1aa07b0c32415ae1d5b8fc949a8d6

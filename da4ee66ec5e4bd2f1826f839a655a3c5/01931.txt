@@ -1,0 +1,7 @@
+signId	1931
+text	program
+imageUuid	66ab6df9-af40-4211-adcc-d6c6baacd7b7
+translationKey	0ee2f7aa-25ac-48a6-856d-d45d50364a8d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/66ab6df9-af40-4211-adcc-d6c6baacd7b7/0ee2f7aa-25ac-48a6-856d-d45d50364a8d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/66ab6df9-af40-4211-adcc-d6c6baacd7b7/0ee2f7aa-25ac-48a6-856d-d45d50364a8d
+md5	da4ee66ec5e4bd2f1826f839a655a3c5

@@ -1,0 +1,8 @@
+
+signId	1586
+text	titta
+imageUuid	caefee99-2be1-4526-b621-29b591954850
+translationKey	db9f1eea-76ad-4d90-813d-fb4676515e4c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/caefee99-2be1-4526-b621-29b591954850/db9f1eea-76ad-4d90-813d-fb4676515e4c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/caefee99-2be1-4526-b621-29b591954850/db9f1eea-76ad-4d90-813d-fb4676515e4c
+md5	0961188ba9c33a066fffb377f6011ffb

@@ -1,0 +1,32 @@
+
+signId	884
+text	leva
+imageUuid	f624fbeb-889b-4593-9083-608881aba205
+translationKey	dc4ff840-407c-4da5-800e-ccb2ae511e64
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f624fbeb-889b-4593-9083-608881aba205/dc4ff840-407c-4da5-800e-ccb2ae511e64/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f624fbeb-889b-4593-9083-608881aba205/dc4ff840-407c-4da5-800e-ccb2ae511e64
+md5	4a264df94f3d2c95caeba64484877399
+
+signId	904
+text	liv
+imageUuid	b3a66483-69bf-4f1e-ac15-8cc497dbce23
+translationKey	efecbf52-7645-4169-9136-ad958fe95f8b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b3a66483-69bf-4f1e-ac15-8cc497dbce23/efecbf52-7645-4169-9136-ad958fe95f8b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b3a66483-69bf-4f1e-ac15-8cc497dbce23/efecbf52-7645-4169-9136-ad958fe95f8b
+md5	4a264df94f3d2c95caeba64484877399
+
+signId	3363
+text	levande
+imageUuid	5ca37033-0548-4364-a00d-04bdf664a750
+translationKey	d937c75f-0a99-49ca-b687-d347d811de54
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ca37033-0548-4364-a00d-04bdf664a750/d937c75f-0a99-49ca-b687-d347d811de54/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ca37033-0548-4364-a00d-04bdf664a750/d937c75f-0a99-49ca-b687-d347d811de54
+md5	4a264df94f3d2c95caeba64484877399
+
+signId	3364
+text	livet
+imageUuid	07b92651-50a6-4c15-a33f-816d38919855
+translationKey	6a8e9109-4617-45e9-9a1e-2a9a446cc25b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/07b92651-50a6-4c15-a33f-816d38919855/6a8e9109-4617-45e9-9a1e-2a9a446cc25b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/07b92651-50a6-4c15-a33f-816d38919855/6a8e9109-4617-45e9-9a1e-2a9a446cc25b
+md5	4a264df94f3d2c95caeba64484877399

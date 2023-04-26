@@ -1,0 +1,7 @@
+signId	2527
+text	bäver
+imageUuid	b87351cb-47ef-4206-8232-2fbb198fe1e2
+translationKey	d24b1dc8-5d2c-4072-ab85-2c59efa25655
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b87351cb-47ef-4206-8232-2fbb198fe1e2/d24b1dc8-5d2c-4072-ab85-2c59efa25655/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b87351cb-47ef-4206-8232-2fbb198fe1e2/d24b1dc8-5d2c-4072-ab85-2c59efa25655
+md5	a4fbac941437e6a41779be26f39df5f3

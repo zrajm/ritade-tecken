@@ -1,0 +1,7 @@
+signId	3262
+text	koncentration
+imageUuid	078b0631-8911-424a-bc25-4f25ccae222b
+translationKey	fb317c0e-5fd3-4cff-83a6-fdc8dbb80cbe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/078b0631-8911-424a-bc25-4f25ccae222b/fb317c0e-5fd3-4cff-83a6-fdc8dbb80cbe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/078b0631-8911-424a-bc25-4f25ccae222b/fb317c0e-5fd3-4cff-83a6-fdc8dbb80cbe
+md5	3e6cf10906188c51683d6b124acd20f3

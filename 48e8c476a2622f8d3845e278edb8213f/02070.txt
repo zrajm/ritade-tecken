@@ -1,0 +1,7 @@
+signId	2070
+text	mäta
+imageUuid	2099a123-a207-4b35-9ba9-6c573ec0fb43
+translationKey	043861c5-9434-421f-a443-9707d7df331f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2099a123-a207-4b35-9ba9-6c573ec0fb43/043861c5-9434-421f-a443-9707d7df331f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2099a123-a207-4b35-9ba9-6c573ec0fb43/043861c5-9434-421f-a443-9707d7df331f
+md5	48e8c476a2622f8d3845e278edb8213f

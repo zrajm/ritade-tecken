@@ -1,0 +1,7 @@
+signId	2064
+text	ledare
+imageUuid	164af7e7-b2d2-4514-92ba-2b555141a2ca
+translationKey	55cbf8d3-14eb-4509-b054-9753823ae86a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/164af7e7-b2d2-4514-92ba-2b555141a2ca/55cbf8d3-14eb-4509-b054-9753823ae86a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/164af7e7-b2d2-4514-92ba-2b555141a2ca/55cbf8d3-14eb-4509-b054-9753823ae86a
+md5	e48f1f8654a15552142455a51d7a1a17

@@ -1,0 +1,8 @@
+
+signId	3223
+text	lekterapi
+imageUuid	8fb122e2-65d0-4aab-a4a8-edb3fcb6bdf0
+translationKey	6f0a1f78-6f9d-48b1-bf9b-44b9c9999f63
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8fb122e2-65d0-4aab-a4a8-edb3fcb6bdf0/6f0a1f78-6f9d-48b1-bf9b-44b9c9999f63/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8fb122e2-65d0-4aab-a4a8-edb3fcb6bdf0/6f0a1f78-6f9d-48b1-bf9b-44b9c9999f63
+md5	03a66a37f94bbb79b4090c3430432053

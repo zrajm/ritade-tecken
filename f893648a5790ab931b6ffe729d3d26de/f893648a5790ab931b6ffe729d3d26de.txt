@@ -1,0 +1,8 @@
+
+signId	2454
+text	valborgsmässoafton
+imageUuid	706a276d-b6ae-4836-ba23-c03c58cf9538
+translationKey	545e5629-6391-4052-b8da-cc32e1ff8e91
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/706a276d-b6ae-4836-ba23-c03c58cf9538/545e5629-6391-4052-b8da-cc32e1ff8e91/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/706a276d-b6ae-4836-ba23-c03c58cf9538/545e5629-6391-4052-b8da-cc32e1ff8e91
+md5	f893648a5790ab931b6ffe729d3d26de

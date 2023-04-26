@@ -1,0 +1,8 @@
+
+signId	3103
+text	krig
+imageUuid	de885cd9-36fa-43dc-96c2-cc9d1c0e3bfb
+translationKey	8e181690-d337-4294-8037-f128f99bbe39
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/de885cd9-36fa-43dc-96c2-cc9d1c0e3bfb/8e181690-d337-4294-8037-f128f99bbe39/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/de885cd9-36fa-43dc-96c2-cc9d1c0e3bfb/8e181690-d337-4294-8037-f128f99bbe39
+md5	b94ae67b5e705e528d7314df1806d9a2

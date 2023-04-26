@@ -1,0 +1,7 @@
+signId	2150
+text	spår
+imageUuid	b8789379-f097-4fa9-96eb-0e1d9f67d602
+translationKey	644366ba-9065-4791-bd82-cb2cd9d52fdd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b8789379-f097-4fa9-96eb-0e1d9f67d602/644366ba-9065-4791-bd82-cb2cd9d52fdd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b8789379-f097-4fa9-96eb-0e1d9f67d602/644366ba-9065-4791-bd82-cb2cd9d52fdd
+md5	cdad5ff45211b77c90aa5adcebbd2d66

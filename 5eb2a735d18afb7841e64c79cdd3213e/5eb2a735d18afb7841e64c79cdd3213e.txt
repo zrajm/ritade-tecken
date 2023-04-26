@@ -1,0 +1,8 @@
+
+signId	1764
+text	välkommen
+imageUuid	f29010e8-4c6d-4e4f-b6fb-f62860e609a4
+translationKey	e126a05e-67d8-4f80-97a0-8ebabba27097
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f29010e8-4c6d-4e4f-b6fb-f62860e609a4/e126a05e-67d8-4f80-97a0-8ebabba27097/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f29010e8-4c6d-4e4f-b6fb-f62860e609a4/e126a05e-67d8-4f80-97a0-8ebabba27097
+md5	5eb2a735d18afb7841e64c79cdd3213e

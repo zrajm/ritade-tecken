@@ -1,0 +1,8 @@
+
+signId	922
+text	lyssna
+imageUuid	7e2a3fca-2217-4515-9c9c-f94df6ba16ff
+translationKey	f0279e1f-cc93-48f7-946f-a63509da37c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e2a3fca-2217-4515-9c9c-f94df6ba16ff/f0279e1f-cc93-48f7-946f-a63509da37c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e2a3fca-2217-4515-9c9c-f94df6ba16ff/f0279e1f-cc93-48f7-946f-a63509da37c4
+md5	b6b20117578dc88dc811359fd6aabf7c

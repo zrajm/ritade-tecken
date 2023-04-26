@@ -1,0 +1,7 @@
+signId	238
+text	clown
+imageUuid	f05ac818-e2d7-40f7-8ff2-db867c7e6e3b
+translationKey	3f0f2c98-5d5a-4770-920a-826fdd74fdc8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f05ac818-e2d7-40f7-8ff2-db867c7e6e3b/3f0f2c98-5d5a-4770-920a-826fdd74fdc8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f05ac818-e2d7-40f7-8ff2-db867c7e6e3b/3f0f2c98-5d5a-4770-920a-826fdd74fdc8
+md5	b1872bff3f0d706c12cb5c5e4fef47b6

@@ -1,0 +1,8 @@
+
+signId	3388
+text	farmor 2
+imageUuid	63367bb6-8dc0-4408-aa34-8efc20b4f36b
+translationKey	1da4767b-6ed3-4835-8b5f-e95c91e1f177
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/63367bb6-8dc0-4408-aa34-8efc20b4f36b/1da4767b-6ed3-4835-8b5f-e95c91e1f177/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/63367bb6-8dc0-4408-aa34-8efc20b4f36b/1da4767b-6ed3-4835-8b5f-e95c91e1f177
+md5	85a2f36d8f6c2db2b6118a1d2b3529a1

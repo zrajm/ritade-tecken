@@ -1,0 +1,7 @@
+signId	3011
+text	nåd
+imageUuid	a94173f1-6d40-4b25-96b7-f3c945734d19
+translationKey	a7a1e9be-5c06-4233-97bc-4dbcce2a0193
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a94173f1-6d40-4b25-96b7-f3c945734d19/a7a1e9be-5c06-4233-97bc-4dbcce2a0193/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a94173f1-6d40-4b25-96b7-f3c945734d19/a7a1e9be-5c06-4233-97bc-4dbcce2a0193
+md5	c2fb7385d2618e95f3f4fe07c206cdc5

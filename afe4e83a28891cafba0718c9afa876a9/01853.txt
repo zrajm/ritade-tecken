@@ -1,0 +1,7 @@
+signId	1853
+text	klämma fast
+imageUuid	6985cb6e-8adf-40ea-bca2-751e1b96cb8f
+translationKey	9839a60e-aa96-4b75-9223-bcbd3b836dad
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6985cb6e-8adf-40ea-bca2-751e1b96cb8f/9839a60e-aa96-4b75-9223-bcbd3b836dad/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6985cb6e-8adf-40ea-bca2-751e1b96cb8f/9839a60e-aa96-4b75-9223-bcbd3b836dad
+md5	afe4e83a28891cafba0718c9afa876a9

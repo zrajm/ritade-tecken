@@ -1,0 +1,7 @@
+signId	3002
+text	korsord
+imageUuid	5c4a3af3-0c66-4dca-9cb2-df0ba71487f3
+translationKey	7815224f-22dc-4a05-a299-43668beefa40
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5c4a3af3-0c66-4dca-9cb2-df0ba71487f3/7815224f-22dc-4a05-a299-43668beefa40/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5c4a3af3-0c66-4dca-9cb2-df0ba71487f3/7815224f-22dc-4a05-a299-43668beefa40
+md5	22ddf3328f88e10e5e6ba7a0a0099cce

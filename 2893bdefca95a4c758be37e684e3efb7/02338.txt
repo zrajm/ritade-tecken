@@ -1,0 +1,7 @@
+signId	2338
+text	hicka
+imageUuid	92a54aa0-a8fa-48fb-a458-9faf5c423365
+translationKey	2ccc8d01-706e-48ff-8982-c97031f188c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/92a54aa0-a8fa-48fb-a458-9faf5c423365/2ccc8d01-706e-48ff-8982-c97031f188c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/92a54aa0-a8fa-48fb-a458-9faf5c423365/2ccc8d01-706e-48ff-8982-c97031f188c7
+md5	2893bdefca95a4c758be37e684e3efb7

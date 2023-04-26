@@ -1,0 +1,8 @@
+
+signId	1640
+text	tunn 2
+imageUuid	9e2f77f1-f927-481d-b50e-2ed83b86f55e
+translationKey	24103784-9f32-4fcb-97f2-bc793004fb40
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9e2f77f1-f927-481d-b50e-2ed83b86f55e/24103784-9f32-4fcb-97f2-bc793004fb40/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9e2f77f1-f927-481d-b50e-2ed83b86f55e/24103784-9f32-4fcb-97f2-bc793004fb40
+md5	fd1286e60d1f045845072c633ced9b24

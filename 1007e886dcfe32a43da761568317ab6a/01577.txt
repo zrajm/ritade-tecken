@@ -1,0 +1,7 @@
+signId	1577
+text	tiger
+imageUuid	f063e5d8-2332-4739-a736-10264ee86a39
+translationKey	44569da1-aa81-4ab4-ba6c-c15050eb6472
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f063e5d8-2332-4739-a736-10264ee86a39/44569da1-aa81-4ab4-ba6c-c15050eb6472/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f063e5d8-2332-4739-a736-10264ee86a39/44569da1-aa81-4ab4-ba6c-c15050eb6472
+md5	76bb3a5f599eaf4366f88f0ba7e6b1d1

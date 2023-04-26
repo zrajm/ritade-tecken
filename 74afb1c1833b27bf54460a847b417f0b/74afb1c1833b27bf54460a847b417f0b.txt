@@ -1,0 +1,8 @@
+
+signId	562
+text	halvtimme
+imageUuid	420dbf05-72fb-4741-aa81-0fdb254d7145
+translationKey	de0a1407-73cf-4c3e-97d8-ddf06e54d4fb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/420dbf05-72fb-4741-aa81-0fdb254d7145/de0a1407-73cf-4c3e-97d8-ddf06e54d4fb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/420dbf05-72fb-4741-aa81-0fdb254d7145/de0a1407-73cf-4c3e-97d8-ddf06e54d4fb
+md5	74afb1c1833b27bf54460a847b417f0b

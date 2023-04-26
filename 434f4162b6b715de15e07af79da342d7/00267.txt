@@ -1,0 +1,7 @@
+signId	267
+text	disco
+imageUuid	01b1dff7-61f3-4b06-a845-ce9302f884ac
+translationKey	23fccb39-191c-48b9-8278-4ed308644604
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/01b1dff7-61f3-4b06-a845-ce9302f884ac/23fccb39-191c-48b9-8278-4ed308644604/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/01b1dff7-61f3-4b06-a845-ce9302f884ac/23fccb39-191c-48b9-8278-4ed308644604
+md5	434f4162b6b715de15e07af79da342d7

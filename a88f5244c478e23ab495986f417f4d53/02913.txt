@@ -1,0 +1,7 @@
+signId	2913
+text	horn
+imageUuid	f52b2f5a-e186-40f9-a917-53950b7c1328
+translationKey	742f46ba-0d7a-471c-a8ae-16f54af033be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f52b2f5a-e186-40f9-a917-53950b7c1328/742f46ba-0d7a-471c-a8ae-16f54af033be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f52b2f5a-e186-40f9-a917-53950b7c1328/742f46ba-0d7a-471c-a8ae-16f54af033be
+md5	a88f5244c478e23ab495986f417f4d53

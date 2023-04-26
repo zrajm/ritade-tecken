@@ -1,0 +1,7 @@
+signId	3118
+text	delaktig
+imageUuid	3d143ff5-89c0-4b59-90eb-fb87b89d6d03
+translationKey	6f6c8c48-e9c7-49f5-9c31-b19295f8e503
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3d143ff5-89c0-4b59-90eb-fb87b89d6d03/6f6c8c48-e9c7-49f5-9c31-b19295f8e503/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3d143ff5-89c0-4b59-90eb-fb87b89d6d03/6f6c8c48-e9c7-49f5-9c31-b19295f8e503
+md5	3b826a247ae19f53dc94d5481fd0c968

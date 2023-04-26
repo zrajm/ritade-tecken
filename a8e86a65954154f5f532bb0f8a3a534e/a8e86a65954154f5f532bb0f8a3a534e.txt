@@ -1,0 +1,8 @@
+
+signId	333
+text	er
+imageUuid	1671db54-1181-47c4-88dc-bb808d764567
+translationKey	0e4e798f-cfee-4796-925e-d23aad33623f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1671db54-1181-47c4-88dc-bb808d764567/0e4e798f-cfee-4796-925e-d23aad33623f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1671db54-1181-47c4-88dc-bb808d764567/0e4e798f-cfee-4796-925e-d23aad33623f
+md5	a8e86a65954154f5f532bb0f8a3a534e

@@ -1,0 +1,8 @@
+
+signId	2808
+text	kryddor
+imageUuid	c3147fc0-e61d-485c-a29d-e036a0a1cf6c
+translationKey	3e9fa4db-e335-48c6-a6ed-dbd1c7ca9af1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c3147fc0-e61d-485c-a29d-e036a0a1cf6c/3e9fa4db-e335-48c6-a6ed-dbd1c7ca9af1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c3147fc0-e61d-485c-a29d-e036a0a1cf6c/3e9fa4db-e335-48c6-a6ed-dbd1c7ca9af1
+md5	e5b51c661ff11429896efdc06874bb92

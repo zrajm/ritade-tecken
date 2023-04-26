@@ -1,0 +1,7 @@
+signId	2536
+text	heterosexuell
+imageUuid	712e6a77-b702-49e2-ade5-12b079c9bddb
+translationKey	b9c7c8dc-8e54-4242-9a42-76f7bd83780e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/712e6a77-b702-49e2-ade5-12b079c9bddb/b9c7c8dc-8e54-4242-9a42-76f7bd83780e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/712e6a77-b702-49e2-ade5-12b079c9bddb/b9c7c8dc-8e54-4242-9a42-76f7bd83780e
+md5	dba8bbabb7fd4027d0749285584d5108

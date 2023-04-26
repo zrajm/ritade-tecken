@@ -1,0 +1,7 @@
+signId	1107
+text	omelett
+imageUuid	263ba5cc-0d23-4f6f-9701-83c2b1bd0857
+translationKey	52d5affb-bdb1-470c-9046-7363fc43c9d0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/263ba5cc-0d23-4f6f-9701-83c2b1bd0857/52d5affb-bdb1-470c-9046-7363fc43c9d0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/263ba5cc-0d23-4f6f-9701-83c2b1bd0857/52d5affb-bdb1-470c-9046-7363fc43c9d0
+md5	cae24d7a141c644dab2a847d069df1a1

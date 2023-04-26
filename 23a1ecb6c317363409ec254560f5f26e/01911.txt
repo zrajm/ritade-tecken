@@ -1,0 +1,7 @@
+signId	1911
+text	gemensam
+imageUuid	922831fb-2a9c-43dd-991d-8ce17aafd376
+translationKey	c7497cd5-c297-4d38-85a0-4188cabe7cd8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/922831fb-2a9c-43dd-991d-8ce17aafd376/c7497cd5-c297-4d38-85a0-4188cabe7cd8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/922831fb-2a9c-43dd-991d-8ce17aafd376/c7497cd5-c297-4d38-85a0-4188cabe7cd8
+md5	23a1ecb6c317363409ec254560f5f26e

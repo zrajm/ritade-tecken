@@ -1,0 +1,8 @@
+
+signId	1645
+text	tuta 1
+imageUuid	6dd92d19-d153-45e0-b318-46f9c07e06a2
+translationKey	d1520dd6-f76b-4057-b1f1-249d20aca621
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6dd92d19-d153-45e0-b318-46f9c07e06a2/d1520dd6-f76b-4057-b1f1-249d20aca621/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6dd92d19-d153-45e0-b318-46f9c07e06a2/d1520dd6-f76b-4057-b1f1-249d20aca621
+md5	4d0c1a53c550b22bc1d3ed468be24d57

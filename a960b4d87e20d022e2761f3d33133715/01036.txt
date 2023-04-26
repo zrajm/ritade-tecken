@@ -1,0 +1,7 @@
+signId	1036
+text	mysig
+imageUuid	c29eeccb-1990-4ea8-9f64-724bf269a4ee
+translationKey	52a8795f-62fe-4273-8c59-c5c692cbb189
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c29eeccb-1990-4ea8-9f64-724bf269a4ee/52a8795f-62fe-4273-8c59-c5c692cbb189/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c29eeccb-1990-4ea8-9f64-724bf269a4ee/52a8795f-62fe-4273-8c59-c5c692cbb189
+md5	a960b4d87e20d022e2761f3d33133715

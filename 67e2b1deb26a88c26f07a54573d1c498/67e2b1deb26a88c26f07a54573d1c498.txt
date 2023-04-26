@@ -1,0 +1,24 @@
+
+signId	1780
+text	yxa
+imageUuid	2cd09f66-fbcc-4e8d-a77d-5f777c99efbd
+translationKey	a015fc53-02a9-487b-a672-1549a8fad1ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2cd09f66-fbcc-4e8d-a77d-5f777c99efbd/a015fc53-02a9-487b-a672-1549a8fad1ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2cd09f66-fbcc-4e8d-a77d-5f777c99efbd/a015fc53-02a9-487b-a672-1549a8fad1ca
+md5	67e2b1deb26a88c26f07a54573d1c498
+
+signId	2109
+text	fälla
+imageUuid	8c619b75-55c6-477b-a3b9-15a761776bc6
+translationKey	659301a6-72a3-408e-bc97-99bb8344f499
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c619b75-55c6-477b-a3b9-15a761776bc6/659301a6-72a3-408e-bc97-99bb8344f499/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c619b75-55c6-477b-a3b9-15a761776bc6/659301a6-72a3-408e-bc97-99bb8344f499
+md5	67e2b1deb26a88c26f07a54573d1c498
+
+signId	2115
+text	hugga
+imageUuid	51f6c347-3d30-49c3-8545-415ae527263d
+translationKey	05b823e8-1f38-40a3-a1a4-81f0e79baf17
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/51f6c347-3d30-49c3-8545-415ae527263d/05b823e8-1f38-40a3-a1a4-81f0e79baf17/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/51f6c347-3d30-49c3-8545-415ae527263d/05b823e8-1f38-40a3-a1a4-81f0e79baf17
+md5	67e2b1deb26a88c26f07a54573d1c498

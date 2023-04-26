@@ -1,0 +1,7 @@
+signId	2469
+text	mens
+imageUuid	fcbc3437-050c-45b5-b016-b93c916c69b8
+translationKey	7ee2cc13-c56d-4c81-83ca-e2fda7489ff8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fcbc3437-050c-45b5-b016-b93c916c69b8/7ee2cc13-c56d-4c81-83ca-e2fda7489ff8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fcbc3437-050c-45b5-b016-b93c916c69b8/7ee2cc13-c56d-4c81-83ca-e2fda7489ff8
+md5	e1139c7d30c43d5825a18f1303422fc4

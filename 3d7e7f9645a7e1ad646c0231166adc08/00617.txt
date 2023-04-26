@@ -1,0 +1,7 @@
+signId	617
+text	hus
+imageUuid	2f76db4f-aade-44e2-8878-05988017e41d
+translationKey	2149f649-3031-43fd-9d5f-bd34251f9e44
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2f76db4f-aade-44e2-8878-05988017e41d/2149f649-3031-43fd-9d5f-bd34251f9e44/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2f76db4f-aade-44e2-8878-05988017e41d/2149f649-3031-43fd-9d5f-bd34251f9e44
+md5	3d7e7f9645a7e1ad646c0231166adc08

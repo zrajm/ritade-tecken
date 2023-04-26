@@ -1,0 +1,7 @@
+signId	852
+text	köpa
+imageUuid	aa96736e-bb89-47d5-8dbc-562193d0db34
+translationKey	7c1a3ed3-6195-4dd4-98ed-9d86e44b5954
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aa96736e-bb89-47d5-8dbc-562193d0db34/7c1a3ed3-6195-4dd4-98ed-9d86e44b5954/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aa96736e-bb89-47d5-8dbc-562193d0db34/7c1a3ed3-6195-4dd4-98ed-9d86e44b5954
+md5	5b8143e045a873387b02f1bd6ecbca1c

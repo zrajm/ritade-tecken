@@ -1,0 +1,8 @@
+
+signId	1329
+text	skafferi
+imageUuid	9ce408d7-b6eb-45bf-8806-9604155f6b57
+translationKey	b8bdfa34-cb9a-4748-8e18-6ac86cbd6954
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9ce408d7-b6eb-45bf-8806-9604155f6b57/b8bdfa34-cb9a-4748-8e18-6ac86cbd6954/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9ce408d7-b6eb-45bf-8806-9604155f6b57/b8bdfa34-cb9a-4748-8e18-6ac86cbd6954
+md5	c65fa3620295cc8fcc541fde1ff3105e

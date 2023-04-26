@@ -1,0 +1,7 @@
+signId	3273
+text	nyttig
+imageUuid	e4b1ea45-ed16-4829-877f-ecf1ce179b27
+translationKey	d74d0f4b-df28-47ee-9e7f-db9018e75a54
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e4b1ea45-ed16-4829-877f-ecf1ce179b27/d74d0f4b-df28-47ee-9e7f-db9018e75a54/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e4b1ea45-ed16-4829-877f-ecf1ce179b27/d74d0f4b-df28-47ee-9e7f-db9018e75a54
+md5	9c2a6852176b9ff36fc0f0966790ff50

@@ -1,0 +1,7 @@
+signId	1556
+text	taggtråd
+imageUuid	752aaae1-b4f7-42b7-819e-1f523601be45
+translationKey	dcec5d7d-6d12-4ba8-8317-ef443d616595
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/752aaae1-b4f7-42b7-819e-1f523601be45/dcec5d7d-6d12-4ba8-8317-ef443d616595/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/752aaae1-b4f7-42b7-819e-1f523601be45/dcec5d7d-6d12-4ba8-8317-ef443d616595
+md5	aa5dfd59030009a181581669c14daaf3

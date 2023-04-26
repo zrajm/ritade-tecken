@@ -1,0 +1,7 @@
+signId	490
+text	glass
+imageUuid	c42f56b6-b56c-4301-9dcf-f52b659cfea1
+translationKey	59f85e50-cacb-4a72-92df-baa6fe9733f1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c42f56b6-b56c-4301-9dcf-f52b659cfea1/59f85e50-cacb-4a72-92df-baa6fe9733f1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c42f56b6-b56c-4301-9dcf-f52b659cfea1/59f85e50-cacb-4a72-92df-baa6fe9733f1
+md5	f77b3993e820e12ed20f8dc9b5985a71

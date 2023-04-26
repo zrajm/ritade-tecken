@@ -1,0 +1,32 @@
+
+signId	2549
+text	halvlek
+imageUuid	3fe36844-9ba1-46a0-8a5f-b36d233b0bf1
+translationKey	826fa1fa-d114-4cfa-87be-d2b41adbd695
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3fe36844-9ba1-46a0-8a5f-b36d233b0bf1/826fa1fa-d114-4cfa-87be-d2b41adbd695/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3fe36844-9ba1-46a0-8a5f-b36d233b0bf1/826fa1fa-d114-4cfa-87be-d2b41adbd695
+md5	70814a583a5b6b15aee826f87b506e7d
+
+signId	2563
+text	period
+imageUuid	bdd271d7-aaf6-4ffe-96e1-306128d03b0b
+translationKey	4d4d46b3-310d-4a4e-820e-68c00db7b16b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bdd271d7-aaf6-4ffe-96e1-306128d03b0b/4d4d46b3-310d-4a4e-820e-68c00db7b16b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bdd271d7-aaf6-4ffe-96e1-306128d03b0b/4d4d46b3-310d-4a4e-820e-68c00db7b16b
+md5	70814a583a5b6b15aee826f87b506e7d
+
+signId	3252
+text	termin
+imageUuid	63fd6672-af9e-4714-8153-2168edd49260
+translationKey	33cad0a2-c892-493e-86b6-abc9ebd479b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/63fd6672-af9e-4714-8153-2168edd49260/33cad0a2-c892-493e-86b6-abc9ebd479b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/63fd6672-af9e-4714-8153-2168edd49260/33cad0a2-c892-493e-86b6-abc9ebd479b8
+md5	70814a583a5b6b15aee826f87b506e7d
+
+signId	3253
+text	säsong
+imageUuid	c6ea2402-543a-447c-8e91-93010a4a4e9e
+translationKey	ee662bef-2fb4-4246-a6e2-c18a5f0416a0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c6ea2402-543a-447c-8e91-93010a4a4e9e/ee662bef-2fb4-4246-a6e2-c18a5f0416a0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c6ea2402-543a-447c-8e91-93010a4a4e9e/ee662bef-2fb4-4246-a6e2-c18a5f0416a0
+md5	70814a583a5b6b15aee826f87b506e7d

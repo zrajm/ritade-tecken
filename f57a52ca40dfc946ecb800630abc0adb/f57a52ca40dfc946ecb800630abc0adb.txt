@@ -1,0 +1,8 @@
+
+signId	2058
+text	innertak
+imageUuid	48eb4641-b394-4640-a037-c2e934ac7de8
+translationKey	44dbbe4c-b7aa-4ca1-908e-593aaaec306e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/48eb4641-b394-4640-a037-c2e934ac7de8/44dbbe4c-b7aa-4ca1-908e-593aaaec306e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/48eb4641-b394-4640-a037-c2e934ac7de8/44dbbe4c-b7aa-4ca1-908e-593aaaec306e
+md5	f57a52ca40dfc946ecb800630abc0adb

@@ -1,0 +1,7 @@
+signId	592
+text	hink
+imageUuid	6206f854-b56b-4168-a69c-f76ce1a39c8e
+translationKey	717fc86a-dd2f-4080-bd5a-7b39aa992476
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6206f854-b56b-4168-a69c-f76ce1a39c8e/717fc86a-dd2f-4080-bd5a-7b39aa992476/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6206f854-b56b-4168-a69c-f76ce1a39c8e/717fc86a-dd2f-4080-bd5a-7b39aa992476
+md5	69faa51e35e79c9467c33d10d5b81e71

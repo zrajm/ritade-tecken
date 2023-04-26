@@ -1,0 +1,7 @@
+signId	342
+text	farbror
+imageUuid	8a0a7a85-3004-46ed-ba3f-95ae01b9bbdc
+translationKey	d24cfd27-71ec-494f-9e57-61dfc6178052
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8a0a7a85-3004-46ed-ba3f-95ae01b9bbdc/d24cfd27-71ec-494f-9e57-61dfc6178052/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8a0a7a85-3004-46ed-ba3f-95ae01b9bbdc/d24cfd27-71ec-494f-9e57-61dfc6178052
+md5	6b7574c9db8a60b23c7d9d4a0b592b40

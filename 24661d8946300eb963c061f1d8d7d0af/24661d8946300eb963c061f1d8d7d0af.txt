@@ -1,0 +1,8 @@
+
+signId	2314
+text	äventyr
+imageUuid	1a753bff-84f4-4c11-8daa-e6420d5ad233
+translationKey	96da9c7a-c862-4dee-bb44-260e376fa83f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1a753bff-84f4-4c11-8daa-e6420d5ad233/96da9c7a-c862-4dee-bb44-260e376fa83f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1a753bff-84f4-4c11-8daa-e6420d5ad233/96da9c7a-c862-4dee-bb44-260e376fa83f
+md5	24661d8946300eb963c061f1d8d7d0af

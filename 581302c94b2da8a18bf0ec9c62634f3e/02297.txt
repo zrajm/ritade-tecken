@@ -1,0 +1,7 @@
+signId	2297
+text	själ
+imageUuid	7bbf3b3e-a908-4b8c-8064-abe30a2c2ffa
+translationKey	bd83b873-d21a-4b86-bdbb-d8dd73ee34a9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7bbf3b3e-a908-4b8c-8064-abe30a2c2ffa/bd83b873-d21a-4b86-bdbb-d8dd73ee34a9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7bbf3b3e-a908-4b8c-8064-abe30a2c2ffa/bd83b873-d21a-4b86-bdbb-d8dd73ee34a9
+md5	581302c94b2da8a18bf0ec9c62634f3e

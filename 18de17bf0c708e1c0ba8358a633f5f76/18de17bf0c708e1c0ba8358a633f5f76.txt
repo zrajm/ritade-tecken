@@ -1,0 +1,8 @@
+
+signId	1127
+text	osäker 1
+imageUuid	aa62ec3a-2793-4503-9523-39b4d8b73a48
+translationKey	75a24dd7-2411-404d-ba3b-2189249bb355
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aa62ec3a-2793-4503-9523-39b4d8b73a48/75a24dd7-2411-404d-ba3b-2189249bb355/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aa62ec3a-2793-4503-9523-39b4d8b73a48/75a24dd7-2411-404d-ba3b-2189249bb355
+md5	18de17bf0c708e1c0ba8358a633f5f76

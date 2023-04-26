@@ -1,0 +1,7 @@
+signId	3276
+text	samtala
+imageUuid	a0f0eb63-bc1b-432e-aa61-ffd387288419
+translationKey	ed43c9a5-df2b-40a1-9538-a879c1d6fb2d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0f0eb63-bc1b-432e-aa61-ffd387288419/ed43c9a5-df2b-40a1-9538-a879c1d6fb2d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0f0eb63-bc1b-432e-aa61-ffd387288419/ed43c9a5-df2b-40a1-9538-a879c1d6fb2d
+md5	d386f2f069610a83ff6f3084ffa5dad7

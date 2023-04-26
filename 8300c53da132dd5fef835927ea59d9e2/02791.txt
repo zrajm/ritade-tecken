@@ -1,0 +1,7 @@
+signId	2791
+text	leopard
+imageUuid	cd6a5257-baac-4ddd-9fc6-b8be3a5bbb76
+translationKey	f6d4e802-ea95-41ed-a10c-2485a98b80e2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cd6a5257-baac-4ddd-9fc6-b8be3a5bbb76/f6d4e802-ea95-41ed-a10c-2485a98b80e2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cd6a5257-baac-4ddd-9fc6-b8be3a5bbb76/f6d4e802-ea95-41ed-a10c-2485a98b80e2
+md5	8300c53da132dd5fef835927ea59d9e2

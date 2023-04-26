@@ -1,0 +1,8 @@
+
+signId	1727
+text	vila 1
+imageUuid	5de7599b-d56b-4686-a7f8-14d0e6c4fb28
+translationKey	559fba33-9d85-4c91-9034-7c3f53261e74
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5de7599b-d56b-4686-a7f8-14d0e6c4fb28/559fba33-9d85-4c91-9034-7c3f53261e74/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5de7599b-d56b-4686-a7f8-14d0e6c4fb28/559fba33-9d85-4c91-9034-7c3f53261e74
+md5	33d9f874b06e3adfc66a8f8ae81e6964

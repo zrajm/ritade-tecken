@@ -1,0 +1,7 @@
+signId	2317
+text	bensin
+imageUuid	ceaa5600-7251-4440-9ea6-d189ee10f1f3
+translationKey	08fee749-04ac-4c85-be3f-c7d6738890cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ceaa5600-7251-4440-9ea6-d189ee10f1f3/08fee749-04ac-4c85-be3f-c7d6738890cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ceaa5600-7251-4440-9ea6-d189ee10f1f3/08fee749-04ac-4c85-be3f-c7d6738890cd
+md5	fa02c86a09845095f0df5b04e0f3afd8

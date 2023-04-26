@@ -1,0 +1,16 @@
+
+signId	2280
+text	hörlurar
+imageUuid	e1ef6536-19a2-47e5-835f-88f5c21c0ddd
+translationKey	e4ce103b-3033-4ae0-b55f-69a00107f017
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e1ef6536-19a2-47e5-835f-88f5c21c0ddd/e4ce103b-3033-4ae0-b55f-69a00107f017/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e1ef6536-19a2-47e5-835f-88f5c21c0ddd/e4ce103b-3033-4ae0-b55f-69a00107f017
+md5	48c2c3ef1d390e32aeabcddd2ab83a40
+
+signId	2281
+text	hörselkåpor
+imageUuid	68e3afa7-90d3-4580-b7c6-88e7945287b5
+translationKey	746e9c5e-c325-4229-ba86-a9c78f867cdb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/68e3afa7-90d3-4580-b7c6-88e7945287b5/746e9c5e-c325-4229-ba86-a9c78f867cdb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/68e3afa7-90d3-4580-b7c6-88e7945287b5/746e9c5e-c325-4229-ba86-a9c78f867cdb
+md5	48c2c3ef1d390e32aeabcddd2ab83a40

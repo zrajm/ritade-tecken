@@ -1,0 +1,7 @@
+signId	2244
+text	schampo
+imageUuid	90b4e867-d0ac-440a-8298-ef1292e20c20
+translationKey	57ef4984-515b-49d6-be44-9162492f80e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/90b4e867-d0ac-440a-8298-ef1292e20c20/57ef4984-515b-49d6-be44-9162492f80e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/90b4e867-d0ac-440a-8298-ef1292e20c20/57ef4984-515b-49d6-be44-9162492f80e1
+md5	5de6cf1411c7045082d22590c8290bd2

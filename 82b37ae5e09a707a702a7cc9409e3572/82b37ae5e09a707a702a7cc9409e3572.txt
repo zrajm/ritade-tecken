@@ -1,0 +1,16 @@
+
+signId	2386
+text	senap
+imageUuid	9ade6c26-fffc-4da0-8635-c1533a7a0ca8
+translationKey	8007d5ba-518f-4628-8c53-79b74c847290
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9ade6c26-fffc-4da0-8635-c1533a7a0ca8/8007d5ba-518f-4628-8c53-79b74c847290/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9ade6c26-fffc-4da0-8635-c1533a7a0ca8/8007d5ba-518f-4628-8c53-79b74c847290
+md5	82b37ae5e09a707a702a7cc9409e3572
+
+signId	2502
+text	leverpastej
+imageUuid	65855bfc-a3d2-4ae1-922f-ded8252b96c7
+translationKey	042b830f-14f5-40f9-8e99-69f4210bd730
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/65855bfc-a3d2-4ae1-922f-ded8252b96c7/042b830f-14f5-40f9-8e99-69f4210bd730/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/65855bfc-a3d2-4ae1-922f-ded8252b96c7/042b830f-14f5-40f9-8e99-69f4210bd730
+md5	82b37ae5e09a707a702a7cc9409e3572

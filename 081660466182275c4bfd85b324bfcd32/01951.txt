@@ -1,0 +1,7 @@
+signId	1951
+text	sparkstötting
+imageUuid	62e7d292-3978-42d2-ab1b-f2b03586867b
+translationKey	153476fd-f894-4cf4-927d-a72eb1bfe3ff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/62e7d292-3978-42d2-ab1b-f2b03586867b/153476fd-f894-4cf4-927d-a72eb1bfe3ff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/62e7d292-3978-42d2-ab1b-f2b03586867b/153476fd-f894-4cf4-927d-a72eb1bfe3ff
+md5	081660466182275c4bfd85b324bfcd32

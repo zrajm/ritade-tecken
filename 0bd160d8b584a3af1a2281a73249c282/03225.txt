@@ -1,0 +1,7 @@
+signId	3225
+text	oj 2
+imageUuid	eb4ae7d0-179f-414c-b2b6-ead08945552d
+translationKey	746a49ca-0020-4246-8a55-50339ee92054
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eb4ae7d0-179f-414c-b2b6-ead08945552d/746a49ca-0020-4246-8a55-50339ee92054/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eb4ae7d0-179f-414c-b2b6-ead08945552d/746a49ca-0020-4246-8a55-50339ee92054
+md5	0bd160d8b584a3af1a2281a73249c282

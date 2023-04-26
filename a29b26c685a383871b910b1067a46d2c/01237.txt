@@ -1,0 +1,7 @@
+signId	1237
+text	regna
+imageUuid	4846681c-24ce-4f00-92c1-3c507b388274
+translationKey	ace3082b-87e4-4642-a838-cbcd28e099c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4846681c-24ce-4f00-92c1-3c507b388274/ace3082b-87e4-4642-a838-cbcd28e099c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4846681c-24ce-4f00-92c1-3c507b388274/ace3082b-87e4-4642-a838-cbcd28e099c7
+md5	a29b26c685a383871b910b1067a46d2c

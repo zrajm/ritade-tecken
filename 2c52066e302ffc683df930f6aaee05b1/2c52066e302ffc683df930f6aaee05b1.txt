@@ -1,0 +1,8 @@
+
+signId	2744
+text	rådjur
+imageUuid	49181fd4-27bb-4d20-9e36-6287dc4c2e28
+translationKey	dc9009f3-262d-420d-ae00-31e391b76904
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/49181fd4-27bb-4d20-9e36-6287dc4c2e28/dc9009f3-262d-420d-ae00-31e391b76904/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/49181fd4-27bb-4d20-9e36-6287dc4c2e28/dc9009f3-262d-420d-ae00-31e391b76904
+md5	2c52066e302ffc683df930f6aaee05b1

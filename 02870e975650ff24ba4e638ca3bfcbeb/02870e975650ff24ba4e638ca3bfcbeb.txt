@@ -1,0 +1,8 @@
+
+signId	2946
+text	YouTube
+imageUuid	e6669f73-1965-477e-b41a-d5690e6ebdb3
+translationKey	0127a7af-3d17-49a9-894e-73bcd3a3fe36
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e6669f73-1965-477e-b41a-d5690e6ebdb3/0127a7af-3d17-49a9-894e-73bcd3a3fe36/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e6669f73-1965-477e-b41a-d5690e6ebdb3/0127a7af-3d17-49a9-894e-73bcd3a3fe36
+md5	02870e975650ff24ba4e638ca3bfcbeb

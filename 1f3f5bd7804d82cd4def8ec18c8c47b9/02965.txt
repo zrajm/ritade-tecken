@@ -1,0 +1,7 @@
+signId	2965
+text	polisstation
+imageUuid	2d3c9121-70db-4901-b101-3c7e12d7f518
+translationKey	4aa504a0-165a-489d-a701-0b954ad1a05f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d3c9121-70db-4901-b101-3c7e12d7f518/4aa504a0-165a-489d-a701-0b954ad1a05f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d3c9121-70db-4901-b101-3c7e12d7f518/4aa504a0-165a-489d-a701-0b954ad1a05f
+md5	1f3f5bd7804d82cd4def8ec18c8c47b9

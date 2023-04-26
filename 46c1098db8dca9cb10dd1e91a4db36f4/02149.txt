@@ -1,0 +1,7 @@
+signId	2149
+text	sola
+imageUuid	93a2d069-3b17-46e3-bafa-56d7d6c6834d
+translationKey	3e143ac3-a8c1-4a2c-b6d1-a7da92b19164
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/93a2d069-3b17-46e3-bafa-56d7d6c6834d/3e143ac3-a8c1-4a2c-b6d1-a7da92b19164/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/93a2d069-3b17-46e3-bafa-56d7d6c6834d/3e143ac3-a8c1-4a2c-b6d1-a7da92b19164
+md5	46c1098db8dca9cb10dd1e91a4db36f4

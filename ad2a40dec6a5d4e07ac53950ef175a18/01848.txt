@@ -1,0 +1,7 @@
+signId	1848
+text	röra
+imageUuid	2b6de314-cc37-4fd7-ad6b-fb530661332f
+translationKey	a583a3e5-9df5-4fc1-a1d1-4e70ab7a4a05
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2b6de314-cc37-4fd7-ad6b-fb530661332f/a583a3e5-9df5-4fc1-a1d1-4e70ab7a4a05/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2b6de314-cc37-4fd7-ad6b-fb530661332f/a583a3e5-9df5-4fc1-a1d1-4e70ab7a4a05
+md5	ad2a40dec6a5d4e07ac53950ef175a18

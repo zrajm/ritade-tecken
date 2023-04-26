@@ -1,0 +1,7 @@
+signId	3426
+text	vittne
+imageUuid	d71891d9-8254-4443-a9d1-2032508222b4
+translationKey	d10a9144-4daa-44e7-9608-be65c4ec9b9f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d71891d9-8254-4443-a9d1-2032508222b4/d10a9144-4daa-44e7-9608-be65c4ec9b9f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d71891d9-8254-4443-a9d1-2032508222b4/d10a9144-4daa-44e7-9608-be65c4ec9b9f
+md5	b7bd9a24f13d4a99c6c55d6c0498b198

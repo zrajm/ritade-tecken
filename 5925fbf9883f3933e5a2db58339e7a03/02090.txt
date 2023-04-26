@@ -1,0 +1,7 @@
+signId	2090
+text	underlig 2
+imageUuid	239dbd90-4347-4e63-8141-adf09426b125
+translationKey	c69b3105-11e4-4f06-a2e2-3bf79cfed26c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/239dbd90-4347-4e63-8141-adf09426b125/c69b3105-11e4-4f06-a2e2-3bf79cfed26c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/239dbd90-4347-4e63-8141-adf09426b125/c69b3105-11e4-4f06-a2e2-3bf79cfed26c
+md5	5925fbf9883f3933e5a2db58339e7a03

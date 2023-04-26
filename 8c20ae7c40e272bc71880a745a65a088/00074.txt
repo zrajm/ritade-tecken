@@ -1,0 +1,7 @@
+signId	74
+text	assiett
+imageUuid	1a3d1bf2-ff96-4829-8042-6de2c2e2be79
+translationKey	5d3a059a-5466-42da-a24a-460a7f21f6fe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1a3d1bf2-ff96-4829-8042-6de2c2e2be79/5d3a059a-5466-42da-a24a-460a7f21f6fe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1a3d1bf2-ff96-4829-8042-6de2c2e2be79/5d3a059a-5466-42da-a24a-460a7f21f6fe
+md5	8c20ae7c40e272bc71880a745a65a088

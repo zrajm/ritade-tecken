@@ -1,0 +1,7 @@
+signId	2184
+text	inte tycka om
+imageUuid	8d4eb300-9e8b-46a4-b74a-d48db90260a8
+translationKey	32b8451b-f352-45c3-933b-6cc43d959118
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8d4eb300-9e8b-46a4-b74a-d48db90260a8/32b8451b-f352-45c3-933b-6cc43d959118/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8d4eb300-9e8b-46a4-b74a-d48db90260a8/32b8451b-f352-45c3-933b-6cc43d959118
+md5	1a648b317ac9f42abc2d5f52801aa939

@@ -1,0 +1,8 @@
+
+signId	3047
+text	brevlåda
+imageUuid	f66b313d-635e-4a23-9c8c-a8dfd90934ff
+translationKey	ff127aa2-bd4e-4499-9ee3-a30df62ed0f4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f66b313d-635e-4a23-9c8c-a8dfd90934ff/ff127aa2-bd4e-4499-9ee3-a30df62ed0f4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f66b313d-635e-4a23-9c8c-a8dfd90934ff/ff127aa2-bd4e-4499-9ee3-a30df62ed0f4
+md5	3e32b2ab9ec6c6c3551d2f022007e604

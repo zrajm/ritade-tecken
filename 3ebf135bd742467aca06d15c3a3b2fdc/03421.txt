@@ -1,0 +1,7 @@
+signId	3421
+text	tunnel
+imageUuid	477596da-ce0b-4d1a-a0c3-cb0a58b2eaee
+translationKey	11e7f4f7-81e1-4217-9412-a65e3770694c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/477596da-ce0b-4d1a-a0c3-cb0a58b2eaee/11e7f4f7-81e1-4217-9412-a65e3770694c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/477596da-ce0b-4d1a-a0c3-cb0a58b2eaee/11e7f4f7-81e1-4217-9412-a65e3770694c
+md5	3ebf135bd742467aca06d15c3a3b2fdc

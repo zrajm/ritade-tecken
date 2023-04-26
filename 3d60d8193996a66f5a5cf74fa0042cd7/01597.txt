@@ -1,0 +1,7 @@
+signId	1597
+text	tomat
+imageUuid	129054a1-6f84-4f05-b3e3-d39edf568be7
+translationKey	ffdf0cd8-e4c7-464e-a668-f8ffc0d9428d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/129054a1-6f84-4f05-b3e3-d39edf568be7/ffdf0cd8-e4c7-464e-a668-f8ffc0d9428d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/129054a1-6f84-4f05-b3e3-d39edf568be7/ffdf0cd8-e4c7-464e-a668-f8ffc0d9428d
+md5	3d60d8193996a66f5a5cf74fa0042cd7

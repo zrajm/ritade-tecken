@@ -1,0 +1,8 @@
+
+signId	3237
+text	yngre
+imageUuid	08c366e0-7db8-4157-b814-72f52bcf9646
+translationKey	b7c7537d-19ae-4820-b350-412bea4f56be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/08c366e0-7db8-4157-b814-72f52bcf9646/b7c7537d-19ae-4820-b350-412bea4f56be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/08c366e0-7db8-4157-b814-72f52bcf9646/b7c7537d-19ae-4820-b350-412bea4f56be
+md5	35fcc402be14c27c807d6377fb8601bb

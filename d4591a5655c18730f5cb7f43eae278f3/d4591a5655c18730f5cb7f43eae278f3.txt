@@ -1,0 +1,8 @@
+
+signId	184
+text	brev
+imageUuid	96ad739e-cfcb-4275-8f08-9486905248d8
+translationKey	97fc8949-e186-425e-a541-4d837fd3c205
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/96ad739e-cfcb-4275-8f08-9486905248d8/97fc8949-e186-425e-a541-4d837fd3c205/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/96ad739e-cfcb-4275-8f08-9486905248d8/97fc8949-e186-425e-a541-4d837fd3c205
+md5	d4591a5655c18730f5cb7f43eae278f3

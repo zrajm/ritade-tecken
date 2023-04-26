@@ -1,0 +1,7 @@
+signId	1620
+text	trumma
+imageUuid	d86b8722-53e1-42ec-8453-b71d424ac500
+translationKey	a80c592c-00a8-4c72-b800-0b663c9b914d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d86b8722-53e1-42ec-8453-b71d424ac500/a80c592c-00a8-4c72-b800-0b663c9b914d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d86b8722-53e1-42ec-8453-b71d424ac500/a80c592c-00a8-4c72-b800-0b663c9b914d
+md5	5aceb4ba1f1267c83d83dfe1db66313c

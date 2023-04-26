@@ -1,0 +1,7 @@
+signId	411
+text	fruktbit
+imageUuid	98721537-1c63-4877-abc8-d71ef62fb234
+translationKey	4add66b7-0834-4e8a-8589-230d703b7b25
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/98721537-1c63-4877-abc8-d71ef62fb234/4add66b7-0834-4e8a-8589-230d703b7b25/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/98721537-1c63-4877-abc8-d71ef62fb234/4add66b7-0834-4e8a-8589-230d703b7b25
+md5	19c382c7b8214343eb4510ef1013de15

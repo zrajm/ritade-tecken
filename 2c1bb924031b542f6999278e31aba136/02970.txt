@@ -1,0 +1,7 @@
+signId	2970
+text	trumpet
+imageUuid	fd3c3a39-0014-49e7-9368-a88087b82300
+translationKey	0105ed12-8892-4eb1-862a-25acd05232a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fd3c3a39-0014-49e7-9368-a88087b82300/0105ed12-8892-4eb1-862a-25acd05232a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fd3c3a39-0014-49e7-9368-a88087b82300/0105ed12-8892-4eb1-862a-25acd05232a4
+md5	2c1bb924031b542f6999278e31aba136

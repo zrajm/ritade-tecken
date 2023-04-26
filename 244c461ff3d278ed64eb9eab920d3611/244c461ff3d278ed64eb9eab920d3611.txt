@@ -1,0 +1,8 @@
+
+signId	1838
+text	gem
+imageUuid	774c187d-5ba4-497b-9360-a788cff8c4e7
+translationKey	5fc058d4-ddc8-4795-82a9-adaf9f5aae13
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/774c187d-5ba4-497b-9360-a788cff8c4e7/5fc058d4-ddc8-4795-82a9-adaf9f5aae13/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/774c187d-5ba4-497b-9360-a788cff8c4e7/5fc058d4-ddc8-4795-82a9-adaf9f5aae13
+md5	244c461ff3d278ed64eb9eab920d3611

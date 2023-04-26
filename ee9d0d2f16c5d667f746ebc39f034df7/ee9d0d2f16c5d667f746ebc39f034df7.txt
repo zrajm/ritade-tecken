@@ -1,0 +1,8 @@
+
+signId	2886
+text	fågelskrämma
+imageUuid	6333e20f-30ee-4b3e-bf8e-04aea0dfb18c
+translationKey	3df0f58c-c675-439a-9c5e-92a418defc48
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6333e20f-30ee-4b3e-bf8e-04aea0dfb18c/3df0f58c-c675-439a-9c5e-92a418defc48/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6333e20f-30ee-4b3e-bf8e-04aea0dfb18c/3df0f58c-c675-439a-9c5e-92a418defc48
+md5	ee9d0d2f16c5d667f746ebc39f034df7

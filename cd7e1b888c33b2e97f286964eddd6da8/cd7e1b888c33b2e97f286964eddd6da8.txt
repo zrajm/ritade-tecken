@@ -1,0 +1,8 @@
+
+signId	736
+text	kavla
+imageUuid	f5043c73-433f-4721-9483-048b5dd22614
+translationKey	4606c390-98c9-4bd6-be0a-8cbe53bb8309
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f5043c73-433f-4721-9483-048b5dd22614/4606c390-98c9-4bd6-be0a-8cbe53bb8309/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f5043c73-433f-4721-9483-048b5dd22614/4606c390-98c9-4bd6-be0a-8cbe53bb8309
+md5	cd7e1b888c33b2e97f286964eddd6da8

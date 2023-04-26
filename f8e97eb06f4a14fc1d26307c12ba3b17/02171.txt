@@ -1,0 +1,7 @@
+signId	2171
+text	ficklampa
+imageUuid	d2eb7b52-3f14-4c69-96c3-3679eee7268c
+translationKey	783297cb-b39d-46ad-accc-bb86d9d7fc77
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d2eb7b52-3f14-4c69-96c3-3679eee7268c/783297cb-b39d-46ad-accc-bb86d9d7fc77/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d2eb7b52-3f14-4c69-96c3-3679eee7268c/783297cb-b39d-46ad-accc-bb86d9d7fc77
+md5	f8e97eb06f4a14fc1d26307c12ba3b17

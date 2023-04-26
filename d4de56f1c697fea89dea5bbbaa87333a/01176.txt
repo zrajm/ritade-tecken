@@ -1,0 +1,7 @@
+signId	1176
+text	plötsligt
+imageUuid	c13c334d-bbcd-4e47-8f5b-7584df2173a7
+translationKey	a656f125-b654-4a13-950b-5230b5bc411c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c13c334d-bbcd-4e47-8f5b-7584df2173a7/a656f125-b654-4a13-950b-5230b5bc411c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c13c334d-bbcd-4e47-8f5b-7584df2173a7/a656f125-b654-4a13-950b-5230b5bc411c
+md5	d761559489d945dfba0ced33648b05d8

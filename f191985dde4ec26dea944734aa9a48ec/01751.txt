@@ -1,0 +1,7 @@
+signId	1751
+text	vuxen
+imageUuid	3dcb01eb-e43c-49b2-b824-db8b55a37aee
+translationKey	13b45130-50ab-424a-ab88-0e3f1011dbde
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3dcb01eb-e43c-49b2-b824-db8b55a37aee/13b45130-50ab-424a-ab88-0e3f1011dbde/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3dcb01eb-e43c-49b2-b824-db8b55a37aee/13b45130-50ab-424a-ab88-0e3f1011dbde
+md5	f191985dde4ec26dea944734aa9a48ec

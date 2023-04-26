@@ -1,0 +1,7 @@
+signId	2416
+text	deciliter
+imageUuid	49d7d8fc-7ee4-4a8d-90d9-9453e6689965
+translationKey	3b1bafe3-055e-44a0-8284-60c20dcf9bc6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/49d7d8fc-7ee4-4a8d-90d9-9453e6689965/3b1bafe3-055e-44a0-8284-60c20dcf9bc6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/49d7d8fc-7ee4-4a8d-90d9-9453e6689965/3b1bafe3-055e-44a0-8284-60c20dcf9bc6
+md5	627f3d4a4dce0798a239179965d5e010

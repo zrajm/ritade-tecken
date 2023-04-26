@@ -1,0 +1,7 @@
+signId	2353
+text	krater
+imageUuid	63eb30a6-6faa-462b-8b24-453903288218
+translationKey	21c42627-8ee6-43ce-8dcf-0607821800bc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/63eb30a6-6faa-462b-8b24-453903288218/21c42627-8ee6-43ce-8dcf-0607821800bc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/63eb30a6-6faa-462b-8b24-453903288218/21c42627-8ee6-43ce-8dcf-0607821800bc
+md5	925fa94ba99a4c32159910c3d7721e9b

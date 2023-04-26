@@ -1,0 +1,7 @@
+signId	335
+text	experiment
+imageUuid	926ea870-e019-4fdb-85e5-b34ae13c7f64
+translationKey	76482415-6ceb-46a2-a96f-5aeda6675ce1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/926ea870-e019-4fdb-85e5-b34ae13c7f64/76482415-6ceb-46a2-a96f-5aeda6675ce1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/926ea870-e019-4fdb-85e5-b34ae13c7f64/76482415-6ceb-46a2-a96f-5aeda6675ce1
+md5	52a794b5fa5539cc6a79d46821415ab9

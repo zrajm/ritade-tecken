@@ -1,0 +1,7 @@
+signId	1628
+text	träff
+imageUuid	54f02e80-7f98-4ff8-8e3d-5e6100bd745a
+translationKey	b84aa2c5-4c63-455c-9d0a-c6e4b688f2f8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/54f02e80-7f98-4ff8-8e3d-5e6100bd745a/b84aa2c5-4c63-455c-9d0a-c6e4b688f2f8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/54f02e80-7f98-4ff8-8e3d-5e6100bd745a/b84aa2c5-4c63-455c-9d0a-c6e4b688f2f8
+md5	f7904dafe854a58122ab47ff8f62b278

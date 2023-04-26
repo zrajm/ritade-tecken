@@ -1,0 +1,7 @@
+signId	2797
+text	rutig
+imageUuid	676f10c9-83aa-42bf-80cc-73b3eb72d5cf
+translationKey	4e7d867b-4328-447f-8cd8-7aca8d1db0e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/676f10c9-83aa-42bf-80cc-73b3eb72d5cf/4e7d867b-4328-447f-8cd8-7aca8d1db0e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/676f10c9-83aa-42bf-80cc-73b3eb72d5cf/4e7d867b-4328-447f-8cd8-7aca8d1db0e8
+md5	7219967ae730ed9a75d5df6cf3eb6085

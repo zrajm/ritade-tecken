@@ -1,0 +1,16 @@
+
+signId	21
+text	19_1 (tal)
+imageUuid	fb928481-b5c7-4318-b4f3-f711e5c1da30
+translationKey	32fa0859-33b8-444c-9290-abf4b1ebb87f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fb928481-b5c7-4318-b4f3-f711e5c1da30/32fa0859-33b8-444c-9290-abf4b1ebb87f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fb928481-b5c7-4318-b4f3-f711e5c1da30/32fa0859-33b8-444c-9290-abf4b1ebb87f
+md5	c58aec876ac002af854ca70388206ff6
+
+signId	3165
+text	nitton 1
+imageUuid	98be5728-be8b-4c43-9fc5-a9177409fc28
+translationKey	b2821d40-644a-49a6-83bf-05d041704fcd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/98be5728-be8b-4c43-9fc5-a9177409fc28/b2821d40-644a-49a6-83bf-05d041704fcd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/98be5728-be8b-4c43-9fc5-a9177409fc28/b2821d40-644a-49a6-83bf-05d041704fcd
+md5	c58aec876ac002af854ca70388206ff6

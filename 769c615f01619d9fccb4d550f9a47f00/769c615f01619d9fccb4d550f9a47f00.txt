@@ -1,0 +1,8 @@
+
+signId	2924
+text	julpynt
+imageUuid	4fe28b0f-f9de-4947-8c64-a77131f4491b
+translationKey	ffce0580-4516-4ae3-99c6-e1aeb861b722
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4fe28b0f-f9de-4947-8c64-a77131f4491b/ffce0580-4516-4ae3-99c6-e1aeb861b722/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4fe28b0f-f9de-4947-8c64-a77131f4491b/ffce0580-4516-4ae3-99c6-e1aeb861b722
+md5	769c615f01619d9fccb4d550f9a47f00

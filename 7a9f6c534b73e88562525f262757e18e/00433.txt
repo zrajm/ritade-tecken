@@ -1,0 +1,7 @@
+signId	433
+text	få1 (erhålla)
+imageUuid	52f6a29a-4693-4396-ab71-a1ba316df6c7
+translationKey	22c5dc06-58f4-4a82-9bae-0bdd6797f6ad
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/52f6a29a-4693-4396-ab71-a1ba316df6c7/22c5dc06-58f4-4a82-9bae-0bdd6797f6ad/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/52f6a29a-4693-4396-ab71-a1ba316df6c7/22c5dc06-58f4-4a82-9bae-0bdd6797f6ad
+md5	7a9f6c534b73e88562525f262757e18e

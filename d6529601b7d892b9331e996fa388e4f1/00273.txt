@@ -1,0 +1,7 @@
+signId	273
+text	ditåt
+imageUuid	e689e152-45fb-49ec-8a0d-d193820f11c8
+translationKey	85088723-dc86-4de3-9cd1-ae045e066032
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e689e152-45fb-49ec-8a0d-d193820f11c8/85088723-dc86-4de3-9cd1-ae045e066032/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e689e152-45fb-49ec-8a0d-d193820f11c8/85088723-dc86-4de3-9cd1-ae045e066032
+md5	d6529601b7d892b9331e996fa388e4f1

@@ -1,0 +1,7 @@
+signId	2325
+text	dela
+imageUuid	3e23cc6d-66cb-40cc-8f7a-942c070a60e4
+translationKey	7e0b4a38-41eb-4a10-aacd-d80705da7b25
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3e23cc6d-66cb-40cc-8f7a-942c070a60e4/7e0b4a38-41eb-4a10-aacd-d80705da7b25/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3e23cc6d-66cb-40cc-8f7a-942c070a60e4/7e0b4a38-41eb-4a10-aacd-d80705da7b25
+md5	bc91d0909e72a8b9df7dff47101d5d46

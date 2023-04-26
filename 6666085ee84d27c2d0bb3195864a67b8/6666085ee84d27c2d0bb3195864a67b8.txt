@@ -1,0 +1,16 @@
+
+signId	317
+text	ekorre
+imageUuid	7d55c2ad-471f-4966-8829-e565faabd243
+translationKey	07767df8-9b56-40e1-9c07-0abf755a4615
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7d55c2ad-471f-4966-8829-e565faabd243/07767df8-9b56-40e1-9c07-0abf755a4615/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7d55c2ad-471f-4966-8829-e565faabd243/07767df8-9b56-40e1-9c07-0abf755a4615
+md5	6666085ee84d27c2d0bb3195864a67b8
+
+signId	565
+text	hamster
+imageUuid	4e29810e-411e-4160-a072-33f7e087b317
+translationKey	8cea5775-c2b7-4d57-8120-3c53951fc189
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e29810e-411e-4160-a072-33f7e087b317/8cea5775-c2b7-4d57-8120-3c53951fc189/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e29810e-411e-4160-a072-33f7e087b317/8cea5775-c2b7-4d57-8120-3c53951fc189
+md5	6666085ee84d27c2d0bb3195864a67b8

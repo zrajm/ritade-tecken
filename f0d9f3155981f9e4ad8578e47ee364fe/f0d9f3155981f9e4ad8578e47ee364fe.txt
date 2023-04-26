@@ -1,0 +1,8 @@
+
+signId	3400
+text	klockan 7
+imageUuid	5f6f154d-25b5-4241-8a3f-eb3146c4903c
+translationKey	13a579b2-9d8d-460f-b282-e8292b87cc08
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5f6f154d-25b5-4241-8a3f-eb3146c4903c/13a579b2-9d8d-460f-b282-e8292b87cc08/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5f6f154d-25b5-4241-8a3f-eb3146c4903c/13a579b2-9d8d-460f-b282-e8292b87cc08
+md5	f0d9f3155981f9e4ad8578e47ee364fe

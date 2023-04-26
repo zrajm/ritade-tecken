@@ -1,0 +1,7 @@
+signId	751
+text	klippa (verb)
+imageUuid	b9c5eeab-0370-42d0-b216-854ddf66b214
+translationKey	1014569a-ce75-436f-b12a-e97dbedc9f3a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b9c5eeab-0370-42d0-b216-854ddf66b214/1014569a-ce75-436f-b12a-e97dbedc9f3a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b9c5eeab-0370-42d0-b216-854ddf66b214/1014569a-ce75-436f-b12a-e97dbedc9f3a
+md5	c4eea1c32f2b32743361209e05da1e94

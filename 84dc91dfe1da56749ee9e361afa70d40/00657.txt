@@ -1,0 +1,7 @@
+signId	657
+text	idrott
+imageUuid	15bd7159-ea71-4eb8-9e37-6bbdbc96dbe7
+translationKey	5cc5eb61-cf5c-4ce9-bc68-0726c7314cf4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/15bd7159-ea71-4eb8-9e37-6bbdbc96dbe7/5cc5eb61-cf5c-4ce9-bc68-0726c7314cf4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/15bd7159-ea71-4eb8-9e37-6bbdbc96dbe7/5cc5eb61-cf5c-4ce9-bc68-0726c7314cf4
+md5	84dc91dfe1da56749ee9e361afa70d40

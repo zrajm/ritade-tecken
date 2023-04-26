@@ -1,0 +1,7 @@
+signId	2222
+text	juice
+imageUuid	a3566183-3403-448c-abef-09f033a7ea9c
+translationKey	48ce049a-29be-4c3c-8665-33528fc9d6fb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a3566183-3403-448c-abef-09f033a7ea9c/48ce049a-29be-4c3c-8665-33528fc9d6fb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a3566183-3403-448c-abef-09f033a7ea9c/48ce049a-29be-4c3c-8665-33528fc9d6fb
+md5	44741f62a9abf48a234107fbff1978c6

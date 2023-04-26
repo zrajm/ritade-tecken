@@ -1,0 +1,8 @@
+
+signId	1311
+text	simhall
+imageUuid	569109eb-e615-4cc6-b952-a9afbc6ad94d
+translationKey	a298dbf2-1022-484e-bf81-8b0a723501e3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/569109eb-e615-4cc6-b952-a9afbc6ad94d/a298dbf2-1022-484e-bf81-8b0a723501e3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/569109eb-e615-4cc6-b952-a9afbc6ad94d/a298dbf2-1022-484e-bf81-8b0a723501e3
+md5	0c47a4829314d85e039860f6c903447f

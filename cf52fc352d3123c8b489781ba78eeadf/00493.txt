@@ -1,0 +1,7 @@
+signId	493
+text	glädje
+imageUuid	3a999ce4-d247-487d-84b1-0b20c7b92216
+translationKey	b05840e3-1aa6-4a16-9e58-43e1691f6f76
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a999ce4-d247-487d-84b1-0b20c7b92216/b05840e3-1aa6-4a16-9e58-43e1691f6f76/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a999ce4-d247-487d-84b1-0b20c7b92216/b05840e3-1aa6-4a16-9e58-43e1691f6f76
+md5	cf52fc352d3123c8b489781ba78eeadf

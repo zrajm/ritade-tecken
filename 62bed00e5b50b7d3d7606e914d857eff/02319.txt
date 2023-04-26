@@ -1,0 +1,7 @@
+signId	2319
+text	bröst
+imageUuid	302f6eaf-a311-4ddf-89c3-0cdbd7d09ff3
+translationKey	d7e3ad40-d605-4348-b6e8-c29e7fdd0131
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/302f6eaf-a311-4ddf-89c3-0cdbd7d09ff3/d7e3ad40-d605-4348-b6e8-c29e7fdd0131/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/302f6eaf-a311-4ddf-89c3-0cdbd7d09ff3/d7e3ad40-d605-4348-b6e8-c29e7fdd0131
+md5	66b0551cff6c4f1c13513804c79f5ece

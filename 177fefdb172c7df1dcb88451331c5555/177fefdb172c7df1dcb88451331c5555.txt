@@ -1,0 +1,8 @@
+
+signId	906
+text	ljus 1
+imageUuid	602772dd-86f0-42d2-b664-5379e7547075
+translationKey	0e04a97e-fdd7-4ec5-8fc9-ab80e4d59fcb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/602772dd-86f0-42d2-b664-5379e7547075/0e04a97e-fdd7-4ec5-8fc9-ab80e4d59fcb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/602772dd-86f0-42d2-b664-5379e7547075/0e04a97e-fdd7-4ec5-8fc9-ab80e4d59fcb
+md5	177fefdb172c7df1dcb88451331c5555

@@ -1,0 +1,7 @@
+signId	2883
+text	diskbänk
+imageUuid	f72d58b4-ca91-4c48-9696-cae9befdca07
+translationKey	45682ebe-149f-4f1c-8fd2-6ee3bda7a538
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f72d58b4-ca91-4c48-9696-cae9befdca07/45682ebe-149f-4f1c-8fd2-6ee3bda7a538/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f72d58b4-ca91-4c48-9696-cae9befdca07/45682ebe-149f-4f1c-8fd2-6ee3bda7a538
+md5	9dd187b852e411d7a2637a00b6fc201e

@@ -1,0 +1,7 @@
+signId	1011
+text	morfar
+imageUuid	9a3ba416-ed36-4860-986c-2759ea1e06cf
+translationKey	a392dec3-1b80-45c7-8307-aad577d504b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9a3ba416-ed36-4860-986c-2759ea1e06cf/a392dec3-1b80-45c7-8307-aad577d504b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9a3ba416-ed36-4860-986c-2759ea1e06cf/a392dec3-1b80-45c7-8307-aad577d504b4
+md5	dfb6dff4158e50fc6533c87d624c08f0

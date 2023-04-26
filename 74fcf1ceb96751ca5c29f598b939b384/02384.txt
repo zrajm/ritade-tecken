@@ -1,0 +1,7 @@
+signId	2384
+text	russinpaket
+imageUuid	9fa4e1d2-156a-40f4-b66b-cc44dde91a12
+translationKey	ed843ac6-a53c-48da-8138-831d90809549
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9fa4e1d2-156a-40f4-b66b-cc44dde91a12/ed843ac6-a53c-48da-8138-831d90809549/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9fa4e1d2-156a-40f4-b66b-cc44dde91a12/ed843ac6-a53c-48da-8138-831d90809549
+md5	74fcf1ceb96751ca5c29f598b939b384

@@ -1,0 +1,7 @@
+signId	3397
+text	klockan 4
+imageUuid	724a8087-3393-4f2f-be78-41069d19edff
+translationKey	647ad1b0-0527-4e6f-a764-99d52ae0ca0d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/724a8087-3393-4f2f-be78-41069d19edff/647ad1b0-0527-4e6f-a764-99d52ae0ca0d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/724a8087-3393-4f2f-be78-41069d19edff/647ad1b0-0527-4e6f-a764-99d52ae0ca0d
+md5	cca12cce852f663ba3dd0f2c0b937ad7

@@ -1,0 +1,8 @@
+
+signId	401
+text	framåt
+imageUuid	f70d6ab0-9cb8-4b22-8231-e4bfc3b2529a
+translationKey	79dad129-7c11-4f20-86ea-1f0e10e804ae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f70d6ab0-9cb8-4b22-8231-e4bfc3b2529a/79dad129-7c11-4f20-86ea-1f0e10e804ae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f70d6ab0-9cb8-4b22-8231-e4bfc3b2529a/79dad129-7c11-4f20-86ea-1f0e10e804ae
+md5	a70640d9a33d552cbd0e1efded44568d

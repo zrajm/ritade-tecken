@@ -1,0 +1,8 @@
+
+signId	1781
+text	Z (bokstav)
+imageUuid	3988ca97-6487-44f0-96ca-da56418c0587
+translationKey	8ba53dda-9c3a-4eb2-acd8-64f1e60c2852
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3988ca97-6487-44f0-96ca-da56418c0587/8ba53dda-9c3a-4eb2-acd8-64f1e60c2852/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3988ca97-6487-44f0-96ca-da56418c0587/8ba53dda-9c3a-4eb2-acd8-64f1e60c2852
+md5	ce756f7c22cf56f1f9d9d72ead8103e2

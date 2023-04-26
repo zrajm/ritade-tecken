@@ -1,0 +1,7 @@
+signId	1653
+text	tvätta händerna
+imageUuid	3eb34c71-eaf3-493e-ac6b-bbbbf43f4718
+translationKey	d3f1edd4-3644-40e9-932a-2fc35b0d0e05
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3eb34c71-eaf3-493e-ac6b-bbbbf43f4718/d3f1edd4-3644-40e9-932a-2fc35b0d0e05/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3eb34c71-eaf3-493e-ac6b-bbbbf43f4718/d3f1edd4-3644-40e9-932a-2fc35b0d0e05
+md5	e75b297ac22dab28750843d6cdeb10ec

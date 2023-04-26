@@ -1,0 +1,7 @@
+signId	2180
+text	haka
+imageUuid	502c86ca-c95f-499e-aa91-1a5f1b9f8e8d
+translationKey	08b3b505-42c5-4fe7-b84e-9a1bc01b5228
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/502c86ca-c95f-499e-aa91-1a5f1b9f8e8d/08b3b505-42c5-4fe7-b84e-9a1bc01b5228/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/502c86ca-c95f-499e-aa91-1a5f1b9f8e8d/08b3b505-42c5-4fe7-b84e-9a1bc01b5228
+md5	7d74afb4587b5240e95b6e2666a967e6

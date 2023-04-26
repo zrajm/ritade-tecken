@@ -1,0 +1,7 @@
+signId	3396
+text	klockan 3
+imageUuid	d24fe85c-018c-478c-bbf0-f456142bb28f
+translationKey	c37ceba7-77be-4497-87c3-fec8104dc7ad
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d24fe85c-018c-478c-bbf0-f456142bb28f/c37ceba7-77be-4497-87c3-fec8104dc7ad/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d24fe85c-018c-478c-bbf0-f456142bb28f/c37ceba7-77be-4497-87c3-fec8104dc7ad
+md5	2788d9d58c467a39e1b95b48e69c230d

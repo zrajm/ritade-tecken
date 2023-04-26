@@ -1,0 +1,7 @@
+signId	1006
+text	modig
+imageUuid	4e4ad380-c327-4c5c-9f3d-14dee39484aa
+translationKey	7418f247-21b9-47d3-8c1d-f320305aff17
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e4ad380-c327-4c5c-9f3d-14dee39484aa/7418f247-21b9-47d3-8c1d-f320305aff17/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e4ad380-c327-4c5c-9f3d-14dee39484aa/7418f247-21b9-47d3-8c1d-f320305aff17
+md5	cdd582c1ddbda429bdee9ccb6c41c5b2

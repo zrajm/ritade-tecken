@@ -1,0 +1,7 @@
+signId	497
+text	godis
+imageUuid	308974fe-9ad6-47d7-8af4-06ebda1727f0
+translationKey	7b7d4c6a-30f8-4a16-bb54-bfef29e55d2d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/308974fe-9ad6-47d7-8af4-06ebda1727f0/7b7d4c6a-30f8-4a16-bb54-bfef29e55d2d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/308974fe-9ad6-47d7-8af4-06ebda1727f0/7b7d4c6a-30f8-4a16-bb54-bfef29e55d2d
+md5	ce103747445e247dc17208c82b0bb627

@@ -1,0 +1,7 @@
+signId	1558
+text	tallrik
+imageUuid	9cb94541-4b39-4cc5-ad89-da9655b63eda
+translationKey	e8cc90d1-326a-4517-90dc-d76a3ec17689
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9cb94541-4b39-4cc5-ad89-da9655b63eda/e8cc90d1-326a-4517-90dc-d76a3ec17689/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9cb94541-4b39-4cc5-ad89-da9655b63eda/e8cc90d1-326a-4517-90dc-d76a3ec17689
+md5	8c20ae7c40e272bc71880a745a65a088

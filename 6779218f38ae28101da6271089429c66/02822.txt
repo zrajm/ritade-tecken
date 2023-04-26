@@ -1,0 +1,7 @@
+signId	2822
+text	liberalerna
+imageUuid	16d45100-1e4c-40b4-823e-3bc691e3c0f4
+translationKey	67f2e073-d824-42bc-b059-580d10e4eb73
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/16d45100-1e4c-40b4-823e-3bc691e3c0f4/67f2e073-d824-42bc-b059-580d10e4eb73/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/16d45100-1e4c-40b4-823e-3bc691e3c0f4/67f2e073-d824-42bc-b059-580d10e4eb73
+md5	6779218f38ae28101da6271089429c66

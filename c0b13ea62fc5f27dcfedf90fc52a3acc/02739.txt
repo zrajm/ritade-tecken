@@ -1,0 +1,7 @@
+signId	2739
+text	manet
+imageUuid	fae2be6d-94a6-4e41-88f1-29e6e44f4822
+translationKey	43e90ab7-38df-4f4c-abfe-a337ff769407
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fae2be6d-94a6-4e41-88f1-29e6e44f4822/43e90ab7-38df-4f4c-abfe-a337ff769407/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fae2be6d-94a6-4e41-88f1-29e6e44f4822/43e90ab7-38df-4f4c-abfe-a337ff769407
+md5	c0b13ea62fc5f27dcfedf90fc52a3acc

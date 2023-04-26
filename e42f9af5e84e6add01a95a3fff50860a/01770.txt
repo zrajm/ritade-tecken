@@ -1,0 +1,7 @@
+signId	1770
+text	vänta
+imageUuid	248b5aa2-e61c-44b4-ac93-8987229017eb
+translationKey	4cfe2726-06a9-4327-88fc-b98f5b275f0a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/248b5aa2-e61c-44b4-ac93-8987229017eb/4cfe2726-06a9-4327-88fc-b98f5b275f0a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/248b5aa2-e61c-44b4-ac93-8987229017eb/4cfe2726-06a9-4327-88fc-b98f5b275f0a
+md5	e42f9af5e84e6add01a95a3fff50860a

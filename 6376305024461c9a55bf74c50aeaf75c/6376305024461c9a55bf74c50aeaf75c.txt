@@ -1,0 +1,40 @@
+
+signId	196
+text	bråka 2
+imageUuid	d74bb154-2430-4a0c-9d61-4a813a4b4ce7
+translationKey	714bec5f-7283-420e-943b-1ee6f8c6dffd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d74bb154-2430-4a0c-9d61-4a813a4b4ce7/714bec5f-7283-420e-943b-1ee6f8c6dffd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d74bb154-2430-4a0c-9d61-4a813a4b4ce7/714bec5f-7283-420e-943b-1ee6f8c6dffd
+md5	6376305024461c9a55bf74c50aeaf75c
+
+signId	817
+text	krångla
+imageUuid	973ac404-6cb7-492f-91ae-989e2f1dd159
+translationKey	cf6839a3-4370-4890-b5c1-5fa9985defae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/973ac404-6cb7-492f-91ae-989e2f1dd159/cf6839a3-4370-4890-b5c1-5fa9985defae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/973ac404-6cb7-492f-91ae-989e2f1dd159/cf6839a3-4370-4890-b5c1-5fa9985defae
+md5	6376305024461c9a55bf74c50aeaf75c
+
+signId	818
+text	krånglig
+imageUuid	cad63c9a-7769-4f27-ad97-85e8f424f4a1
+translationKey	53d30768-c6ff-463d-ac0b-d40800d1cb8c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cad63c9a-7769-4f27-ad97-85e8f424f4a1/53d30768-c6ff-463d-ac0b-d40800d1cb8c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cad63c9a-7769-4f27-ad97-85e8f424f4a1/53d30768-c6ff-463d-ac0b-d40800d1cb8c
+md5	6376305024461c9a55bf74c50aeaf75c
+
+signId	1515
+text	stökig
+imageUuid	6953611a-05c0-4d38-a95c-e9d1e42a98be
+translationKey	03d80d85-7c12-449d-92b7-43580f9cf545
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6953611a-05c0-4d38-a95c-e9d1e42a98be/03d80d85-7c12-449d-92b7-43580f9cf545/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6953611a-05c0-4d38-a95c-e9d1e42a98be/03d80d85-7c12-449d-92b7-43580f9cf545
+md5	6376305024461c9a55bf74c50aeaf75c
+
+signId	1609
+text	trassel
+imageUuid	89d0b86e-d99f-4e7c-bca7-f42e714ab74f
+translationKey	ecc073bc-a896-4fa4-8e0d-eaf49f2316b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/89d0b86e-d99f-4e7c-bca7-f42e714ab74f/ecc073bc-a896-4fa4-8e0d-eaf49f2316b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/89d0b86e-d99f-4e7c-bca7-f42e714ab74f/ecc073bc-a896-4fa4-8e0d-eaf49f2316b9
+md5	6376305024461c9a55bf74c50aeaf75c

@@ -1,0 +1,8 @@
+
+signId	214
+text	bäck
+imageUuid	f112ab75-46a8-4a64-8e32-22743b98fe66
+translationKey	d77720c1-62f4-41c2-8ae3-1f916fb4122c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f112ab75-46a8-4a64-8e32-22743b98fe66/d77720c1-62f4-41c2-8ae3-1f916fb4122c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f112ab75-46a8-4a64-8e32-22743b98fe66/d77720c1-62f4-41c2-8ae3-1f916fb4122c
+md5	c35294ed124ca60d7826bb2da330724f

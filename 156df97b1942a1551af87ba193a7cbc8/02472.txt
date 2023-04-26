@@ -1,0 +1,7 @@
+signId	2472
+text	odla
+imageUuid	9ed09224-5b1c-41b7-a358-3be865057117
+translationKey	adca4355-07f4-4bd4-afaa-0a5753929885
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9ed09224-5b1c-41b7-a358-3be865057117/adca4355-07f4-4bd4-afaa-0a5753929885/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9ed09224-5b1c-41b7-a358-3be865057117/adca4355-07f4-4bd4-afaa-0a5753929885
+md5	156df97b1942a1551af87ba193a7cbc8

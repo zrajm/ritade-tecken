@@ -1,0 +1,7 @@
+signId	292
+text	drottning
+imageUuid	69123b76-2f6a-4052-a7cd-7a351f43d966
+translationKey	2d217a27-3494-4c95-867a-a5e193f5d903
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/69123b76-2f6a-4052-a7cd-7a351f43d966/2d217a27-3494-4c95-867a-a5e193f5d903/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/69123b76-2f6a-4052-a7cd-7a351f43d966/2d217a27-3494-4c95-867a-a5e193f5d903
+md5	9aa697208c3cae1fdf4e31e5eb396931

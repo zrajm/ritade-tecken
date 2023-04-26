@@ -1,0 +1,8 @@
+
+signId	568
+text	handduk
+imageUuid	60458ed7-127e-4526-b744-8d33aa4cc484
+translationKey	f82f17c0-9df4-4e81-8fcd-c3695eb20e26
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/60458ed7-127e-4526-b744-8d33aa4cc484/f82f17c0-9df4-4e81-8fcd-c3695eb20e26/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/60458ed7-127e-4526-b744-8d33aa4cc484/f82f17c0-9df4-4e81-8fcd-c3695eb20e26
+md5	65a3d0660f4a601a18534df29347f712

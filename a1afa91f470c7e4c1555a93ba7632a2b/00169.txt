@@ -1,0 +1,7 @@
+signId	169
+text	bonde
+imageUuid	a2f2d60a-08e9-430a-b94d-224bdaf08a6b
+translationKey	1531e2ab-98fc-4fe1-9285-4545876bae52
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a2f2d60a-08e9-430a-b94d-224bdaf08a6b/1531e2ab-98fc-4fe1-9285-4545876bae52/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a2f2d60a-08e9-430a-b94d-224bdaf08a6b/1531e2ab-98fc-4fe1-9285-4545876bae52
+md5	a1afa91f470c7e4c1555a93ba7632a2b

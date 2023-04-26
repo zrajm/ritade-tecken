@@ -1,0 +1,7 @@
+signId	239
+text	cool
+imageUuid	f8b48334-fb1c-4ce9-8446-fc0c019ea359
+translationKey	83213827-0d24-4faa-aa5f-02bacbfda8c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f8b48334-fb1c-4ce9-8446-fc0c019ea359/83213827-0d24-4faa-aa5f-02bacbfda8c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f8b48334-fb1c-4ce9-8446-fc0c019ea359/83213827-0d24-4faa-aa5f-02bacbfda8c7
+md5	c9e7079b99a7134694776132c08bc0b4

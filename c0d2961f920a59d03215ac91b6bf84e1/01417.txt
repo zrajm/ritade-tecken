@@ -1,0 +1,7 @@
+signId	1417
+text	snöboll
+imageUuid	41ec2935-7b55-41e8-ad37-ae00da29533f
+translationKey	7adf5369-583a-441a-b8b1-3c17b720468e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/41ec2935-7b55-41e8-ad37-ae00da29533f/7adf5369-583a-441a-b8b1-3c17b720468e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/41ec2935-7b55-41e8-ad37-ae00da29533f/7adf5369-583a-441a-b8b1-3c17b720468e
+md5	c0d2961f920a59d03215ac91b6bf84e1

@@ -1,0 +1,7 @@
+signId	3287
+text	kör
+imageUuid	8650c0f6-b844-4694-a1dc-c278e14658dc
+translationKey	b5df63ee-c9ea-48c0-8fe8-600ecc83c4a1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8650c0f6-b844-4694-a1dc-c278e14658dc/b5df63ee-c9ea-48c0-8fe8-600ecc83c4a1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8650c0f6-b844-4694-a1dc-c278e14658dc/b5df63ee-c9ea-48c0-8fe8-600ecc83c4a1
+md5	f97e99c2fe689845f81490e14a4e28f1

@@ -1,0 +1,8 @@
+
+signId	1530
+text	sylt
+imageUuid	b6829bc9-a940-47e8-9ffc-8d0eceeb7119
+translationKey	f7e40c05-cdc7-4557-bb0a-73f677f4fb32
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b6829bc9-a940-47e8-9ffc-8d0eceeb7119/f7e40c05-cdc7-4557-bb0a-73f677f4fb32/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b6829bc9-a940-47e8-9ffc-8d0eceeb7119/f7e40c05-cdc7-4557-bb0a-73f677f4fb32
+md5	c4e304971817b35e4ad7d5ccdb220fc5

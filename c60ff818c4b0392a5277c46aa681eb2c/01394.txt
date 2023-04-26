@@ -1,0 +1,7 @@
+signId	1394
+text	smak
+imageUuid	d08e24ea-c818-4c2d-8de0-187ba2773af4
+translationKey	a84125e8-5d77-4a49-b12a-a5126923f42f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d08e24ea-c818-4c2d-8de0-187ba2773af4/a84125e8-5d77-4a49-b12a-a5126923f42f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d08e24ea-c818-4c2d-8de0-187ba2773af4/a84125e8-5d77-4a49-b12a-a5126923f42f
+md5	c60ff818c4b0392a5277c46aa681eb2c

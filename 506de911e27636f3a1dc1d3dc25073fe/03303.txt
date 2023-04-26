@@ -1,0 +1,7 @@
+signId	3303
+text	handla om
+imageUuid	6fa8a77c-b227-4c44-9966-d6a49da67bff
+translationKey	3ac3b9ea-e4e5-46ce-bc73-e374d0b79efe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6fa8a77c-b227-4c44-9966-d6a49da67bff/3ac3b9ea-e4e5-46ce-bc73-e374d0b79efe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6fa8a77c-b227-4c44-9966-d6a49da67bff/3ac3b9ea-e4e5-46ce-bc73-e374d0b79efe
+md5	506de911e27636f3a1dc1d3dc25073fe

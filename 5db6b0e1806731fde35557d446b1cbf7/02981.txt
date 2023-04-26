@@ -1,0 +1,7 @@
+signId	2981
+text	bryta
+imageUuid	41efd2dc-b7df-4b63-86d0-e5663d1d2223
+translationKey	996cc441-7965-468c-839d-e56ced604974
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/41efd2dc-b7df-4b63-86d0-e5663d1d2223/996cc441-7965-468c-839d-e56ced604974/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/41efd2dc-b7df-4b63-86d0-e5663d1d2223/996cc441-7965-468c-839d-e56ced604974
+md5	5db6b0e1806731fde35557d446b1cbf7

@@ -1,0 +1,8 @@
+
+signId	2558
+text	rockmusik
+imageUuid	dd702762-8a5d-40fc-98da-eac8358d3f53
+translationKey	08b18182-ed08-4a65-b25a-a3b0f8db7f08
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dd702762-8a5d-40fc-98da-eac8358d3f53/08b18182-ed08-4a65-b25a-a3b0f8db7f08/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dd702762-8a5d-40fc-98da-eac8358d3f53/08b18182-ed08-4a65-b25a-a3b0f8db7f08
+md5	e9b5f96c861ba37d4250633bbbe7f2ab

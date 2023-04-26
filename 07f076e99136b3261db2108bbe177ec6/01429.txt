@@ -1,0 +1,7 @@
+signId	1429
+text	sopa
+imageUuid	35aff689-27cb-44c5-8342-c0c7964b2fbb
+translationKey	c31bb926-38d3-460a-8907-50c0be7da17b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/35aff689-27cb-44c5-8342-c0c7964b2fbb/c31bb926-38d3-460a-8907-50c0be7da17b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/35aff689-27cb-44c5-8342-c0c7964b2fbb/c31bb926-38d3-460a-8907-50c0be7da17b
+md5	07f076e99136b3261db2108bbe177ec6

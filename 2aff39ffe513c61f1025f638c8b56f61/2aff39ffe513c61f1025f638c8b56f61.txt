@@ -1,0 +1,8 @@
+
+signId	2659
+text	rullgardin
+imageUuid	5557e910-0cb3-4b3d-9520-6c7913c6fc67
+translationKey	bdf7f554-291d-4378-ae30-78fac3d37c58
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5557e910-0cb3-4b3d-9520-6c7913c6fc67/bdf7f554-291d-4378-ae30-78fac3d37c58/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5557e910-0cb3-4b3d-9520-6c7913c6fc67/bdf7f554-291d-4378-ae30-78fac3d37c58
+md5	2aff39ffe513c61f1025f638c8b56f61

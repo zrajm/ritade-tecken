@@ -1,0 +1,7 @@
+signId	984
+text	mest
+imageUuid	3728442c-414a-4ffc-90fe-b15b2c8f872b
+translationKey	1567da48-dd1f-4c64-98d2-bde85d3ca2bb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3728442c-414a-4ffc-90fe-b15b2c8f872b/1567da48-dd1f-4c64-98d2-bde85d3ca2bb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3728442c-414a-4ffc-90fe-b15b2c8f872b/1567da48-dd1f-4c64-98d2-bde85d3ca2bb
+md5	0c63ace2f0a6770dec104dd8504174bf

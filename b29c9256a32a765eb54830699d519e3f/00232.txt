@@ -1,0 +1,7 @@
+signId	232
+text	chef
+imageUuid	f73f91cc-4548-481b-8867-f18c93bb869c
+translationKey	90ed58c0-abbd-4916-9633-b28aeef0f8b3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f73f91cc-4548-481b-8867-f18c93bb869c/90ed58c0-abbd-4916-9633-b28aeef0f8b3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f73f91cc-4548-481b-8867-f18c93bb869c/90ed58c0-abbd-4916-9633-b28aeef0f8b3
+md5	b29c9256a32a765eb54830699d519e3f

@@ -1,0 +1,16 @@
+
+signId	800
+text	kortbyxor
+imageUuid	38cdc0a5-7a27-4973-949a-c3569dab67ae
+translationKey	47c4e6cb-0eed-424a-a50d-6fffcdd1bc82
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/38cdc0a5-7a27-4973-949a-c3569dab67ae/47c4e6cb-0eed-424a-a50d-6fffcdd1bc82/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/38cdc0a5-7a27-4973-949a-c3569dab67ae/47c4e6cb-0eed-424a-a50d-6fffcdd1bc82
+md5	df199ce2571f27c3ee9377c34db0765a
+
+signId	1308
+text	shorts
+imageUuid	e9cd713c-a95d-4f61-aad3-3555176d9307
+translationKey	be0b9ac6-fbcc-4ea8-8158-a474df4218b0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e9cd713c-a95d-4f61-aad3-3555176d9307/be0b9ac6-fbcc-4ea8-8158-a474df4218b0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e9cd713c-a95d-4f61-aad3-3555176d9307/be0b9ac6-fbcc-4ea8-8158-a474df4218b0
+md5	df199ce2571f27c3ee9377c34db0765a

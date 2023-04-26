@@ -1,0 +1,24 @@
+
+signId	450
+text	förening
+imageUuid	d157eeb6-8566-4be9-9c84-bcf70dab4f6e
+translationKey	8a50d674-1ac1-42e4-9814-7dcefdc091e3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d157eeb6-8566-4be9-9c84-bcf70dab4f6e/8a50d674-1ac1-42e4-9814-7dcefdc091e3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d157eeb6-8566-4be9-9c84-bcf70dab4f6e/8a50d674-1ac1-42e4-9814-7dcefdc091e3
+md5	a5fa4fd1a9757dde91aaf9b15467d838
+
+signId	757
+text	klubb
+imageUuid	389daf92-ba4b-489b-b7be-6acec658d714
+translationKey	da6b9690-8854-4be4-bbb8-6a80322f82c9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/389daf92-ba4b-489b-b7be-6acec658d714/da6b9690-8854-4be4-bbb8-6a80322f82c9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/389daf92-ba4b-489b-b7be-6acec658d714/da6b9690-8854-4be4-bbb8-6a80322f82c9
+md5	a5fa4fd1a9757dde91aaf9b15467d838
+
+signId	1059
+text	möte 2
+imageUuid	9bad80be-4148-4c31-bcb9-62d624618b37
+translationKey	9e86eef8-8d8e-480c-9d1a-4ee5b9316d41
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9bad80be-4148-4c31-bcb9-62d624618b37/9e86eef8-8d8e-480c-9d1a-4ee5b9316d41/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9bad80be-4148-4c31-bcb9-62d624618b37/9e86eef8-8d8e-480c-9d1a-4ee5b9316d41
+md5	a5fa4fd1a9757dde91aaf9b15467d838

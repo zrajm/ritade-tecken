@@ -1,0 +1,16 @@
+
+signId	20
+text	18_2 (tal)
+imageUuid	3197a100-f030-4b72-b608-8aa76aa56733
+translationKey	db66e267-7b1e-4d27-8283-b274b631da94
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3197a100-f030-4b72-b608-8aa76aa56733/db66e267-7b1e-4d27-8283-b274b631da94/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3197a100-f030-4b72-b608-8aa76aa56733/db66e267-7b1e-4d27-8283-b274b631da94
+md5	916f41bbc5532826f49ba357365e8d93
+
+signId	3164
+text	arton 2
+imageUuid	c212f5b4-6308-4269-8e97-7c92ed870a30
+translationKey	06c6f51e-3f9a-4e1e-88dd-3b4fdc1c2cbf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c212f5b4-6308-4269-8e97-7c92ed870a30/06c6f51e-3f9a-4e1e-88dd-3b4fdc1c2cbf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c212f5b4-6308-4269-8e97-7c92ed870a30/06c6f51e-3f9a-4e1e-88dd-3b4fdc1c2cbf
+md5	916f41bbc5532826f49ba357365e8d93

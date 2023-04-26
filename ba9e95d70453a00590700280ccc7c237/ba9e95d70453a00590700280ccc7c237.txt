@@ -1,0 +1,8 @@
+
+signId	1806
+text	äng 3
+imageUuid	24b2e086-a284-4d7a-9296-adf0af0cc398
+translationKey	ea08665d-d3d7-425e-a5a6-2ab9e21151b7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/24b2e086-a284-4d7a-9296-adf0af0cc398/ea08665d-d3d7-425e-a5a6-2ab9e21151b7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/24b2e086-a284-4d7a-9296-adf0af0cc398/ea08665d-d3d7-425e-a5a6-2ab9e21151b7
+md5	ba9e95d70453a00590700280ccc7c237

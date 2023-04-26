@@ -1,0 +1,7 @@
+signId	1889
+text	anfalla
+imageUuid	63d4b539-dfb2-426e-933d-b23da2265f11
+translationKey	d9e5987c-9db4-4557-9099-2a4f8b2abdca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/63d4b539-dfb2-426e-933d-b23da2265f11/d9e5987c-9db4-4557-9099-2a4f8b2abdca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/63d4b539-dfb2-426e-933d-b23da2265f11/d9e5987c-9db4-4557-9099-2a4f8b2abdca
+md5	35d1ccd03f9a1b4c638fe53d98a50098

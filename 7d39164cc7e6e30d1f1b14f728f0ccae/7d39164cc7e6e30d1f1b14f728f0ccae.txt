@@ -1,0 +1,8 @@
+
+signId	2534
+text	uppför
+imageUuid	0452f15f-6efb-44a3-975a-abc7151e0706
+translationKey	641e49d5-841f-4d2e-88b9-331e4a696a5a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0452f15f-6efb-44a3-975a-abc7151e0706/641e49d5-841f-4d2e-88b9-331e4a696a5a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0452f15f-6efb-44a3-975a-abc7151e0706/641e49d5-841f-4d2e-88b9-331e4a696a5a
+md5	7d39164cc7e6e30d1f1b14f728f0ccae

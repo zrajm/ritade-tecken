@@ -1,0 +1,7 @@
+signId	1762
+text	väldigt mycket
+imageUuid	cb9177c5-8b6f-4b3f-ae49-fbed43c1ffc8
+translationKey	91ea4e99-ba34-4abb-80a7-e1b01a67299d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cb9177c5-8b6f-4b3f-ae49-fbed43c1ffc8/91ea4e99-ba34-4abb-80a7-e1b01a67299d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cb9177c5-8b6f-4b3f-ae49-fbed43c1ffc8/91ea4e99-ba34-4abb-80a7-e1b01a67299d
+md5	fdf31bd6a4e501bb15cad296b7816f86

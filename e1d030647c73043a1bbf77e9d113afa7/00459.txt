@@ -1,0 +1,7 @@
+signId	459
+text	försiktigt
+imageUuid	6db7f7ae-ccce-484d-b924-e1dd50092e62
+translationKey	3e7ba42b-19e6-4efb-8c74-5d2f0a4667b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6db7f7ae-ccce-484d-b924-e1dd50092e62/3e7ba42b-19e6-4efb-8c74-5d2f0a4667b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6db7f7ae-ccce-484d-b924-e1dd50092e62/3e7ba42b-19e6-4efb-8c74-5d2f0a4667b5
+md5	e1d030647c73043a1bbf77e9d113afa7

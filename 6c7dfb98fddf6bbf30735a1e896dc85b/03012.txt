@@ -1,0 +1,7 @@
+signId	3012
+text	pepparkvarn
+imageUuid	bbd06675-35b9-4cfd-802f-b07c30645a88
+translationKey	31f76504-030b-4bf6-836b-d19c03ed94c2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bbd06675-35b9-4cfd-802f-b07c30645a88/31f76504-030b-4bf6-836b-d19c03ed94c2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bbd06675-35b9-4cfd-802f-b07c30645a88/31f76504-030b-4bf6-836b-d19c03ed94c2
+md5	6c7dfb98fddf6bbf30735a1e896dc85b

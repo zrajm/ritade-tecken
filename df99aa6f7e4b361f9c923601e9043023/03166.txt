@@ -1,0 +1,7 @@
+signId	3166
+text	nitton 2
+imageUuid	aab2b927-db8e-4198-851b-02d6928fb205
+translationKey	7ee77224-e4df-4cf2-9503-c2a4471cf608
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aab2b927-db8e-4198-851b-02d6928fb205/7ee77224-e4df-4cf2-9503-c2a4471cf608/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aab2b927-db8e-4198-851b-02d6928fb205/7ee77224-e4df-4cf2-9503-c2a4471cf608
+md5	df99aa6f7e4b361f9c923601e9043023

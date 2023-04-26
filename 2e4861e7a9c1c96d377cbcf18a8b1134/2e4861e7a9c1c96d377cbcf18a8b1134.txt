@@ -1,0 +1,8 @@
+
+signId	2827
+text	rivjärn
+imageUuid	34c3cc66-c730-4401-a344-08fe2be47d97
+translationKey	23560f0b-2cc6-4f30-92ed-b8c7a318f51d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/34c3cc66-c730-4401-a344-08fe2be47d97/23560f0b-2cc6-4f30-92ed-b8c7a318f51d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/34c3cc66-c730-4401-a344-08fe2be47d97/23560f0b-2cc6-4f30-92ed-b8c7a318f51d
+md5	2e4861e7a9c1c96d377cbcf18a8b1134

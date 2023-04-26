@@ -1,0 +1,7 @@
+signId	3025
+text	zoo
+imageUuid	7bab35f5-473e-46ee-bc9c-d7eac911a833
+translationKey	a85582fc-bc53-4697-b218-85713da07cbf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7bab35f5-473e-46ee-bc9c-d7eac911a833/a85582fc-bc53-4697-b218-85713da07cbf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7bab35f5-473e-46ee-bc9c-d7eac911a833/a85582fc-bc53-4697-b218-85713da07cbf
+md5	63b706fd15a31c441ba4c8237dc71d0e

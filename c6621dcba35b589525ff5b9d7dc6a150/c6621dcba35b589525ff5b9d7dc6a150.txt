@@ -1,0 +1,8 @@
+
+signId	117
+text	behöver inte
+imageUuid	53b65093-9614-4121-a1ba-24fbbb321091
+translationKey	cb80dd2a-cd28-49bf-8da2-16fed68aaeb7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/53b65093-9614-4121-a1ba-24fbbb321091/cb80dd2a-cd28-49bf-8da2-16fed68aaeb7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/53b65093-9614-4121-a1ba-24fbbb321091/cb80dd2a-cd28-49bf-8da2-16fed68aaeb7
+md5	c6621dcba35b589525ff5b9d7dc6a150

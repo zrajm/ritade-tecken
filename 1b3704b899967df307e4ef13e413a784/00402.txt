@@ -1,0 +1,7 @@
+signId	402
+text	fred
+imageUuid	8bbb0b71-1428-46bb-88a7-6a3bb13bf968
+translationKey	26de84c5-1f86-43a6-b378-399ee5f58521
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8bbb0b71-1428-46bb-88a7-6a3bb13bf968/26de84c5-1f86-43a6-b378-399ee5f58521/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8bbb0b71-1428-46bb-88a7-6a3bb13bf968/26de84c5-1f86-43a6-b378-399ee5f58521
+md5	1b3704b899967df307e4ef13e413a784

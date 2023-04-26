@@ -1,0 +1,7 @@
+signId	747
+text	klappa händerna
+imageUuid	9d357dde-602b-4470-be3a-fa76b758daf7
+translationKey	acb807e9-c468-43fb-90f8-658a774d88ea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9d357dde-602b-4470-be3a-fa76b758daf7/acb807e9-c468-43fb-90f8-658a774d88ea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9d357dde-602b-4470-be3a-fa76b758daf7/acb807e9-c468-43fb-90f8-658a774d88ea
+md5	d2ff24ad1fd42cc1a9f9a372fac7959b

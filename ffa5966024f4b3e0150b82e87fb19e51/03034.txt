@@ -1,0 +1,7 @@
+signId	3034
+text	prövning
+imageUuid	8c3ea63f-2a26-4e65-a25b-9a5d9ffccb3b
+translationKey	15360bfc-82d6-411b-8183-d974710f82aa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c3ea63f-2a26-4e65-a25b-9a5d9ffccb3b/15360bfc-82d6-411b-8183-d974710f82aa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c3ea63f-2a26-4e65-a25b-9a5d9ffccb3b/15360bfc-82d6-411b-8183-d974710f82aa
+md5	ffa5966024f4b3e0150b82e87fb19e51

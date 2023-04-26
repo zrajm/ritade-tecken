@@ -1,0 +1,7 @@
+signId	2390
+text	skattkarta
+imageUuid	0a35262d-0859-4cdf-954c-c45f622b5a7e
+translationKey	c4406934-284b-4cee-aa94-c4f2e285f759
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0a35262d-0859-4cdf-954c-c45f622b5a7e/c4406934-284b-4cee-aa94-c4f2e285f759/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0a35262d-0859-4cdf-954c-c45f622b5a7e/c4406934-284b-4cee-aa94-c4f2e285f759
+md5	ec639f87222ae706549a6641efdb813b

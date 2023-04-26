@@ -1,0 +1,8 @@
+
+signId	3135
+text	smultron
+imageUuid	1145e617-4cc7-406e-8bce-f0841ed6d9f0
+translationKey	8afaa658-c5a0-4d74-8402-d651113f5532
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1145e617-4cc7-406e-8bce-f0841ed6d9f0/8afaa658-c5a0-4d74-8402-d651113f5532/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1145e617-4cc7-406e-8bce-f0841ed6d9f0/8afaa658-c5a0-4d74-8402-d651113f5532
+md5	b8fc73587557a7ea7efbc5a4e4d7c21a

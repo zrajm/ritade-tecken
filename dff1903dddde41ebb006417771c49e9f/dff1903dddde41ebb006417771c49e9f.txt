@@ -1,0 +1,8 @@
+
+signId	175
+text	bowla
+imageUuid	8074681e-81ac-4f95-bf99-23fa6e824368
+translationKey	2144c698-662c-4751-8fdf-d13cddd6a0a9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8074681e-81ac-4f95-bf99-23fa6e824368/2144c698-662c-4751-8fdf-d13cddd6a0a9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8074681e-81ac-4f95-bf99-23fa6e824368/2144c698-662c-4751-8fdf-d13cddd6a0a9
+md5	dff1903dddde41ebb006417771c49e9f

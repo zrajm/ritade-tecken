@@ -1,0 +1,8 @@
+
+signId	3076
+text	sambo
+imageUuid	637a4832-27f8-4d12-9be3-4f76cb824435
+translationKey	36e78cd5-6700-4dcd-8460-94b360257911
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/637a4832-27f8-4d12-9be3-4f76cb824435/36e78cd5-6700-4dcd-8460-94b360257911/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/637a4832-27f8-4d12-9be3-4f76cb824435/36e78cd5-6700-4dcd-8460-94b360257911
+md5	fea0ba055f5a4f1e1713341edd5545f2

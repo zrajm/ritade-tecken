@@ -1,0 +1,8 @@
+
+signId	2957
+text	glögg
+imageUuid	efe52b21-cb67-4b64-ac0b-f82d979d931b
+translationKey	7dc37da9-f272-451f-bf95-7e16d6643b99
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/efe52b21-cb67-4b64-ac0b-f82d979d931b/7dc37da9-f272-451f-bf95-7e16d6643b99/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/efe52b21-cb67-4b64-ac0b-f82d979d931b/7dc37da9-f272-451f-bf95-7e16d6643b99
+md5	6c9b888baa7ad4982ac8dcd3d8b37a51

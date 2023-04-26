@@ -1,0 +1,7 @@
+signId	2074
+text	packa
+imageUuid	1c2fdae8-97b5-45ec-86a7-dfa6cef7e612
+translationKey	52bd8ae4-a33b-4949-8c9e-789a5fb2480e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1c2fdae8-97b5-45ec-86a7-dfa6cef7e612/52bd8ae4-a33b-4949-8c9e-789a5fb2480e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1c2fdae8-97b5-45ec-86a7-dfa6cef7e612/52bd8ae4-a33b-4949-8c9e-789a5fb2480e
+md5	2129117ecb6affc709fae6dec243d105

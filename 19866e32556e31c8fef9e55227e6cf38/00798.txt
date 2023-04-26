@@ -1,0 +1,7 @@
+signId	798
+text	kort (låg)
+imageUuid	691f443b-3817-4dfc-89f9-4671a8dcf126
+translationKey	fcbca11e-c987-4637-850a-baf330a52312
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/691f443b-3817-4dfc-89f9-4671a8dcf126/fcbca11e-c987-4637-850a-baf330a52312/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/691f443b-3817-4dfc-89f9-4671a8dcf126/fcbca11e-c987-4637-850a-baf330a52312
+md5	91ae3716f200598ae39c6850f2b910da

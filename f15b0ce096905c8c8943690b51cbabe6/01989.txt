@@ -1,0 +1,7 @@
+signId	1989
+text	spöke 1
+imageUuid	5375e2d6-020e-449a-a156-90d73df8455a
+translationKey	0b589dd3-520c-4885-aae0-5335b0590569
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5375e2d6-020e-449a-a156-90d73df8455a/0b589dd3-520c-4885-aae0-5335b0590569/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5375e2d6-020e-449a-a156-90d73df8455a/0b589dd3-520c-4885-aae0-5335b0590569
+md5	f15b0ce096905c8c8943690b51cbabe6

@@ -1,0 +1,8 @@
+
+signId	894
+text	limpa
+imageUuid	2d6abf79-7b1c-4d35-a689-183230fab7c7
+translationKey	49cc530d-579a-4954-b85e-dc5a4b609c21
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d6abf79-7b1c-4d35-a689-183230fab7c7/49cc530d-579a-4954-b85e-dc5a4b609c21/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d6abf79-7b1c-4d35-a689-183230fab7c7/49cc530d-579a-4954-b85e-dc5a4b609c21
+md5	882e5e9c4b75d46e21a0759306e62ca4

@@ -1,0 +1,7 @@
+signId	3221
+text	Klonk
+imageUuid	b2632346-5fd4-472b-a6d5-dbd2329ca7d8
+translationKey	ec2ec37d-9ef1-406a-9ad0-7744bd863675
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b2632346-5fd4-472b-a6d5-dbd2329ca7d8/ec2ec37d-9ef1-406a-9ad0-7744bd863675/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b2632346-5fd4-472b-a6d5-dbd2329ca7d8/ec2ec37d-9ef1-406a-9ad0-7744bd863675
+md5	4819e38b16288c6697ddc2c57e9fbd58

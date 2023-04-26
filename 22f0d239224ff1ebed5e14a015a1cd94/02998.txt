@@ -1,0 +1,7 @@
+signId	2998
+text	helig
+imageUuid	b77006d7-1eb3-4d99-93a3-d61614057699
+translationKey	834e6320-d117-4c84-aa87-3039a061fb9c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b77006d7-1eb3-4d99-93a3-d61614057699/834e6320-d117-4c84-aa87-3039a061fb9c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b77006d7-1eb3-4d99-93a3-d61614057699/834e6320-d117-4c84-aa87-3039a061fb9c
+md5	22f0d239224ff1ebed5e14a015a1cd94

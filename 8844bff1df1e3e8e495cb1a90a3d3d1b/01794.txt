@@ -1,0 +1,7 @@
+signId	1794
+text	åt upp allt
+imageUuid	8312bcb5-5ed1-4852-a5e4-d787eb61a490
+translationKey	684f3247-3f0b-4ebe-bc3a-cef9a3a9d8de
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8312bcb5-5ed1-4852-a5e4-d787eb61a490/684f3247-3f0b-4ebe-bc3a-cef9a3a9d8de/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8312bcb5-5ed1-4852-a5e4-d787eb61a490/684f3247-3f0b-4ebe-bc3a-cef9a3a9d8de
+md5	8844bff1df1e3e8e495cb1a90a3d3d1b

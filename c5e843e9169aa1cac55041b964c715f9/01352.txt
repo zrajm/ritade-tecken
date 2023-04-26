@@ -1,0 +1,7 @@
+signId	1352
+text	skorsten
+imageUuid	2f981e73-cbab-47b6-baed-4984b09d4fc5
+translationKey	8e0efbea-b16a-48c6-8731-cdbf1de8d781
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2f981e73-cbab-47b6-baed-4984b09d4fc5/8e0efbea-b16a-48c6-8731-cdbf1de8d781/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2f981e73-cbab-47b6-baed-4984b09d4fc5/8e0efbea-b16a-48c6-8731-cdbf1de8d781
+md5	fcd90e6060be590fea503b17612c3215

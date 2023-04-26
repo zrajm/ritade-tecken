@@ -1,0 +1,7 @@
+signId	2897
+text	nypon
+imageUuid	06fc1c4c-0aab-44fe-98ba-ef9c8c5111f8
+translationKey	6d8858fd-7c9f-4258-b5f0-eee1c896e950
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/06fc1c4c-0aab-44fe-98ba-ef9c8c5111f8/6d8858fd-7c9f-4258-b5f0-eee1c896e950/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/06fc1c4c-0aab-44fe-98ba-ef9c8c5111f8/6d8858fd-7c9f-4258-b5f0-eee1c896e950
+md5	665c0028020a38357caf64cb05c6860a

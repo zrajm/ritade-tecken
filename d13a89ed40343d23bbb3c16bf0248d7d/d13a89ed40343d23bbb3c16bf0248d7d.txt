@@ -1,0 +1,8 @@
+
+signId	3392
+text	havssköldpadda
+imageUuid	ac5fc8ef-4fe4-4c23-a929-862697f06390
+translationKey	084c4908-58bb-43de-bb51-0f38610ddf28
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ac5fc8ef-4fe4-4c23-a929-862697f06390/084c4908-58bb-43de-bb51-0f38610ddf28/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ac5fc8ef-4fe4-4c23-a929-862697f06390/084c4908-58bb-43de-bb51-0f38610ddf28
+md5	d13a89ed40343d23bbb3c16bf0248d7d

@@ -1,0 +1,7 @@
+signId	1198
+text	prostituerad
+imageUuid	9907edb2-c79c-46fb-9042-6366839d1237
+translationKey	ab1169a2-6722-40e2-a6c2-c1abd4e8dedf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9907edb2-c79c-46fb-9042-6366839d1237/ab1169a2-6722-40e2-a6c2-c1abd4e8dedf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9907edb2-c79c-46fb-9042-6366839d1237/ab1169a2-6722-40e2-a6c2-c1abd4e8dedf
+md5	5a5a872a63f6eeb5f375399abac4686e

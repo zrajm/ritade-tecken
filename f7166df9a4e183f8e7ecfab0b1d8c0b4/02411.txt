@@ -1,0 +1,7 @@
+signId	2411
+text	Afrika
+imageUuid	c9035929-1bff-4ca2-9c3f-edbe62bbf03e
+translationKey	a1e4198e-eb10-4bad-945d-e3ac484dc84f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c9035929-1bff-4ca2-9c3f-edbe62bbf03e/a1e4198e-eb10-4bad-945d-e3ac484dc84f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c9035929-1bff-4ca2-9c3f-edbe62bbf03e/a1e4198e-eb10-4bad-945d-e3ac484dc84f
+md5	f7166df9a4e183f8e7ecfab0b1d8c0b4

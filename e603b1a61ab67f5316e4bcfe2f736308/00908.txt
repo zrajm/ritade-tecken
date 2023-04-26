@@ -1,0 +1,7 @@
+signId	908
+text	lockigt hår
+imageUuid	a6af3be7-a911-4bfa-befb-ddbacde2e3ef
+translationKey	0dc4587c-1624-4271-b4f9-ca914a6a55e9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a6af3be7-a911-4bfa-befb-ddbacde2e3ef/0dc4587c-1624-4271-b4f9-ca914a6a55e9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a6af3be7-a911-4bfa-befb-ddbacde2e3ef/0dc4587c-1624-4271-b4f9-ca914a6a55e9
+md5	e603b1a61ab67f5316e4bcfe2f736308

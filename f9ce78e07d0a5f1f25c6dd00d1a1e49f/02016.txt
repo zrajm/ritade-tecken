@@ -1,0 +1,7 @@
+signId	2016
+text	hålla handen
+imageUuid	b05197c9-2f9d-4892-8b26-026e8b03b971
+translationKey	9bcee3e3-cdb4-4260-9898-2a3ecf70ba0d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b05197c9-2f9d-4892-8b26-026e8b03b971/9bcee3e3-cdb4-4260-9898-2a3ecf70ba0d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b05197c9-2f9d-4892-8b26-026e8b03b971/9bcee3e3-cdb4-4260-9898-2a3ecf70ba0d
+md5	f9ce78e07d0a5f1f25c6dd00d1a1e49f

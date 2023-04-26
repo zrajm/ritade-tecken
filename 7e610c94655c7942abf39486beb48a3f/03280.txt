@@ -1,0 +1,7 @@
+signId	3280
+text	avdrag
+imageUuid	dfacd270-1238-4a7d-bffc-3ffdb5ff3d67
+translationKey	bc7dcadb-0282-41b9-bcf6-7ffca48fa4aa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dfacd270-1238-4a7d-bffc-3ffdb5ff3d67/bc7dcadb-0282-41b9-bcf6-7ffca48fa4aa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dfacd270-1238-4a7d-bffc-3ffdb5ff3d67/bc7dcadb-0282-41b9-bcf6-7ffca48fa4aa
+md5	7e610c94655c7942abf39486beb48a3f

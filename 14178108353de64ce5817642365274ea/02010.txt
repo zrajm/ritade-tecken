@@ -1,0 +1,7 @@
+signId	2010
+text	konsument
+imageUuid	7e064a4f-8f1c-444d-b611-631852ae5424
+translationKey	57df481b-0fbd-47db-91ea-cf69f6dfff85
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e064a4f-8f1c-444d-b611-631852ae5424/57df481b-0fbd-47db-91ea-cf69f6dfff85/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e064a4f-8f1c-444d-b611-631852ae5424/57df481b-0fbd-47db-91ea-cf69f6dfff85
+md5	14178108353de64ce5817642365274ea

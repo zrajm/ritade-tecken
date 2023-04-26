@@ -1,0 +1,7 @@
+signId	338
+text	faktiskt
+imageUuid	dc2d7ef8-8b9c-4851-ad7c-55211aceef04
+translationKey	2b9dbc89-ae6f-48da-89a2-787fea999fc5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dc2d7ef8-8b9c-4851-ad7c-55211aceef04/2b9dbc89-ae6f-48da-89a2-787fea999fc5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dc2d7ef8-8b9c-4851-ad7c-55211aceef04/2b9dbc89-ae6f-48da-89a2-787fea999fc5
+md5	da7cc787cab10abd1eff50f46c917894

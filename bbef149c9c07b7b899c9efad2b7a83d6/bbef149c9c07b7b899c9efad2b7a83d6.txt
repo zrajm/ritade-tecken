@@ -1,0 +1,8 @@
+
+signId	2770
+text	brottning
+imageUuid	0b5cccf8-4019-4927-aef4-81af24c6f406
+translationKey	df2a95a1-dce2-4fc1-bbfb-f09b5732d3bb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0b5cccf8-4019-4927-aef4-81af24c6f406/df2a95a1-dce2-4fc1-bbfb-f09b5732d3bb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0b5cccf8-4019-4927-aef4-81af24c6f406/df2a95a1-dce2-4fc1-bbfb-f09b5732d3bb
+md5	bbef149c9c07b7b899c9efad2b7a83d6

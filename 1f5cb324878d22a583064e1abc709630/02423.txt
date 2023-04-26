@@ -1,0 +1,7 @@
+signId	2423
+text	högtid
+imageUuid	d4ac02b6-3f87-46d2-8d36-45beebfa37cc
+translationKey	e32e94d9-92c7-4f30-b84e-0a228f0afed9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d4ac02b6-3f87-46d2-8d36-45beebfa37cc/e32e94d9-92c7-4f30-b84e-0a228f0afed9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d4ac02b6-3f87-46d2-8d36-45beebfa37cc/e32e94d9-92c7-4f30-b84e-0a228f0afed9
+md5	1f5cb324878d22a583064e1abc709630

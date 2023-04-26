@@ -1,0 +1,7 @@
+signId	3290
+text	galen
+imageUuid	d03db983-e4a1-4728-8f65-e3f66cda8a48
+translationKey	76af55da-a864-485b-9c2a-c0e472315743
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d03db983-e4a1-4728-8f65-e3f66cda8a48/76af55da-a864-485b-9c2a-c0e472315743/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d03db983-e4a1-4728-8f65-e3f66cda8a48/76af55da-a864-485b-9c2a-c0e472315743
+md5	40441a3f08e6cfa7f9e6bcd52cd04822

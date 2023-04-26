@@ -1,0 +1,7 @@
+signId	664
+text	imorgon
+imageUuid	4c69d002-e32b-4d0f-a8cf-82334eb9d87c
+translationKey	62740172-3c3c-4e42-b66d-e0a63e679f21
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4c69d002-e32b-4d0f-a8cf-82334eb9d87c/62740172-3c3c-4e42-b66d-e0a63e679f21/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4c69d002-e32b-4d0f-a8cf-82334eb9d87c/62740172-3c3c-4e42-b66d-e0a63e679f21
+md5	d7cbbc3ed7af3b154293c389931ee57a

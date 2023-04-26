@@ -1,0 +1,8 @@
+
+signId	3062
+text	flyta 1
+imageUuid	8a9f8ae9-d664-4fbf-9ec0-0ee7144cbfc5
+translationKey	b6a72e10-2952-483b-8ba0-2f02a3a01e87
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8a9f8ae9-d664-4fbf-9ec0-0ee7144cbfc5/b6a72e10-2952-483b-8ba0-2f02a3a01e87/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8a9f8ae9-d664-4fbf-9ec0-0ee7144cbfc5/b6a72e10-2952-483b-8ba0-2f02a3a01e87
+md5	06bf83ff86e9cb32b9869dae410b87eb

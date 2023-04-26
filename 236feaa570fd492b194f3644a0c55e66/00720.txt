@@ -1,0 +1,7 @@
+signId	720
+text	kamrat
+imageUuid	07d2a72f-0be7-4ee2-bd44-2933c527c248
+translationKey	01bd3488-d332-41f1-82a1-974c4c7adb96
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/07d2a72f-0be7-4ee2-bd44-2933c527c248/01bd3488-d332-41f1-82a1-974c4c7adb96/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/07d2a72f-0be7-4ee2-bd44-2933c527c248/01bd3488-d332-41f1-82a1-974c4c7adb96
+md5	236feaa570fd492b194f3644a0c55e66

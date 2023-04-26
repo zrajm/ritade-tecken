@@ -1,0 +1,8 @@
+
+signId	2261
+text	blanda
+imageUuid	263843aa-7e99-4a8f-a632-19c3ce9a40f1
+translationKey	2af5b5e9-b0dd-40b6-addd-2f0237dd83ff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/263843aa-7e99-4a8f-a632-19c3ce9a40f1/2af5b5e9-b0dd-40b6-addd-2f0237dd83ff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/263843aa-7e99-4a8f-a632-19c3ce9a40f1/2af5b5e9-b0dd-40b6-addd-2f0237dd83ff
+md5	119e3a5150d7b2192bfb3d82231e7903

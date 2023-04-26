@@ -1,0 +1,7 @@
+signId	3163
+text	arton 1
+imageUuid	23738014-3576-4d05-bd99-3ca0e71dfaaf
+translationKey	b5b4916e-9246-4370-8bda-c34e7721aaac
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/23738014-3576-4d05-bd99-3ca0e71dfaaf/b5b4916e-9246-4370-8bda-c34e7721aaac/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/23738014-3576-4d05-bd99-3ca0e71dfaaf/b5b4916e-9246-4370-8bda-c34e7721aaac
+md5	2844f01fe57237e84183b276ed3d1039

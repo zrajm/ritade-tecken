@@ -1,0 +1,7 @@
+signId	2687
+text	fresta
+imageUuid	37fac6c9-3b33-4428-9109-70722f631f68
+translationKey	f4ff4083-5811-4ac9-b892-7e581739f805
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/37fac6c9-3b33-4428-9109-70722f631f68/f4ff4083-5811-4ac9-b892-7e581739f805/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/37fac6c9-3b33-4428-9109-70722f631f68/f4ff4083-5811-4ac9-b892-7e581739f805
+md5	ffa5966024f4b3e0150b82e87fb19e51

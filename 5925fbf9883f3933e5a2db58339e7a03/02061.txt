@@ -1,0 +1,7 @@
+signId	2061
+text	konstig 2
+imageUuid	a34436b2-b437-4264-97b3-449429b70023
+translationKey	ddc7a2f8-8f6d-49df-8759-217a5150ef35
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a34436b2-b437-4264-97b3-449429b70023/ddc7a2f8-8f6d-49df-8759-217a5150ef35/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a34436b2-b437-4264-97b3-449429b70023/ddc7a2f8-8f6d-49df-8759-217a5150ef35
+md5	5925fbf9883f3933e5a2db58339e7a03

@@ -1,0 +1,7 @@
+signId	566
+text	han
+imageUuid	c50121f1-9c5e-4820-a843-f9981d7c627d
+translationKey	fdb6f931-df92-428d-8afb-fef86a869a34
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c50121f1-9c5e-4820-a843-f9981d7c627d/fdb6f931-df92-428d-8afb-fef86a869a34/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c50121f1-9c5e-4820-a843-f9981d7c627d/fdb6f931-df92-428d-8afb-fef86a869a34
+md5	d6529601b7d892b9331e996fa388e4f1

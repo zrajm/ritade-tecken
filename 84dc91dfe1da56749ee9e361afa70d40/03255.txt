@@ -1,0 +1,7 @@
+signId	3255
+text	tävla
+imageUuid	8fdbe7f8-31e0-4a06-94db-0ecd34223e87
+translationKey	7eb431b4-306e-4999-b24f-86b74a06201f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8fdbe7f8-31e0-4a06-94db-0ecd34223e87/7eb431b4-306e-4999-b24f-86b74a06201f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8fdbe7f8-31e0-4a06-94db-0ecd34223e87/7eb431b4-306e-4999-b24f-86b74a06201f
+md5	84dc91dfe1da56749ee9e361afa70d40

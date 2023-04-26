@@ -1,0 +1,8 @@
+
+signId	796
+text	korridor
+imageUuid	7f90a719-d412-42c6-9aea-4a238f042a37
+translationKey	dcda95d1-fc49-4fe4-b425-a81b7ff9157d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f90a719-d412-42c6-9aea-4a238f042a37/dcda95d1-fc49-4fe4-b425-a81b7ff9157d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f90a719-d412-42c6-9aea-4a238f042a37/dcda95d1-fc49-4fe4-b425-a81b7ff9157d
+md5	aba0f10c75c3ff37bff875a02c828fdf

@@ -1,0 +1,7 @@
+signId	2839
+text	tio (tal)
+imageUuid	037b72af-8367-4469-8f82-f74f5d86cdc3
+translationKey	71776a43-70c0-48e1-910a-b538abf2754b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/037b72af-8367-4469-8f82-f74f5d86cdc3/71776a43-70c0-48e1-910a-b538abf2754b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/037b72af-8367-4469-8f82-f74f5d86cdc3/71776a43-70c0-48e1-910a-b538abf2754b
+md5	d8d7fe5d3d7de873d9744044d7f02515

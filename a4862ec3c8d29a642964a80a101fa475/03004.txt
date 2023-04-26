@@ -1,0 +1,7 @@
+signId	3004
+text	kranbil
+imageUuid	3c57c1ba-5546-4190-b7ca-3db403edd348
+translationKey	dc1e3e94-47e1-4773-a1d8-f1f58113eff3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3c57c1ba-5546-4190-b7ca-3db403edd348/dc1e3e94-47e1-4773-a1d8-f1f58113eff3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3c57c1ba-5546-4190-b7ca-3db403edd348/dc1e3e94-47e1-4773-a1d8-f1f58113eff3
+md5	a4862ec3c8d29a642964a80a101fa475

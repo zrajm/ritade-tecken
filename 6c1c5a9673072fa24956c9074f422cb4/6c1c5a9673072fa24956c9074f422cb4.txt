@@ -1,0 +1,8 @@
+
+signId	2926
+text	knäck
+imageUuid	983fcbff-8190-401b-a22f-647102a6c055
+translationKey	a85750a5-a248-43fa-b1b7-340daad6e389
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/983fcbff-8190-401b-a22f-647102a6c055/a85750a5-a248-43fa-b1b7-340daad6e389/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/983fcbff-8190-401b-a22f-647102a6c055/a85750a5-a248-43fa-b1b7-340daad6e389
+md5	6c1c5a9673072fa24956c9074f422cb4

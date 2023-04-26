@@ -1,0 +1,8 @@
+
+signId	2584
+text	knopp (blomma)
+imageUuid	5cf08961-2e21-41d7-b191-d22c57793d60
+translationKey	84ed31e4-5648-451f-ae4e-52c005a3d7f8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5cf08961-2e21-41d7-b191-d22c57793d60/84ed31e4-5648-451f-ae4e-52c005a3d7f8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5cf08961-2e21-41d7-b191-d22c57793d60/84ed31e4-5648-451f-ae4e-52c005a3d7f8
+md5	9b3747d83c3c47516ea66b2b47f6ff90

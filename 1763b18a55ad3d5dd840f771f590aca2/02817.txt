@@ -1,0 +1,7 @@
+signId	2817
+text	herde
+imageUuid	079907b9-190c-4bb1-ad00-c8987ff9c557
+translationKey	3fc72bf5-eee5-4b67-bf4f-0f3c7fb3515e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/079907b9-190c-4bb1-ad00-c8987ff9c557/3fc72bf5-eee5-4b67-bf4f-0f3c7fb3515e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/079907b9-190c-4bb1-ad00-c8987ff9c557/3fc72bf5-eee5-4b67-bf4f-0f3c7fb3515e
+md5	1763b18a55ad3d5dd840f771f590aca2

@@ -1,0 +1,7 @@
+signId	693
+text	jogga
+imageUuid	76454c52-a3de-4802-9489-a0d3e951f548
+translationKey	c76e8338-97a4-46c9-bf46-c497bb4d4d44
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/76454c52-a3de-4802-9489-a0d3e951f548/c76e8338-97a4-46c9-bf46-c497bb4d4d44/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/76454c52-a3de-4802-9489-a0d3e951f548/c76e8338-97a4-46c9-bf46-c497bb4d4d44
+md5	0c9dfcc4348c69b4e662fc526a88474a

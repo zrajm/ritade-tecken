@@ -1,0 +1,7 @@
+signId	2547
+text	Göteborg
+imageUuid	e7449210-a28f-4302-86e1-ef048d448e77
+translationKey	a67ddcac-4d82-439e-9373-648abd7f5726
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e7449210-a28f-4302-86e1-ef048d448e77/a67ddcac-4d82-439e-9373-648abd7f5726/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e7449210-a28f-4302-86e1-ef048d448e77/a67ddcac-4d82-439e-9373-648abd7f5726
+md5	554a22dd08387f9b8ab68f74fe8cda28

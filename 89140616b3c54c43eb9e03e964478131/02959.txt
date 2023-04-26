@@ -1,0 +1,7 @@
+signId	2959
+text	handsprit
+imageUuid	9cdc7d3b-e471-4e1b-884c-5d630afd1056
+translationKey	061012b4-cfaf-4652-a6a1-fbd0536b3176
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9cdc7d3b-e471-4e1b-884c-5d630afd1056/061012b4-cfaf-4652-a6a1-fbd0536b3176/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9cdc7d3b-e471-4e1b-884c-5d630afd1056/061012b4-cfaf-4652-a6a1-fbd0536b3176
+md5	89140616b3c54c43eb9e03e964478131

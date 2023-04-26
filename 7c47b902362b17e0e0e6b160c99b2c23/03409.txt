@@ -1,0 +1,7 @@
+signId	3409
+text	Pino
+imageUuid	3da27c47-1870-489d-986b-ee2dd08398bf
+translationKey	f3ca789e-0b70-4356-96d9-7697db11838d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3da27c47-1870-489d-986b-ee2dd08398bf/f3ca789e-0b70-4356-96d9-7697db11838d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3da27c47-1870-489d-986b-ee2dd08398bf/f3ca789e-0b70-4356-96d9-7697db11838d
+md5	7c47b902362b17e0e0e6b160c99b2c23

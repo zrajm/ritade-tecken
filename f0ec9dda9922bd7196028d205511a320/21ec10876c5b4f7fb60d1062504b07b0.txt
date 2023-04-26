@@ -1,0 +1,32 @@
+
+signId	154
+text	blåsa
+imageUuid	7221ff6e-d073-4109-ab02-d76b4d012449
+translationKey	221589e7-976e-447e-9253-1fc91c89a9e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7221ff6e-d073-4109-ab02-d76b4d012449/221589e7-976e-447e-9253-1fc91c89a9e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7221ff6e-d073-4109-ab02-d76b4d012449/221589e7-976e-447e-9253-1fc91c89a9e1
+md5	21ec10876c5b4f7fb60d1062504b07b0
+
+signId	156
+text	blåst
+imageUuid	d2b0dfc6-9480-4d6b-a0f3-89129a1dd033
+translationKey	a1af09c9-4609-4f59-b88c-335914d6a199
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d2b0dfc6-9480-4d6b-a0f3-89129a1dd033/a1af09c9-4609-4f59-b88c-335914d6a199/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d2b0dfc6-9480-4d6b-a0f3-89129a1dd033/a1af09c9-4609-4f59-b88c-335914d6a199
+md5	21ec10876c5b4f7fb60d1062504b07b0
+
+signId	648
+text	höst 1
+imageUuid	8d7c9f1f-d06e-471f-ac95-91eb2fd48a7c
+translationKey	587b636a-46ce-446e-8f1c-af70a9abac86
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8d7c9f1f-d06e-471f-ac95-91eb2fd48a7c/587b636a-46ce-446e-8f1c-af70a9abac86/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8d7c9f1f-d06e-471f-ac95-91eb2fd48a7c/587b636a-46ce-446e-8f1c-af70a9abac86
+md5	21ec10876c5b4f7fb60d1062504b07b0
+
+signId	1491
+text	storm
+imageUuid	f053637e-84e6-4d28-9e68-bf068f3f7906
+translationKey	9a7ba9e2-6b87-4df0-a0e4-67f72604453c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f053637e-84e6-4d28-9e68-bf068f3f7906/9a7ba9e2-6b87-4df0-a0e4-67f72604453c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f053637e-84e6-4d28-9e68-bf068f3f7906/9a7ba9e2-6b87-4df0-a0e4-67f72604453c
+md5	21ec10876c5b4f7fb60d1062504b07b0

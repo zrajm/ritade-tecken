@@ -1,0 +1,7 @@
+signId	804
+text	kostym
+imageUuid	c9497900-8204-45fe-82d6-3469760c66c0
+translationKey	cc8e1097-f52b-4b2c-8cb8-bd3da3dd8759
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c9497900-8204-45fe-82d6-3469760c66c0/cc8e1097-f52b-4b2c-8cb8-bd3da3dd8759/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c9497900-8204-45fe-82d6-3469760c66c0/cc8e1097-f52b-4b2c-8cb8-bd3da3dd8759
+md5	fd567bb5e710fc6663ea0b38b937e185

@@ -1,0 +1,7 @@
+signId	532
+text	gunghäst
+imageUuid	4d5fe5e2-51cc-4da6-99d6-dce5246cf668
+translationKey	26140cd5-7bc7-41d9-9658-e97eb6cd8fdf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4d5fe5e2-51cc-4da6-99d6-dce5246cf668/26140cd5-7bc7-41d9-9658-e97eb6cd8fdf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4d5fe5e2-51cc-4da6-99d6-dce5246cf668/26140cd5-7bc7-41d9-9658-e97eb6cd8fdf
+md5	90d2e3ab6a797e1ad87d939504844aca

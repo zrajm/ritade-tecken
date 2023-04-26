@@ -1,0 +1,8 @@
+
+signId	2754
+text	öl
+imageUuid	dfca1954-7826-44cc-9eec-af56233bcf10
+translationKey	5ea988ba-9e9d-4397-9644-e6078af3d7f2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dfca1954-7826-44cc-9eec-af56233bcf10/5ea988ba-9e9d-4397-9644-e6078af3d7f2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dfca1954-7826-44cc-9eec-af56233bcf10/5ea988ba-9e9d-4397-9644-e6078af3d7f2
+md5	61ec5888db14b3e3a4e8121a8686b436

@@ -1,0 +1,8 @@
+
+signId	958
+text	makrill
+imageUuid	57deec70-dbda-408a-befc-e990c361b7ad
+translationKey	188f8d21-5ff4-4e41-8736-ead4b5aa9bdf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/57deec70-dbda-408a-befc-e990c361b7ad/188f8d21-5ff4-4e41-8736-ead4b5aa9bdf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/57deec70-dbda-408a-befc-e990c361b7ad/188f8d21-5ff4-4e41-8736-ead4b5aa9bdf
+md5	fae113e4888b2b0cd5d50fb58c2e50fc

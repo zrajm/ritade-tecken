@@ -1,0 +1,8 @@
+
+signId	2287
+text	laptop
+imageUuid	ede185b0-dbb6-40a3-a82d-6564e9c13cdd
+translationKey	28192f42-266c-451a-90bf-e1d5d2f86fb0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ede185b0-dbb6-40a3-a82d-6564e9c13cdd/28192f42-266c-451a-90bf-e1d5d2f86fb0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ede185b0-dbb6-40a3-a82d-6564e9c13cdd/28192f42-266c-451a-90bf-e1d5d2f86fb0
+md5	3881a7fb4922f88e8ccfe029686a3b09

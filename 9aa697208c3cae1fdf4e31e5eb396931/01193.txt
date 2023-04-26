@@ -1,0 +1,7 @@
+signId	1193
+text	prinsessa
+imageUuid	417ed4a6-f298-49a3-9da0-df88618a895b
+translationKey	188cce2b-f395-415a-b23c-94c00635f633
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/417ed4a6-f298-49a3-9da0-df88618a895b/188cce2b-f395-415a-b23c-94c00635f633/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/417ed4a6-f298-49a3-9da0-df88618a895b/188cce2b-f395-415a-b23c-94c00635f633
+md5	9aa697208c3cae1fdf4e31e5eb396931

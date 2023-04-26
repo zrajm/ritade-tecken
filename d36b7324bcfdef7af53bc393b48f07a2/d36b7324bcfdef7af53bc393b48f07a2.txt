@@ -1,0 +1,8 @@
+
+signId	213
+text	båt
+imageUuid	7f934f23-1e40-4762-acf5-153c160c6e4f
+translationKey	e9bb391c-e7d8-4422-95b9-8ba8e7de9373
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f934f23-1e40-4762-acf5-153c160c6e4f/e9bb391c-e7d8-4422-95b9-8ba8e7de9373/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f934f23-1e40-4762-acf5-153c160c6e4f/e9bb391c-e7d8-4422-95b9-8ba8e7de9373
+md5	d36b7324bcfdef7af53bc393b48f07a2

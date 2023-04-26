@@ -1,0 +1,32 @@
+
+signId	1606
+text	traktor
+imageUuid	307d159a-f68c-4390-9ddf-5c8f5d8ddce3
+translationKey	d33be5aa-5d36-4c43-b5d1-61930f5d8af9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/307d159a-f68c-4390-9ddf-5c8f5d8ddce3/d33be5aa-5d36-4c43-b5d1-61930f5d8af9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/307d159a-f68c-4390-9ddf-5c8f5d8ddce3/d33be5aa-5d36-4c43-b5d1-61930f5d8af9
+md5	b052c9976f1a92e34efca6803ab18b20
+
+signId	3176
+text	stridsvagn
+imageUuid	2360ed7d-76ed-41e8-b3db-e1340a39ac1c
+translationKey	ba87ef0e-2af2-4100-afbe-c2975b24c0c0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2360ed7d-76ed-41e8-b3db-e1340a39ac1c/ba87ef0e-2af2-4100-afbe-c2975b24c0c0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2360ed7d-76ed-41e8-b3db-e1340a39ac1c/ba87ef0e-2af2-4100-afbe-c2975b24c0c0
+md5	b052c9976f1a92e34efca6803ab18b20
+
+signId	3177
+text	pansarvagn
+imageUuid	dd985075-bb98-4b45-91b2-e9d6feb6366b
+translationKey	8bbb2413-cf73-48db-8351-66c817309ae0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dd985075-bb98-4b45-91b2-e9d6feb6366b/8bbb2413-cf73-48db-8351-66c817309ae0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dd985075-bb98-4b45-91b2-e9d6feb6366b/8bbb2413-cf73-48db-8351-66c817309ae0
+md5	b052c9976f1a92e34efca6803ab18b20
+
+signId	3178
+text	bandvagn
+imageUuid	1721cf80-cc87-4a5a-ae35-41398225e4b4
+translationKey	3b122f72-1e3a-4d85-baad-3226fe7f2efd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1721cf80-cc87-4a5a-ae35-41398225e4b4/3b122f72-1e3a-4d85-baad-3226fe7f2efd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1721cf80-cc87-4a5a-ae35-41398225e4b4/3b122f72-1e3a-4d85-baad-3226fe7f2efd
+md5	b052c9976f1a92e34efca6803ab18b20

@@ -1,0 +1,7 @@
+signId	289
+text	dricka
+imageUuid	4799fc2c-eaf7-4632-b8e3-8384bf31d3e4
+translationKey	97de818a-011e-4197-8b20-d84f0ff3be34
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4799fc2c-eaf7-4632-b8e3-8384bf31d3e4/97de818a-011e-4197-8b20-d84f0ff3be34/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4799fc2c-eaf7-4632-b8e3-8384bf31d3e4/97de818a-011e-4197-8b20-d84f0ff3be34
+md5	3ddab17bf497dd143bb86988ae595d8b

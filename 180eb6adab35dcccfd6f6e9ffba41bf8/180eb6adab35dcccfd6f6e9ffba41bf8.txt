@@ -1,0 +1,8 @@
+
+signId	2551
+text	strut
+imageUuid	650ca89e-9a68-4727-a92b-32232759037e
+translationKey	2213134e-90cd-4170-84ce-8936d297f97f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/650ca89e-9a68-4727-a92b-32232759037e/2213134e-90cd-4170-84ce-8936d297f97f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/650ca89e-9a68-4727-a92b-32232759037e/2213134e-90cd-4170-84ce-8936d297f97f
+md5	180eb6adab35dcccfd6f6e9ffba41bf8

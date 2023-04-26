@@ -1,0 +1,7 @@
+signId	2105
+text	dike
+imageUuid	cfa6e4ad-1dbf-4bf9-84da-3bf12c0d956c
+translationKey	9580d28e-7a5f-4a82-9820-df825eec3122
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cfa6e4ad-1dbf-4bf9-84da-3bf12c0d956c/9580d28e-7a5f-4a82-9820-df825eec3122/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cfa6e4ad-1dbf-4bf9-84da-3bf12c0d956c/9580d28e-7a5f-4a82-9820-df825eec3122
+md5	dc645daf2a41fdce294f24bfaac51a9f

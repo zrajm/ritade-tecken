@@ -1,0 +1,8 @@
+
+signId	3016
+text	skugga
+imageUuid	13ecc1ce-9438-4507-9d48-2022f79dba10
+translationKey	15e65748-af14-4f44-ae5a-c2a9d5a66b41
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/13ecc1ce-9438-4507-9d48-2022f79dba10/15e65748-af14-4f44-ae5a-c2a9d5a66b41/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/13ecc1ce-9438-4507-9d48-2022f79dba10/15e65748-af14-4f44-ae5a-c2a9d5a66b41
+md5	41475c2a0d42454402f8c86950126447

@@ -1,0 +1,7 @@
+signId	2772
+text	karate
+imageUuid	774b5515-b7c9-4caf-a767-7046a4d2d924
+translationKey	305b6a4e-9709-44e2-90a3-1906cb09cb07
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/774b5515-b7c9-4caf-a767-7046a4d2d924/305b6a4e-9709-44e2-90a3-1906cb09cb07/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/774b5515-b7c9-4caf-a767-7046a4d2d924/305b6a4e-9709-44e2-90a3-1906cb09cb07
+md5	68f887c8ce2f4f003c104a0f258a922c

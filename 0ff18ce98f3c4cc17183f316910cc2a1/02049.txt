@@ -1,0 +1,7 @@
+signId	2049
+text	flaska
+imageUuid	ef952ac0-6527-4350-b324-607b5bae6cc0
+translationKey	de7c4ca4-fc56-451a-a1dd-c97fb0faca87
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ef952ac0-6527-4350-b324-607b5bae6cc0/de7c4ca4-fc56-451a-a1dd-c97fb0faca87/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ef952ac0-6527-4350-b324-607b5bae6cc0/de7c4ca4-fc56-451a-a1dd-c97fb0faca87
+md5	0ff18ce98f3c4cc17183f316910cc2a1

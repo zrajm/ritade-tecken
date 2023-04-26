@@ -1,0 +1,8 @@
+
+signId	2731
+text	rocka
+imageUuid	e916c79b-0a4e-45e7-bd0e-cf83bf972493
+translationKey	ba4a2b11-4cc9-4d5b-980f-206831352bce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e916c79b-0a4e-45e7-bd0e-cf83bf972493/ba4a2b11-4cc9-4d5b-980f-206831352bce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e916c79b-0a4e-45e7-bd0e-cf83bf972493/ba4a2b11-4cc9-4d5b-980f-206831352bce
+md5	60c195796e82cfa4b74fc83bc05c6941

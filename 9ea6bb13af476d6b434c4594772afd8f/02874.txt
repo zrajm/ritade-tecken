@@ -1,0 +1,7 @@
+signId	2874
+text	avocado
+imageUuid	6c5537ee-58a5-481d-93b4-b68b49b0295b
+translationKey	1cd6c9be-2fc9-482b-acdd-951912c94480
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6c5537ee-58a5-481d-93b4-b68b49b0295b/1cd6c9be-2fc9-482b-acdd-951912c94480/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6c5537ee-58a5-481d-93b4-b68b49b0295b/1cd6c9be-2fc9-482b-acdd-951912c94480
+md5	9ea6bb13af476d6b434c4594772afd8f

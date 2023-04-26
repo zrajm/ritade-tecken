@@ -1,0 +1,7 @@
+signId	2864
+text	Liseberg
+imageUuid	a4176f23-58ae-4b17-99d1-a96ec57583a5
+translationKey	2d1159a2-f87b-4159-8abf-509b7aa2531d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a4176f23-58ae-4b17-99d1-a96ec57583a5/2d1159a2-f87b-4159-8abf-509b7aa2531d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a4176f23-58ae-4b17-99d1-a96ec57583a5/2d1159a2-f87b-4159-8abf-509b7aa2531d
+md5	59fa93c3a50ded4e55c4c52d57ccc193

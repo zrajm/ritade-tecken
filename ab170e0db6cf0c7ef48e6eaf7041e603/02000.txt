@@ -1,0 +1,7 @@
+signId	2000
+text	piga
+imageUuid	2d57c905-be0c-4c0e-a36a-a4f69aaf28f7
+translationKey	ae364a65-707c-4fd4-b511-b84d841e44b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d57c905-be0c-4c0e-a36a-a4f69aaf28f7/ae364a65-707c-4fd4-b511-b84d841e44b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d57c905-be0c-4c0e-a36a-a4f69aaf28f7/ae364a65-707c-4fd4-b511-b84d841e44b8
+md5	ab170e0db6cf0c7ef48e6eaf7041e603

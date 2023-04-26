@@ -1,0 +1,7 @@
+signId	2258
+text	ögonbryn
+imageUuid	af7b8ca3-7679-4aba-866c-1494559d3602
+translationKey	16cd811b-1972-45c9-b451-c505c3ca6f3f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af7b8ca3-7679-4aba-866c-1494559d3602/16cd811b-1972-45c9-b451-c505c3ca6f3f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af7b8ca3-7679-4aba-866c-1494559d3602/16cd811b-1972-45c9-b451-c505c3ca6f3f
+md5	71002ed4fa835bce8e9dd3ae6ea1f0ad

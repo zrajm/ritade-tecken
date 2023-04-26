@@ -1,0 +1,7 @@
+signId	1752
+text	vuxengymnasium
+imageUuid	4689bb27-42ec-4439-9993-0fc35d295ac3
+translationKey	a6c490eb-38d4-4094-aaf8-cbb1eecfccfc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4689bb27-42ec-4439-9993-0fc35d295ac3/a6c490eb-38d4-4094-aaf8-cbb1eecfccfc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4689bb27-42ec-4439-9993-0fc35d295ac3/a6c490eb-38d4-4094-aaf8-cbb1eecfccfc
+md5	8a58043afe5529f95b42cd88667d0d34

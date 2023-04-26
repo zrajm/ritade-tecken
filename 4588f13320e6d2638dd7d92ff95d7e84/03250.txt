@@ -1,0 +1,7 @@
+signId	3250
+text	festa
+imageUuid	0857b00a-3edf-4953-aac1-814941c2f3d9
+translationKey	e66b6ca8-d74b-44b8-9562-b5d9bb5f56eb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0857b00a-3edf-4953-aac1-814941c2f3d9/e66b6ca8-d74b-44b8-9562-b5d9bb5f56eb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0857b00a-3edf-4953-aac1-814941c2f3d9/e66b6ca8-d74b-44b8-9562-b5d9bb5f56eb
+md5	4588f13320e6d2638dd7d92ff95d7e84

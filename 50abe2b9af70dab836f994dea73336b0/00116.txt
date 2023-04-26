@@ -1,0 +1,7 @@
+signId	116
+text	behöva
+imageUuid	8d213a70-eea9-46e1-a794-bae0e48561d3
+translationKey	e733b6d7-bffd-4bd8-8a75-c614b2533019
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8d213a70-eea9-46e1-a794-bae0e48561d3/e733b6d7-bffd-4bd8-8a75-c614b2533019/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8d213a70-eea9-46e1-a794-bae0e48561d3/e733b6d7-bffd-4bd8-8a75-c614b2533019
+md5	50abe2b9af70dab836f994dea73336b0

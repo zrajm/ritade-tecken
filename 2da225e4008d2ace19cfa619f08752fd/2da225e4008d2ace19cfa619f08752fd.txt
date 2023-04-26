@@ -1,0 +1,32 @@
+
+signId	537
+text	gå
+imageUuid	e9da7378-73af-4a0c-ac27-7527f7c4260f
+translationKey	e1117fa5-8246-4218-8bba-8787e79683c9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e9da7378-73af-4a0c-ac27-7527f7c4260f/e1117fa5-8246-4218-8bba-8787e79683c9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e9da7378-73af-4a0c-ac27-7527f7c4260f/e1117fa5-8246-4218-8bba-8787e79683c9
+md5	2da225e4008d2ace19cfa619f08752fd
+
+signId	1196
+text	promenad
+imageUuid	b006e3b3-a2bb-4f4f-9d29-d236741062e2
+translationKey	5ae5f464-89d0-4bbf-8eac-309fcba31cef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b006e3b3-a2bb-4f4f-9d29-d236741062e2/5ae5f464-89d0-4bbf-8eac-309fcba31cef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b006e3b3-a2bb-4f4f-9d29-d236741062e2/5ae5f464-89d0-4bbf-8eac-309fcba31cef
+md5	2da225e4008d2ace19cfa619f08752fd
+
+signId	1197
+text	promenera
+imageUuid	005ee374-8af7-40ae-bdbf-22e5df6dde8e
+translationKey	1957377e-7cdf-487a-9707-1301b4bbe95d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/005ee374-8af7-40ae-bdbf-22e5df6dde8e/1957377e-7cdf-487a-9707-1301b4bbe95d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/005ee374-8af7-40ae-bdbf-22e5df6dde8e/1957377e-7cdf-487a-9707-1301b4bbe95d
+md5	2da225e4008d2ace19cfa619f08752fd
+
+signId	1698
+text	vandra
+imageUuid	b8f8d505-6659-449a-aeac-6d4230adb7fa
+translationKey	47264375-4cfc-48e4-b317-70d6d13ed9ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b8f8d505-6659-449a-aeac-6d4230adb7fa/47264375-4cfc-48e4-b317-70d6d13ed9ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b8f8d505-6659-449a-aeac-6d4230adb7fa/47264375-4cfc-48e4-b317-70d6d13ed9ab
+md5	2da225e4008d2ace19cfa619f08752fd

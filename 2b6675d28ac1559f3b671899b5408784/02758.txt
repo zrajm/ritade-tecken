@@ -1,0 +1,7 @@
+signId	2758
+text	snöstjärna
+imageUuid	57e99adf-fc98-40c7-9843-58e7c3b5a6ef
+translationKey	4d139f97-c521-4545-ae27-51f9b015ab34
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/57e99adf-fc98-40c7-9843-58e7c3b5a6ef/4d139f97-c521-4545-ae27-51f9b015ab34/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/57e99adf-fc98-40c7-9843-58e7c3b5a6ef/4d139f97-c521-4545-ae27-51f9b015ab34
+md5	2b6675d28ac1559f3b671899b5408784

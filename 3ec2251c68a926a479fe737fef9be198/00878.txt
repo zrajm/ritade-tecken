@@ -1,0 +1,7 @@
+signId	878
+text	lejon
+imageUuid	db35d83b-fcee-479a-a4f5-70f285d21358
+translationKey	3457420b-9842-4d6c-8f0b-7ca7e8b95373
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/db35d83b-fcee-479a-a4f5-70f285d21358/3457420b-9842-4d6c-8f0b-7ca7e8b95373/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/db35d83b-fcee-479a-a4f5-70f285d21358/3457420b-9842-4d6c-8f0b-7ca7e8b95373
+md5	3ec2251c68a926a479fe737fef9be198

@@ -1,0 +1,7 @@
+signId	1738
+text	vindruvor
+imageUuid	225fa5f8-2de5-4650-a128-49deb8e4ba12
+translationKey	30f454ec-4c09-4b38-999f-565cdcbd06bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/225fa5f8-2de5-4650-a128-49deb8e4ba12/30f454ec-4c09-4b38-999f-565cdcbd06bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/225fa5f8-2de5-4650-a128-49deb8e4ba12/30f454ec-4c09-4b38-999f-565cdcbd06bf
+md5	2ade6c2dd811a3595c336bc65a0f13c0

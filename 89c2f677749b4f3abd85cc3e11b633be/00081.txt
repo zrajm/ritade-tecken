@@ -1,0 +1,7 @@
+signId	81
+text	avstånd
+imageUuid	7fbaa348-ff47-421d-9495-8273d1951bb6
+translationKey	372a20cf-78cd-457c-95e5-9109f43e6a16
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7fbaa348-ff47-421d-9495-8273d1951bb6/372a20cf-78cd-457c-95e5-9109f43e6a16/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7fbaa348-ff47-421d-9495-8273d1951bb6/372a20cf-78cd-457c-95e5-9109f43e6a16
+md5	89c2f677749b4f3abd85cc3e11b633be

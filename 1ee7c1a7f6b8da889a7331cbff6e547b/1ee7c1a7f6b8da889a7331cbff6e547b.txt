@@ -1,0 +1,8 @@
+
+signId	3203
+text	döda
+imageUuid	ae450f95-4e67-4740-89d1-cf510fb7aa4e
+translationKey	ac8805be-c8ec-4e6e-aa38-8697f0dbe338
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ae450f95-4e67-4740-89d1-cf510fb7aa4e/ac8805be-c8ec-4e6e-aa38-8697f0dbe338/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ae450f95-4e67-4740-89d1-cf510fb7aa4e/ac8805be-c8ec-4e6e-aa38-8697f0dbe338
+md5	1ee7c1a7f6b8da889a7331cbff6e547b

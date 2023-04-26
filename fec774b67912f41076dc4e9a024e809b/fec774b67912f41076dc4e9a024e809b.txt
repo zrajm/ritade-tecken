@@ -1,0 +1,8 @@
+
+signId	97
+text	ballong
+imageUuid	6c9e69a1-d520-4c32-98aa-8fe6f01e0c28
+translationKey	c1a9ed92-a1d2-43ec-8968-24e1cf2085ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6c9e69a1-d520-4c32-98aa-8fe6f01e0c28/c1a9ed92-a1d2-43ec-8968-24e1cf2085ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6c9e69a1-d520-4c32-98aa-8fe6f01e0c28/c1a9ed92-a1d2-43ec-8968-24e1cf2085ab
+md5	fec774b67912f41076dc4e9a024e809b

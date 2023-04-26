@@ -1,0 +1,7 @@
+signId	2683
+text	stetoskop
+imageUuid	64b75243-62aa-4fe2-9002-85b72615db13
+translationKey	f283c5d0-956a-427a-80a2-8f39d9979e40
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/64b75243-62aa-4fe2-9002-85b72615db13/f283c5d0-956a-427a-80a2-8f39d9979e40/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/64b75243-62aa-4fe2-9002-85b72615db13/f283c5d0-956a-427a-80a2-8f39d9979e40
+md5	afeca1046e89c6c77533a0bab251cc5a

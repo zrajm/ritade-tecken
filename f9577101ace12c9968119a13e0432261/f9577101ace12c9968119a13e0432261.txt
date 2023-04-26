@@ -1,0 +1,8 @@
+
+signId	1914
+text	sotare
+imageUuid	10f28697-f16c-4b4d-bbc9-af16166a0941
+translationKey	cd3f26ae-bf68-44f5-b22f-7c1180b76001
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/10f28697-f16c-4b4d-bbc9-af16166a0941/cd3f26ae-bf68-44f5-b22f-7c1180b76001/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/10f28697-f16c-4b4d-bbc9-af16166a0941/cd3f26ae-bf68-44f5-b22f-7c1180b76001
+md5	f9577101ace12c9968119a13e0432261

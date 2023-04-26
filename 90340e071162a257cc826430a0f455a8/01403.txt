@@ -1,0 +1,7 @@
+signId	1403
+text	smycke
+imageUuid	1f27a88d-2bf6-408d-8cb1-0e46891a9b0e
+translationKey	33adc5a5-6d80-49ff-af60-0381ba20725c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1f27a88d-2bf6-408d-8cb1-0e46891a9b0e/33adc5a5-6d80-49ff-af60-0381ba20725c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1f27a88d-2bf6-408d-8cb1-0e46891a9b0e/33adc5a5-6d80-49ff-af60-0381ba20725c
+md5	90340e071162a257cc826430a0f455a8

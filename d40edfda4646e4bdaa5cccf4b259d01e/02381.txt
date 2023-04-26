@@ -1,0 +1,7 @@
+signId	2381
+text	riksdag
+imageUuid	a3baf94b-777b-4a32-a88e-49243f7033ed
+translationKey	ebab2420-d7dd-417c-9ed2-e745a9b6f31e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a3baf94b-777b-4a32-a88e-49243f7033ed/ebab2420-d7dd-417c-9ed2-e745a9b6f31e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a3baf94b-777b-4a32-a88e-49243f7033ed/ebab2420-d7dd-417c-9ed2-e745a9b6f31e
+md5	d40edfda4646e4bdaa5cccf4b259d01e

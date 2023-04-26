@@ -1,0 +1,7 @@
+signId	3261
+text	fokus
+imageUuid	ee8d3554-f689-459e-83b0-da8434efc503
+translationKey	25c95cd7-6b87-42d2-8069-93e9a798d6c3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ee8d3554-f689-459e-83b0-da8434efc503/25c95cd7-6b87-42d2-8069-93e9a798d6c3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ee8d3554-f689-459e-83b0-da8434efc503/25c95cd7-6b87-42d2-8069-93e9a798d6c3
+md5	3e6cf10906188c51683d6b124acd20f3

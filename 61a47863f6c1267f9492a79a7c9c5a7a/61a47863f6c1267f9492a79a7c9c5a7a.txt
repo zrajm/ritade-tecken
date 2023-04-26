@@ -1,0 +1,8 @@
+
+signId	3304
+text	hindu
+imageUuid	d9ea3b17-48ef-4016-847d-617f0a27f5bd
+translationKey	e546c0db-96c2-4545-bf99-1f1d3b2353e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d9ea3b17-48ef-4016-847d-617f0a27f5bd/e546c0db-96c2-4545-bf99-1f1d3b2353e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d9ea3b17-48ef-4016-847d-617f0a27f5bd/e546c0db-96c2-4545-bf99-1f1d3b2353e1
+md5	61a47863f6c1267f9492a79a7c9c5a7a

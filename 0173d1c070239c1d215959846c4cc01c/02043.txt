@@ -1,0 +1,7 @@
+signId	2043
+text	dansa kring granen
+imageUuid	b34fbc90-e6ed-4cf5-ad17-4ea7c7331ab7
+translationKey	097574e5-dc0a-41f2-8555-86f44cdaa1b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b34fbc90-e6ed-4cf5-ad17-4ea7c7331ab7/097574e5-dc0a-41f2-8555-86f44cdaa1b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b34fbc90-e6ed-4cf5-ad17-4ea7c7331ab7/097574e5-dc0a-41f2-8555-86f44cdaa1b8
+md5	0173d1c070239c1d215959846c4cc01c

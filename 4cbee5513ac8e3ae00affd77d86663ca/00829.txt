@@ -1,0 +1,7 @@
+signId	829
+text	kvadrat
+imageUuid	4b81ce3f-67b1-4374-a9f8-ac81ba00aa34
+translationKey	58938d32-8104-4922-baa7-48c5b74422aa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4b81ce3f-67b1-4374-a9f8-ac81ba00aa34/58938d32-8104-4922-baa7-48c5b74422aa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4b81ce3f-67b1-4374-a9f8-ac81ba00aa34/58938d32-8104-4922-baa7-48c5b74422aa
+md5	4cbee5513ac8e3ae00affd77d86663ca

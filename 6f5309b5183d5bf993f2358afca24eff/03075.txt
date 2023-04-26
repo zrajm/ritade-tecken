@@ -1,0 +1,7 @@
+signId	3075
+text	pynta
+imageUuid	62d45ec6-1b66-4203-b8aa-55b11cdf7191
+translationKey	ab7f9792-0535-4047-a02d-c2d9a5364bfc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/62d45ec6-1b66-4203-b8aa-55b11cdf7191/ab7f9792-0535-4047-a02d-c2d9a5364bfc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/62d45ec6-1b66-4203-b8aa-55b11cdf7191/ab7f9792-0535-4047-a02d-c2d9a5364bfc
+md5	6f5309b5183d5bf993f2358afca24eff

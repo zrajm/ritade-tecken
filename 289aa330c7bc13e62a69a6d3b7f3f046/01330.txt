@@ -1,0 +1,7 @@
+signId	1330
+text	skallra
+imageUuid	e5f9ca87-e54c-4cec-b559-a60664b5ba9c
+translationKey	a9928584-9686-4995-b025-7b5e23ebc78a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e5f9ca87-e54c-4cec-b559-a60664b5ba9c/a9928584-9686-4995-b025-7b5e23ebc78a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e5f9ca87-e54c-4cec-b559-a60664b5ba9c/a9928584-9686-4995-b025-7b5e23ebc78a
+md5	289aa330c7bc13e62a69a6d3b7f3f046

@@ -1,0 +1,8 @@
+
+signId	2139
+text	ny 2
+imageUuid	b3a3f747-1f43-413c-9198-cb19c27832c5
+translationKey	1fa255a9-5beb-4d0f-84c6-8a5208add97e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b3a3f747-1f43-413c-9198-cb19c27832c5/1fa255a9-5beb-4d0f-84c6-8a5208add97e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b3a3f747-1f43-413c-9198-cb19c27832c5/1fa255a9-5beb-4d0f-84c6-8a5208add97e
+md5	c6df62e75a6a76cd5fefdc6d35302194

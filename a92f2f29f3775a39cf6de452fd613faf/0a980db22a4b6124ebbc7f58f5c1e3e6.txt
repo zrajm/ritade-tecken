@@ -1,0 +1,8 @@
+
+signId	1078
+text	Norden
+imageUuid	42e45c7e-445c-4215-8edc-795358dac8cb
+translationKey	ee7d5668-d15f-4450-90e8-c23b1e57305d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/42e45c7e-445c-4215-8edc-795358dac8cb/ee7d5668-d15f-4450-90e8-c23b1e57305d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/42e45c7e-445c-4215-8edc-795358dac8cb/ee7d5668-d15f-4450-90e8-c23b1e57305d
+md5	0a980db22a4b6124ebbc7f58f5c1e3e6

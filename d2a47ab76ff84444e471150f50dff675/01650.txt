@@ -1,0 +1,7 @@
+signId	1650
+text	tvätta
+imageUuid	a706f54d-6796-47b0-be70-54cff454072b
+translationKey	4fdd2e43-b23e-4c60-aac8-7e35d4da375a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a706f54d-6796-47b0-be70-54cff454072b/4fdd2e43-b23e-4c60-aac8-7e35d4da375a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a706f54d-6796-47b0-be70-54cff454072b/4fdd2e43-b23e-4c60-aac8-7e35d4da375a
+md5	d2a47ab76ff84444e471150f50dff675

@@ -1,0 +1,8 @@
+
+signId	366
+text	filmjölk
+imageUuid	a471eaed-de26-4db4-bf9c-020479aee000
+translationKey	5f3682d9-5069-4909-b9a7-07c539da6821
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a471eaed-de26-4db4-bf9c-020479aee000/5f3682d9-5069-4909-b9a7-07c539da6821/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a471eaed-de26-4db4-bf9c-020479aee000/5f3682d9-5069-4909-b9a7-07c539da6821
+md5	fa08d6682edd0e2f69df0bc986006acd

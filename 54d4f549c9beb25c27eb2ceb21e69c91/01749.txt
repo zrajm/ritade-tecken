@@ -1,0 +1,7 @@
+signId	1749
+text	vita rummet
+imageUuid	531f9e71-ab24-4af6-9282-d8fc8d15a595
+translationKey	a02b75ea-f4f3-408e-a5c4-68c6d6c477d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/531f9e71-ab24-4af6-9282-d8fc8d15a595/a02b75ea-f4f3-408e-a5c4-68c6d6c477d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/531f9e71-ab24-4af6-9282-d8fc8d15a595/a02b75ea-f4f3-408e-a5c4-68c6d6c477d1
+md5	54d4f549c9beb25c27eb2ceb21e69c91

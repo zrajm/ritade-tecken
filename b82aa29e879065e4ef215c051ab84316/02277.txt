@@ -1,0 +1,7 @@
+signId	2277
+text	halstablett
+imageUuid	644f6e7f-467e-49f9-8d4d-004e1c03e8b8
+translationKey	68f19706-1f4a-4e85-844d-06cb8a2cd762
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/644f6e7f-467e-49f9-8d4d-004e1c03e8b8/68f19706-1f4a-4e85-844d-06cb8a2cd762/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/644f6e7f-467e-49f9-8d4d-004e1c03e8b8/68f19706-1f4a-4e85-844d-06cb8a2cd762
+md5	b82aa29e879065e4ef215c051ab84316

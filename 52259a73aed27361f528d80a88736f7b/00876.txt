@@ -1,0 +1,7 @@
+signId	876
+text	ledsen
+imageUuid	f83bed1a-a1b9-4a6f-9555-cf425ae124a4
+translationKey	d25b9574-49b4-4fa5-8f49-3d22222e1bde
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f83bed1a-a1b9-4a6f-9555-cf425ae124a4/d25b9574-49b4-4fa5-8f49-3d22222e1bde/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f83bed1a-a1b9-4a6f-9555-cf425ae124a4/d25b9574-49b4-4fa5-8f49-3d22222e1bde
+md5	52259a73aed27361f528d80a88736f7b

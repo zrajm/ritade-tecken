@@ -1,0 +1,8 @@
+
+signId	608
+text	hopprep
+imageUuid	ba3640cb-cc3c-421f-9990-fe2c9ce47225
+translationKey	8815608d-53a0-4add-a7a8-85a7cbf8c78b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ba3640cb-cc3c-421f-9990-fe2c9ce47225/8815608d-53a0-4add-a7a8-85a7cbf8c78b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ba3640cb-cc3c-421f-9990-fe2c9ce47225/8815608d-53a0-4add-a7a8-85a7cbf8c78b
+md5	2952fea9f4572e6899d315262070cb94

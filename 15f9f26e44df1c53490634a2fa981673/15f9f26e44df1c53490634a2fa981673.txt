@@ -1,0 +1,24 @@
+
+signId	123
+text	berg
+imageUuid	bc58d985-ed7a-46fd-aefd-c4fff303c96c
+translationKey	0a4efd6c-ad4f-43c4-a99a-b8e4f02b2fdb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bc58d985-ed7a-46fd-aefd-c4fff303c96c/0a4efd6c-ad4f-43c4-a99a-b8e4f02b2fdb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bc58d985-ed7a-46fd-aefd-c4fff303c96c/0a4efd6c-ad4f-43c4-a99a-b8e4f02b2fdb
+md5	15f9f26e44df1c53490634a2fa981673
+
+signId	439
+text	får inte
+imageUuid	4947f968-289c-4574-aa71-4789bf87ed25
+translationKey	9a7e6d69-18e0-4a81-88de-afbffb1e7309
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4947f968-289c-4574-aa71-4789bf87ed25/9a7e6d69-18e0-4a81-88de-afbffb1e7309/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4947f968-289c-4574-aa71-4789bf87ed25/9a7e6d69-18e0-4a81-88de-afbffb1e7309
+md5	15f9f26e44df1c53490634a2fa981673
+
+signId	1472
+text	sten
+imageUuid	806b5bc0-0592-4abb-a9d3-d96e63a3303e
+translationKey	315e73fd-bf01-4428-bb5e-a8d09ba670e0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/806b5bc0-0592-4abb-a9d3-d96e63a3303e/315e73fd-bf01-4428-bb5e-a8d09ba670e0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/806b5bc0-0592-4abb-a9d3-d96e63a3303e/315e73fd-bf01-4428-bb5e-a8d09ba670e0
+md5	15f9f26e44df1c53490634a2fa981673

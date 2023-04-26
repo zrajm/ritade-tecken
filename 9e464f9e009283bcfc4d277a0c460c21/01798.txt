@@ -1,0 +1,7 @@
+signId	1798
+text	äga
+imageUuid	8b098275-75a3-41a4-8433-d8dd7064165b
+translationKey	d30630f6-7efd-455a-bf9d-a8adabe7539f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8b098275-75a3-41a4-8433-d8dd7064165b/d30630f6-7efd-455a-bf9d-a8adabe7539f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8b098275-75a3-41a4-8433-d8dd7064165b/d30630f6-7efd-455a-bf9d-a8adabe7539f
+md5	9e464f9e009283bcfc4d277a0c460c21

@@ -1,0 +1,8 @@
+
+signId	3061
+text	falafel
+imageUuid	7dc74222-6f3a-4fb6-bd4f-cce41ae81731
+translationKey	98b44499-6774-4fc0-b546-a064d9ced2b7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7dc74222-6f3a-4fb6-bd4f-cce41ae81731/98b44499-6774-4fc0-b546-a064d9ced2b7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7dc74222-6f3a-4fb6-bd4f-cce41ae81731/98b44499-6774-4fc0-b546-a064d9ced2b7
+md5	9baba0edd6ebe668cbcd00a62064b0f5

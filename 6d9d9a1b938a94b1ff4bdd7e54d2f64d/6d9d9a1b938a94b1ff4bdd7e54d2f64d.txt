@@ -1,0 +1,8 @@
+
+signId	2605
+text	taco
+imageUuid	a463a020-9163-4b96-a511-424ccaf01364
+translationKey	28c12a9e-48d3-4218-bce4-d9a90f639beb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a463a020-9163-4b96-a511-424ccaf01364/28c12a9e-48d3-4218-bce4-d9a90f639beb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a463a020-9163-4b96-a511-424ccaf01364/28c12a9e-48d3-4218-bce4-d9a90f639beb
+md5	6d9d9a1b938a94b1ff4bdd7e54d2f64d

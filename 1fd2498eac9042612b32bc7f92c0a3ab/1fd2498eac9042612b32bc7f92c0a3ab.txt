@@ -1,0 +1,8 @@
+
+signId	3398
+text	klockan 5
+imageUuid	3b169173-388d-4fdd-87c5-3ef13753d852
+translationKey	1ee99892-aafa-49a4-9720-8a89b2096ef9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b169173-388d-4fdd-87c5-3ef13753d852/1ee99892-aafa-49a4-9720-8a89b2096ef9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b169173-388d-4fdd-87c5-3ef13753d852/1ee99892-aafa-49a4-9720-8a89b2096ef9
+md5	1fd2498eac9042612b32bc7f92c0a3ab

@@ -1,0 +1,7 @@
+signId	1129
+text	oval
+imageUuid	28937ad4-07a0-4472-b7fa-c4744f225531
+translationKey	d5275ce8-797f-45af-873d-4362f1c7a543
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/28937ad4-07a0-4472-b7fa-c4744f225531/d5275ce8-797f-45af-873d-4362f1c7a543/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/28937ad4-07a0-4472-b7fa-c4744f225531/d5275ce8-797f-45af-873d-4362f1c7a543
+md5	e301ebbb6fec782c34b1b90a2594db4d

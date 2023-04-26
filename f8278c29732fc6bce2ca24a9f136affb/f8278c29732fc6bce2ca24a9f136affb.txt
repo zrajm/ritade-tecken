@@ -1,0 +1,8 @@
+
+signId	2894
+text	mascara
+imageUuid	aca28294-c9e1-4a19-9ad3-38005a25fec5
+translationKey	ce723398-58f0-4d12-912a-3302afa6683d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aca28294-c9e1-4a19-9ad3-38005a25fec5/ce723398-58f0-4d12-912a-3302afa6683d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aca28294-c9e1-4a19-9ad3-38005a25fec5/ce723398-58f0-4d12-912a-3302afa6683d
+md5	f8278c29732fc6bce2ca24a9f136affb

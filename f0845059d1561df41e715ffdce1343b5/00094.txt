@@ -1,0 +1,7 @@
+signId	94
+text	bakterie
+imageUuid	1becc052-ca8f-48d8-974a-4c991ffab9f8
+translationKey	7c3e59ae-d942-422e-8f54-22bba6d86c27
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1becc052-ca8f-48d8-974a-4c991ffab9f8/7c3e59ae-d942-422e-8f54-22bba6d86c27/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1becc052-ca8f-48d8-974a-4c991ffab9f8/7c3e59ae-d942-422e-8f54-22bba6d86c27
+md5	2c0d9b4606e74b2399d1d652739a1543

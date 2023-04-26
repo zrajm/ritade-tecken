@@ -1,0 +1,8 @@
+signId	1824
+text	öra
+imageUuid	496b6ffa-b2f0-406c-aeee-2928ced10f5b
+translationKey	eb11a445-3848-40dc-a386-4125859de82c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/496b6ffa-b2f0-406c-aeee-2928ced10f5b/eb11a445-3848-40dc-a386-4125859de82c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/496b6ffa-b2f0-406c-aeee-2928ced10f5b/eb11a445-3848-40dc-a386-4125859de82c
+md5	050411e2599e6674f412b3b58776f8b1
+note	Swapped image with 050411e2599e6674f412b3b58776f8b1 because of error in Ritade tecken

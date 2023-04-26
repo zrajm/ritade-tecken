@@ -1,0 +1,8 @@
+
+signId	1023
+text	mumsigt
+imageUuid	7656c5ef-ee18-4dbf-82c5-3e27e1aa52b3
+translationKey	a1945b54-917f-4e87-abf0-f2bce3b4d363
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7656c5ef-ee18-4dbf-82c5-3e27e1aa52b3/a1945b54-917f-4e87-abf0-f2bce3b4d363/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7656c5ef-ee18-4dbf-82c5-3e27e1aa52b3/a1945b54-917f-4e87-abf0-f2bce3b4d363
+md5	b34eaf7ba17b46b1a998571e956148b0

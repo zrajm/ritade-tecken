@@ -1,0 +1,7 @@
+signId	1670
+text	U (bokstav)
+imageUuid	cef9a4a5-a606-444a-9890-b32385c531a5
+translationKey	8ddce93f-8a8d-454e-a058-1c340b8bf9f5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cef9a4a5-a606-444a-9890-b32385c531a5/8ddce93f-8a8d-454e-a058-1c340b8bf9f5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cef9a4a5-a606-444a-9890-b32385c531a5/8ddce93f-8a8d-454e-a058-1c340b8bf9f5
+md5	61068e52ef506a5352a10808ba080ce7

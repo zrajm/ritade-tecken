@@ -1,0 +1,8 @@
+
+signId	3007
+text	läkarundersökning
+imageUuid	c4d56846-3a53-4b77-a0c4-62dd1331bc38
+translationKey	44ce30da-3504-48e4-9b1a-5d8f0ad3383a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c4d56846-3a53-4b77-a0c4-62dd1331bc38/44ce30da-3504-48e4-9b1a-5d8f0ad3383a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c4d56846-3a53-4b77-a0c4-62dd1331bc38/44ce30da-3504-48e4-9b1a-5d8f0ad3383a
+md5	582ae56ce1dd96ab6925bc1eb2acdb8e

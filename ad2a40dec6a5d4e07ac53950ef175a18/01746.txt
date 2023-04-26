@@ -1,0 +1,7 @@
+signId	1746
+text	vispa
+imageUuid	af9f0159-3ab3-4997-9495-9997a9733bee
+translationKey	af42cecb-293b-4689-9415-7a7e12a80bd8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af9f0159-3ab3-4997-9495-9997a9733bee/af42cecb-293b-4689-9415-7a7e12a80bd8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af9f0159-3ab3-4997-9495-9997a9733bee/af42cecb-293b-4689-9415-7a7e12a80bd8
+md5	ad2a40dec6a5d4e07ac53950ef175a18

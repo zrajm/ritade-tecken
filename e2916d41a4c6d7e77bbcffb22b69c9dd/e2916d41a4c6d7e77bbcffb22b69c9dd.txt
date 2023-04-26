@@ -1,0 +1,8 @@
+
+signId	2057
+text	i tur och ordning
+imageUuid	d195324c-2929-4e97-ac21-91b9eda4628c
+translationKey	376f3e8c-4b9a-4eac-85a2-f0c999b60408
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d195324c-2929-4e97-ac21-91b9eda4628c/376f3e8c-4b9a-4eac-85a2-f0c999b60408/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d195324c-2929-4e97-ac21-91b9eda4628c/376f3e8c-4b9a-4eac-85a2-f0c999b60408
+md5	e2916d41a4c6d7e77bbcffb22b69c9dd

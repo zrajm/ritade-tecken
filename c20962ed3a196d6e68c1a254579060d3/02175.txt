@@ -1,0 +1,7 @@
+signId	2175
+text	få 3 (erhålla)
+imageUuid	e8038311-c562-4bc5-962c-a7f4dedf17f7
+translationKey	5ae62e2a-0229-49ca-b8ad-7f466753cdec
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e8038311-c562-4bc5-962c-a7f4dedf17f7/5ae62e2a-0229-49ca-b8ad-7f466753cdec/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e8038311-c562-4bc5-962c-a7f4dedf17f7/5ae62e2a-0229-49ca-b8ad-7f466753cdec
+md5	c20962ed3a196d6e68c1a254579060d3

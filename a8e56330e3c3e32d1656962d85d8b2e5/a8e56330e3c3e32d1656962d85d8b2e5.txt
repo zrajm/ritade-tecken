@@ -1,0 +1,8 @@
+
+signId	2986
+text	bangolf
+imageUuid	a49e469b-fee3-43b4-bb4c-0049588148e5
+translationKey	5bc69c27-2fa6-44ec-aafd-d65fd5e9fd99
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a49e469b-fee3-43b4-bb4c-0049588148e5/5bc69c27-2fa6-44ec-aafd-d65fd5e9fd99/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a49e469b-fee3-43b4-bb4c-0049588148e5/5bc69c27-2fa6-44ec-aafd-d65fd5e9fd99
+md5	a8e56330e3c3e32d1656962d85d8b2e5

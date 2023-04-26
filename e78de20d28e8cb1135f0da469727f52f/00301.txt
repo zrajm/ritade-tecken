@@ -1,0 +1,7 @@
+signId	301
+text	dusch
+imageUuid	af601573-0c27-4512-a014-695c147073ff
+translationKey	134f40ed-ea7f-40b4-a6cd-50766dcdf0f4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af601573-0c27-4512-a014-695c147073ff/134f40ed-ea7f-40b4-a6cd-50766dcdf0f4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af601573-0c27-4512-a014-695c147073ff/134f40ed-ea7f-40b4-a6cd-50766dcdf0f4
+md5	e78de20d28e8cb1135f0da469727f52f

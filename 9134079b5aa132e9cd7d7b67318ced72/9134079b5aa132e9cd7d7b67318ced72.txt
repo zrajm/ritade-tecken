@@ -1,0 +1,32 @@
+
+signId	841
+text	kyss
+imageUuid	352687fc-f76d-49b1-96f6-5b92587cd8c4
+translationKey	6fa8514b-682e-4557-a5c1-926bac14b62a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/352687fc-f76d-49b1-96f6-5b92587cd8c4/6fa8514b-682e-4557-a5c1-926bac14b62a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/352687fc-f76d-49b1-96f6-5b92587cd8c4/6fa8514b-682e-4557-a5c1-926bac14b62a
+md5	9134079b5aa132e9cd7d7b67318ced72
+
+signId	842
+text	kyssa
+imageUuid	2901b35f-b4f8-422f-b6a0-ac9f2facfa95
+translationKey	1be9580e-389a-4175-b835-a9042dc06583
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2901b35f-b4f8-422f-b6a0-ac9f2facfa95/1be9580e-389a-4175-b835-a9042dc06583/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2901b35f-b4f8-422f-b6a0-ac9f2facfa95/1be9580e-389a-4175-b835-a9042dc06583
+md5	9134079b5aa132e9cd7d7b67318ced72
+
+signId	1143
+text	passa (inte i sport)
+imageUuid	7f64f75c-2dfc-4287-8bfc-38bcf2b25777
+translationKey	495e21de-4c00-4013-bd2b-5d17f0e778a3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f64f75c-2dfc-4287-8bfc-38bcf2b25777/495e21de-4c00-4013-bd2b-5d17f0e778a3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f64f75c-2dfc-4287-8bfc-38bcf2b25777/495e21de-4c00-4013-bd2b-5d17f0e778a3
+md5	9134079b5aa132e9cd7d7b67318ced72
+
+signId	1206
+text	pussa
+imageUuid	36ee3ddd-4171-4938-9c7b-513669e7b46f
+translationKey	05c6f4e0-7baf-4b5e-ad66-9ae84b7a30d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/36ee3ddd-4171-4938-9c7b-513669e7b46f/05c6f4e0-7baf-4b5e-ad66-9ae84b7a30d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/36ee3ddd-4171-4938-9c7b-513669e7b46f/05c6f4e0-7baf-4b5e-ad66-9ae84b7a30d3
+md5	9134079b5aa132e9cd7d7b67318ced72

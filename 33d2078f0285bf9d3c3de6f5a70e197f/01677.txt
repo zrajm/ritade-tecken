@@ -1,0 +1,7 @@
+signId	1677
+text	undra
+imageUuid	26be5a3e-484b-4fb0-936d-d2be630694b5
+translationKey	fe415245-9e23-4ef7-a7c4-bd2a800ba3ba
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/26be5a3e-484b-4fb0-936d-d2be630694b5/fe415245-9e23-4ef7-a7c4-bd2a800ba3ba/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/26be5a3e-484b-4fb0-936d-d2be630694b5/fe415245-9e23-4ef7-a7c4-bd2a800ba3ba
+md5	33d2078f0285bf9d3c3de6f5a70e197f

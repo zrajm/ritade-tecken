@@ -1,0 +1,7 @@
+signId	1165
+text	pistol
+imageUuid	e4046801-8405-412b-880c-c19c9681c2bb
+translationKey	332b8c26-d2d8-48b3-8554-ddc6ace5f7ff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e4046801-8405-412b-880c-c19c9681c2bb/332b8c26-d2d8-48b3-8554-ddc6ace5f7ff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e4046801-8405-412b-880c-c19c9681c2bb/332b8c26-d2d8-48b3-8554-ddc6ace5f7ff
+md5	1860112c82150cb4e228c653fc669906

@@ -1,0 +1,7 @@
+signId	1132
+text	paddla
+imageUuid	a1869937-d1cd-4964-bef8-f3bff526f061
+translationKey	c56742c4-b7e8-45d5-81e7-04135da370ba
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a1869937-d1cd-4964-bef8-f3bff526f061/c56742c4-b7e8-45d5-81e7-04135da370ba/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a1869937-d1cd-4964-bef8-f3bff526f061/c56742c4-b7e8-45d5-81e7-04135da370ba
+md5	1f314093a1a718ddf08bbb293ce826ad

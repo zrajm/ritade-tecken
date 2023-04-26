@@ -1,0 +1,8 @@
+
+signId	1029
+text	muskel
+imageUuid	3df7dc63-8727-4fe0-9a5a-07b2161dd23a
+translationKey	49780cdf-d7bc-40fb-a95b-9e978cdb97a2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3df7dc63-8727-4fe0-9a5a-07b2161dd23a/49780cdf-d7bc-40fb-a95b-9e978cdb97a2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3df7dc63-8727-4fe0-9a5a-07b2161dd23a/49780cdf-d7bc-40fb-a95b-9e978cdb97a2
+md5	04824baba4faad4f76c1c5a058c34f73

@@ -1,0 +1,7 @@
+signId	627
+text	hälsa på
+imageUuid	fae3e35a-b3db-4d68-a642-2c94d0301dfb
+translationKey	61425e83-bcab-4d0a-b9e6-5458d252eaaf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fae3e35a-b3db-4d68-a642-2c94d0301dfb/61425e83-bcab-4d0a-b9e6-5458d252eaaf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fae3e35a-b3db-4d68-a642-2c94d0301dfb/61425e83-bcab-4d0a-b9e6-5458d252eaaf
+md5	e4c5190f7db29d4db340c25c44acaa62

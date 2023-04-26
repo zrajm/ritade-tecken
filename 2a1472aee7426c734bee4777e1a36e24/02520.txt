@@ -1,0 +1,7 @@
+signId	2520
+text	homosexuell
+imageUuid	41cc8b4e-fdb8-4756-9b98-7cdb8052c583
+translationKey	42f86685-de97-4c60-a3d2-bdf0aa7f6f80
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/41cc8b4e-fdb8-4756-9b98-7cdb8052c583/42f86685-de97-4c60-a3d2-bdf0aa7f6f80/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/41cc8b4e-fdb8-4756-9b98-7cdb8052c583/42f86685-de97-4c60-a3d2-bdf0aa7f6f80
+md5	2a1472aee7426c734bee4777e1a36e24

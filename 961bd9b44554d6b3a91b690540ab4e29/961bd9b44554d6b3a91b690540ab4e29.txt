@@ -1,0 +1,8 @@
+
+signId	2899
+text	panda
+imageUuid	d9f2e53e-97a1-4e3b-9f68-b4fafabfb92b
+translationKey	c3d8296e-4012-4289-9ca1-532ac0cbfe07
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d9f2e53e-97a1-4e3b-9f68-b4fafabfb92b/c3d8296e-4012-4289-9ca1-532ac0cbfe07/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d9f2e53e-97a1-4e3b-9f68-b4fafabfb92b/c3d8296e-4012-4289-9ca1-532ac0cbfe07
+md5	961bd9b44554d6b3a91b690540ab4e29

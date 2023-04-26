@@ -1,0 +1,7 @@
+signId	2854
+text	Visby
+imageUuid	5e3b3c4d-7d5f-4803-a0c7-53ac2a31fce0
+translationKey	5b5b6efc-ef5b-41e3-a982-1036f39d3591
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e3b3c4d-7d5f-4803-a0c7-53ac2a31fce0/5b5b6efc-ef5b-41e3-a982-1036f39d3591/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e3b3c4d-7d5f-4803-a0c7-53ac2a31fce0/5b5b6efc-ef5b-41e3-a982-1036f39d3591
+md5	d79320f6a0437a14c9fb228d95448e55

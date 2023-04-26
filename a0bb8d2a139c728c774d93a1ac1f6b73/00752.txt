@@ -1,0 +1,7 @@
+signId	752
+text	kliva upp
+imageUuid	5ac7b6e2-3836-4506-af19-da231baf5e24
+translationKey	a7b6c639-8d3d-4723-962a-732ab281165e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ac7b6e2-3836-4506-af19-da231baf5e24/a7b6c639-8d3d-4723-962a-732ab281165e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ac7b6e2-3836-4506-af19-da231baf5e24/a7b6c639-8d3d-4723-962a-732ab281165e
+md5	a0bb8d2a139c728c774d93a1ac1f6b73

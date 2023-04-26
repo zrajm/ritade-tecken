@@ -1,0 +1,7 @@
+signId	1903
+text	tredje
+imageUuid	aa91fd30-4f32-4b23-8772-a3f648b957f4
+translationKey	bb46621d-2bfd-4230-a391-e4842361cb14
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aa91fd30-4f32-4b23-8772-a3f648b957f4/bb46621d-2bfd-4230-a391-e4842361cb14/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aa91fd30-4f32-4b23-8772-a3f648b957f4/bb46621d-2bfd-4230-a391-e4842361cb14
+md5	0cf9cf4e499786635346f7df10e9ea37

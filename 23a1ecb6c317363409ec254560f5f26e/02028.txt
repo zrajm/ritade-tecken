@@ -1,0 +1,7 @@
+signId	2028
+text	gemenskap
+imageUuid	0a323094-f707-4d46-b335-995334d3cb08
+translationKey	b46003ab-b7fd-49cd-a7e0-f8a097fc6894
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0a323094-f707-4d46-b335-995334d3cb08/b46003ab-b7fd-49cd-a7e0-f8a097fc6894/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0a323094-f707-4d46-b335-995334d3cb08/b46003ab-b7fd-49cd-a7e0-f8a097fc6894
+md5	23a1ecb6c317363409ec254560f5f26e

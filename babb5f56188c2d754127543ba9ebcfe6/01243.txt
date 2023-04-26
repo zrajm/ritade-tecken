@@ -1,0 +1,7 @@
+signId	1243
+text	ring
+imageUuid	5ad90b7c-f32e-4d65-9a98-576834e66b3f
+translationKey	29aaba74-49ef-4074-bfcd-e40e4dffb05a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ad90b7c-f32e-4d65-9a98-576834e66b3f/29aaba74-49ef-4074-bfcd-e40e4dffb05a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ad90b7c-f32e-4d65-9a98-576834e66b3f/29aaba74-49ef-4074-bfcd-e40e4dffb05a
+md5	babb5f56188c2d754127543ba9ebcfe6

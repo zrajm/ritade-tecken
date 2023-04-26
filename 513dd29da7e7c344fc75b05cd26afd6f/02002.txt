@@ -1,0 +1,7 @@
+signId	2002
+text	spela kort
+imageUuid	1e702dd3-d7c0-4045-8d0d-e922576b21a9
+translationKey	cccc6fc4-4d31-4d6f-8409-de2c84d23411
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1e702dd3-d7c0-4045-8d0d-e922576b21a9/cccc6fc4-4d31-4d6f-8409-de2c84d23411/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1e702dd3-d7c0-4045-8d0d-e922576b21a9/cccc6fc4-4d31-4d6f-8409-de2c84d23411
+md5	513dd29da7e7c344fc75b05cd26afd6f

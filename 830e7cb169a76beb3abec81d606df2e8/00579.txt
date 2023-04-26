@@ -1,0 +1,7 @@
+signId	579
+text	hel (...och ren)
+imageUuid	b9b91ecd-49e5-4287-8feb-2dcc2c05de37
+translationKey	0c55d01c-cef7-4ac3-ad1f-77528181fa2c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b9b91ecd-49e5-4287-8feb-2dcc2c05de37/0c55d01c-cef7-4ac3-ad1f-77528181fa2c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b9b91ecd-49e5-4287-8feb-2dcc2c05de37/0c55d01c-cef7-4ac3-ad1f-77528181fa2c
+md5	830e7cb169a76beb3abec81d606df2e8

@@ -1,0 +1,8 @@
+
+signId	2787
+text	håv
+imageUuid	2c367f5a-5c42-4b58-b755-615320aa5cd1
+translationKey	6ba68e46-08c2-4914-a5d3-62fab7f0b900
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2c367f5a-5c42-4b58-b755-615320aa5cd1/6ba68e46-08c2-4914-a5d3-62fab7f0b900/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2c367f5a-5c42-4b58-b755-615320aa5cd1/6ba68e46-08c2-4914-a5d3-62fab7f0b900
+md5	64e14ce669a665b67ed54a85f9373a92

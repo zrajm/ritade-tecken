@@ -1,0 +1,7 @@
+signId	2412
+text	alarm
+imageUuid	6a21203b-5d64-4995-b634-3ebae45b84aa
+translationKey	d0e5d8e2-ca1c-4aee-bc99-c5d823e0bd99
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6a21203b-5d64-4995-b634-3ebae45b84aa/d0e5d8e2-ca1c-4aee-bc99-c5d823e0bd99/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6a21203b-5d64-4995-b634-3ebae45b84aa/d0e5d8e2-ca1c-4aee-bc99-c5d823e0bd99
+md5	f72a241b6092fd1f4dc7264dbd5ac195

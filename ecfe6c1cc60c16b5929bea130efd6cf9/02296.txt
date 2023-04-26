@@ -1,0 +1,7 @@
+signId	2296
+text	senare
+imageUuid	37d25f23-7085-4d93-9639-43c133efb3c3
+translationKey	cf6c16ff-a366-4362-91a0-db8dc519d82a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/37d25f23-7085-4d93-9639-43c133efb3c3/cf6c16ff-a366-4362-91a0-db8dc519d82a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/37d25f23-7085-4d93-9639-43c133efb3c3/cf6c16ff-a366-4362-91a0-db8dc519d82a
+md5	ecfe6c1cc60c16b5929bea130efd6cf9

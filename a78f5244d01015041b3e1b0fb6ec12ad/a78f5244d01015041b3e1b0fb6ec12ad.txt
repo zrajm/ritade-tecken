@@ -1,0 +1,8 @@
+
+signId	2653
+text	olycka
+imageUuid	44063aa8-5715-4704-acf3-c0344e87cf2c
+translationKey	5d025244-112b-4c28-8ce9-2ee80df5072e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/44063aa8-5715-4704-acf3-c0344e87cf2c/5d025244-112b-4c28-8ce9-2ee80df5072e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/44063aa8-5715-4704-acf3-c0344e87cf2c/5d025244-112b-4c28-8ce9-2ee80df5072e
+md5	a78f5244d01015041b3e1b0fb6ec12ad

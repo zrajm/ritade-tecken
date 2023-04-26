@@ -1,0 +1,16 @@
+
+signId	1477
+text	stimulera
+imageUuid	346a310e-b8ab-4868-a30f-36e7361bf6f6
+translationKey	fc59723c-60d1-410b-83df-335d4f3c485a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/346a310e-b8ab-4868-a30f-36e7361bf6f6/fc59723c-60d1-410b-83df-335d4f3c485a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/346a310e-b8ab-4868-a30f-36e7361bf6f6/fc59723c-60d1-410b-83df-335d4f3c485a
+md5	0aec08b92a2d5ad54e0f8ec59a00fe1c
+
+signId	3284
+text	inspiration
+imageUuid	b9496ac0-c9c3-4a26-b2b8-4bf15134d56a
+translationKey	efee8fe7-86de-4275-b0b5-b8be00cb0444
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b9496ac0-c9c3-4a26-b2b8-4bf15134d56a/efee8fe7-86de-4275-b0b5-b8be00cb0444/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b9496ac0-c9c3-4a26-b2b8-4bf15134d56a/efee8fe7-86de-4275-b0b5-b8be00cb0444
+md5	0aec08b92a2d5ad54e0f8ec59a00fe1c

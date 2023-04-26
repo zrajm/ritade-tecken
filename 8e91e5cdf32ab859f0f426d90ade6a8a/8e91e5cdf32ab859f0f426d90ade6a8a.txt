@@ -1,0 +1,8 @@
+
+signId	1027
+text	mus
+imageUuid	bc7504c0-bc11-430f-a445-5981bd527852
+translationKey	19bf3d0a-9b96-4281-9d1d-f8c4abfb805b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bc7504c0-bc11-430f-a445-5981bd527852/19bf3d0a-9b96-4281-9d1d-f8c4abfb805b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bc7504c0-bc11-430f-a445-5981bd527852/19bf3d0a-9b96-4281-9d1d-f8c4abfb805b
+md5	8e91e5cdf32ab859f0f426d90ade6a8a

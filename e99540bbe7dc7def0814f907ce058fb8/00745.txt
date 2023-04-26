@@ -1,0 +1,7 @@
+signId	745
+text	klampa
+imageUuid	902978d4-afb2-4f6d-96f5-522781576d30
+translationKey	6868f0f9-db4c-4779-b76e-508eedcd8a6c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/902978d4-afb2-4f6d-96f5-522781576d30/6868f0f9-db4c-4779-b76e-508eedcd8a6c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/902978d4-afb2-4f6d-96f5-522781576d30/6868f0f9-db4c-4779-b76e-508eedcd8a6c
+md5	e99540bbe7dc7def0814f907ce058fb8

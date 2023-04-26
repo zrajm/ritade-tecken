@@ -1,0 +1,7 @@
+signId	571
+text	har inte (hjälpverb+negation)
+imageUuid	2ee57bf3-bd3b-4734-97d6-1357d0c0c9e1
+translationKey	62c9b50d-745c-45dc-8f7a-6497ed128502
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ee57bf3-bd3b-4734-97d6-1357d0c0c9e1/62c9b50d-745c-45dc-8f7a-6497ed128502/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ee57bf3-bd3b-4734-97d6-1357d0c0c9e1/62c9b50d-745c-45dc-8f7a-6497ed128502
+md5	74f844e3999313e51a1b34fdd05b6bfe

@@ -1,0 +1,7 @@
+signId	2949
+text	bakform
+imageUuid	c2138d79-b450-4a0a-8443-7f9f579a1864
+translationKey	b25bc680-326d-4f0c-b2f3-2b68722af08c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c2138d79-b450-4a0a-8443-7f9f579a1864/b25bc680-326d-4f0c-b2f3-2b68722af08c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c2138d79-b450-4a0a-8443-7f9f579a1864/b25bc680-326d-4f0c-b2f3-2b68722af08c
+md5	834b11f2ba9bf77b3ba6eaaa56340da5

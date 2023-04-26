@@ -1,0 +1,7 @@
+signId	2800
+text	skärbräda
+imageUuid	9916356e-09a6-4708-9aa6-5f2585e47249
+translationKey	f2c904f6-d9a8-4a82-a4d4-aa7c5db5eaed
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9916356e-09a6-4708-9aa6-5f2585e47249/f2c904f6-d9a8-4a82-a4d4-aa7c5db5eaed/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9916356e-09a6-4708-9aa6-5f2585e47249/f2c904f6-d9a8-4a82-a4d4-aa7c5db5eaed
+md5	0be7068a7e05c5f5d7791a08586c8aa2

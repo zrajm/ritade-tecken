@@ -1,0 +1,7 @@
+signId	2237
+text	pasta
+imageUuid	adbb2713-a89a-48ad-aeeb-c28f0c5d42f1
+translationKey	7572bf8d-5118-44e3-beeb-bd8107007c8e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/adbb2713-a89a-48ad-aeeb-c28f0c5d42f1/7572bf8d-5118-44e3-beeb-bd8107007c8e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/adbb2713-a89a-48ad-aeeb-c28f0c5d42f1/7572bf8d-5118-44e3-beeb-bd8107007c8e
+md5	9254b88f127517e0af93a766790d1354

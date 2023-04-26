@@ -1,0 +1,7 @@
+signId	785
+text	komma fram
+imageUuid	c7a4d3b8-7879-4e76-8c8d-07acf58d40b1
+translationKey	eebdf40c-1f87-4f95-9ba9-f04f991b8e7e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c7a4d3b8-7879-4e76-8c8d-07acf58d40b1/eebdf40c-1f87-4f95-9ba9-f04f991b8e7e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c7a4d3b8-7879-4e76-8c8d-07acf58d40b1/eebdf40c-1f87-4f95-9ba9-f04f991b8e7e
+md5	e082c2b8ef694d0da2176ec3d09e171f

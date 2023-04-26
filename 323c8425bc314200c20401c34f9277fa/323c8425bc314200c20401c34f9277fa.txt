@@ -1,0 +1,8 @@
+
+signId	2203
+text	vet inte
+imageUuid	b9223200-5fac-490b-9028-3c683731bccd
+translationKey	034dc9dd-b863-40ef-a801-2b4d982ea615
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b9223200-5fac-490b-9028-3c683731bccd/034dc9dd-b863-40ef-a801-2b4d982ea615/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b9223200-5fac-490b-9028-3c683731bccd/034dc9dd-b863-40ef-a801-2b4d982ea615
+md5	323c8425bc314200c20401c34f9277fa

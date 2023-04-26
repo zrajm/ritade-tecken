@@ -1,0 +1,7 @@
+signId	1619
+text	truck
+imageUuid	8806aad6-6b60-4bbe-9bae-2ef5bc8967c9
+translationKey	e9540e5b-37d5-40cc-b869-a8cd4e3c07e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8806aad6-6b60-4bbe-9bae-2ef5bc8967c9/e9540e5b-37d5-40cc-b869-a8cd4e3c07e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8806aad6-6b60-4bbe-9bae-2ef5bc8967c9/e9540e5b-37d5-40cc-b869-a8cd4e3c07e1
+md5	8dd7f20d4f7a4a44d14950385a66eb22

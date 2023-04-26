@@ -1,0 +1,8 @@
+
+signId	70
+text	armbandsklocka
+imageUuid	f853e4de-b1b1-4bc3-b4bf-91cc05b88955
+translationKey	ca3712df-2376-4cf5-9ddf-227852613440
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f853e4de-b1b1-4bc3-b4bf-91cc05b88955/ca3712df-2376-4cf5-9ddf-227852613440/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f853e4de-b1b1-4bc3-b4bf-91cc05b88955/ca3712df-2376-4cf5-9ddf-227852613440
+md5	db6754f28801f09633466509d34adea6

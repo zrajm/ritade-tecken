@@ -1,0 +1,7 @@
+signId	1560
+text	tand
+imageUuid	20544758-a40e-403b-a5d2-141187f09b6c
+translationKey	1e105ab1-8afa-4f53-acf4-f38285360b6c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/20544758-a40e-403b-a5d2-141187f09b6c/1e105ab1-8afa-4f53-acf4-f38285360b6c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/20544758-a40e-403b-a5d2-141187f09b6c/1e105ab1-8afa-4f53-acf4-f38285360b6c
+md5	3d0990b59d0a5710f1b91deed2c52cd2

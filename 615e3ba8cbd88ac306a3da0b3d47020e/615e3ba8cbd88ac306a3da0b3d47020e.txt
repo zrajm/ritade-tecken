@@ -1,0 +1,8 @@
+
+signId	3187
+text	Babblarna 2
+imageUuid	62eefdb4-1494-48e0-8173-ca7e2ef5eda1
+translationKey	2e290f6c-54d0-4c44-933a-fb0feeaf376a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/62eefdb4-1494-48e0-8173-ca7e2ef5eda1/2e290f6c-54d0-4c44-933a-fb0feeaf376a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/62eefdb4-1494-48e0-8173-ca7e2ef5eda1/2e290f6c-54d0-4c44-933a-fb0feeaf376a
+md5	615e3ba8cbd88ac306a3da0b3d47020e

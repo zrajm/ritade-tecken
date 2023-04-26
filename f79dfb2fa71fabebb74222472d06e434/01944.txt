@@ -1,0 +1,7 @@
+signId	1944
+text	oväsen
+imageUuid	723cd623-7742-4831-866f-b27b27b7ba74
+translationKey	25f0f209-2884-4188-88eb-dab696c1d76a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/723cd623-7742-4831-866f-b27b27b7ba74/25f0f209-2884-4188-88eb-dab696c1d76a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/723cd623-7742-4831-866f-b27b27b7ba74/25f0f209-2884-4188-88eb-dab696c1d76a
+md5	3f1b51762e3598864c2d25c2dab035ae

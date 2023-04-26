@@ -1,0 +1,8 @@
+
+signId	2572
+text	bärsele
+imageUuid	7db10299-547a-404c-9012-5aa9b915ec5a
+translationKey	c672597c-310e-4916-b4a3-faa46cd57afe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7db10299-547a-404c-9012-5aa9b915ec5a/c672597c-310e-4916-b4a3-faa46cd57afe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7db10299-547a-404c-9012-5aa9b915ec5a/c672597c-310e-4916-b4a3-faa46cd57afe
+md5	994dd0491fd35d412189d92103ec1bb8

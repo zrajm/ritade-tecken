@@ -1,0 +1,8 @@
+
+signId	1872
+text	elev
+imageUuid	812a972d-66a0-4e2f-9dc4-3b0425d1e37a
+translationKey	2974729f-8499-4143-a304-e73863bb1aee
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/812a972d-66a0-4e2f-9dc4-3b0425d1e37a/2974729f-8499-4143-a304-e73863bb1aee/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/812a972d-66a0-4e2f-9dc4-3b0425d1e37a/2974729f-8499-4143-a304-e73863bb1aee
+md5	74b47f8af82aa3053513b19aa650eb79

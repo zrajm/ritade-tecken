@@ -1,0 +1,24 @@
+
+signId	237
+text	citron
+imageUuid	1c5c791f-5415-4e21-bd49-be3ce1e1df3b
+translationKey	7f217b0b-f588-4cfd-9c1f-8ad0ad5eb75d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1c5c791f-5415-4e21-bd49-be3ce1e1df3b/7f217b0b-f588-4cfd-9c1f-8ad0ad5eb75d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1c5c791f-5415-4e21-bd49-be3ce1e1df3b/7f217b0b-f588-4cfd-9c1f-8ad0ad5eb75d
+md5	0dfc7b19e13d98163dd0e4eaa46f7464
+
+signId	1521
+text	sur
+imageUuid	1a5cbb8a-6e12-4a24-9400-ceedee32f236
+translationKey	b99c2710-9216-41ab-817f-32e7722393f8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1a5cbb8a-6e12-4a24-9400-ceedee32f236/b99c2710-9216-41ab-817f-32e7722393f8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1a5cbb8a-6e12-4a24-9400-ceedee32f236/b99c2710-9216-41ab-817f-32e7722393f8
+md5	0dfc7b19e13d98163dd0e4eaa46f7464
+
+signId	3354
+text	sura
+imageUuid	77469db4-63ee-446a-afc2-7f808dc641d5
+translationKey	0b25776c-0721-4c9d-a8fd-f57b75d20acf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/77469db4-63ee-446a-afc2-7f808dc641d5/0b25776c-0721-4c9d-a8fd-f57b75d20acf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/77469db4-63ee-446a-afc2-7f808dc641d5/0b25776c-0721-4c9d-a8fd-f57b75d20acf
+md5	0dfc7b19e13d98163dd0e4eaa46f7464

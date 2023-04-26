@@ -1,0 +1,7 @@
+signId	2450
+text	Sydamerika
+imageUuid	a5f0ebff-971b-4950-ad03-aa753e3bbd5d
+translationKey	000ed4e6-255c-4280-be1a-a924868d6a92
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a5f0ebff-971b-4950-ad03-aa753e3bbd5d/000ed4e6-255c-4280-be1a-a924868d6a92/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a5f0ebff-971b-4950-ad03-aa753e3bbd5d/000ed4e6-255c-4280-be1a-a924868d6a92
+md5	40b0e4f41a9eb7d2563f431036c073ab

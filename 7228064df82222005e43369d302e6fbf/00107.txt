@@ -1,0 +1,7 @@
+signId	107
+text	barnslig
+imageUuid	583a9880-7523-4e76-b93e-dbfae42bc626
+translationKey	93bff3d3-d97a-4445-86b6-24ec33b9de3f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/583a9880-7523-4e76-b93e-dbfae42bc626/93bff3d3-d97a-4445-86b6-24ec33b9de3f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/583a9880-7523-4e76-b93e-dbfae42bc626/93bff3d3-d97a-4445-86b6-24ec33b9de3f
+md5	7228064df82222005e43369d302e6fbf

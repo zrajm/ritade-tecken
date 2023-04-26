@@ -1,0 +1,8 @@
+
+signId	3068
+text	höra ihop
+imageUuid	f059b258-0e18-4482-a1e8-bf16e250cdbb
+translationKey	3a24155d-9745-4cd5-a57d-86f4a154724c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f059b258-0e18-4482-a1e8-bf16e250cdbb/3a24155d-9745-4cd5-a57d-86f4a154724c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f059b258-0e18-4482-a1e8-bf16e250cdbb/3a24155d-9745-4cd5-a57d-86f4a154724c
+md5	e694f8e7261eb2178fe0dbaf2829a875

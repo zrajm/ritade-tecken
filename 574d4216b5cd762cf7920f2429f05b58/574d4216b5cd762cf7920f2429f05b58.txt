@@ -1,0 +1,8 @@
+
+signId	622
+text	hålla (t ex hästen)
+imageUuid	bf906143-9c3b-466d-91c5-3621ef457cde
+translationKey	971879c5-8475-4763-b375-b9463a4c97c6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bf906143-9c3b-466d-91c5-3621ef457cde/971879c5-8475-4763-b375-b9463a4c97c6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bf906143-9c3b-466d-91c5-3621ef457cde/971879c5-8475-4763-b375-b9463a4c97c6
+md5	574d4216b5cd762cf7920f2429f05b58

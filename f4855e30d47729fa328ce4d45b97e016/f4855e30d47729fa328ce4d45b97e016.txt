@@ -1,0 +1,8 @@
+
+signId	48
+text	ambulans
+imageUuid	90596015-7a2b-4f6c-9e91-151cd75a229d
+translationKey	ff58b40a-3792-40eb-be05-026f022eabb6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/90596015-7a2b-4f6c-9e91-151cd75a229d/ff58b40a-3792-40eb-be05-026f022eabb6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/90596015-7a2b-4f6c-9e91-151cd75a229d/ff58b40a-3792-40eb-be05-026f022eabb6
+md5	f4855e30d47729fa328ce4d45b97e016

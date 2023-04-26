@@ -1,0 +1,8 @@
+
+signId	861
+text	lag (regel)
+imageUuid	82fcf65e-ebd3-4bf4-99bf-ddf2747e6877
+translationKey	8a0be693-3aa7-40b0-be24-8ad923b564a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/82fcf65e-ebd3-4bf4-99bf-ddf2747e6877/8a0be693-3aa7-40b0-be24-8ad923b564a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/82fcf65e-ebd3-4bf4-99bf-ddf2747e6877/8a0be693-3aa7-40b0-be24-8ad923b564a4
+md5	705d6e61c7bce08ab8d65449a02a8fb6

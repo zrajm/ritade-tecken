@@ -1,0 +1,7 @@
+signId	2126
+text	kök 1
+imageUuid	c6adfa0e-02e5-48c4-805a-29316dc375c8
+translationKey	1dab9dde-6431-487a-b395-bb6f463ed546
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c6adfa0e-02e5-48c4-805a-29316dc375c8/1dab9dde-6431-487a-b395-bb6f463ed546/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c6adfa0e-02e5-48c4-805a-29316dc375c8/1dab9dde-6431-487a-b395-bb6f463ed546
+md5	f848bb9df1b0d0e1622bc49b63d46970

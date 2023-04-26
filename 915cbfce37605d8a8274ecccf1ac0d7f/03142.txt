@@ -1,0 +1,7 @@
+signId	3142
+text	tulpan
+imageUuid	f5995ad4-fea9-4238-8841-bad9684f3b4c
+translationKey	69c095d1-effb-47a5-bdfe-d58c00789e0d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f5995ad4-fea9-4238-8841-bad9684f3b4c/69c095d1-effb-47a5-bdfe-d58c00789e0d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f5995ad4-fea9-4238-8841-bad9684f3b4c/69c095d1-effb-47a5-bdfe-d58c00789e0d
+md5	915cbfce37605d8a8274ecccf1ac0d7f

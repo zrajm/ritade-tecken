@@ -1,0 +1,7 @@
+signId	2430
+text	julstjärna
+imageUuid	1e5557f5-c2d9-4c1a-87c3-be044c59a091
+translationKey	c2d294a9-4c9e-43a4-8070-4d468169ba62
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1e5557f5-c2d9-4c1a-87c3-be044c59a091/c2d294a9-4c9e-43a4-8070-4d468169ba62/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1e5557f5-c2d9-4c1a-87c3-be044c59a091/c2d294a9-4c9e-43a4-8070-4d468169ba62
+md5	1c88aae330379f473b1a441a48c7fa6d

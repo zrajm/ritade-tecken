@@ -1,0 +1,7 @@
+signId	3431
+text	öronproppar
+imageUuid	7af44144-4bbd-454b-9631-80791e751ffc
+translationKey	d57f4937-2e1f-4fdb-aacc-44da2bdf658e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7af44144-4bbd-454b-9631-80791e751ffc/d57f4937-2e1f-4fdb-aacc-44da2bdf658e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7af44144-4bbd-454b-9631-80791e751ffc/d57f4937-2e1f-4fdb-aacc-44da2bdf658e
+md5	2bcc1a1fb37310dfeb296b9cc39c09ff

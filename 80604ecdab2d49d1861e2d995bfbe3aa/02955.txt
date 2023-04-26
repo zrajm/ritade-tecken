@@ -1,0 +1,7 @@
+signId	2955
+text	bröst 2
+imageUuid	fee1272b-be59-4eca-9a72-4f71f21735ce
+translationKey	b3c40f10-e53b-4fa1-9f3b-48b351980706
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fee1272b-be59-4eca-9a72-4f71f21735ce/b3c40f10-e53b-4fa1-9f3b-48b351980706/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fee1272b-be59-4eca-9a72-4f71f21735ce/b3c40f10-e53b-4fa1-9f3b-48b351980706
+md5	80604ecdab2d49d1861e2d995bfbe3aa

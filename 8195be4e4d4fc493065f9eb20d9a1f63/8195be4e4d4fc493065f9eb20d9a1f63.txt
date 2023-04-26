@@ -1,0 +1,8 @@
+
+signId	3308
+text	institution
+imageUuid	2e45b17b-439b-4865-abec-0c58ff5a6e63
+translationKey	808d6907-52af-45bc-9463-0683a5f429b1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2e45b17b-439b-4865-abec-0c58ff5a6e63/808d6907-52af-45bc-9463-0683a5f429b1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2e45b17b-439b-4865-abec-0c58ff5a6e63/808d6907-52af-45bc-9463-0683a5f429b1
+md5	8195be4e4d4fc493065f9eb20d9a1f63

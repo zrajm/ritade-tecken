@@ -1,0 +1,16 @@
+
+signId	1591
+text	tjugo (tal)
+imageUuid	19fbf355-1402-4675-a53a-0b97ffe38976
+translationKey	86ca3bab-937b-417d-9c8a-c26f8c878cb5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/19fbf355-1402-4675-a53a-0b97ffe38976/86ca3bab-937b-417d-9c8a-c26f8c878cb5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/19fbf355-1402-4675-a53a-0b97ffe38976/86ca3bab-937b-417d-9c8a-c26f8c878cb5
+md5	850b2eb18e84e95478cc791399f6b8e7
+
+signId	2865
+text	20 (tal)
+imageUuid	e3c37020-b7ed-4f4d-b41c-51be037f5720
+translationKey	e5df958c-d3e6-4de5-83ef-92ee2167431b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e3c37020-b7ed-4f4d-b41c-51be037f5720/e5df958c-d3e6-4de5-83ef-92ee2167431b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e3c37020-b7ed-4f4d-b41c-51be037f5720/e5df958c-d3e6-4de5-83ef-92ee2167431b
+md5	850b2eb18e84e95478cc791399f6b8e7

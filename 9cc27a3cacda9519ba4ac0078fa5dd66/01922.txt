@@ -1,0 +1,7 @@
+signId	1922
+text	hostmedicin
+imageUuid	25f54f55-ecac-45f1-8a24-5bfb06ef25b5
+translationKey	923f7004-ca49-456f-9609-ff55a53713f7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/25f54f55-ecac-45f1-8a24-5bfb06ef25b5/923f7004-ca49-456f-9609-ff55a53713f7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/25f54f55-ecac-45f1-8a24-5bfb06ef25b5/923f7004-ca49-456f-9609-ff55a53713f7
+md5	9cc27a3cacda9519ba4ac0078fa5dd66

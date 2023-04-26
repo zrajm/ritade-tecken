@@ -1,0 +1,8 @@
+
+signId	2917
+text	bokhylla
+imageUuid	577caefc-8635-4e44-bd40-8a272d027edb
+translationKey	32914b1b-19e7-47ca-b91d-328123aa2e84
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/577caefc-8635-4e44-bd40-8a272d027edb/32914b1b-19e7-47ca-b91d-328123aa2e84/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/577caefc-8635-4e44-bd40-8a272d027edb/32914b1b-19e7-47ca-b91d-328123aa2e84
+md5	0cae3a8e802f09cebcc34530d8114600

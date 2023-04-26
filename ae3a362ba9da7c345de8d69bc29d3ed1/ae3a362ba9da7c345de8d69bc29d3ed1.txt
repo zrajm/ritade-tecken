@@ -1,0 +1,8 @@
+
+signId	2114
+text	helg
+imageUuid	2c733b6f-c451-4395-bf41-eb8091e957a6
+translationKey	9ffff21f-b03e-44ae-9616-677b82d58d95
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2c733b6f-c451-4395-bf41-eb8091e957a6/9ffff21f-b03e-44ae-9616-677b82d58d95/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2c733b6f-c451-4395-bf41-eb8091e957a6/9ffff21f-b03e-44ae-9616-677b82d58d95
+md5	ae3a362ba9da7c345de8d69bc29d3ed1

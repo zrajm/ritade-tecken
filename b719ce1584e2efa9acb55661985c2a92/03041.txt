@@ -1,0 +1,7 @@
+signId	3041
+text	överst
+imageUuid	33d31285-65b0-4ee0-bae9-35e11c09b705
+translationKey	85318a38-0e67-4779-90ad-35803dbcec37
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/33d31285-65b0-4ee0-bae9-35e11c09b705/85318a38-0e67-4779-90ad-35803dbcec37/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/33d31285-65b0-4ee0-bae9-35e11c09b705/85318a38-0e67-4779-90ad-35803dbcec37
+md5	b719ce1584e2efa9acb55661985c2a92

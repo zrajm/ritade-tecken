@@ -1,0 +1,8 @@
+
+signId	1301
+text	sekund
+imageUuid	28be9f22-61ac-4da4-be78-db7a0ef10af5
+translationKey	9d9141c5-77ab-438c-b865-6a8a737580e3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/28be9f22-61ac-4da4-be78-db7a0ef10af5/9d9141c5-77ab-438c-b865-6a8a737580e3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/28be9f22-61ac-4da4-be78-db7a0ef10af5/9d9141c5-77ab-438c-b865-6a8a737580e3
+md5	6cfc7c4ce8a1d5e76afe02d174cb97f7

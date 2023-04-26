@@ -1,0 +1,7 @@
+signId	717
+text	kam
+imageUuid	ecc83cb8-a684-4a09-aed1-5393deef0702
+translationKey	96d0683d-64a0-407b-baf1-36783d7d0a8b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ecc83cb8-a684-4a09-aed1-5393deef0702/96d0683d-64a0-407b-baf1-36783d7d0a8b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ecc83cb8-a684-4a09-aed1-5393deef0702/96d0683d-64a0-407b-baf1-36783d7d0a8b
+md5	3796bd79df0099fc8bb45ba7c6ddfdf3

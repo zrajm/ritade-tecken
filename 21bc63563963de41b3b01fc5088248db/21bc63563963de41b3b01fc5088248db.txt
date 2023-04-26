@@ -1,0 +1,8 @@
+
+signId	721
+text	kan
+imageUuid	80449558-223d-4fc9-be2a-b357d081c35b
+translationKey	bbfd7593-b4ac-4bde-987e-e9fbb998ddf3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/80449558-223d-4fc9-be2a-b357d081c35b/bbfd7593-b4ac-4bde-987e-e9fbb998ddf3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/80449558-223d-4fc9-be2a-b357d081c35b/bbfd7593-b4ac-4bde-987e-e9fbb998ddf3
+md5	21bc63563963de41b3b01fc5088248db

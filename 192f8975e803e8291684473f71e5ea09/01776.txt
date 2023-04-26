@@ -1,0 +1,7 @@
+signId	1776
+text	W (bokstav)
+imageUuid	0786fc47-1e85-4718-8aa6-542d42f26d29
+translationKey	aba8ae62-dd6b-4349-ab64-45564e73af48
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0786fc47-1e85-4718-8aa6-542d42f26d29/aba8ae62-dd6b-4349-ab64-45564e73af48/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0786fc47-1e85-4718-8aa6-542d42f26d29/aba8ae62-dd6b-4349-ab64-45564e73af48
+md5	192f8975e803e8291684473f71e5ea09

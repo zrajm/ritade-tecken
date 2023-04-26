@@ -1,0 +1,7 @@
+signId	2500
+text	bär 2
+imageUuid	51cddc00-6d44-476d-aaf8-db219c47f3eb
+translationKey	26542559-b71b-4341-90e6-f34c89f4c7f3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/51cddc00-6d44-476d-aaf8-db219c47f3eb/26542559-b71b-4341-90e6-f34c89f4c7f3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/51cddc00-6d44-476d-aaf8-db219c47f3eb/26542559-b71b-4341-90e6-f34c89f4c7f3
+md5	90f6105c5f6a57127b836d02cb227ffb

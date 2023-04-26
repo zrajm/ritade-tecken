@@ -1,0 +1,8 @@
+
+signId	1976
+text	mena
+imageUuid	9bb22e5c-22df-41d9-9851-1deeee0762b4
+translationKey	434971f3-5ae6-46a0-93ef-51e95e2242cf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9bb22e5c-22df-41d9-9851-1deeee0762b4/434971f3-5ae6-46a0-93ef-51e95e2242cf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9bb22e5c-22df-41d9-9851-1deeee0762b4/434971f3-5ae6-46a0-93ef-51e95e2242cf
+md5	7e826b40b0504e7c73f35b0bfe1037ab

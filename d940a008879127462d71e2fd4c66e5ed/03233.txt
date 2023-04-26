@@ -1,0 +1,7 @@
+signId	3233
+text	synagoga
+imageUuid	8b01222b-5cab-4afe-9c7f-4be569a1e9cb
+translationKey	0cb08150-715c-4c29-935e-15eac83b7468
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8b01222b-5cab-4afe-9c7f-4be569a1e9cb/0cb08150-715c-4c29-935e-15eac83b7468/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8b01222b-5cab-4afe-9c7f-4be569a1e9cb/0cb08150-715c-4c29-935e-15eac83b7468
+md5	d940a008879127462d71e2fd4c66e5ed

@@ -1,0 +1,7 @@
+signId	746
+text	klappa
+imageUuid	f1471e46-8a42-4743-925c-d43c0eb691a9
+translationKey	5613ac31-382c-42a7-9115-882bd80e7adf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f1471e46-8a42-4743-925c-d43c0eb691a9/5613ac31-382c-42a7-9115-882bd80e7adf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f1471e46-8a42-4743-925c-d43c0eb691a9/5613ac31-382c-42a7-9115-882bd80e7adf
+md5	caca7d369a7fb3e57ade92130c12b18d

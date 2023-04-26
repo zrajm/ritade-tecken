@@ -1,0 +1,8 @@
+
+signId	2113
+text	hand 2
+imageUuid	e2163a95-b544-4c9b-b661-d4ca48ea180c
+translationKey	0c75db49-ad0a-46ff-a9f2-70bcce97945d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e2163a95-b544-4c9b-b661-d4ca48ea180c/0c75db49-ad0a-46ff-a9f2-70bcce97945d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e2163a95-b544-4c9b-b661-d4ca48ea180c/0c75db49-ad0a-46ff-a9f2-70bcce97945d
+md5	7fc4fbaf7df100ae88d4b8ab46725452

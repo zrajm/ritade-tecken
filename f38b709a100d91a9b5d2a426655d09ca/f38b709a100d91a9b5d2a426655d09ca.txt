@@ -1,0 +1,8 @@
+
+signId	917
+text	lycklig
+imageUuid	25bf90e2-9344-49c4-ac57-87475f2168d6
+translationKey	b0549cbe-7501-42e0-a989-4daeda6c031d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/25bf90e2-9344-49c4-ac57-87475f2168d6/b0549cbe-7501-42e0-a989-4daeda6c031d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/25bf90e2-9344-49c4-ac57-87475f2168d6/b0549cbe-7501-42e0-a989-4daeda6c031d
+md5	f38b709a100d91a9b5d2a426655d09ca

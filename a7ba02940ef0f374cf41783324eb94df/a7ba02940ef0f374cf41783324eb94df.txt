@@ -1,0 +1,16 @@
+
+signId	27
+text	6 (siffra)
+imageUuid	7ad53f9b-292b-487a-aec8-947127c4e40c
+translationKey	25a24345-7db5-412a-a957-c8d8b0e6d95b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7ad53f9b-292b-487a-aec8-947127c4e40c/25a24345-7db5-412a-a957-c8d8b0e6d95b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7ad53f9b-292b-487a-aec8-947127c4e40c/25a24345-7db5-412a-a957-c8d8b0e6d95b
+md5	a7ba02940ef0f374cf41783324eb94df
+
+signId	2846
+text	sex (siffra)
+imageUuid	3dcbc721-3315-4ab5-b449-055f114cc763
+translationKey	9202ad86-d4e3-4c2f-8907-aec0c0697df7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3dcbc721-3315-4ab5-b449-055f114cc763/9202ad86-d4e3-4c2f-8907-aec0c0697df7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3dcbc721-3315-4ab5-b449-055f114cc763/9202ad86-d4e3-4c2f-8907-aec0c0697df7
+md5	a7ba02940ef0f374cf41783324eb94df

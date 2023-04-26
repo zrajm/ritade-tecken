@@ -1,0 +1,7 @@
+signId	1396
+text	smal
+imageUuid	6871fc1b-de5c-4874-a95e-9c83ada4f2b4
+translationKey	adf863a4-055f-4da7-b872-00077b268493
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6871fc1b-de5c-4874-a95e-9c83ada4f2b4/adf863a4-055f-4da7-b872-00077b268493/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6871fc1b-de5c-4874-a95e-9c83ada4f2b4/adf863a4-055f-4da7-b872-00077b268493
+md5	673ce61d77174aed376fcc1fe0f5065a

@@ -1,0 +1,7 @@
+signId	911
+text	lova
+imageUuid	ef6cb4e8-c84d-4e46-a1b1-ae3d80bf4125
+translationKey	7ebef6f7-31f4-4974-8719-ca705374336c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ef6cb4e8-c84d-4e46-a1b1-ae3d80bf4125/7ebef6f7-31f4-4974-8719-ca705374336c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ef6cb4e8-c84d-4e46-a1b1-ae3d80bf4125/7ebef6f7-31f4-4974-8719-ca705374336c
+md5	6eace066e49722d8249c79e9524f1164

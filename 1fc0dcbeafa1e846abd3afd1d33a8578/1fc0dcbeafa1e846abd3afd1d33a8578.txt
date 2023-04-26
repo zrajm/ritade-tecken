@@ -1,0 +1,8 @@
+
+signId	3195
+text	bråk (matematik)
+imageUuid	cb99e261-ba74-4344-ba04-09e7891bde9e
+translationKey	87d15f99-62b6-4603-bd14-068e6ddd4157
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cb99e261-ba74-4344-ba04-09e7891bde9e/87d15f99-62b6-4603-bd14-068e6ddd4157/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cb99e261-ba74-4344-ba04-09e7891bde9e/87d15f99-62b6-4603-bd14-068e6ddd4157
+md5	1fc0dcbeafa1e846abd3afd1d33a8578

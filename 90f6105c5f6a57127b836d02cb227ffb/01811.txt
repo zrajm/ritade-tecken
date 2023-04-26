@@ -1,0 +1,7 @@
+signId	1811
+text	ärtor
+imageUuid	b38cba10-9e5a-424c-8848-373c861d9124
+translationKey	d195aea3-9842-4d2b-973e-aba6ce698afd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b38cba10-9e5a-424c-8848-373c861d9124/d195aea3-9842-4d2b-973e-aba6ce698afd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b38cba10-9e5a-424c-8848-373c861d9124/d195aea3-9842-4d2b-973e-aba6ce698afd
+md5	90f6105c5f6a57127b836d02cb227ffb

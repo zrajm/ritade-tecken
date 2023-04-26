@@ -1,0 +1,7 @@
+signId	2096
+text	bana
+imageUuid	b0b88332-39d7-4134-a8ed-4307f71a0793
+translationKey	f0c82939-d699-4caf-93a3-41ce5d4923c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b0b88332-39d7-4134-a8ed-4307f71a0793/f0c82939-d699-4caf-93a3-41ce5d4923c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b0b88332-39d7-4134-a8ed-4307f71a0793/f0c82939-d699-4caf-93a3-41ce5d4923c7
+md5	cdad5ff45211b77c90aa5adcebbd2d66

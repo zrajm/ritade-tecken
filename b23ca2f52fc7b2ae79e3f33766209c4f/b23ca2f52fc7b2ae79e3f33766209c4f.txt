@@ -1,0 +1,8 @@
+
+signId	3231
+text	Snapchat
+imageUuid	ebbf4806-161e-4ef1-b1b9-b9cd2182af92
+translationKey	d6e5a475-cb6f-4c30-b716-79687dfa1de1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ebbf4806-161e-4ef1-b1b9-b9cd2182af92/d6e5a475-cb6f-4c30-b716-79687dfa1de1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ebbf4806-161e-4ef1-b1b9-b9cd2182af92/d6e5a475-cb6f-4c30-b716-79687dfa1de1
+md5	b23ca2f52fc7b2ae79e3f33766209c4f

@@ -1,0 +1,8 @@
+
+signId	1290
+text	samtidigt
+imageUuid	4e754d20-49df-47f7-b7f0-2cae2a0f050b
+translationKey	29d415f8-925f-4948-adc9-595813cb5891
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e754d20-49df-47f7-b7f0-2cae2a0f050b/29d415f8-925f-4948-adc9-595813cb5891/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e754d20-49df-47f7-b7f0-2cae2a0f050b/29d415f8-925f-4948-adc9-595813cb5891
+md5	3e29265bb72526cd1885796ba936869b

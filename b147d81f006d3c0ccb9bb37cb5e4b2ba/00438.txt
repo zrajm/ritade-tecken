@@ -1,0 +1,7 @@
+signId	438
+text	får (djur)
+imageUuid	72cb1e59-568e-4602-8623-1fdff5491c6c
+translationKey	c018334e-808d-4c8c-adf8-e00abe4e5f36
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72cb1e59-568e-4602-8623-1fdff5491c6c/c018334e-808d-4c8c-adf8-e00abe4e5f36/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72cb1e59-568e-4602-8623-1fdff5491c6c/c018334e-808d-4c8c-adf8-e00abe4e5f36
+md5	b147d81f006d3c0ccb9bb37cb5e4b2ba

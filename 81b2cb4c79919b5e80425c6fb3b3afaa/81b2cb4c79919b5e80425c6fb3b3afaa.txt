@@ -1,0 +1,16 @@
+
+signId	1255
+text	rosa
+imageUuid	f3309840-1098-4540-a9c0-c628d85551d2
+translationKey	0c6044af-2d6e-47b0-938b-4ed63baa87b3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f3309840-1098-4540-a9c0-c628d85551d2/0c6044af-2d6e-47b0-938b-4ed63baa87b3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f3309840-1098-4540-a9c0-c628d85551d2/0c6044af-2d6e-47b0-938b-4ed63baa87b3
+md5	81b2cb4c79919b5e80425c6fb3b3afaa
+
+signId	2945
+text	persika
+imageUuid	7e680161-5f86-47c5-b958-84d0970e15f3
+translationKey	d1784c39-7ebb-44d8-9ac5-6572ed78b9a9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e680161-5f86-47c5-b958-84d0970e15f3/d1784c39-7ebb-44d8-9ac5-6572ed78b9a9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e680161-5f86-47c5-b958-84d0970e15f3/d1784c39-7ebb-44d8-9ac5-6572ed78b9a9
+md5	81b2cb4c79919b5e80425c6fb3b3afaa

@@ -1,0 +1,8 @@
+
+signId	392
+text	flöjt
+imageUuid	8d99cc11-3d6f-4a50-bded-db7720b6ab3a
+translationKey	2a62855b-cdc0-489b-93fa-9811253764de
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8d99cc11-3d6f-4a50-bded-db7720b6ab3a/2a62855b-cdc0-489b-93fa-9811253764de/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8d99cc11-3d6f-4a50-bded-db7720b6ab3a/2a62855b-cdc0-489b-93fa-9811253764de
+md5	44e8c872ffd90a63a00e584b766e680b

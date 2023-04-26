@@ -1,0 +1,8 @@
+
+signId	2540
+text	tratt
+imageUuid	56469c9b-60b7-42e7-82a6-833bf1cb011b
+translationKey	60e28c50-e651-48d8-9f46-ca4e6874e878
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/56469c9b-60b7-42e7-82a6-833bf1cb011b/60e28c50-e651-48d8-9f46-ca4e6874e878/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/56469c9b-60b7-42e7-82a6-833bf1cb011b/60e28c50-e651-48d8-9f46-ca4e6874e878
+md5	7bcaa6cfc08039cfa551de1eb262a8eb

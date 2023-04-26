@@ -1,0 +1,7 @@
+signId	1635
+text	t-tröja
+imageUuid	8d6fe741-481e-4910-b6e1-4c46186c790a
+translationKey	87b983cd-b4ef-46de-bf3c-63784bf13113
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8d6fe741-481e-4910-b6e1-4c46186c790a/87b983cd-b4ef-46de-bf3c-63784bf13113/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8d6fe741-481e-4910-b6e1-4c46186c790a/87b983cd-b4ef-46de-bf3c-63784bf13113
+md5	64aa4409251f8e2bbcf65ccc65856adf

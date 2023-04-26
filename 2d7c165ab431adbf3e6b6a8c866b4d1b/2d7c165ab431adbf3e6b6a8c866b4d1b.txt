@@ -1,0 +1,8 @@
+
+signId	2939
+text	regnbyxor
+imageUuid	268c100c-be27-4323-8b47-35fd9d554420
+translationKey	aa0ad716-7ee6-4f33-82a6-1635838ff414
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/268c100c-be27-4323-8b47-35fd9d554420/aa0ad716-7ee6-4f33-82a6-1635838ff414/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/268c100c-be27-4323-8b47-35fd9d554420/aa0ad716-7ee6-4f33-82a6-1635838ff414
+md5	2d7c165ab431adbf3e6b6a8c866b4d1b

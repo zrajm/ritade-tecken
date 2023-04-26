@@ -1,0 +1,32 @@
+
+signId	1900
+text	plåga
+imageUuid	bd3ceb44-4f1e-4b79-9b13-e41917fe2d28
+translationKey	9ffdddb0-e16d-4f26-b9c1-3bc68213a37b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bd3ceb44-4f1e-4b79-9b13-e41917fe2d28/9ffdddb0-e16d-4f26-b9c1-3bc68213a37b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bd3ceb44-4f1e-4b79-9b13-e41917fe2d28/9ffdddb0-e16d-4f26-b9c1-3bc68213a37b
+md5	e33d38fb4e8df87505624cc65fada4d2
+
+signId	1917
+text	lida
+imageUuid	85fe24c5-2ec7-49ca-843f-9f885da1ab19
+translationKey	52783c1d-11c7-4e8c-aee8-d02da08b8869
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/85fe24c5-2ec7-49ca-843f-9f885da1ab19/52783c1d-11c7-4e8c-aee8-d02da08b8869/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/85fe24c5-2ec7-49ca-843f-9f885da1ab19/52783c1d-11c7-4e8c-aee8-d02da08b8869
+md5	e33d38fb4e8df87505624cc65fada4d2
+
+signId	1948
+text	smärta
+imageUuid	86ab9fea-0700-4e58-ad22-3920035a5d71
+translationKey	d8a2372d-b2f8-451a-85b3-d22abf2df1d5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86ab9fea-0700-4e58-ad22-3920035a5d71/d8a2372d-b2f8-451a-85b3-d22abf2df1d5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86ab9fea-0700-4e58-ad22-3920035a5d71/d8a2372d-b2f8-451a-85b3-d22abf2df1d5
+md5	e33d38fb4e8df87505624cc65fada4d2
+
+signId	1972
+text	lidande
+imageUuid	d432d4f7-038a-4ac6-b982-a1b82c5a851f
+translationKey	4ebbce4c-5973-4917-89e6-1e691720c2ef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d432d4f7-038a-4ac6-b982-a1b82c5a851f/4ebbce4c-5973-4917-89e6-1e691720c2ef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d432d4f7-038a-4ac6-b982-a1b82c5a851f/4ebbce4c-5973-4917-89e6-1e691720c2ef
+md5	e33d38fb4e8df87505624cc65fada4d2

@@ -1,0 +1,8 @@
+
+signId	951
+text	löven faller
+imageUuid	775a4873-2878-4dc0-940e-198014ccc030
+translationKey	976a293b-7abc-42c6-9cf0-41ddfd34207d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/775a4873-2878-4dc0-940e-198014ccc030/976a293b-7abc-42c6-9cf0-41ddfd34207d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/775a4873-2878-4dc0-940e-198014ccc030/976a293b-7abc-42c6-9cf0-41ddfd34207d
+md5	e733c51d391086bbb8a635d14fd8fbf2

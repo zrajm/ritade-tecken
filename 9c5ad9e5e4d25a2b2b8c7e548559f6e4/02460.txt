@@ -1,0 +1,7 @@
+signId	2460
+text	form (geometrisk)
+imageUuid	78cc5a75-80a7-48f6-b438-b19b39837efd
+translationKey	a22ae2b2-3567-4ef0-88ba-665915487134
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/78cc5a75-80a7-48f6-b438-b19b39837efd/a22ae2b2-3567-4ef0-88ba-665915487134/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/78cc5a75-80a7-48f6-b438-b19b39837efd/a22ae2b2-3567-4ef0-88ba-665915487134
+md5	9c5ad9e5e4d25a2b2b8c7e548559f6e4

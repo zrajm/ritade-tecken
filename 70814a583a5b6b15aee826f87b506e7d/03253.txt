@@ -1,0 +1,7 @@
+signId	3253
+text	säsong
+imageUuid	c6ea2402-543a-447c-8e91-93010a4a4e9e
+translationKey	ee662bef-2fb4-4246-a6e2-c18a5f0416a0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c6ea2402-543a-447c-8e91-93010a4a4e9e/ee662bef-2fb4-4246-a6e2-c18a5f0416a0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c6ea2402-543a-447c-8e91-93010a4a4e9e/ee662bef-2fb4-4246-a6e2-c18a5f0416a0
+md5	70814a583a5b6b15aee826f87b506e7d

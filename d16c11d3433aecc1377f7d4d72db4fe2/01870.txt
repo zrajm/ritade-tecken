@@ -1,0 +1,7 @@
+signId	1870
+text	medalj 1
+imageUuid	283f7d07-c209-4923-bb4e-d54facb91a53
+translationKey	f02f3939-5a7b-4874-974d-83343d90f0ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/283f7d07-c209-4923-bb4e-d54facb91a53/f02f3939-5a7b-4874-974d-83343d90f0ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/283f7d07-c209-4923-bb4e-d54facb91a53/f02f3939-5a7b-4874-974d-83343d90f0ab
+md5	d16c11d3433aecc1377f7d4d72db4fe2

@@ -1,0 +1,8 @@
+
+signId	1259
+text	rum
+imageUuid	c5ca072e-0ffa-44b4-9551-ac7a4fc44c5c
+translationKey	69a0b2c2-24e5-4d48-bc33-ce97c62ce74f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c5ca072e-0ffa-44b4-9551-ac7a4fc44c5c/69a0b2c2-24e5-4d48-bc33-ce97c62ce74f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c5ca072e-0ffa-44b4-9551-ac7a4fc44c5c/69a0b2c2-24e5-4d48-bc33-ce97c62ce74f
+md5	dc6bdcd9027c9016b788fecd9e82f463

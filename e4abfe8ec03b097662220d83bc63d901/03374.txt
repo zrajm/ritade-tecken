@@ -1,0 +1,7 @@
+signId	3374
+text	tränare
+imageUuid	cc0ce0a5-c6db-40cd-afce-e19f15f52c43
+translationKey	7f84c2cc-04ad-4743-8f5f-58a494e70b25
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cc0ce0a5-c6db-40cd-afce-e19f15f52c43/7f84c2cc-04ad-4743-8f5f-58a494e70b25/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cc0ce0a5-c6db-40cd-afce-e19f15f52c43/7f84c2cc-04ad-4743-8f5f-58a494e70b25
+md5	e4abfe8ec03b097662220d83bc63d901

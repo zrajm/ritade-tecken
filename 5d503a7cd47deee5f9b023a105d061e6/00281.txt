@@ -1,0 +1,7 @@
+signId	281
+text	dotter
+imageUuid	7d050ffc-b2e4-4dbd-b660-0f602193c78f
+translationKey	84d31b82-14d9-4690-b9be-cf125f44b611
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7d050ffc-b2e4-4dbd-b660-0f602193c78f/84d31b82-14d9-4690-b9be-cf125f44b611/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7d050ffc-b2e4-4dbd-b660-0f602193c78f/84d31b82-14d9-4690-b9be-cf125f44b611
+md5	5d503a7cd47deee5f9b023a105d061e6

@@ -1,0 +1,8 @@
+
+signId	1753
+text	våga 1
+imageUuid	e2e8e75d-1961-4205-a1c5-feb26e457895
+translationKey	50cd2608-bdcf-49ca-a1bf-fe35dbbabd70
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e2e8e75d-1961-4205-a1c5-feb26e457895/50cd2608-bdcf-49ca-a1bf-fe35dbbabd70/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e2e8e75d-1961-4205-a1c5-feb26e457895/50cd2608-bdcf-49ca-a1bf-fe35dbbabd70
+md5	dccdc2593a2cc1781bd7abd029145564

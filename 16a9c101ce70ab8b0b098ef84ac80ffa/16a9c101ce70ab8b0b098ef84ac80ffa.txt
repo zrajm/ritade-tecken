@@ -1,0 +1,8 @@
+
+signId	2310
+text	utsikt
+imageUuid	8c199a6b-592d-4f94-ad24-8e8997b6c45b
+translationKey	6d9b52b8-b339-406c-9492-756fbd25cc55
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c199a6b-592d-4f94-ad24-8e8997b6c45b/6d9b52b8-b339-406c-9492-756fbd25cc55/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c199a6b-592d-4f94-ad24-8e8997b6c45b/6d9b52b8-b339-406c-9492-756fbd25cc55
+md5	16a9c101ce70ab8b0b098ef84ac80ffa

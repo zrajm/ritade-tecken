@@ -1,0 +1,7 @@
+signId	2116
+text	här 1
+imageUuid	759d637b-1bcf-47ca-956e-4ed70fe6731d
+translationKey	4b507048-721b-4f39-957e-384959925e92
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/759d637b-1bcf-47ca-956e-4ed70fe6731d/4b507048-721b-4f39-957e-384959925e92/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/759d637b-1bcf-47ca-956e-4ed70fe6731d/4b507048-721b-4f39-957e-384959925e92
+md5	96521aa3487e6b28b0b39d9fb1a5180a

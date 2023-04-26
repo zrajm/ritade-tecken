@@ -1,0 +1,7 @@
+signId	1271
+text	räkna
+imageUuid	4cefe9ef-2984-4d9e-9cde-609fb8a2f504
+translationKey	1aaacbb7-dc77-4666-a01d-f0fcd3be6ba6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4cefe9ef-2984-4d9e-9cde-609fb8a2f504/1aaacbb7-dc77-4666-a01d-f0fcd3be6ba6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4cefe9ef-2984-4d9e-9cde-609fb8a2f504/1aaacbb7-dc77-4666-a01d-f0fcd3be6ba6
+md5	8a587badca1188fad012928082ea8427

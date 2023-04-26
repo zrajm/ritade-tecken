@@ -1,0 +1,7 @@
+signId	1223
+text	racerbil
+imageUuid	721037da-5416-4242-8f8b-d6acff106d9f
+translationKey	ba338adb-f4df-4e2e-a692-e59334bc7bf2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/721037da-5416-4242-8f8b-d6acff106d9f/ba338adb-f4df-4e2e-a692-e59334bc7bf2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/721037da-5416-4242-8f8b-d6acff106d9f/ba338adb-f4df-4e2e-a692-e59334bc7bf2
+md5	521c0945eca3766084e8ae1f83b83203

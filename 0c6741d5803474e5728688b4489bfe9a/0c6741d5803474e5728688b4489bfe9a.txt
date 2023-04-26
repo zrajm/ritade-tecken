@@ -1,0 +1,8 @@
+
+signId	1260
+text	runt
+imageUuid	e6d2a997-0593-41c1-a1ad-3de32569c2d4
+translationKey	0600ea78-87b4-430e-98fe-f4455fd3774b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e6d2a997-0593-41c1-a1ad-3de32569c2d4/0600ea78-87b4-430e-98fe-f4455fd3774b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e6d2a997-0593-41c1-a1ad-3de32569c2d4/0600ea78-87b4-430e-98fe-f4455fd3774b
+md5	0c6741d5803474e5728688b4489bfe9a

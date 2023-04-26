@@ -1,0 +1,8 @@
+
+signId	828
+text	kusin
+imageUuid	3af44a75-f34f-4a4e-bccd-21fc91663b2c
+translationKey	0acb8af4-a8cd-4aad-85a6-c9fde19bb2bb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3af44a75-f34f-4a4e-bccd-21fc91663b2c/0acb8af4-a8cd-4aad-85a6-c9fde19bb2bb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3af44a75-f34f-4a4e-bccd-21fc91663b2c/0acb8af4-a8cd-4aad-85a6-c9fde19bb2bb
+md5	c057a3ba5724c6c738e0f3a2dc44083c

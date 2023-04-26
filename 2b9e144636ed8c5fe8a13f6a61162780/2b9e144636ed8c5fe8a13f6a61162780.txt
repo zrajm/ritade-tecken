@@ -1,0 +1,8 @@
+
+signId	1797
+text	äckligt
+imageUuid	776a0965-76f3-4469-8730-a97f95798875
+translationKey	241402e2-313c-4898-ba07-ab0be2800b67
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/776a0965-76f3-4469-8730-a97f95798875/241402e2-313c-4898-ba07-ab0be2800b67/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/776a0965-76f3-4469-8730-a97f95798875/241402e2-313c-4898-ba07-ab0be2800b67
+md5	2b9e144636ed8c5fe8a13f6a61162780

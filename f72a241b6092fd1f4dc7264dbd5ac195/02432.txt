@@ -1,0 +1,7 @@
+signId	2432
+text	larm
+imageUuid	d77dc2da-1230-449d-88d3-976642507969
+translationKey	6b296316-e520-428d-a2df-f762a7803d2d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d77dc2da-1230-449d-88d3-976642507969/6b296316-e520-428d-a2df-f762a7803d2d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d77dc2da-1230-449d-88d3-976642507969/6b296316-e520-428d-a2df-f762a7803d2d
+md5	f72a241b6092fd1f4dc7264dbd5ac195

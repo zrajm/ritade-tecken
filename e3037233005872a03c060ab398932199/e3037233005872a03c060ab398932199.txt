@@ -1,0 +1,16 @@
+
+signId	1947
+text	röst
+imageUuid	039bf75b-6935-44ff-91b6-861ac2bc3219
+translationKey	3ad31c1d-8e73-4302-916d-d0d8695ada0c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/039bf75b-6935-44ff-91b6-861ac2bc3219/3ad31c1d-8e73-4302-916d-d0d8695ada0c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/039bf75b-6935-44ff-91b6-861ac2bc3219/3ad31c1d-8e73-4302-916d-d0d8695ada0c
+md5	e3037233005872a03c060ab398932199
+
+signId	2023
+text	rösta
+imageUuid	44db9f53-f68d-4298-9920-ada6a359f83a
+translationKey	21486a45-9485-413d-8a46-0bfaa952491e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/44db9f53-f68d-4298-9920-ada6a359f83a/21486a45-9485-413d-8a46-0bfaa952491e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/44db9f53-f68d-4298-9920-ada6a359f83a/21486a45-9485-413d-8a46-0bfaa952491e
+md5	e3037233005872a03c060ab398932199

@@ -1,0 +1,8 @@
+
+signId	3015
+text	skrivbord
+imageUuid	9fc377ab-e7d9-46f3-bbcd-ce05ac5a87a0
+translationKey	588dcb19-cb4c-4c05-93ee-105dc57a94fd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9fc377ab-e7d9-46f3-bbcd-ce05ac5a87a0/588dcb19-cb4c-4c05-93ee-105dc57a94fd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9fc377ab-e7d9-46f3-bbcd-ce05ac5a87a0/588dcb19-cb4c-4c05-93ee-105dc57a94fd
+md5	40174d34e4a04644fe6d5bac0d062308

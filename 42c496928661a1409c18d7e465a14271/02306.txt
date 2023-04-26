@@ -1,0 +1,7 @@
+signId	2306
+text	surfa på internet
+imageUuid	93fdaece-25d1-4357-87b4-097258bfe89c
+translationKey	cdaeb4df-bbe3-4754-948e-25529b5218a6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/93fdaece-25d1-4357-87b4-097258bfe89c/cdaeb4df-bbe3-4754-948e-25529b5218a6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/93fdaece-25d1-4357-87b4-097258bfe89c/cdaeb4df-bbe3-4754-948e-25529b5218a6
+md5	42c496928661a1409c18d7e465a14271

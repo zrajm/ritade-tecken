@@ -1,0 +1,7 @@
+signId	1994
+text	bestämd
+imageUuid	635c36a7-0b7b-4325-ac29-f7455c9ad42c
+translationKey	8315d775-603b-4dd1-8716-87e8715b8450
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/635c36a7-0b7b-4325-ac29-f7455c9ad42c/8315d775-603b-4dd1-8716-87e8715b8450/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/635c36a7-0b7b-4325-ac29-f7455c9ad42c/8315d775-603b-4dd1-8716-87e8715b8450
+md5	3aacb3919752c01baacfa7532ed611dd

@@ -1,0 +1,8 @@
+
+signId	203
+text	burk 2
+imageUuid	05b4692b-a7be-4c4f-b83e-12d7c9d950e6
+translationKey	144eff40-6b41-410e-8ec3-5fb650e6fb9a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/05b4692b-a7be-4c4f-b83e-12d7c9d950e6/144eff40-6b41-410e-8ec3-5fb650e6fb9a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/05b4692b-a7be-4c4f-b83e-12d7c9d950e6/144eff40-6b41-410e-8ec3-5fb650e6fb9a
+md5	a4f11388a0ebf0cf5bb53c60c3dcf64d

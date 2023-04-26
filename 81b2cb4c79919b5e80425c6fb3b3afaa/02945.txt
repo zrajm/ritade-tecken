@@ -1,0 +1,7 @@
+signId	2945
+text	persika
+imageUuid	7e680161-5f86-47c5-b958-84d0970e15f3
+translationKey	d1784c39-7ebb-44d8-9ac5-6572ed78b9a9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e680161-5f86-47c5-b958-84d0970e15f3/d1784c39-7ebb-44d8-9ac5-6572ed78b9a9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e680161-5f86-47c5-b958-84d0970e15f3/d1784c39-7ebb-44d8-9ac5-6572ed78b9a9
+md5	81b2cb4c79919b5e80425c6fb3b3afaa

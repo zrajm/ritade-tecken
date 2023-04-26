@@ -1,0 +1,7 @@
+signId	243
+text	D (bokstav)
+imageUuid	84d423bc-4dda-4f16-b78c-f7dd47394b54
+translationKey	985c97ff-31ea-4409-a483-a945424dd3b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/84d423bc-4dda-4f16-b78c-f7dd47394b54/985c97ff-31ea-4409-a483-a945424dd3b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/84d423bc-4dda-4f16-b78c-f7dd47394b54/985c97ff-31ea-4409-a483-a945424dd3b5
+md5	5f353d5112b5ac13ba2ebfefd403fb19

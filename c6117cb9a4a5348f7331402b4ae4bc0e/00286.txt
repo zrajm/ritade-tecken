@@ -1,0 +1,7 @@
+signId	286
+text	drake
+imageUuid	1a05fdcb-d43f-483c-923b-c10016cea7b6
+translationKey	5eeb20c5-c84e-43e0-bbcf-0186ef4cffef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1a05fdcb-d43f-483c-923b-c10016cea7b6/5eeb20c5-c84e-43e0-bbcf-0186ef4cffef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1a05fdcb-d43f-483c-923b-c10016cea7b6/5eeb20c5-c84e-43e0-bbcf-0186ef4cffef
+md5	c6117cb9a4a5348f7331402b4ae4bc0e

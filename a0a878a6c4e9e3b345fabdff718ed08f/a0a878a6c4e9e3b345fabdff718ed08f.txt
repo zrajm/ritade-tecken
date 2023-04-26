@@ -1,0 +1,8 @@
+
+signId	3417
+text	studiecirkel
+imageUuid	ddc9082e-f509-4e12-adc1-ba1c3161c6ba
+translationKey	7d29cee1-cf1f-486f-a33b-4aca99b2be6c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ddc9082e-f509-4e12-adc1-ba1c3161c6ba/7d29cee1-cf1f-486f-a33b-4aca99b2be6c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ddc9082e-f509-4e12-adc1-ba1c3161c6ba/7d29cee1-cf1f-486f-a33b-4aca99b2be6c
+md5	a0a878a6c4e9e3b345fabdff718ed08f

@@ -1,0 +1,7 @@
+signId	176
+text	bowling
+imageUuid	63c5d40b-417d-49cd-a7b3-388a9dbc30b5
+translationKey	dc62055b-dcc8-42e6-ae67-7e41b3285fad
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/63c5d40b-417d-49cd-a7b3-388a9dbc30b5/dc62055b-dcc8-42e6-ae67-7e41b3285fad/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/63c5d40b-417d-49cd-a7b3-388a9dbc30b5/dc62055b-dcc8-42e6-ae67-7e41b3285fad
+md5	9ea731f0087affc8cf1e14a09fe8cb84

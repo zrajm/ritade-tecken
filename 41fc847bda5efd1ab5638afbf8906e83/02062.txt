@@ -1,0 +1,7 @@
+signId	2062
+text	kram 2
+imageUuid	41edd0fe-84d8-4096-8a73-0ec0ea6926cd
+translationKey	d624eb51-04cd-488b-9317-eea4551affd4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/41edd0fe-84d8-4096-8a73-0ec0ea6926cd/d624eb51-04cd-488b-9317-eea4551affd4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/41edd0fe-84d8-4096-8a73-0ec0ea6926cd/d624eb51-04cd-488b-9317-eea4551affd4
+md5	41fc847bda5efd1ab5638afbf8906e83

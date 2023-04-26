@@ -1,0 +1,8 @@
+
+signId	3106
+text	olja
+imageUuid	69af28a4-91bb-48a8-93a1-3c134d077935
+translationKey	105f2cd7-24b4-4404-82db-8e35c009b7d6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/69af28a4-91bb-48a8-93a1-3c134d077935/105f2cd7-24b4-4404-82db-8e35c009b7d6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/69af28a4-91bb-48a8-93a1-3c134d077935/105f2cd7-24b4-4404-82db-8e35c009b7d6
+md5	389bc2d2bd45bfc0327d28422ba8643c

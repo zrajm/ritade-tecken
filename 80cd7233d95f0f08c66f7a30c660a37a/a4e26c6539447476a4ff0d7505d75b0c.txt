@@ -1,0 +1,8 @@
+
+signId	2617
+text	vägg
+imageUuid	d0a255bd-764d-4609-9599-0094f9cf2dc9
+translationKey	f1a769f8-0a27-498d-aa64-6f6b8e3cf567
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d0a255bd-764d-4609-9599-0094f9cf2dc9/f1a769f8-0a27-498d-aa64-6f6b8e3cf567/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d0a255bd-764d-4609-9599-0094f9cf2dc9/f1a769f8-0a27-498d-aa64-6f6b8e3cf567
+md5	a4e26c6539447476a4ff0d7505d75b0c

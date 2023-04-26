@@ -1,0 +1,8 @@
+
+signId	2736
+text	friidrott
+imageUuid	db0bcad7-fffc-415e-8a93-9ab08759967b
+translationKey	a95fd20a-bc6a-493d-a65f-71cc7595e27a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/db0bcad7-fffc-415e-8a93-9ab08759967b/a95fd20a-bc6a-493d-a65f-71cc7595e27a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/db0bcad7-fffc-415e-8a93-9ab08759967b/a95fd20a-bc6a-493d-a65f-71cc7595e27a
+md5	1dbe9fc40dddda3b96365adf9960d112

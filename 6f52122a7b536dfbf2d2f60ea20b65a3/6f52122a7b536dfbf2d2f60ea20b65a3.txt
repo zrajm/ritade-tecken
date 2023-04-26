@@ -1,0 +1,8 @@
+
+signId	2451
+text	symaskin
+imageUuid	47aaa4a9-c7e0-4ca8-bbeb-d2d2155a83ca
+translationKey	8aa3000d-4cc3-4cf4-9564-e2aae7882604
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/47aaa4a9-c7e0-4ca8-bbeb-d2d2155a83ca/8aa3000d-4cc3-4cf4-9564-e2aae7882604/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/47aaa4a9-c7e0-4ca8-bbeb-d2d2155a83ca/8aa3000d-4cc3-4cf4-9564-e2aae7882604
+md5	6f52122a7b536dfbf2d2f60ea20b65a3

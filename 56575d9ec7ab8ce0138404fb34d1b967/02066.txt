@@ -1,0 +1,7 @@
+signId	2066
+text	läxa
+imageUuid	af518238-783c-4bce-a570-496b71910832
+translationKey	5283f1d2-0fab-48a1-90ec-98ac14b97854
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af518238-783c-4bce-a570-496b71910832/5283f1d2-0fab-48a1-90ec-98ac14b97854/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af518238-783c-4bce-a570-496b71910832/5283f1d2-0fab-48a1-90ec-98ac14b97854
+md5	56575d9ec7ab8ce0138404fb34d1b967

@@ -1,0 +1,16 @@
+
+signId	944
+text	lärare 2
+imageUuid	c478dd93-ab2a-49dc-84f2-04b62f6fb4ed
+translationKey	23ccfe10-f745-4c25-a022-939d98edaffe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c478dd93-ab2a-49dc-84f2-04b62f6fb4ed/23ccfe10-f745-4c25-a022-939d98edaffe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c478dd93-ab2a-49dc-84f2-04b62f6fb4ed/23ccfe10-f745-4c25-a022-939d98edaffe
+md5	86d174146c40276a089f8e85572096a3
+
+signId	1147
+text	pedagog
+imageUuid	1ff31566-80c8-4947-b51f-1c592ad5ed40
+translationKey	f7c7aadd-6c49-41a0-b5d8-c470608c95cc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1ff31566-80c8-4947-b51f-1c592ad5ed40/f7c7aadd-6c49-41a0-b5d8-c470608c95cc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1ff31566-80c8-4947-b51f-1c592ad5ed40/f7c7aadd-6c49-41a0-b5d8-c470608c95cc
+md5	86d174146c40276a089f8e85572096a3

@@ -1,0 +1,8 @@
+
+signId	2776
+text	clementin
+imageUuid	d1c1436f-e267-47cf-8916-61fd38de8a6b
+translationKey	d736359d-99a2-4d07-aa34-db58ecfa6f9f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d1c1436f-e267-47cf-8916-61fd38de8a6b/d736359d-99a2-4d07-aa34-db58ecfa6f9f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d1c1436f-e267-47cf-8916-61fd38de8a6b/d736359d-99a2-4d07-aa34-db58ecfa6f9f
+md5	b8f2863295079432ff3014f0762770e9

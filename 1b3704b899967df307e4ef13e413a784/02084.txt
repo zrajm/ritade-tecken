@@ -1,0 +1,7 @@
+signId	2084
+text	tak
+imageUuid	68780db9-bbd8-457e-b304-6d667f4727b0
+translationKey	59ef146c-aca7-4bf5-bed7-c8baec1b3b18
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/68780db9-bbd8-457e-b304-6d667f4727b0/59ef146c-aca7-4bf5-bed7-c8baec1b3b18/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/68780db9-bbd8-457e-b304-6d667f4727b0/59ef146c-aca7-4bf5-bed7-c8baec1b3b18
+md5	1b3704b899967df307e4ef13e413a784

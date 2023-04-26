@@ -1,0 +1,16 @@
+
+signId	226
+text	café 1
+imageUuid	c45792ee-c15f-4322-8ae6-0a62d5e9e825
+translationKey	b2c97071-c180-4f1e-873f-2962e1f13fd2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c45792ee-c15f-4322-8ae6-0a62d5e9e825/b2c97071-c180-4f1e-873f-2962e1f13fd2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c45792ee-c15f-4322-8ae6-0a62d5e9e825/b2c97071-c180-4f1e-873f-2962e1f13fd2
+md5	5ca6cc78bae4647ba3f3ae4eaec84064
+
+signId	708
+text	kafé 1
+imageUuid	86051ed8-5645-4340-8ca6-f0e59fe9a127
+translationKey	8e70a4ff-7294-476a-9304-7a336f13818c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86051ed8-5645-4340-8ca6-f0e59fe9a127/8e70a4ff-7294-476a-9304-7a336f13818c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86051ed8-5645-4340-8ca6-f0e59fe9a127/8e70a4ff-7294-476a-9304-7a336f13818c
+md5	5ca6cc78bae4647ba3f3ae4eaec84064

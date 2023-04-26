@@ -1,0 +1,7 @@
+signId	1052
+text	märkligt
+imageUuid	6b59ffae-5d59-4414-8a95-25aa0a47c278
+translationKey	2cf25ef0-8ba0-43fc-8563-cc1ed382b485
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b59ffae-5d59-4414-8a95-25aa0a47c278/2cf25ef0-8ba0-43fc-8563-cc1ed382b485/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b59ffae-5d59-4414-8a95-25aa0a47c278/2cf25ef0-8ba0-43fc-8563-cc1ed382b485
+md5	5925fbf9883f3933e5a2db58339e7a03

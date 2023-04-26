@@ -1,0 +1,7 @@
+signId	943
+text	lärare 1
+imageUuid	e32d4dc2-8458-457c-9358-4c56ef9c58e7
+translationKey	3a6e19c5-a776-42b7-85c5-ff539dae4b3b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e32d4dc2-8458-457c-9358-4c56ef9c58e7/3a6e19c5-a776-42b7-85c5-ff539dae4b3b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e32d4dc2-8458-457c-9358-4c56ef9c58e7/3a6e19c5-a776-42b7-85c5-ff539dae4b3b
+md5	a3d7873cdbef2c2d217715ed92e634f5

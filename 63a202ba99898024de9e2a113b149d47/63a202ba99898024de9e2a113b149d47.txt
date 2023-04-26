@@ -1,0 +1,8 @@
+
+signId	201
+text	bulle
+imageUuid	2b12870f-609f-4978-8bf9-19781cee1163
+translationKey	5755e566-65c1-41c0-a0b9-29f934119b82
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2b12870f-609f-4978-8bf9-19781cee1163/5755e566-65c1-41c0-a0b9-29f934119b82/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2b12870f-609f-4978-8bf9-19781cee1163/5755e566-65c1-41c0-a0b9-29f934119b82
+md5	63a202ba99898024de9e2a113b149d47

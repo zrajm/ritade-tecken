@@ -1,0 +1,7 @@
+signId	2119
+text	högljudd
+imageUuid	530eefe7-afb1-40ba-8b08-0c4b83f99e1f
+translationKey	15dae0ee-ca2e-4232-b52d-616bfccac0bc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/530eefe7-afb1-40ba-8b08-0c4b83f99e1f/15dae0ee-ca2e-4232-b52d-616bfccac0bc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/530eefe7-afb1-40ba-8b08-0c4b83f99e1f/15dae0ee-ca2e-4232-b52d-616bfccac0bc
+md5	f79dfb2fa71fabebb74222472d06e434

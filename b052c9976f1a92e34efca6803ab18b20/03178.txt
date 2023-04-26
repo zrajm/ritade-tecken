@@ -1,0 +1,7 @@
+signId	3178
+text	bandvagn
+imageUuid	1721cf80-cc87-4a5a-ae35-41398225e4b4
+translationKey	3b122f72-1e3a-4d85-baad-3226fe7f2efd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1721cf80-cc87-4a5a-ae35-41398225e4b4/3b122f72-1e3a-4d85-baad-3226fe7f2efd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1721cf80-cc87-4a5a-ae35-41398225e4b4/3b122f72-1e3a-4d85-baad-3226fe7f2efd
+md5	b052c9976f1a92e34efca6803ab18b20

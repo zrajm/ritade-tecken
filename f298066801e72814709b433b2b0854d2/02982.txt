@@ -1,0 +1,7 @@
+signId	2982
+text	bedövning
+imageUuid	56e98395-f67d-4f4c-9f15-e51866272046
+translationKey	0502ef71-b6d3-4c93-b008-5aaa11e0eec0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/56e98395-f67d-4f4c-9f15-e51866272046/0502ef71-b6d3-4c93-b008-5aaa11e0eec0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/56e98395-f67d-4f4c-9f15-e51866272046/0502ef71-b6d3-4c93-b008-5aaa11e0eec0
+md5	f298066801e72814709b433b2b0854d2

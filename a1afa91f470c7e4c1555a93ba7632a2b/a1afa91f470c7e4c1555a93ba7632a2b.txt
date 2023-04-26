@@ -1,0 +1,24 @@
+
+signId	109
+text	bastu
+imageUuid	e21b3736-011c-461e-99a3-b6be01f3c03d
+translationKey	efbe6555-340c-416c-988c-c07d7b451440
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e21b3736-011c-461e-99a3-b6be01f3c03d/efbe6555-340c-416c-988c-c07d7b451440/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e21b3736-011c-461e-99a3-b6be01f3c03d/efbe6555-340c-416c-988c-c07d7b451440
+md5	a1afa91f470c7e4c1555a93ba7632a2b
+
+signId	169
+text	bonde
+imageUuid	a2f2d60a-08e9-430a-b94d-224bdaf08a6b
+translationKey	1531e2ab-98fc-4fe1-9285-4545876bae52
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a2f2d60a-08e9-430a-b94d-224bdaf08a6b/1531e2ab-98fc-4fe1-9285-4545876bae52/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a2f2d60a-08e9-430a-b94d-224bdaf08a6b/1531e2ab-98fc-4fe1-9285-4545876bae52
+md5	a1afa91f470c7e4c1555a93ba7632a2b
+
+signId	3433
+text	jordbruk
+imageUuid	6d818eb7-32a5-473b-8263-b5604c330ad1
+translationKey	2ee5a034-b713-4f78-ae73-4bb26ef6f3c8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6d818eb7-32a5-473b-8263-b5604c330ad1/2ee5a034-b713-4f78-ae73-4bb26ef6f3c8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6d818eb7-32a5-473b-8263-b5604c330ad1/2ee5a034-b713-4f78-ae73-4bb26ef6f3c8
+md5	a1afa91f470c7e4c1555a93ba7632a2b

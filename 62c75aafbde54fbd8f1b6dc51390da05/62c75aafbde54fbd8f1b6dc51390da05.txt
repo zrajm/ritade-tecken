@@ -1,0 +1,8 @@
+
+signId	1180
+text	polisbil
+imageUuid	4e26ced0-a238-4b8d-800b-354873989b8c
+translationKey	39b282bc-32a0-4529-8a36-c93f275d4b9e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e26ced0-a238-4b8d-800b-354873989b8c/39b282bc-32a0-4529-8a36-c93f275d4b9e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e26ced0-a238-4b8d-800b-354873989b8c/39b282bc-32a0-4529-8a36-c93f275d4b9e
+md5	62c75aafbde54fbd8f1b6dc51390da05

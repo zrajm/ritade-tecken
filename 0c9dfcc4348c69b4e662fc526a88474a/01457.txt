@@ -1,0 +1,7 @@
+signId	1457
+text	springa 1
+imageUuid	92207830-2ede-474c-a744-5976ebe074f4
+translationKey	3a7baebd-457f-4574-82a8-05555794cf5e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/92207830-2ede-474c-a744-5976ebe074f4/3a7baebd-457f-4574-82a8-05555794cf5e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/92207830-2ede-474c-a744-5976ebe074f4/3a7baebd-457f-4574-82a8-05555794cf5e
+md5	0c9dfcc4348c69b4e662fc526a88474a

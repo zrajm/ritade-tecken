@@ -1,0 +1,7 @@
+signId	1876
+text	våffla
+imageUuid	b9bf54a1-821d-49b0-8436-e420475cd9a5
+translationKey	d1c3726d-a9b4-4985-94fc-278cfa18c5b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b9bf54a1-821d-49b0-8436-e420475cd9a5/d1c3726d-a9b4-4985-94fc-278cfa18c5b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b9bf54a1-821d-49b0-8436-e420475cd9a5/d1c3726d-a9b4-4985-94fc-278cfa18c5b4
+md5	cbdb678a230825a8240185e67dd3b459

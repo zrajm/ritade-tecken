@@ -1,0 +1,8 @@
+
+signId	2188
+text	låtsas
+imageUuid	d5d45a26-041f-42b9-bc84-2c7d31ee9137
+translationKey	42831aa3-2943-4233-ba21-0bf70a5155e5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d5d45a26-041f-42b9-bc84-2c7d31ee9137/42831aa3-2943-4233-ba21-0bf70a5155e5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d5d45a26-041f-42b9-bc84-2c7d31ee9137/42831aa3-2943-4233-ba21-0bf70a5155e5
+md5	c79add3b8fb9ee84f297e52c3b1b7a52

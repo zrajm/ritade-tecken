@@ -1,0 +1,7 @@
+signId	2604
+text	sytråd
+imageUuid	4d969f64-d0bd-4283-afb1-45012982172e
+translationKey	0e295066-c89e-44ca-b889-bdf4d5be7b52
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4d969f64-d0bd-4283-afb1-45012982172e/0e295066-c89e-44ca-b889-bdf4d5be7b52/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4d969f64-d0bd-4283-afb1-45012982172e/0e295066-c89e-44ca-b889-bdf4d5be7b52
+md5	11ffc5aaa693545999aa86abe2547779

@@ -1,0 +1,16 @@
+
+signId	104
+text	barn
+imageUuid	2d96b7e0-c844-4422-b84a-9e9b88085e5f
+translationKey	561b89f9-c76e-4e97-9704-240215aaac07
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d96b7e0-c844-4422-b84a-9e9b88085e5f/561b89f9-c76e-4e97-9704-240215aaac07/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d96b7e0-c844-4422-b84a-9e9b88085e5f/561b89f9-c76e-4e97-9704-240215aaac07
+md5	1562517aabf2499531f8cb027eb27be0
+
+signId	106
+text	barn (singular)
+imageUuid	41a4e5d9-cad8-41b4-af07-c12f0f2536da
+translationKey	2efc25f4-b7f0-4773-b47d-cfc4b6698be8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/41a4e5d9-cad8-41b4-af07-c12f0f2536da/2efc25f4-b7f0-4773-b47d-cfc4b6698be8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/41a4e5d9-cad8-41b4-af07-c12f0f2536da/2efc25f4-b7f0-4773-b47d-cfc4b6698be8
+md5	1562517aabf2499531f8cb027eb27be0

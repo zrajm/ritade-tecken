@@ -1,0 +1,7 @@
+signId	2826
+text	rak
+imageUuid	638ccfcf-c751-472b-8bc9-20837aace1f2
+translationKey	1ef17893-2563-4139-9596-91bc6acf1b5e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/638ccfcf-c751-472b-8bc9-20837aace1f2/1ef17893-2563-4139-9596-91bc6acf1b5e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/638ccfcf-c751-472b-8bc9-20837aace1f2/1ef17893-2563-4139-9596-91bc6acf1b5e
+md5	36373f580fc482ac6d31b33da858eee8

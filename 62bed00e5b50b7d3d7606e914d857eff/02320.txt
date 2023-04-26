@@ -1,0 +1,7 @@
+signId	2320
+text	bröstet
+imageUuid	3fd166b0-8df8-4b3a-9c53-cb76d73dced9
+translationKey	67a4a507-7a07-45cf-a2e9-c2f47976f141
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3fd166b0-8df8-4b3a-9c53-cb76d73dced9/67a4a507-7a07-45cf-a2e9-c2f47976f141/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3fd166b0-8df8-4b3a-9c53-cb76d73dced9/67a4a507-7a07-45cf-a2e9-c2f47976f141
+md5	a65109aacecace48f002a67fda661762

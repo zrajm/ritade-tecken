@@ -1,0 +1,7 @@
+signId	337
+text	fabrik
+imageUuid	13decb26-7baa-4f0e-b244-98b6796f8573
+translationKey	3ed81ce0-0240-4433-9952-51bde29b89ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/13decb26-7baa-4f0e-b244-98b6796f8573/3ed81ce0-0240-4433-9952-51bde29b89ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/13decb26-7baa-4f0e-b244-98b6796f8573/3ed81ce0-0240-4433-9952-51bde29b89ca
+md5	ea259a7948cdac8dd8626d49d8b0ae58

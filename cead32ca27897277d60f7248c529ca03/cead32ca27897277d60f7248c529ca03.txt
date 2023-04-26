@@ -1,0 +1,8 @@
+
+signId	1485
+text	stor skål
+imageUuid	3ad17263-8c89-4a8a-b51a-a180a0a5abc0
+translationKey	79bea3eb-406c-4873-a9e2-4db2fdb1c0aa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3ad17263-8c89-4a8a-b51a-a180a0a5abc0/79bea3eb-406c-4873-a9e2-4db2fdb1c0aa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3ad17263-8c89-4a8a-b51a-a180a0a5abc0/79bea3eb-406c-4873-a9e2-4db2fdb1c0aa
+md5	cead32ca27897277d60f7248c529ca03

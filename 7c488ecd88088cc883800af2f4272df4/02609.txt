@@ -1,0 +1,7 @@
+signId	2609
+text	trafikljus
+imageUuid	58775f54-df32-43d4-8ba2-bb816968127e
+translationKey	077dc013-2c91-4343-ba94-0f8c26e3a934
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/58775f54-df32-43d4-8ba2-bb816968127e/077dc013-2c91-4343-ba94-0f8c26e3a934/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/58775f54-df32-43d4-8ba2-bb816968127e/077dc013-2c91-4343-ba94-0f8c26e3a934
+md5	7c488ecd88088cc883800af2f4272df4

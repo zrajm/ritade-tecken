@@ -1,0 +1,7 @@
+signId	1990
+text	fan
+imageUuid	4c76df98-415e-44ac-a60b-e4352289fc5a
+translationKey	f1d6c21a-c3f0-41ca-b93b-9763b03d4784
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4c76df98-415e-44ac-a60b-e4352289fc5a/f1d6c21a-c3f0-41ca-b93b-9763b03d4784/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4c76df98-415e-44ac-a60b-e4352289fc5a/f1d6c21a-c3f0-41ca-b93b-9763b03d4784
+md5	47f0542f9130da223ddf169a4342af01

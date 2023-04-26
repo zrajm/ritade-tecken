@@ -1,0 +1,8 @@
+
+signId	888
+text	ligga 1 (om djur)
+imageUuid	b12393fc-26aa-4f5e-9990-3a356789def2
+translationKey	cf0bab67-ef57-4771-818f-cdf595156189
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b12393fc-26aa-4f5e-9990-3a356789def2/cf0bab67-ef57-4771-818f-cdf595156189/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b12393fc-26aa-4f5e-9990-3a356789def2/cf0bab67-ef57-4771-818f-cdf595156189
+md5	5f0b35f91c837317a017b89c83c691f6

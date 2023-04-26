@@ -1,0 +1,8 @@
+
+signId	1851
+text	handledare
+imageUuid	33fcab81-ebcc-45ca-922e-07e4b75ae880
+translationKey	75d14cc5-1875-40fa-b025-dde0598cb6f6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/33fcab81-ebcc-45ca-922e-07e4b75ae880/75d14cc5-1875-40fa-b025-dde0598cb6f6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/33fcab81-ebcc-45ca-922e-07e4b75ae880/75d14cc5-1875-40fa-b025-dde0598cb6f6
+md5	9e9264d16d7d9c301680b717d446a46d

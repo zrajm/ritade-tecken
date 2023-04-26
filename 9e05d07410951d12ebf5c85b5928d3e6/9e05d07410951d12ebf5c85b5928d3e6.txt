@@ -1,0 +1,16 @@
+
+signId	771
+text	knyta
+imageUuid	bda2af7d-6709-4d91-9451-770bd9893257
+translationKey	7852fd95-234e-4e29-b909-283286a77972
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bda2af7d-6709-4d91-9451-770bd9893257/7852fd95-234e-4e29-b909-283286a77972/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bda2af7d-6709-4d91-9451-770bd9893257/7852fd95-234e-4e29-b909-283286a77972
+md5	9e05d07410951d12ebf5c85b5928d3e6
+
+signId	2910
+text	knut
+imageUuid	77ec687d-cd83-442b-973b-714c9ede9e37
+translationKey	8576fa83-3d72-49f4-9a90-410b9b1f4105
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/77ec687d-cd83-442b-973b-714c9ede9e37/8576fa83-3d72-49f4-9a90-410b9b1f4105/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/77ec687d-cd83-442b-973b-714c9ede9e37/8576fa83-3d72-49f4-9a90-410b9b1f4105
+md5	9e05d07410951d12ebf5c85b5928d3e6

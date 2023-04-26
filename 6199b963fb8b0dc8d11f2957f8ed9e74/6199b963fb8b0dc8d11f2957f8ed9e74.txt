@@ -1,0 +1,16 @@
+
+signId	778
+text	kofta
+imageUuid	91338d0d-f5af-49a0-a13c-78d1b9f6c339
+translationKey	5b7263e0-e1e0-4107-9feb-19bb64385366
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/91338d0d-f5af-49a0-a13c-78d1b9f6c339/5b7263e0-e1e0-4107-9feb-19bb64385366/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/91338d0d-f5af-49a0-a13c-78d1b9f6c339/5b7263e0-e1e0-4107-9feb-19bb64385366
+md5	6199b963fb8b0dc8d11f2957f8ed9e74
+
+signId	2013
+text	knäppa 2
+imageUuid	c8932196-70e4-48ed-90be-0f23c51f110f
+translationKey	d22394d8-95a5-4986-849b-178cd1893e6e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c8932196-70e4-48ed-90be-0f23c51f110f/d22394d8-95a5-4986-849b-178cd1893e6e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c8932196-70e4-48ed-90be-0f23c51f110f/d22394d8-95a5-4986-849b-178cd1893e6e
+md5	6199b963fb8b0dc8d11f2957f8ed9e74

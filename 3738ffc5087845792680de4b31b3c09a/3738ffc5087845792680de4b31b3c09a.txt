@@ -1,0 +1,8 @@
+
+signId	2015
+text	schema
+imageUuid	2246f542-e5d0-4880-885c-d4e35fc4cf22
+translationKey	2f49595f-0326-48aa-b67a-e7d1b0b455a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2246f542-e5d0-4880-885c-d4e35fc4cf22/2f49595f-0326-48aa-b67a-e7d1b0b455a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2246f542-e5d0-4880-885c-d4e35fc4cf22/2f49595f-0326-48aa-b67a-e7d1b0b455a4
+md5	3738ffc5087845792680de4b31b3c09a

@@ -1,0 +1,7 @@
+signId	2596
+text	regnbåge
+imageUuid	b07f8801-1736-4497-8db1-e21f27795c4e
+translationKey	5dfca66c-4476-43ee-97de-4b1d78ee5680
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b07f8801-1736-4497-8db1-e21f27795c4e/5dfca66c-4476-43ee-97de-4b1d78ee5680/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b07f8801-1736-4497-8db1-e21f27795c4e/5dfca66c-4476-43ee-97de-4b1d78ee5680
+md5	7cd7a9f40847acb7d650d5e8582c266c

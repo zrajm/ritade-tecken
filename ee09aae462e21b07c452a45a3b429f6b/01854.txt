@@ -1,0 +1,7 @@
+signId	1854
+text	England
+imageUuid	ba535562-5694-4c06-a417-eb00a99fa83f
+translationKey	ad210fb4-71b8-45cc-aff6-16d452e4d8c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ba535562-5694-4c06-a417-eb00a99fa83f/ad210fb4-71b8-45cc-aff6-16d452e4d8c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ba535562-5694-4c06-a417-eb00a99fa83f/ad210fb4-71b8-45cc-aff6-16d452e4d8c4
+md5	ee09aae462e21b07c452a45a3b429f6b

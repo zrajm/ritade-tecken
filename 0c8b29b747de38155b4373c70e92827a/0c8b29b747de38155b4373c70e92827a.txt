@@ -1,0 +1,8 @@
+
+signId	2670
+text	vattenfall
+imageUuid	bc7a4fa9-7c66-4eca-b33e-4f2b0a6f11aa
+translationKey	9baaac8d-010b-4dae-9917-017d2656a49d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bc7a4fa9-7c66-4eca-b33e-4f2b0a6f11aa/9baaac8d-010b-4dae-9917-017d2656a49d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bc7a4fa9-7c66-4eca-b33e-4f2b0a6f11aa/9baaac8d-010b-4dae-9917-017d2656a49d
+md5	0c8b29b747de38155b4373c70e92827a

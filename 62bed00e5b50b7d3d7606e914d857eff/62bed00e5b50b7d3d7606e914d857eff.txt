@@ -1,0 +1,16 @@
+
+signId	501
+text	gott
+imageUuid	b8441a45-e54d-4e6a-9ef9-e28b27c042f7
+translationKey	fee8ed53-bc78-401b-aa83-0ef0cd064fa8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b8441a45-e54d-4e6a-9ef9-e28b27c042f7/fee8ed53-bc78-401b-aa83-0ef0cd064fa8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b8441a45-e54d-4e6a-9ef9-e28b27c042f7/fee8ed53-bc78-401b-aa83-0ef0cd064fa8
+md5	62bed00e5b50b7d3d7606e914d857eff
+
+signId	1732
+text	vill
+imageUuid	c3387f03-15a4-4201-bc49-3efd9fd1b37f
+translationKey	a93c845b-087e-4e0f-a27c-12ae83b5e4e0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c3387f03-15a4-4201-bc49-3efd9fd1b37f/a93c845b-087e-4e0f-a27c-12ae83b5e4e0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c3387f03-15a4-4201-bc49-3efd9fd1b37f/a93c845b-087e-4e0f-a27c-12ae83b5e4e0
+md5	62bed00e5b50b7d3d7606e914d857eff

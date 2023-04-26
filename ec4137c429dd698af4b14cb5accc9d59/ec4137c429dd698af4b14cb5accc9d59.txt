@@ -1,0 +1,8 @@
+
+signId	1336
+text	skina
+imageUuid	6070bdad-43f6-46c4-af10-fb74be252549
+translationKey	1b4fad75-cfee-4361-9d08-18845707e66f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6070bdad-43f6-46c4-af10-fb74be252549/1b4fad75-cfee-4361-9d08-18845707e66f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6070bdad-43f6-46c4-af10-fb74be252549/1b4fad75-cfee-4361-9d08-18845707e66f
+md5	ec4137c429dd698af4b14cb5accc9d59

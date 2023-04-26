@@ -1,0 +1,16 @@
+
+signId	124
+text	berätta
+imageUuid	61c08a6f-bb15-481c-8731-483c5ef309c4
+translationKey	c3624912-8c0c-481b-acae-1404bbbdaa11
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/61c08a6f-bb15-481c-8731-483c5ef309c4/c3624912-8c0c-481b-acae-1404bbbdaa11/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/61c08a6f-bb15-481c-8731-483c5ef309c4/c3624912-8c0c-481b-acae-1404bbbdaa11
+md5	1feb139a530308e9de5efb4616be94c4
+
+signId	3353
+text	berättelse
+imageUuid	f3fb5437-8ffd-4ade-8eaa-e6b1ec6f2157
+translationKey	22d625f5-714d-4029-a120-f5d412be13c0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f3fb5437-8ffd-4ade-8eaa-e6b1ec6f2157/22d625f5-714d-4029-a120-f5d412be13c0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f3fb5437-8ffd-4ade-8eaa-e6b1ec6f2157/22d625f5-714d-4029-a120-f5d412be13c0
+md5	1feb139a530308e9de5efb4616be94c4

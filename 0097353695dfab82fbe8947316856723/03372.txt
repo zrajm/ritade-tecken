@@ -1,0 +1,7 @@
+signId	3372
+text	sila
+imageUuid	f3ce479b-efda-4845-ae88-0a3781841bc2
+translationKey	abd0d2cf-acf0-43d1-89f2-2bfa0b5e7785
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f3ce479b-efda-4845-ae88-0a3781841bc2/abd0d2cf-acf0-43d1-89f2-2bfa0b5e7785/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f3ce479b-efda-4845-ae88-0a3781841bc2/abd0d2cf-acf0-43d1-89f2-2bfa0b5e7785
+md5	0097353695dfab82fbe8947316856723

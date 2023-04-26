@@ -1,0 +1,8 @@
+
+signId	2274
+text	grävling
+imageUuid	00c4c545-7f91-4d3f-81f4-22f7d74e87ca
+translationKey	446b2458-a465-4a79-b4b8-b84bc4a885cc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/00c4c545-7f91-4d3f-81f4-22f7d74e87ca/446b2458-a465-4a79-b4b8-b84bc4a885cc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/00c4c545-7f91-4d3f-81f4-22f7d74e87ca/446b2458-a465-4a79-b4b8-b84bc4a885cc
+md5	fac99c415c620b760b792bc9aaa645e4

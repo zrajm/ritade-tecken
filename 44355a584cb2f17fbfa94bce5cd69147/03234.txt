@@ -1,0 +1,7 @@
+signId	3234
+text	tradition
+imageUuid	09426f58-db60-4daa-8d07-ec515e8aa588
+translationKey	10300fb9-8b5a-4c49-83f4-ed3318df7088
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/09426f58-db60-4daa-8d07-ec515e8aa588/10300fb9-8b5a-4c49-83f4-ed3318df7088/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/09426f58-db60-4daa-8d07-ec515e8aa588/10300fb9-8b5a-4c49-83f4-ed3318df7088
+md5	44355a584cb2f17fbfa94bce5cd69147

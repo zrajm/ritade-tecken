@@ -1,0 +1,7 @@
+signId	159
+text	blöjor
+imageUuid	ae4322c3-9060-43d4-ad0e-48a92f7beede
+translationKey	262b8cd4-17a3-44a7-ba9a-bafd3d0d9267
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ae4322c3-9060-43d4-ad0e-48a92f7beede/262b8cd4-17a3-44a7-ba9a-bafd3d0d9267/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ae4322c3-9060-43d4-ad0e-48a92f7beede/262b8cd4-17a3-44a7-ba9a-bafd3d0d9267
+md5	2e07316c041266105e96efdedd022449

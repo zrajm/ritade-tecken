@@ -1,0 +1,7 @@
+signId	2494
+text	ämne
+imageUuid	834399e7-0392-4a2d-84a7-3953152935cc
+translationKey	bb86600e-1a70-45b5-b327-44e5794b450b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/834399e7-0392-4a2d-84a7-3953152935cc/bb86600e-1a70-45b5-b327-44e5794b450b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/834399e7-0392-4a2d-84a7-3953152935cc/bb86600e-1a70-45b5-b327-44e5794b450b
+md5	d72245cac964ab04af051a4628522190

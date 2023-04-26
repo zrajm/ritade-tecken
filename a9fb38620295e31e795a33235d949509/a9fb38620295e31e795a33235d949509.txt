@@ -1,0 +1,8 @@
+
+signId	651
+text	I (bokstav)
+imageUuid	bd668b0d-adb1-49ea-847e-ea31e69044c9
+translationKey	dab30112-40e3-4bae-98a4-205d7e7c9508
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bd668b0d-adb1-49ea-847e-ea31e69044c9/dab30112-40e3-4bae-98a4-205d7e7c9508/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bd668b0d-adb1-49ea-847e-ea31e69044c9/dab30112-40e3-4bae-98a4-205d7e7c9508
+md5	a9fb38620295e31e795a33235d949509

@@ -1,0 +1,8 @@
+
+signId	3065
+text	god jul
+imageUuid	25889ef1-5540-4da2-bb71-0b263d9e2345
+translationKey	0258c221-2f57-481f-afb2-0322bb2b49a3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/25889ef1-5540-4da2-bb71-0b263d9e2345/0258c221-2f57-481f-afb2-0322bb2b49a3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/25889ef1-5540-4da2-bb71-0b263d9e2345/0258c221-2f57-481f-afb2-0322bb2b49a3
+md5	16fe6364e8b6afae940608d4aae7e232

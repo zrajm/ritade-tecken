@@ -1,0 +1,7 @@
+signId	973
+text	med
+imageUuid	c2a183c0-11a9-4ad9-95e6-0973fede5076
+translationKey	af420945-2136-4d95-9444-a0f0da9bda8c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c2a183c0-11a9-4ad9-95e6-0973fede5076/af420945-2136-4d95-9444-a0f0da9bda8c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c2a183c0-11a9-4ad9-95e6-0973fede5076/af420945-2136-4d95-9444-a0f0da9bda8c
+md5	73d99a13050fed5f17ba7a35ce133f10

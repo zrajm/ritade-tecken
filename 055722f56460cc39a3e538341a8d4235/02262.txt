@@ -1,0 +1,7 @@
+signId	2262
+text	blind
+imageUuid	eccc96ea-fa4b-4b8e-aa3b-b7db6bf9ecb3
+translationKey	98c6211c-b382-4181-857a-bc8c97dc7b0e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eccc96ea-fa4b-4b8e-aa3b-b7db6bf9ecb3/98c6211c-b382-4181-857a-bc8c97dc7b0e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eccc96ea-fa4b-4b8e-aa3b-b7db6bf9ecb3/98c6211c-b382-4181-857a-bc8c97dc7b0e
+md5	055722f56460cc39a3e538341a8d4235

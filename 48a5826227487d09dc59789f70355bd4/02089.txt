@@ -1,0 +1,7 @@
+signId	2089
+text	tå
+imageUuid	89ee593a-71e1-4965-91da-3682e38a4372
+translationKey	73d864d3-9f7f-414a-a022-0bd82a481c4e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/89ee593a-71e1-4965-91da-3682e38a4372/73d864d3-9f7f-414a-a022-0bd82a481c4e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/89ee593a-71e1-4965-91da-3682e38a4372/73d864d3-9f7f-414a-a022-0bd82a481c4e
+md5	48a5826227487d09dc59789f70355bd4

@@ -1,0 +1,8 @@
+
+signId	2633
+text	fallskärm
+imageUuid	c4587bd9-44ad-461d-bf88-ed29c128d773
+translationKey	b6517916-b6c5-4063-ad9a-68a1b28f2c7c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c4587bd9-44ad-461d-bf88-ed29c128d773/b6517916-b6c5-4063-ad9a-68a1b28f2c7c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c4587bd9-44ad-461d-bf88-ed29c128d773/b6517916-b6c5-4063-ad9a-68a1b28f2c7c
+md5	e9dfc9345c8856bea860655a6d6d0e23

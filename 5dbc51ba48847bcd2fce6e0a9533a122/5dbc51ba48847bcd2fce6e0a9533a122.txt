@@ -1,0 +1,16 @@
+
+signId	1974
+text	domare (sport)
+imageUuid	74b26137-1f66-4516-8f06-ed585c622abd
+translationKey	3efe2d45-95ff-4e3f-a324-ee2c6837fa7e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/74b26137-1f66-4516-8f06-ed585c622abd/3efe2d45-95ff-4e3f-a324-ee2c6837fa7e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/74b26137-1f66-4516-8f06-ed585c622abd/3efe2d45-95ff-4e3f-a324-ee2c6837fa7e
+md5	5dbc51ba48847bcd2fce6e0a9533a122
+
+signId	2973
+text	visselpipa
+imageUuid	57825bd9-7176-4676-bf68-88dc176f1b41
+translationKey	e49407c0-18ce-4f35-9726-247550cb93e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/57825bd9-7176-4676-bf68-88dc176f1b41/e49407c0-18ce-4f35-9726-247550cb93e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/57825bd9-7176-4676-bf68-88dc176f1b41/e49407c0-18ce-4f35-9726-247550cb93e8
+md5	5dbc51ba48847bcd2fce6e0a9533a122

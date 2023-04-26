@@ -1,0 +1,8 @@
+
+signId	1561
+text	tandläkare
+imageUuid	f0d9bf30-3728-4c11-a1c6-168a44f7e7ab
+translationKey	a33ffda2-fd39-4db3-82aa-d1a7e2121f71
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f0d9bf30-3728-4c11-a1c6-168a44f7e7ab/a33ffda2-fd39-4db3-82aa-d1a7e2121f71/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f0d9bf30-3728-4c11-a1c6-168a44f7e7ab/a33ffda2-fd39-4db3-82aa-d1a7e2121f71
+md5	f631b846c846ed0743bc1bce21a1b79b

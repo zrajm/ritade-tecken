@@ -1,0 +1,8 @@
+
+signId	2836
+text	vanilj
+imageUuid	ee6f06a2-d003-4d0b-9fde-9b5966a98523
+translationKey	c5aefb7e-06d1-4686-ad3f-97c16f67d894
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ee6f06a2-d003-4d0b-9fde-9b5966a98523/c5aefb7e-06d1-4686-ad3f-97c16f67d894/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ee6f06a2-d003-4d0b-9fde-9b5966a98523/c5aefb7e-06d1-4686-ad3f-97c16f67d894
+md5	3c32c71a876ba32b912098179934b959

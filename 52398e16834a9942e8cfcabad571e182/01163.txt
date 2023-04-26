@@ -1,0 +1,7 @@
+signId	1163
+text	pingvin
+imageUuid	e79db253-33de-45e7-8c0c-52b2714eb72d
+translationKey	8f3faa65-236d-44a3-9138-e3e53e948b96
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e79db253-33de-45e7-8c0c-52b2714eb72d/8f3faa65-236d-44a3-9138-e3e53e948b96/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e79db253-33de-45e7-8c0c-52b2714eb72d/8f3faa65-236d-44a3-9138-e3e53e948b96
+md5	52398e16834a9942e8cfcabad571e182

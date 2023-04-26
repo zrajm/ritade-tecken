@@ -1,0 +1,8 @@
+
+signId	2397
+text	sovrum
+imageUuid	d124547a-a22c-47c8-8f12-40d637fa369b
+translationKey	4163c2d3-f8e6-4456-b049-8a04283b3fa2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d124547a-a22c-47c8-8f12-40d637fa369b/4163c2d3-f8e6-4456-b049-8a04283b3fa2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d124547a-a22c-47c8-8f12-40d637fa369b/4163c2d3-f8e6-4456-b049-8a04283b3fa2
+md5	e566a17e760f846879191bf88fa58e81

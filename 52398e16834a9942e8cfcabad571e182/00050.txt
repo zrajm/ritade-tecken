@@ -1,0 +1,7 @@
+signId	50
+text	anka
+imageUuid	efc1e3e3-21dc-42b7-8ee5-3672e7d3c079
+translationKey	505da827-58e4-4048-ae28-54400da0da72
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/efc1e3e3-21dc-42b7-8ee5-3672e7d3c079/505da827-58e4-4048-ae28-54400da0da72/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/efc1e3e3-21dc-42b7-8ee5-3672e7d3c079/505da827-58e4-4048-ae28-54400da0da72
+md5	52398e16834a9942e8cfcabad571e182

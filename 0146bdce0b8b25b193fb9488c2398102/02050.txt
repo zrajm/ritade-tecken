@@ -1,0 +1,7 @@
+signId	2050
+text	fylla år 2
+imageUuid	50811bfb-6faf-4909-a638-fb552bcaaf39
+translationKey	fe2d9c13-d37e-46a9-911d-bdf4175e4d01
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/50811bfb-6faf-4909-a638-fb552bcaaf39/fe2d9c13-d37e-46a9-911d-bdf4175e4d01/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/50811bfb-6faf-4909-a638-fb552bcaaf39/fe2d9c13-d37e-46a9-911d-bdf4175e4d01
+md5	b4e2ecd7c1a8f2a195d39e85de4f1773

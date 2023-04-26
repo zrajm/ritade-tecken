@@ -1,0 +1,7 @@
+signId	21
+text	19_1 (tal)
+imageUuid	fb928481-b5c7-4318-b4f3-f711e5c1da30
+translationKey	32fa0859-33b8-444c-9290-abf4b1ebb87f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fb928481-b5c7-4318-b4f3-f711e5c1da30/32fa0859-33b8-444c-9290-abf4b1ebb87f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fb928481-b5c7-4318-b4f3-f711e5c1da30/32fa0859-33b8-444c-9290-abf4b1ebb87f
+md5	c58aec876ac002af854ca70388206ff6

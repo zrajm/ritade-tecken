@@ -1,0 +1,7 @@
+signId	479
+text	ge 1
+imageUuid	e607ec05-9718-42a9-9614-03473deff12e
+translationKey	ac1b7e03-735d-479b-8b15-60455ec80194
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e607ec05-9718-42a9-9614-03473deff12e/ac1b7e03-735d-479b-8b15-60455ec80194/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e607ec05-9718-42a9-9614-03473deff12e/ac1b7e03-735d-479b-8b15-60455ec80194
+md5	5b592d20f185b3ebd982470a2cb8ba26

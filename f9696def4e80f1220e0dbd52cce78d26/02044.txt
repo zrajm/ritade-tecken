@@ -1,0 +1,7 @@
+signId	2044
+text	diska 2
+imageUuid	94b75d3a-f80c-4588-b225-f99f3731ad96
+translationKey	59df6a7b-c86f-4cc6-b67c-ad57fb20234f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/94b75d3a-f80c-4588-b225-f99f3731ad96/59df6a7b-c86f-4cc6-b67c-ad57fb20234f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/94b75d3a-f80c-4588-b225-f99f3731ad96/59df6a7b-c86f-4cc6-b67c-ad57fb20234f
+md5	f9696def4e80f1220e0dbd52cce78d26

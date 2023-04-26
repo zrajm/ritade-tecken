@@ -1,0 +1,8 @@
+
+signId	3318
+text	kriminell
+imageUuid	590b663d-3c38-4540-a907-4b64db148735
+translationKey	e261f0e5-1cca-4476-b14d-3ca0a2b78226
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/590b663d-3c38-4540-a907-4b64db148735/e261f0e5-1cca-4476-b14d-3ca0a2b78226/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/590b663d-3c38-4540-a907-4b64db148735/e261f0e5-1cca-4476-b14d-3ca0a2b78226
+md5	7725e253609f9f06f9a2c848e253bd6d

@@ -1,0 +1,8 @@
+
+signId	185
+text	brevbärare
+imageUuid	0751445c-290d-47b3-84a7-fc526d530591
+translationKey	2eb4e283-d39b-48b3-a2bc-ae93f5e85120
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0751445c-290d-47b3-84a7-fc526d530591/2eb4e283-d39b-48b3-a2bc-ae93f5e85120/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0751445c-290d-47b3-84a7-fc526d530591/2eb4e283-d39b-48b3-a2bc-ae93f5e85120
+md5	4c3818bce5b6617e4470fa6124acf136

@@ -1,0 +1,8 @@
+
+signId	2199
+text	termos
+imageUuid	ac1ce445-8688-4770-a7eb-987585160b5d
+translationKey	4603c8b6-4501-419c-96fd-3b5392af7dc3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ac1ce445-8688-4770-a7eb-987585160b5d/4603c8b6-4501-419c-96fd-3b5392af7dc3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ac1ce445-8688-4770-a7eb-987585160b5d/4603c8b6-4501-419c-96fd-3b5392af7dc3
+md5	dbdaa1ca665a298e231d45a5b32e03e1

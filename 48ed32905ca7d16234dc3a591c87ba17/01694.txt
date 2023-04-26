@@ -1,0 +1,7 @@
+signId	1694
+text	vakna
+imageUuid	884b76a6-eb7a-40a2-a385-51330ee5f711
+translationKey	8d748b09-9e15-4a1f-9a83-e51f7eec6474
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/884b76a6-eb7a-40a2-a385-51330ee5f711/8d748b09-9e15-4a1f-9a83-e51f7eec6474/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/884b76a6-eb7a-40a2-a385-51330ee5f711/8d748b09-9e15-4a1f-9a83-e51f7eec6474
+md5	48ed32905ca7d16234dc3a591c87ba17

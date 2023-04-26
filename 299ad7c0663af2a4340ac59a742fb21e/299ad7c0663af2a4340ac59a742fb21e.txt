@@ -1,0 +1,8 @@
+
+signId	160
+text	blöt
+imageUuid	b2493d80-ced2-418e-b7c6-aa87fba7c384
+translationKey	214dd661-2e0e-4381-9a55-dd0acb30d163
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b2493d80-ced2-418e-b7c6-aa87fba7c384/214dd661-2e0e-4381-9a55-dd0acb30d163/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b2493d80-ced2-418e-b7c6-aa87fba7c384/214dd661-2e0e-4381-9a55-dd0acb30d163
+md5	299ad7c0663af2a4340ac59a742fb21e

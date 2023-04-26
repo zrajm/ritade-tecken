@@ -1,0 +1,7 @@
+signId	1034
+text	myra
+imageUuid	dbbdae1d-5d8e-4274-ae07-e61c6904187c
+translationKey	b3812f73-5111-43c9-a500-b5c449e1a63a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dbbdae1d-5d8e-4274-ae07-e61c6904187c/b3812f73-5111-43c9-a500-b5c449e1a63a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dbbdae1d-5d8e-4274-ae07-e61c6904187c/b3812f73-5111-43c9-a500-b5c449e1a63a
+md5	de07a26d90523ecc52617f567ae0a021

@@ -1,0 +1,7 @@
+signId	684
+text	jacka 1
+imageUuid	45286e35-e54e-4ca0-ae18-a01cc5a9ecd9
+translationKey	46478ce9-57f7-4249-89ce-910794f44686
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/45286e35-e54e-4ca0-ae18-a01cc5a9ecd9/46478ce9-57f7-4249-89ce-910794f44686/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/45286e35-e54e-4ca0-ae18-a01cc5a9ecd9/46478ce9-57f7-4249-89ce-910794f44686
+md5	e90a501d1bcde469ce642cd438e64317

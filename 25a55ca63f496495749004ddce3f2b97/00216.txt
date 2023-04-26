@@ -1,0 +1,7 @@
+signId	216
+text	bälte
+imageUuid	32cefd16-e661-4141-a2a2-77c80fbae3ea
+translationKey	58ef0f4a-970c-4827-98c0-2b5f13c128d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/32cefd16-e661-4141-a2a2-77c80fbae3ea/58ef0f4a-970c-4827-98c0-2b5f13c128d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/32cefd16-e661-4141-a2a2-77c80fbae3ea/58ef0f4a-970c-4827-98c0-2b5f13c128d1
+md5	25a55ca63f496495749004ddce3f2b97

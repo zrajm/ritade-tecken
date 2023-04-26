@@ -1,0 +1,7 @@
+signId	1767
+text	vän
+imageUuid	6a2fde2e-cc8d-4a67-95a7-b30074f7c8be
+translationKey	79f2d5bb-6157-4b87-961b-f33d2cfac04f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6a2fde2e-cc8d-4a67-95a7-b30074f7c8be/79f2d5bb-6157-4b87-961b-f33d2cfac04f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6a2fde2e-cc8d-4a67-95a7-b30074f7c8be/79f2d5bb-6157-4b87-961b-f33d2cfac04f
+md5	236feaa570fd492b194f3644a0c55e66

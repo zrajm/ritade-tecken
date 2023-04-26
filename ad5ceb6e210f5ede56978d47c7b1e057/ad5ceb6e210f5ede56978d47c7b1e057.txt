@@ -1,0 +1,16 @@
+
+signId	1973
+text	inte bry sig om
+imageUuid	e8a58232-b3e6-41bf-aa1f-cc798eb0456c
+translationKey	d98f02fa-c024-4b71-8171-51d3215da509
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e8a58232-b3e6-41bf-aa1f-cc798eb0456c/d98f02fa-c024-4b71-8171-51d3215da509/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e8a58232-b3e6-41bf-aa1f-cc798eb0456c/d98f02fa-c024-4b71-8171-51d3215da509
+md5	ad5ceb6e210f5ede56978d47c7b1e057
+
+signId	1984
+text	strunta i
+imageUuid	e34e05a3-4068-4bb3-8109-cdf3b4ab2793
+translationKey	acb6cbae-4649-4060-ae67-0b8baa55a6a1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e34e05a3-4068-4bb3-8109-cdf3b4ab2793/acb6cbae-4649-4060-ae67-0b8baa55a6a1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e34e05a3-4068-4bb3-8109-cdf3b4ab2793/acb6cbae-4649-4060-ae67-0b8baa55a6a1
+md5	ad5ceb6e210f5ede56978d47c7b1e057

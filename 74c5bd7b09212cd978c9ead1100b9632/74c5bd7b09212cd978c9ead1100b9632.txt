@@ -1,0 +1,16 @@
+
+signId	701
+text	juli
+imageUuid	8c259c1d-445e-47a2-9749-9a4c2f6342bc
+translationKey	443f115c-5bd7-440b-9955-b3d89fc12942
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c259c1d-445e-47a2-9749-9a4c2f6342bc/443f115c-5bd7-440b-9955-b3d89fc12942/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c259c1d-445e-47a2-9749-9a4c2f6342bc/443f115c-5bd7-440b-9955-b3d89fc12942
+md5	74c5bd7b09212cd978c9ead1100b9632
+
+signId	1427
+text	sommar
+imageUuid	2173545c-2347-434e-8b5b-e5ebd5fc6c8e
+translationKey	50d942ce-a081-433d-8f4c-057b2a7d5e60
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2173545c-2347-434e-8b5b-e5ebd5fc6c8e/50d942ce-a081-433d-8f4c-057b2a7d5e60/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2173545c-2347-434e-8b5b-e5ebd5fc6c8e/50d942ce-a081-433d-8f4c-057b2a7d5e60
+md5	74c5bd7b09212cd978c9ead1100b9632

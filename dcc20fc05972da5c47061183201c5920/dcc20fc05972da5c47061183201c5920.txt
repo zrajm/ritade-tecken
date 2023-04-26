@@ -1,0 +1,8 @@
+
+signId	2482
+text	sortera
+imageUuid	1989cfdd-0fa2-4b0c-9466-bb4a36dabecc
+translationKey	66dcf4b2-1585-40b8-97d3-0affceab3e63
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1989cfdd-0fa2-4b0c-9466-bb4a36dabecc/66dcf4b2-1585-40b8-97d3-0affceab3e63/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1989cfdd-0fa2-4b0c-9466-bb4a36dabecc/66dcf4b2-1585-40b8-97d3-0affceab3e63
+md5	dcc20fc05972da5c47061183201c5920

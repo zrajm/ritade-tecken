@@ -1,0 +1,7 @@
+signId	692
+text	jobba
+imageUuid	33a85227-6b9f-4615-b90e-50f8c798b05b
+translationKey	f1395ff5-4541-40f6-addb-f626ee5178d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/33a85227-6b9f-4615-b90e-50f8c798b05b/f1395ff5-4541-40f6-addb-f626ee5178d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/33a85227-6b9f-4615-b90e-50f8c798b05b/f1395ff5-4541-40f6-addb-f626ee5178d1
+md5	b87fb3e99a2dedfbfcc395394d4e57d5

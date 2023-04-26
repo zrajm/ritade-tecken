@@ -1,0 +1,7 @@
+signId	3169
+text	lågt
+imageUuid	7675b55f-3e4b-4c97-a3c8-6015ae26d6d3
+translationKey	d02701ef-86f8-42a0-93c7-4d1a5ff24d44
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7675b55f-3e4b-4c97-a3c8-6015ae26d6d3/d02701ef-86f8-42a0-93c7-4d1a5ff24d44/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7675b55f-3e4b-4c97-a3c8-6015ae26d6d3/d02701ef-86f8-42a0-93c7-4d1a5ff24d44
+md5	60aa2b788a04fc908b9e82655a7c80d9

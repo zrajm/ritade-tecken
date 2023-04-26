@@ -1,0 +1,7 @@
+signId	3373
+text	champinjon
+imageUuid	4874fb9c-4016-48df-8c41-122f24ed357c
+translationKey	5050cd86-d5c3-433b-9041-66ac8897135d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4874fb9c-4016-48df-8c41-122f24ed357c/5050cd86-d5c3-433b-9041-66ac8897135d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4874fb9c-4016-48df-8c41-122f24ed357c/5050cd86-d5c3-433b-9041-66ac8897135d
+md5	0267fc5f1f4e30cd035bee0edd471278

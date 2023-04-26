@@ -1,0 +1,24 @@
+
+signId	59
+text	april
+imageUuid	59b4b80f-b4dc-4d2a-b563-d8764e7a7531
+translationKey	93d254ac-d71e-4284-a23a-1e0e74470e0a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/59b4b80f-b4dc-4d2a-b563-d8764e7a7531/93d254ac-d71e-4284-a23a-1e0e74470e0a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/59b4b80f-b4dc-4d2a-b563-d8764e7a7531/93d254ac-d71e-4284-a23a-1e0e74470e0a
+md5	babf4fee7f2348c36a4d58c63069a1f6
+
+signId	204
+text	busa
+imageUuid	b92c4c40-6504-48ec-b951-b70225a6585f
+translationKey	d45269ea-74ec-48cc-8490-067f89017fb4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b92c4c40-6504-48ec-b951-b70225a6585f/d45269ea-74ec-48cc-8490-067f89017fb4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b92c4c40-6504-48ec-b951-b70225a6585f/d45269ea-74ec-48cc-8490-067f89017fb4
+md5	babf4fee7f2348c36a4d58c63069a1f6
+
+signId	205
+text	busig
+imageUuid	5e156a7f-74b7-4e2c-8cfe-b865b91e0f3d
+translationKey	99f984e0-22be-4997-a960-7d01d3c0c63c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e156a7f-74b7-4e2c-8cfe-b865b91e0f3d/99f984e0-22be-4997-a960-7d01d3c0c63c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e156a7f-74b7-4e2c-8cfe-b865b91e0f3d/99f984e0-22be-4997-a960-7d01d3c0c63c
+md5	babf4fee7f2348c36a4d58c63069a1f6

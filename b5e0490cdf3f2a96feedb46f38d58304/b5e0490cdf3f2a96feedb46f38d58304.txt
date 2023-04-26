@@ -1,0 +1,8 @@
+
+signId	794
+text	koppla av
+imageUuid	ec045c13-5ada-4dcc-8678-4ac7542d4d46
+translationKey	a1345ddd-8904-4061-8432-97f6f236d0d0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ec045c13-5ada-4dcc-8678-4ac7542d4d46/a1345ddd-8904-4061-8432-97f6f236d0d0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ec045c13-5ada-4dcc-8678-4ac7542d4d46/a1345ddd-8904-4061-8432-97f6f236d0d0
+md5	b5e0490cdf3f2a96feedb46f38d58304

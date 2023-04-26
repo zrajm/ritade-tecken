@@ -1,0 +1,7 @@
+signId	2166
+text	bränna sig
+imageUuid	b8829761-3783-454a-ada8-f5e04627ce63
+translationKey	6981c469-e5d1-4f2d-99e3-23a87fbdaec5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b8829761-3783-454a-ada8-f5e04627ce63/6981c469-e5d1-4f2d-99e3-23a87fbdaec5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b8829761-3783-454a-ada8-f5e04627ce63/6981c469-e5d1-4f2d-99e3-23a87fbdaec5
+md5	2894e75c5dd183001274aa62d4ae80f8

@@ -1,0 +1,8 @@
+
+signId	849
+text	kärring
+imageUuid	8a0faf8e-d8d5-4a1c-b983-6e3630454a88
+translationKey	6efc43ce-0222-4354-86c7-5dd1d3a02a7b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8a0faf8e-d8d5-4a1c-b983-6e3630454a88/6efc43ce-0222-4354-86c7-5dd1d3a02a7b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8a0faf8e-d8d5-4a1c-b983-6e3630454a88/6efc43ce-0222-4354-86c7-5dd1d3a02a7b
+md5	3bfdd15d790374fc3e0066a7b704dd8d

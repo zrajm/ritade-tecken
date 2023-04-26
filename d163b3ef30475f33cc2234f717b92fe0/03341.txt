@@ -1,0 +1,7 @@
+signId	3341
+text	revolution
+imageUuid	904b919d-f74c-4072-9eba-142e7073dfad
+translationKey	01699d0d-0863-4a0e-b160-30c809929c08
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/904b919d-f74c-4072-9eba-142e7073dfad/01699d0d-0863-4a0e-b160-30c809929c08/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/904b919d-f74c-4072-9eba-142e7073dfad/01699d0d-0863-4a0e-b160-30c809929c08
+md5	d163b3ef30475f33cc2234f717b92fe0

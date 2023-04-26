@@ -1,0 +1,8 @@
+
+signId	1332
+text	skelett
+imageUuid	024c8d0b-ff4f-4faf-962d-b9fb72fd3fc6
+translationKey	5e1877d7-8c50-4a6d-ad62-b2dbf7e4fdea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/024c8d0b-ff4f-4faf-962d-b9fb72fd3fc6/5e1877d7-8c50-4a6d-ad62-b2dbf7e4fdea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/024c8d0b-ff4f-4faf-962d-b9fb72fd3fc6/5e1877d7-8c50-4a6d-ad62-b2dbf7e4fdea
+md5	1007e886dcfe32a43da761568317ab6a

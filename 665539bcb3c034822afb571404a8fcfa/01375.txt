@@ -1,0 +1,7 @@
+signId	1375
+text	skämta
+imageUuid	2ae25a69-e226-4e6b-9622-71a1563e2fc3
+translationKey	6c5ae001-4209-4a2c-bc1c-eee2870bf88e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ae25a69-e226-4e6b-9622-71a1563e2fc3/6c5ae001-4209-4a2c-bc1c-eee2870bf88e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ae25a69-e226-4e6b-9622-71a1563e2fc3/6c5ae001-4209-4a2c-bc1c-eee2870bf88e
+md5	665539bcb3c034822afb571404a8fcfa

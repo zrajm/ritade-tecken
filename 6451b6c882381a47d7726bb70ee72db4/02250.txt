@@ -1,0 +1,7 @@
+signId	2250
+text	syslöjd
+imageUuid	3613532b-43d6-4a38-ad07-608e1c275c23
+translationKey	afcee480-ac91-4a95-a4d3-a0792ed48cfa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3613532b-43d6-4a38-ad07-608e1c275c23/afcee480-ac91-4a95-a4d3-a0792ed48cfa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3613532b-43d6-4a38-ad07-608e1c275c23/afcee480-ac91-4a95-a4d3-a0792ed48cfa
+md5	6451b6c882381a47d7726bb70ee72db4

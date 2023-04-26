@@ -1,0 +1,7 @@
+signId	2120
+text	Iphone
+imageUuid	6461a6a1-6e33-461f-b1a0-cc1b12030841
+translationKey	89d0196b-eb3e-48c1-8d7a-8470c39ab7a8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6461a6a1-6e33-461f-b1a0-cc1b12030841/89d0196b-eb3e-48c1-8d7a-8470c39ab7a8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6461a6a1-6e33-461f-b1a0-cc1b12030841/89d0196b-eb3e-48c1-8d7a-8470c39ab7a8
+md5	b8813f6d10169c2b23fbd4a1fe1c295b

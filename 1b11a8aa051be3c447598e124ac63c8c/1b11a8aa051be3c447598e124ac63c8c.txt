@@ -1,0 +1,8 @@
+
+signId	1592
+text	tjugo i
+imageUuid	96feb701-8370-49c1-baed-c1ea208e27ec
+translationKey	dde4fa18-9753-44ad-818b-0d4a2a239608
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/96feb701-8370-49c1-baed-c1ea208e27ec/dde4fa18-9753-44ad-818b-0d4a2a239608/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/96feb701-8370-49c1-baed-c1ea208e27ec/dde4fa18-9753-44ad-818b-0d4a2a239608
+md5	1b11a8aa051be3c447598e124ac63c8c

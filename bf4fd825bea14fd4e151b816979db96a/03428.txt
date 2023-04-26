@@ -1,0 +1,7 @@
+signId	3428
+text	växla (i bilen)
+imageUuid	6cd10f2d-ddbe-43e5-a8c2-28e201350e58
+translationKey	41ae8f7a-9fc2-4ef9-8c82-d9842794f057
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6cd10f2d-ddbe-43e5-a8c2-28e201350e58/41ae8f7a-9fc2-4ef9-8c82-d9842794f057/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6cd10f2d-ddbe-43e5-a8c2-28e201350e58/41ae8f7a-9fc2-4ef9-8c82-d9842794f057
+md5	bf4fd825bea14fd4e151b816979db96a

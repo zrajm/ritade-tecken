@@ -1,0 +1,8 @@
+
+signId	2634
+text	flygplats
+imageUuid	b044c20a-8c4c-4e0a-b906-b196178767e2
+translationKey	418b8407-7038-42a6-8f06-eb11322b98ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b044c20a-8c4c-4e0a-b906-b196178767e2/418b8407-7038-42a6-8f06-eb11322b98ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b044c20a-8c4c-4e0a-b906-b196178767e2/418b8407-7038-42a6-8f06-eb11322b98ca
+md5	132aff5c149a951e69834425ca9aa22b

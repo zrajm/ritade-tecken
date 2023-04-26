@@ -1,0 +1,8 @@
+
+signId	1001
+text	mjuk
+imageUuid	da10ae87-7c33-4ed6-9097-154b04f0a0db
+translationKey	0cb7ffb0-1894-43c1-8644-5e3660974ab3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/da10ae87-7c33-4ed6-9097-154b04f0a0db/0cb7ffb0-1894-43c1-8644-5e3660974ab3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/da10ae87-7c33-4ed6-9097-154b04f0a0db/0cb7ffb0-1894-43c1-8644-5e3660974ab3
+md5	7dc064d49bb713833f66bbe33d64edf3

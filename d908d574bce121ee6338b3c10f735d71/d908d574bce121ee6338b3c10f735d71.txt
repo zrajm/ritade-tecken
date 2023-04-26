@@ -1,0 +1,8 @@
+
+signId	221
+text	bära 2
+imageUuid	a022ba36-c1ea-43a4-b0ac-9888e4bf91fe
+translationKey	b19acafe-128f-4961-a3b0-6cdd73095e59
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a022ba36-c1ea-43a4-b0ac-9888e4bf91fe/b19acafe-128f-4961-a3b0-6cdd73095e59/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a022ba36-c1ea-43a4-b0ac-9888e4bf91fe/b19acafe-128f-4961-a3b0-6cdd73095e59
+md5	d908d574bce121ee6338b3c10f735d71

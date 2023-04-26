@@ -1,0 +1,8 @@
+
+signId	1583
+text	tio i
+imageUuid	fb2178c9-07b4-42ba-b683-c24211685d98
+translationKey	a3c8e799-cba9-4b13-a1b2-ed5043d0fe47
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fb2178c9-07b4-42ba-b683-c24211685d98/a3c8e799-cba9-4b13-a1b2-ed5043d0fe47/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fb2178c9-07b4-42ba-b683-c24211685d98/a3c8e799-cba9-4b13-a1b2-ed5043d0fe47
+md5	e93464f14d2d35df8eed9726e1d7db12

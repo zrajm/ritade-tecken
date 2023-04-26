@@ -1,0 +1,8 @@
+
+signId	138
+text	bilstrålkastare
+imageUuid	21ec2d90-cff1-4d90-a4ca-3d2258f388df
+translationKey	2fc30e94-7981-44b2-b06e-d435aaecff2a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/21ec2d90-cff1-4d90-a4ca-3d2258f388df/2fc30e94-7981-44b2-b06e-d435aaecff2a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/21ec2d90-cff1-4d90-a4ca-3d2258f388df/2fc30e94-7981-44b2-b06e-d435aaecff2a
+md5	85f3a28b8b31a477f503e8ca1040cfae

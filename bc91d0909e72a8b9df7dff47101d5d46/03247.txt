@@ -1,0 +1,7 @@
+signId	3247
+text	hälften
+imageUuid	d3c6f4c7-2b54-4939-b0ac-2450457200ad
+translationKey	61e71b91-667c-4f24-993c-909df1591df6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d3c6f4c7-2b54-4939-b0ac-2450457200ad/61e71b91-667c-4f24-993c-909df1591df6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d3c6f4c7-2b54-4939-b0ac-2450457200ad/61e71b91-667c-4f24-993c-909df1591df6
+md5	bc91d0909e72a8b9df7dff47101d5d46

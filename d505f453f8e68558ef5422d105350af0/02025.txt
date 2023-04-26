@@ -1,0 +1,7 @@
+signId	2025
+text	stretcha
+imageUuid	4def8fcd-958c-4614-8bdc-2e6621e49fd6
+translationKey	426dc6f7-36ed-4d26-874f-eb084ef12efa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4def8fcd-958c-4614-8bdc-2e6621e49fd6/426dc6f7-36ed-4d26-874f-eb084ef12efa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4def8fcd-958c-4614-8bdc-2e6621e49fd6/426dc6f7-36ed-4d26-874f-eb084ef12efa
+md5	d505f453f8e68558ef5422d105350af0

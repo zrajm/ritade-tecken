@@ -1,0 +1,7 @@
+signId	2966
+text	pupill
+imageUuid	280f11eb-2503-4d60-bd36-2573604280cf
+translationKey	5003d8c2-5230-4472-95d8-b97ef7c92ae3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/280f11eb-2503-4d60-bd36-2573604280cf/5003d8c2-5230-4472-95d8-b97ef7c92ae3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/280f11eb-2503-4d60-bd36-2573604280cf/5003d8c2-5230-4472-95d8-b97ef7c92ae3
+md5	3732e1e463ea8f38953dd0fc4aa7d61a

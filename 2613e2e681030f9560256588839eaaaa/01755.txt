@@ -1,0 +1,7 @@
+signId	1755
+text	vågor
+imageUuid	ed59494b-14d9-460a-b585-47a980f88d67
+translationKey	040192a0-2453-455a-8ecd-8cacd3163b79
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ed59494b-14d9-460a-b585-47a980f88d67/040192a0-2453-455a-8ecd-8cacd3163b79/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ed59494b-14d9-460a-b585-47a980f88d67/040192a0-2453-455a-8ecd-8cacd3163b79
+md5	2613e2e681030f9560256588839eaaaa

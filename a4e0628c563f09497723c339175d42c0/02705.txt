@@ -1,0 +1,7 @@
+signId	2705
+text	bankomat
+imageUuid	570d1f89-9284-4e51-a305-630180b4cc41
+translationKey	89b222ee-6c0c-4596-be6c-f35ab063ddc7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/570d1f89-9284-4e51-a305-630180b4cc41/89b222ee-6c0c-4596-be6c-f35ab063ddc7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/570d1f89-9284-4e51-a305-630180b4cc41/89b222ee-6c0c-4596-be6c-f35ab063ddc7
+md5	a4e0628c563f09497723c339175d42c0

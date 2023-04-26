@@ -1,0 +1,7 @@
+signId	817
+text	krångla
+imageUuid	973ac404-6cb7-492f-91ae-989e2f1dd159
+translationKey	cf6839a3-4370-4890-b5c1-5fa9985defae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/973ac404-6cb7-492f-91ae-989e2f1dd159/cf6839a3-4370-4890-b5c1-5fa9985defae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/973ac404-6cb7-492f-91ae-989e2f1dd159/cf6839a3-4370-4890-b5c1-5fa9985defae
+md5	6376305024461c9a55bf74c50aeaf75c

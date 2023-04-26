@@ -1,0 +1,8 @@
+
+signId	2456
+text	äldst
+imageUuid	a24e2212-cc63-4b5a-91bd-d00075885954
+translationKey	33bdf395-7c40-47a1-87a1-cb744fb4a243
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a24e2212-cc63-4b5a-91bd-d00075885954/33bdf395-7c40-47a1-87a1-cb744fb4a243/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a24e2212-cc63-4b5a-91bd-d00075885954/33bdf395-7c40-47a1-87a1-cb744fb4a243
+md5	bd8729fe16c837761333fe189f68fe4b

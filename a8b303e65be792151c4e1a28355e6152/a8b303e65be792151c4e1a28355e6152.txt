@@ -1,0 +1,16 @@
+
+signId	851
+text	kök 3
+imageUuid	cfa4c6c3-bd77-427d-a02e-f599c7de83df
+translationKey	e8058ea5-7ed6-4ce2-a919-4e0c54090de6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cfa4c6c3-bd77-427d-a02e-f599c7de83df/e8058ea5-7ed6-4ce2-a919-4e0c54090de6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cfa4c6c3-bd77-427d-a02e-f599c7de83df/e8058ea5-7ed6-4ce2-a919-4e0c54090de6
+md5	a8b303e65be792151c4e1a28355e6152
+
+signId	863
+text	laga mat 3
+imageUuid	3d8b73b3-cbf2-44db-aa2d-43987203ff05
+translationKey	0730f543-3544-43c2-894f-8b6349edfe72
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3d8b73b3-cbf2-44db-aa2d-43987203ff05/0730f543-3544-43c2-894f-8b6349edfe72/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3d8b73b3-cbf2-44db-aa2d-43987203ff05/0730f543-3544-43c2-894f-8b6349edfe72
+md5	a8b303e65be792151c4e1a28355e6152

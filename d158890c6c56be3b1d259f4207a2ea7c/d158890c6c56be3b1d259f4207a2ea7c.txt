@@ -1,0 +1,8 @@
+
+signId	2471
+text	myrstack
+imageUuid	28547254-4128-4ea9-9957-6c88d2a0f36a
+translationKey	a36d0a3c-99c5-436a-a1d8-8577afce71b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/28547254-4128-4ea9-9957-6c88d2a0f36a/a36d0a3c-99c5-436a-a1d8-8577afce71b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/28547254-4128-4ea9-9957-6c88d2a0f36a/a36d0a3c-99c5-436a-a1d8-8577afce71b8
+md5	d158890c6c56be3b1d259f4207a2ea7c

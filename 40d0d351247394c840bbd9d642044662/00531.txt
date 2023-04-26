@@ -1,0 +1,7 @@
+signId	531
+text	gungbräda
+imageUuid	c8269058-532e-46bb-818d-aa608aa5774b
+translationKey	a1d87dcd-fae5-4df8-82de-2a84ad34e476
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c8269058-532e-46bb-818d-aa608aa5774b/a1d87dcd-fae5-4df8-82de-2a84ad34e476/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c8269058-532e-46bb-818d-aa608aa5774b/a1d87dcd-fae5-4df8-82de-2a84ad34e476
+md5	40d0d351247394c840bbd9d642044662

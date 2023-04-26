@@ -1,0 +1,7 @@
+signId	1276
+text	rör
+imageUuid	be433b4e-2c24-4df4-9ea5-f01647aa32b2
+translationKey	641980af-80e0-4131-9263-b6ef5206ef7d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/be433b4e-2c24-4df4-9ea5-f01647aa32b2/641980af-80e0-4131-9263-b6ef5206ef7d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/be433b4e-2c24-4df4-9ea5-f01647aa32b2/641980af-80e0-4131-9263-b6ef5206ef7d
+md5	4df7bb326931e03f37d354e9e54d1ab8

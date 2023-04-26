@@ -1,0 +1,8 @@
+
+signId	2619
+text	våg (väga)
+imageUuid	17168b91-c9f2-4e15-ab73-220ffa4cf188
+translationKey	6ef3b49f-9da7-40a0-8db4-a78d0af77fc4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/17168b91-c9f2-4e15-ab73-220ffa4cf188/6ef3b49f-9da7-40a0-8db4-a78d0af77fc4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/17168b91-c9f2-4e15-ab73-220ffa4cf188/6ef3b49f-9da7-40a0-8db4-a78d0af77fc4
+md5	4f8859a101c6d5fcb7aa8894b15d6366

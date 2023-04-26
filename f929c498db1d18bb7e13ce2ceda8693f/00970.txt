@@ -1,0 +1,7 @@
+signId	970
+text	matrum
+imageUuid	4bdaee71-24a5-4733-bf98-8fb56eaff5a1
+translationKey	d9a1ea88-cfd4-43bc-8721-780906363b36
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4bdaee71-24a5-4733-bf98-8fb56eaff5a1/d9a1ea88-cfd4-43bc-8721-780906363b36/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4bdaee71-24a5-4733-bf98-8fb56eaff5a1/d9a1ea88-cfd4-43bc-8721-780906363b36
+md5	f929c498db1d18bb7e13ce2ceda8693f

@@ -1,0 +1,7 @@
+signId	1582
+text	timme
+imageUuid	6c1c6efe-cbf6-4c97-a19e-85d447d097e1
+translationKey	8317556d-59cc-449d-9147-c029103c815b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6c1c6efe-cbf6-4c97-a19e-85d447d097e1/8317556d-59cc-449d-9147-c029103c815b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6c1c6efe-cbf6-4c97-a19e-85d447d097e1/8317556d-59cc-449d-9147-c029103c815b
+md5	dc2aff80fd6e32919d48887d0ba59eb8

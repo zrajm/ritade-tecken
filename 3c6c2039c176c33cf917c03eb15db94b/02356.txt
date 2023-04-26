@@ -1,0 +1,7 @@
+signId	2356
+text	kurragömma
+imageUuid	a05d44b6-7272-4720-b084-dbe9f85aa402
+translationKey	eb03fa52-2dbb-4760-8650-6589b9dbc482
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a05d44b6-7272-4720-b084-dbe9f85aa402/eb03fa52-2dbb-4760-8650-6589b9dbc482/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a05d44b6-7272-4720-b084-dbe9f85aa402/eb03fa52-2dbb-4760-8650-6589b9dbc482
+md5	3c6c2039c176c33cf917c03eb15db94b

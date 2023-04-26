@@ -1,0 +1,8 @@
+
+signId	2593
+text	potatismos
+imageUuid	7e41ceb1-de1f-4ed8-aaae-14426fd38a12
+translationKey	5fc6afec-d8aa-42ae-9f8a-6a1356a2096a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e41ceb1-de1f-4ed8-aaae-14426fd38a12/5fc6afec-d8aa-42ae-9f8a-6a1356a2096a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e41ceb1-de1f-4ed8-aaae-14426fd38a12/5fc6afec-d8aa-42ae-9f8a-6a1356a2096a
+md5	20d7075b0ad721404d112dc38a708609

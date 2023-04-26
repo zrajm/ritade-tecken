@@ -1,0 +1,7 @@
+signId	1495
+text	stressa
+imageUuid	64eee604-5811-417c-8a0c-75ea46706dbc
+translationKey	56c16181-6838-472b-a317-40977f6c7e8a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/64eee604-5811-417c-8a0c-75ea46706dbc/56c16181-6838-472b-a317-40977f6c7e8a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/64eee604-5811-417c-8a0c-75ea46706dbc/56c16181-6838-472b-a317-40977f6c7e8a
+md5	5f38dbf08335d005e6aaae7e4713c79e

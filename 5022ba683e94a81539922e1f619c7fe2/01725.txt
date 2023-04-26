@@ -1,0 +1,7 @@
+signId	1725
+text	video
+imageUuid	4a084572-eaf2-4101-b226-e7d6aa91420e
+translationKey	bfa38941-175c-44f7-acdf-56696c6e4384
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4a084572-eaf2-4101-b226-e7d6aa91420e/bfa38941-175c-44f7-acdf-56696c6e4384/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4a084572-eaf2-4101-b226-e7d6aa91420e/bfa38941-175c-44f7-acdf-56696c6e4384
+md5	5022ba683e94a81539922e1f619c7fe2

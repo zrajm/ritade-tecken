@@ -1,0 +1,7 @@
+signId	2552
+text	tjuv
+imageUuid	68a1b144-efc1-4bb3-9b18-d17650a6ae0a
+translationKey	dadbe96d-6615-4fb9-b8b8-ac037d0352b0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/68a1b144-efc1-4bb3-9b18-d17650a6ae0a/dadbe96d-6615-4fb9-b8b8-ac037d0352b0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/68a1b144-efc1-4bb3-9b18-d17650a6ae0a/dadbe96d-6615-4fb9-b8b8-ac037d0352b0
+md5	3e6e0132919a3b7ed0cc1afe1a3c6daf

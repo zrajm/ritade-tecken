@@ -1,0 +1,8 @@
+
+signId	91
+text	bajsa
+imageUuid	edab03a3-d3b6-4b79-879e-03cd79a2fee2
+translationKey	bf5fe005-bbc4-4b02-9cec-fba4e1c3578c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/edab03a3-d3b6-4b79-879e-03cd79a2fee2/bf5fe005-bbc4-4b02-9cec-fba4e1c3578c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/edab03a3-d3b6-4b79-879e-03cd79a2fee2/bf5fe005-bbc4-4b02-9cec-fba4e1c3578c
+md5	f9fa63e540f7c7d16de45e97e4cb95d1

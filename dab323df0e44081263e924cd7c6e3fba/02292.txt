@@ -1,0 +1,7 @@
+signId	2292
+text	original
+imageUuid	86996db8-3296-400b-b69a-813e4dddb170
+translationKey	ce6e0b70-2ac4-4b94-98f9-370a512973a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86996db8-3296-400b-b69a-813e4dddb170/ce6e0b70-2ac4-4b94-98f9-370a512973a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86996db8-3296-400b-b69a-813e4dddb170/ce6e0b70-2ac4-4b94-98f9-370a512973a4
+md5	e196bec50f4dee43cd4906f15e39675b

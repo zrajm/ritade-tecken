@@ -1,0 +1,7 @@
+signId	832
+text	kvart över
+imageUuid	a81e6e57-6303-447d-8f54-57a062d335ee
+translationKey	e7016a66-6f98-4a4e-8d00-52a3a5d77e99
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a81e6e57-6303-447d-8f54-57a062d335ee/e7016a66-6f98-4a4e-8d00-52a3a5d77e99/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a81e6e57-6303-447d-8f54-57a062d335ee/e7016a66-6f98-4a4e-8d00-52a3a5d77e99
+md5	89ddc8fa3d6704ddd7ac6d4f5eb08ece

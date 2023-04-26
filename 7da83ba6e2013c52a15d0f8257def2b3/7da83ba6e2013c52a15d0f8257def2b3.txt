@@ -1,0 +1,8 @@
+
+signId	1800
+text	älg 1
+imageUuid	ce900d3d-62aa-4fcd-bf36-18cb0df6b646
+translationKey	a62cabe8-286f-4f52-a3d5-e878473fcfdb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ce900d3d-62aa-4fcd-bf36-18cb0df6b646/a62cabe8-286f-4f52-a3d5-e878473fcfdb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ce900d3d-62aa-4fcd-bf36-18cb0df6b646/a62cabe8-286f-4f52-a3d5-e878473fcfdb
+md5	7da83ba6e2013c52a15d0f8257def2b3

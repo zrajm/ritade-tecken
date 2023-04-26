@@ -1,0 +1,7 @@
+signId	2130
+text	lagom
+imageUuid	45a52c97-951f-4144-b82e-ec570e599b98
+translationKey	498c7a13-7c7e-4985-9fd2-068e084af49c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/45a52c97-951f-4144-b82e-ec570e599b98/498c7a13-7c7e-4985-9fd2-068e084af49c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/45a52c97-951f-4144-b82e-ec570e599b98/498c7a13-7c7e-4985-9fd2-068e084af49c
+md5	c6e67e45ba4603b8a5b9f8e8a8272696

@@ -1,0 +1,7 @@
+signId	2238
+text	plånbok
+imageUuid	5299827b-077d-4713-9cb1-b2a503528c4f
+translationKey	480206d3-518e-495d-bbe7-86bb94e264ed
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5299827b-077d-4713-9cb1-b2a503528c4f/480206d3-518e-495d-bbe7-86bb94e264ed/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5299827b-077d-4713-9cb1-b2a503528c4f/480206d3-518e-495d-bbe7-86bb94e264ed
+md5	de54a01a7eb6de51ceaa64b2cc18891b

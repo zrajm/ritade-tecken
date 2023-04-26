@@ -1,0 +1,7 @@
+signId	1186
+text	prao
+imageUuid	27fda50c-939f-4af0-b168-019d648d2965
+translationKey	4c7f395a-5e7f-4d5d-8cf8-d7f043ea1c62
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/27fda50c-939f-4af0-b168-019d648d2965/4c7f395a-5e7f-4d5d-8cf8-d7f043ea1c62/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/27fda50c-939f-4af0-b168-019d648d2965/4c7f395a-5e7f-4d5d-8cf8-d7f043ea1c62
+md5	fcaf1682c549fd70c6f6e40c475af81e

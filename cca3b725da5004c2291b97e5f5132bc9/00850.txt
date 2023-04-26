@@ -1,0 +1,7 @@
+signId	850
+text	kö
+imageUuid	e38c4414-8ecd-4553-987f-128694083b35
+translationKey	b0a34eaf-2cb9-4fc2-ab06-64c7d37b71dd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e38c4414-8ecd-4553-987f-128694083b35/b0a34eaf-2cb9-4fc2-ab06-64c7d37b71dd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e38c4414-8ecd-4553-987f-128694083b35/b0a34eaf-2cb9-4fc2-ab06-64c7d37b71dd
+md5	cca3b725da5004c2291b97e5f5132bc9

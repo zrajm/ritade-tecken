@@ -1,0 +1,7 @@
+signId	2490
+text	virka
+imageUuid	a3bd1c52-b828-495d-8d1d-2d1accd609b9
+translationKey	1a533bfc-0454-4282-91e0-5cc9baf38a40
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a3bd1c52-b828-495d-8d1d-2d1accd609b9/1a533bfc-0454-4282-91e0-5cc9baf38a40/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a3bd1c52-b828-495d-8d1d-2d1accd609b9/1a533bfc-0454-4282-91e0-5cc9baf38a40
+md5	452b10a4f394461fd84de8007423fb7b

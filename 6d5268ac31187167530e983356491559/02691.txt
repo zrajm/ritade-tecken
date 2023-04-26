@@ -1,0 +1,7 @@
+signId	2691
+text	kvalitet
+imageUuid	85324e60-d6ae-488f-b38c-f3a018b3c4a0
+translationKey	78e5ed5d-5a15-48b6-a24c-b4a314b8b9c8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/85324e60-d6ae-488f-b38c-f3a018b3c4a0/78e5ed5d-5a15-48b6-a24c-b4a314b8b9c8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/85324e60-d6ae-488f-b38c-f3a018b3c4a0/78e5ed5d-5a15-48b6-a24c-b4a314b8b9c8
+md5	6d5268ac31187167530e983356491559

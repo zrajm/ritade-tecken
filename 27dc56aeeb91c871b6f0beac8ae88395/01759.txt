@@ -1,0 +1,7 @@
+signId	1759
+text	våt
+imageUuid	5266e702-fed5-4ae4-bb51-dddabf8d355d
+translationKey	f6915826-b093-4a70-a22b-59ac0db9330c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5266e702-fed5-4ae4-bb51-dddabf8d355d/f6915826-b093-4a70-a22b-59ac0db9330c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5266e702-fed5-4ae4-bb51-dddabf8d355d/f6915826-b093-4a70-a22b-59ac0db9330c
+md5	27dc56aeeb91c871b6f0beac8ae88395

@@ -1,0 +1,8 @@
+
+signId	2337
+text	gräsmatta
+imageUuid	9f0aa4f9-13f6-427f-bc50-8d0922f282a8
+translationKey	88d07859-ff3c-458e-944b-23460f365423
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9f0aa4f9-13f6-427f-bc50-8d0922f282a8/88d07859-ff3c-458e-944b-23460f365423/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9f0aa4f9-13f6-427f-bc50-8d0922f282a8/88d07859-ff3c-458e-944b-23460f365423
+md5	32a35721b37866e58aea439abd2cadbe

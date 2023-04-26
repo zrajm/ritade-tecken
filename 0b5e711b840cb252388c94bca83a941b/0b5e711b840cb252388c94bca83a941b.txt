@@ -1,0 +1,8 @@
+
+signId	2019
+text	rik
+imageUuid	cf75de18-f0f9-4a8f-b109-69bd463dca68
+translationKey	c1ee3cec-2bf4-426e-92a2-a69faf4b669f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cf75de18-f0f9-4a8f-b109-69bd463dca68/c1ee3cec-2bf4-426e-92a2-a69faf4b669f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cf75de18-f0f9-4a8f-b109-69bd463dca68/c1ee3cec-2bf4-426e-92a2-a69faf4b669f
+md5	0b5e711b840cb252388c94bca83a941b

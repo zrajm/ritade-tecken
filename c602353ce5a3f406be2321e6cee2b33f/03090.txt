@@ -1,0 +1,7 @@
+signId	3090
+text	djungel
+imageUuid	a9e51354-5dd7-451d-a334-233299ddbc04
+translationKey	ef3a8718-0bdd-43b1-a2da-9cd7eb97bd96
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a9e51354-5dd7-451d-a334-233299ddbc04/ef3a8718-0bdd-43b1-a2da-9cd7eb97bd96/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a9e51354-5dd7-451d-a334-233299ddbc04/ef3a8718-0bdd-43b1-a2da-9cd7eb97bd96
+md5	ec5eb0b8ad03b13c94890917c8a868a2

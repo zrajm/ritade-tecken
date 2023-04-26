@@ -1,0 +1,8 @@
+
+signId	478
+text	ge sig iväg
+imageUuid	93bed1ac-42fb-4824-9708-af203650add1
+translationKey	3ffe3796-18e4-42eb-a1a1-3d291ba3d4f1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/93bed1ac-42fb-4824-9708-af203650add1/3ffe3796-18e4-42eb-a1a1-3d291ba3d4f1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/93bed1ac-42fb-4824-9708-af203650add1/3ffe3796-18e4-42eb-a1a1-3d291ba3d4f1
+md5	bef57dc3c0ac72b24cdab05893239dfa

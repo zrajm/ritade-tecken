@@ -1,0 +1,7 @@
+signId	2245
+text	skruvmejsel
+imageUuid	a4cc240d-0323-40c5-91c6-18e049297eb1
+translationKey	accd19da-ba89-4567-8ebe-3edaedc5c76e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a4cc240d-0323-40c5-91c6-18e049297eb1/accd19da-ba89-4567-8ebe-3edaedc5c76e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a4cc240d-0323-40c5-91c6-18e049297eb1/accd19da-ba89-4567-8ebe-3edaedc5c76e
+md5	f4bf62510d1c2b21c826528dcaa92463

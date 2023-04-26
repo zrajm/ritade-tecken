@@ -1,0 +1,7 @@
+signId	991
+text	min (pronomen)
+imageUuid	631e04dd-34b3-4f98-bb1c-14d304b4fe07
+translationKey	49847219-77ee-4239-a805-bdf6b81c1c5b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/631e04dd-34b3-4f98-bb1c-14d304b4fe07/49847219-77ee-4239-a805-bdf6b81c1c5b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/631e04dd-34b3-4f98-bb1c-14d304b4fe07/49847219-77ee-4239-a805-bdf6b81c1c5b
+md5	a6431e81c0f73eea89bd7864875daf5f

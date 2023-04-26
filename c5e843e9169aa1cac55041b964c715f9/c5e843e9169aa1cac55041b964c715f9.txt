@@ -1,0 +1,8 @@
+
+signId	2726
+text	stam (träd)
+imageUuid	f02b160f-aff0-4acf-808b-cee7b7215523
+translationKey	f0e1a14f-c764-44cd-b56f-1f274fa91ace
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f02b160f-aff0-4acf-808b-cee7b7215523/f0e1a14f-c764-44cd-b56f-1f274fa91ace/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f02b160f-aff0-4acf-808b-cee7b7215523/f0e1a14f-c764-44cd-b56f-1f274fa91ace
+md5	c5e843e9169aa1cac55041b964c715f9

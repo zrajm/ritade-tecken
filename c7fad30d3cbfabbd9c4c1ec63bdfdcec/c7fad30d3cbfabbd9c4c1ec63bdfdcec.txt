@@ -1,0 +1,8 @@
+
+signId	1585
+text	tisdag
+imageUuid	5ff2070d-2fc6-44fe-9906-9e7abbdcaa8b
+translationKey	d57262f8-a570-468b-b778-61ad2219fb98
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ff2070d-2fc6-44fe-9906-9e7abbdcaa8b/d57262f8-a570-468b-b778-61ad2219fb98/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ff2070d-2fc6-44fe-9906-9e7abbdcaa8b/d57262f8-a570-468b-b778-61ad2219fb98
+md5	c7fad30d3cbfabbd9c4c1ec63bdfdcec

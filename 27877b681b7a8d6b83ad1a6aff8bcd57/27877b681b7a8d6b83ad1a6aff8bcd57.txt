@@ -1,0 +1,8 @@
+
+signId	544
+text	gås
+imageUuid	6599334c-48d0-41e5-8a17-c17be26197fe
+translationKey	db375d7e-bf38-4e05-99ac-cf6fd70b669f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6599334c-48d0-41e5-8a17-c17be26197fe/db375d7e-bf38-4e05-99ac-cf6fd70b669f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6599334c-48d0-41e5-8a17-c17be26197fe/db375d7e-bf38-4e05-99ac-cf6fd70b669f
+md5	27877b681b7a8d6b83ad1a6aff8bcd57

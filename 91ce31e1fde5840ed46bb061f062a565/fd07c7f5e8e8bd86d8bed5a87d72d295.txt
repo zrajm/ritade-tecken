@@ -1,0 +1,8 @@
+
+signId	1360
+text	skrika
+imageUuid	205cb694-c0f6-4072-a10b-202a0d8b4734
+translationKey	82a9af67-fa09-44ae-8593-29e61ae3adbd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/205cb694-c0f6-4072-a10b-202a0d8b4734/82a9af67-fa09-44ae-8593-29e61ae3adbd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/205cb694-c0f6-4072-a10b-202a0d8b4734/82a9af67-fa09-44ae-8593-29e61ae3adbd
+md5	fd07c7f5e8e8bd86d8bed5a87d72d295

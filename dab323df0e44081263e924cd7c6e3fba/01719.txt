@@ -1,0 +1,7 @@
+signId	1719
+text	verkligen
+imageUuid	ca18652b-a8c7-4ff1-9a0b-e5b939e11275
+translationKey	f450317a-d2b4-4a8c-954e-6ae53f78613c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ca18652b-a8c7-4ff1-9a0b-e5b939e11275/f450317a-d2b4-4a8c-954e-6ae53f78613c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ca18652b-a8c7-4ff1-9a0b-e5b939e11275/f450317a-d2b4-4a8c-954e-6ae53f78613c
+md5	dab323df0e44081263e924cd7c6e3fba

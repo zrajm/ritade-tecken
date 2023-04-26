@@ -1,0 +1,7 @@
+signId	533
+text	gupp
+imageUuid	8bf526b0-6361-4f31-b2a6-63408f9e3946
+translationKey	baa1b507-c7c2-4fee-864e-e4d990e6ce94
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8bf526b0-6361-4f31-b2a6-63408f9e3946/baa1b507-c7c2-4fee-864e-e4d990e6ce94/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8bf526b0-6361-4f31-b2a6-63408f9e3946/baa1b507-c7c2-4fee-864e-e4d990e6ce94
+md5	0fa32d6b28f2076b808b044195148d1e

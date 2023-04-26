@@ -1,0 +1,8 @@
+
+signId	1345
+text	skogvaktare
+imageUuid	38b6e253-7723-4959-a315-9ab14ce1ff86
+translationKey	c3f8233a-b498-4223-be8f-a1c6ede4817a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/38b6e253-7723-4959-a315-9ab14ce1ff86/c3f8233a-b498-4223-be8f-a1c6ede4817a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/38b6e253-7723-4959-a315-9ab14ce1ff86/c3f8233a-b498-4223-be8f-a1c6ede4817a
+md5	89843d65eaf4e5618dc6f2b03ac0c15d

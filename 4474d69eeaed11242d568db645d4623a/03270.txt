@@ -1,0 +1,7 @@
+signId	3270
+text	illamående
+imageUuid	fba776ca-e236-4b49-9c85-f824f745eb26
+translationKey	3a1dc31b-ae32-4bc1-9422-ed3125d3bcc3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fba776ca-e236-4b49-9c85-f824f745eb26/3a1dc31b-ae32-4bc1-9422-ed3125d3bcc3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fba776ca-e236-4b49-9c85-f824f745eb26/3a1dc31b-ae32-4bc1-9422-ed3125d3bcc3
+md5	4474d69eeaed11242d568db645d4623a

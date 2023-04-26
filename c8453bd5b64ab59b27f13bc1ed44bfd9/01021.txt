@@ -1,0 +1,7 @@
+signId	1021
+text	mulet
+imageUuid	6600ed4a-d868-476b-9911-da3c5c11784c
+translationKey	4cd390ee-699c-401e-9045-784d779498b1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6600ed4a-d868-476b-9911-da3c5c11784c/4cd390ee-699c-401e-9045-784d779498b1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6600ed4a-d868-476b-9911-da3c5c11784c/4cd390ee-699c-401e-9045-784d779498b1
+md5	c8453bd5b64ab59b27f13bc1ed44bfd9

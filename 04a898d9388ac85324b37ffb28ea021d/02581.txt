@@ -1,0 +1,7 @@
+signId	2581
+text	Göteborg 2
+imageUuid	3356babb-4378-4b2a-949a-e3b6f11bb213
+translationKey	084a2704-2d6b-43f7-949a-a6571595930c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3356babb-4378-4b2a-949a-e3b6f11bb213/084a2704-2d6b-43f7-949a-a6571595930c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3356babb-4378-4b2a-949a-e3b6f11bb213/084a2704-2d6b-43f7-949a-a6571595930c
+md5	04a898d9388ac85324b37ffb28ea021d

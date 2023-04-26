@@ -1,0 +1,7 @@
+signId	1533
+text	syster
+imageUuid	8dfa2e7b-8169-4159-91dc-61275ac1ee44
+translationKey	6fc291d7-be80-4f51-aea9-159f5e2cd86e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8dfa2e7b-8169-4159-91dc-61275ac1ee44/6fc291d7-be80-4f51-aea9-159f5e2cd86e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8dfa2e7b-8169-4159-91dc-61275ac1ee44/6fc291d7-be80-4f51-aea9-159f5e2cd86e
+md5	149281a2e4c9cced34fa5568501a69d5

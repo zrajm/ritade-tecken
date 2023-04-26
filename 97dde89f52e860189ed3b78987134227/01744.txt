@@ -1,0 +1,7 @@
+signId	1744
+text	visa (verb)
+imageUuid	a0db577a-266c-41e9-afcd-3ae730c56604
+translationKey	56511c6f-b83f-4233-8f2c-972e18b44940
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0db577a-266c-41e9-afcd-3ae730c56604/56511c6f-b83f-4233-8f2c-972e18b44940/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0db577a-266c-41e9-afcd-3ae730c56604/56511c6f-b83f-4233-8f2c-972e18b44940
+md5	e9ca3c659ff77356b7b1d2883599986b

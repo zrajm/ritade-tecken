@@ -1,0 +1,7 @@
+signId	2251
+text	tandborste
+imageUuid	9e4f08cf-1f49-4674-b23f-8bb33cc59663
+translationKey	3fee7816-5934-4c18-be66-2c6d6e82ddfd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9e4f08cf-1f49-4674-b23f-8bb33cc59663/3fee7816-5934-4c18-be66-2c6d6e82ddfd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9e4f08cf-1f49-4674-b23f-8bb33cc59663/3fee7816-5934-4c18-be66-2c6d6e82ddfd
+md5	e064b416f6a1618f83b353625fe20d90

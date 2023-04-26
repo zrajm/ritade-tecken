@@ -1,0 +1,8 @@
+
+signId	3205
+text	empati
+imageUuid	32831a19-84d6-4b64-b1f2-8acd0902e5a7
+translationKey	2dfe8296-b078-49b2-a9bc-a3d974623964
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/32831a19-84d6-4b64-b1f2-8acd0902e5a7/2dfe8296-b078-49b2-a9bc-a3d974623964/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/32831a19-84d6-4b64-b1f2-8acd0902e5a7/2dfe8296-b078-49b2-a9bc-a3d974623964
+md5	3f00aa156cf24f3ac8da50e801be1526

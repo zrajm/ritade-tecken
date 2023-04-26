@@ -1,0 +1,24 @@
+
+signId	1488
+text	storasyskon
+imageUuid	0baa7891-a803-40ee-bdbb-f8563a11503c
+translationKey	cf4e521d-8450-4585-8669-377d718b9be8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0baa7891-a803-40ee-bdbb-f8563a11503c/cf4e521d-8450-4585-8669-377d718b9be8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0baa7891-a803-40ee-bdbb-f8563a11503c/cf4e521d-8450-4585-8669-377d718b9be8
+md5	db07a4d80e3bd069499b82c9dc05931d
+
+signId	1489
+text	storasyster
+imageUuid	9c407adc-21c9-46f3-8da2-8e9cc14f49ba
+translationKey	1c71b937-4c9b-4d7f-8a4c-ed70218d2e2b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9c407adc-21c9-46f3-8da2-8e9cc14f49ba/1c71b937-4c9b-4d7f-8a4c-ed70218d2e2b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9c407adc-21c9-46f3-8da2-8e9cc14f49ba/1c71b937-4c9b-4d7f-8a4c-ed70218d2e2b
+md5	db07a4d80e3bd069499b82c9dc05931d
+
+signId	1490
+text	storebror
+imageUuid	38bc1027-b28d-411f-b2c4-2a86bf9d2777
+translationKey	cf2cfca0-df8d-4e15-b489-0fa8195c6f7f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/38bc1027-b28d-411f-b2c4-2a86bf9d2777/cf2cfca0-df8d-4e15-b489-0fa8195c6f7f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/38bc1027-b28d-411f-b2c4-2a86bf9d2777/cf2cfca0-df8d-4e15-b489-0fa8195c6f7f
+md5	db07a4d80e3bd069499b82c9dc05931d

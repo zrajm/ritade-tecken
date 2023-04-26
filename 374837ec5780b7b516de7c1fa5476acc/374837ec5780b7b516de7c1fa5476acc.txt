@@ -1,0 +1,8 @@
+
+signId	1359
+text	skridskor
+imageUuid	a5c7f301-6120-4f74-84ee-26e2b0d57045
+translationKey	4b4a5611-b9b7-4729-ad65-445a45c5506e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a5c7f301-6120-4f74-84ee-26e2b0d57045/4b4a5611-b9b7-4729-ad65-445a45c5506e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a5c7f301-6120-4f74-84ee-26e2b0d57045/4b4a5611-b9b7-4729-ad65-445a45c5506e
+md5	374837ec5780b7b516de7c1fa5476acc

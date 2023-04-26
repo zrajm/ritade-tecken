@@ -1,0 +1,7 @@
+signId	542
+text	går inte
+imageUuid	2e5bbc3e-79d3-43d7-bec5-b0ab4083270f
+translationKey	2813a3a9-59e3-49df-ba08-ce5237bd1724
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2e5bbc3e-79d3-43d7-bec5-b0ab4083270f/2813a3a9-59e3-49df-ba08-ce5237bd1724/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2e5bbc3e-79d3-43d7-bec5-b0ab4083270f/2813a3a9-59e3-49df-ba08-ce5237bd1724
+md5	91803cc64dd573e75ed966d06b82a245

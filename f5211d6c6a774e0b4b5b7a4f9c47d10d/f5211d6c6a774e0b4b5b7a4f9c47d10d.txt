@@ -1,0 +1,8 @@
+
+signId	2328
+text	djup
+imageUuid	6b80213c-d751-422c-94ce-5658e157a249
+translationKey	a94d0fce-370a-450d-b898-3cbc386f29be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b80213c-d751-422c-94ce-5658e157a249/a94d0fce-370a-450d-b898-3cbc386f29be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b80213c-d751-422c-94ce-5658e157a249/a94d0fce-370a-450d-b898-3cbc386f29be
+md5	f5211d6c6a774e0b4b5b7a4f9c47d10d

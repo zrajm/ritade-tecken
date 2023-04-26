@@ -1,0 +1,8 @@
+
+signId	753
+text	klocka
+imageUuid	5a89e463-177b-4597-bb1e-e01bec6a78b8
+translationKey	56c3b7ef-1e55-4957-80a3-9cbc88b9c1ea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5a89e463-177b-4597-bb1e-e01bec6a78b8/56c3b7ef-1e55-4957-80a3-9cbc88b9c1ea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5a89e463-177b-4597-bb1e-e01bec6a78b8/56c3b7ef-1e55-4957-80a3-9cbc88b9c1ea
+md5	ac9562c0b26cb2c89a12758b3586aa20

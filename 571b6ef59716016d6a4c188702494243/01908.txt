@@ -1,0 +1,7 @@
+signId	1908
+text	besluta
+imageUuid	e9001181-01ad-4ed8-b6ff-b29dd4012084
+translationKey	0a9c24a2-03fd-4ec5-9e93-393aace40115
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e9001181-01ad-4ed8-b6ff-b29dd4012084/0a9c24a2-03fd-4ec5-9e93-393aace40115/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e9001181-01ad-4ed8-b6ff-b29dd4012084/0a9c24a2-03fd-4ec5-9e93-393aace40115
+md5	571b6ef59716016d6a4c188702494243

@@ -1,0 +1,7 @@
+signId	1420
+text	snöre
+imageUuid	5094d020-3e8f-4850-a434-40a4124c0407
+translationKey	5b3a25fe-c343-4ba3-9eb2-11e7d539c087
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5094d020-3e8f-4850-a434-40a4124c0407/5b3a25fe-c343-4ba3-9eb2-11e7d539c087/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5094d020-3e8f-4850-a434-40a4124c0407/5b3a25fe-c343-4ba3-9eb2-11e7d539c087
+md5	a4e41747cae4b60e8c8d0d85276c038f

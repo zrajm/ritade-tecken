@@ -1,0 +1,7 @@
+signId	2646
+text	kärnkraftverk
+imageUuid	0611f358-2cc3-4f0b-8885-5c5495f759ee
+translationKey	87399d24-3de3-4f37-a6ab-c3f9d832e7d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0611f358-2cc3-4f0b-8885-5c5495f759ee/87399d24-3de3-4f37-a6ab-c3f9d832e7d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0611f358-2cc3-4f0b-8885-5c5495f759ee/87399d24-3de3-4f37-a6ab-c3f9d832e7d1
+md5	0708b8463dd7de7f985d521febebc916

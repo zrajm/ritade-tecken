@@ -1,0 +1,7 @@
+signId	1819
+text	önska
+imageUuid	7706d524-c7df-46f1-bcd3-0775758049dd
+translationKey	d36863ec-96e9-4349-86fe-309d9b633c7c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7706d524-c7df-46f1-bcd3-0775758049dd/d36863ec-96e9-4349-86fe-309d9b633c7c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7706d524-c7df-46f1-bcd3-0775758049dd/d36863ec-96e9-4349-86fe-309d9b633c7c
+md5	e0ec13c00223fc61957e29fc7309e17d

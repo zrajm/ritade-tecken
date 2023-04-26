@@ -1,0 +1,7 @@
+signId	312
+text	dövförening
+imageUuid	b1b3f021-6146-4db9-b0a1-d86af4f12901
+translationKey	623d1e79-fa20-453f-aa3d-4595a3e07c29
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b1b3f021-6146-4db9-b0a1-d86af4f12901/623d1e79-fa20-453f-aa3d-4595a3e07c29/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b1b3f021-6146-4db9-b0a1-d86af4f12901/623d1e79-fa20-453f-aa3d-4595a3e07c29
+md5	5caf7fab0609454b5cfb3fb777b2ec10

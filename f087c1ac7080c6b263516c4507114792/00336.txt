@@ -1,0 +1,7 @@
+signId	336
+text	F (bokstav)
+imageUuid	dd8d45bc-99b9-421f-bcad-f9868f5a4131
+translationKey	ba38c229-de00-4f0e-98cd-0f9033c5335b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dd8d45bc-99b9-421f-bcad-f9868f5a4131/ba38c229-de00-4f0e-98cd-0f9033c5335b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dd8d45bc-99b9-421f-bcad-f9868f5a4131/ba38c229-de00-4f0e-98cd-0f9033c5335b
+md5	f087c1ac7080c6b263516c4507114792

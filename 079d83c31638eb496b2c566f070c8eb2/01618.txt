@@ -1,0 +1,7 @@
+signId	1618
+text	trosor
+imageUuid	5f72f448-ee3c-48da-b20a-19f24276373e
+translationKey	d235c075-69a2-4b5f-8a0f-77637fbcd339
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5f72f448-ee3c-48da-b20a-19f24276373e/d235c075-69a2-4b5f-8a0f-77637fbcd339/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5f72f448-ee3c-48da-b20a-19f24276373e/d235c075-69a2-4b5f-8a0f-77637fbcd339
+md5	079d83c31638eb496b2c566f070c8eb2

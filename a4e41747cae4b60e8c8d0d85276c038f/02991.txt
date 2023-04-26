@@ -1,0 +1,7 @@
+signId	2991
+text	evighet
+imageUuid	ce253a78-99b7-47a3-b78d-11877d59a7b9
+translationKey	10f19ced-0a64-4c8c-a973-cd70afa9f008
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ce253a78-99b7-47a3-b78d-11877d59a7b9/10f19ced-0a64-4c8c-a973-cd70afa9f008/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ce253a78-99b7-47a3-b78d-11877d59a7b9/10f19ced-0a64-4c8c-a973-cd70afa9f008
+md5	fc591c1d1cb06adeeb8b45e0e4501710

@@ -1,0 +1,8 @@
+
+signId	2298
+text	skorpa
+imageUuid	40b8d83a-32b3-4cca-ad6a-1ae91be6afc7
+translationKey	ea589c7d-60ca-4789-af52-d276363f4e4e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/40b8d83a-32b3-4cca-ad6a-1ae91be6afc7/ea589c7d-60ca-4789-af52-d276363f4e4e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/40b8d83a-32b3-4cca-ad6a-1ae91be6afc7/ea589c7d-60ca-4789-af52-d276363f4e4e
+md5	843d41caf7e81fa0c6fd510ba4cc5413

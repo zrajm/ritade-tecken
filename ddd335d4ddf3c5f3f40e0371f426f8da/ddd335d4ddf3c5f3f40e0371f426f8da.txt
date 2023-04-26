@@ -1,0 +1,8 @@
+
+signId	3095
+text	Storbritannien
+imageUuid	263e00eb-39c7-41d9-ac97-cdffc60f9dd1
+translationKey	7c0e9dbe-2e80-4c4e-9f99-43da9904905b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/263e00eb-39c7-41d9-ac97-cdffc60f9dd1/7c0e9dbe-2e80-4c4e-9f99-43da9904905b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/263e00eb-39c7-41d9-ac97-cdffc60f9dd1/7c0e9dbe-2e80-4c4e-9f99-43da9904905b
+md5	ddd335d4ddf3c5f3f40e0371f426f8da

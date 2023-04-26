@@ -1,0 +1,7 @@
+signId	1277
+text	S (bokstav)
+imageUuid	1974b8e3-7657-45ca-a31e-46f2979007ee
+translationKey	f4d8ad26-db75-432e-ba6d-2c8708e491be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1974b8e3-7657-45ca-a31e-46f2979007ee/f4d8ad26-db75-432e-ba6d-2c8708e491be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1974b8e3-7657-45ca-a31e-46f2979007ee/f4d8ad26-db75-432e-ba6d-2c8708e491be
+md5	99d271253289ae04794496ace4e649d1

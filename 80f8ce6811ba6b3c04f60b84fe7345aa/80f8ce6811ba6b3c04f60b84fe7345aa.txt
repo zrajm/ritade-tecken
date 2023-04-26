@@ -1,0 +1,8 @@
+
+signId	1118
+text	orange 1
+imageUuid	c9a905cf-0971-4405-96bf-58146e5ab951
+translationKey	648b6ba9-8a93-4ad6-8389-749bd87fab29
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c9a905cf-0971-4405-96bf-58146e5ab951/648b6ba9-8a93-4ad6-8389-749bd87fab29/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c9a905cf-0971-4405-96bf-58146e5ab951/648b6ba9-8a93-4ad6-8389-749bd87fab29
+md5	80f8ce6811ba6b3c04f60b84fe7345aa

@@ -1,0 +1,8 @@
+
+signId	3415
+text	snabb 2
+imageUuid	7fcba041-995b-4787-a33c-26f6a03d5dd1
+translationKey	f983ae89-df77-4f9f-9455-751b391e8d02
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7fcba041-995b-4787-a33c-26f6a03d5dd1/f983ae89-df77-4f9f-9455-751b391e8d02/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7fcba041-995b-4787-a33c-26f6a03d5dd1/f983ae89-df77-4f9f-9455-751b391e8d02
+md5	ec51b7fc9e02d6b89a4396576729221e

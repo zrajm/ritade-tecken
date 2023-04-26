@@ -1,0 +1,7 @@
+signId	2087
+text	trollkarl
+imageUuid	d16d0260-0772-4ed6-8065-1389ab2afa98
+translationKey	09b5b7fa-3ed8-43cc-8852-2305f4680bb3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d16d0260-0772-4ed6-8065-1389ab2afa98/09b5b7fa-3ed8-43cc-8852-2305f4680bb3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d16d0260-0772-4ed6-8065-1389ab2afa98/09b5b7fa-3ed8-43cc-8852-2305f4680bb3
+md5	381f66e7466df2ce9813f014e09ed149

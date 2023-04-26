@@ -1,0 +1,24 @@
+
+signId	997
+text	minut
+imageUuid	f944af0e-892d-41b4-ac6b-e7025d45b5f8
+translationKey	ec9bad86-beb6-4021-aafd-f93337ca500f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f944af0e-892d-41b4-ac6b-e7025d45b5f8/ec9bad86-beb6-4021-aafd-f93337ca500f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f944af0e-892d-41b4-ac6b-e7025d45b5f8/ec9bad86-beb6-4021-aafd-f93337ca500f
+md5	f955d0e648248ac746af60c1e336a401
+
+signId	1504
+text	stund
+imageUuid	9018c121-060f-406c-aa33-d0cbcc093a48
+translationKey	67072011-a8ab-472b-ba4f-b0d0fff8265e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9018c121-060f-406c-aa33-d0cbcc093a48/67072011-a8ab-472b-ba4f-b0d0fff8265e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9018c121-060f-406c-aa33-d0cbcc093a48/67072011-a8ab-472b-ba4f-b0d0fff8265e
+md5	f955d0e648248ac746af60c1e336a401
+
+signId	1575
+text	tid
+imageUuid	fe3e0ca6-17e7-4085-b6c1-d61679159d38
+translationKey	1dace5d5-38a1-452f-b639-d6301396a08c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fe3e0ca6-17e7-4085-b6c1-d61679159d38/1dace5d5-38a1-452f-b639-d6301396a08c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fe3e0ca6-17e7-4085-b6c1-d61679159d38/1dace5d5-38a1-452f-b639-d6301396a08c
+md5	f955d0e648248ac746af60c1e336a401

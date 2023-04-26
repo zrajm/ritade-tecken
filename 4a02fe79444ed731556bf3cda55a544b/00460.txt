@@ -1,0 +1,7 @@
+signId	460
+text	förskola
+imageUuid	bdc62277-6095-44e3-b69b-5ff9f7d60116
+translationKey	bb41e4e7-5982-41e7-8f44-4a91a9d563f3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bdc62277-6095-44e3-b69b-5ff9f7d60116/bb41e4e7-5982-41e7-8f44-4a91a9d563f3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bdc62277-6095-44e3-b69b-5ff9f7d60116/bb41e4e7-5982-41e7-8f44-4a91a9d563f3
+md5	4a02fe79444ed731556bf3cda55a544b

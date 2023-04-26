@@ -1,0 +1,8 @@
+
+signId	581
+text	hela dagen
+imageUuid	32a8863f-68dd-4dfa-b295-210b2420a6ca
+translationKey	6c33ff70-b956-4d27-86c9-d99b2b276f9a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/32a8863f-68dd-4dfa-b295-210b2420a6ca/6c33ff70-b956-4d27-86c9-d99b2b276f9a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/32a8863f-68dd-4dfa-b295-210b2420a6ca/6c33ff70-b956-4d27-86c9-d99b2b276f9a
+md5	1623c89d5cfa091ea12f3bf194ab1ed3

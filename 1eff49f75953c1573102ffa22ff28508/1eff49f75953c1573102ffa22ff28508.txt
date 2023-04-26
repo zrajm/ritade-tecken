@@ -1,0 +1,8 @@
+
+signId	498
+text	golf
+imageUuid	6f171572-82b3-4bb2-ab2d-4d060133abeb
+translationKey	fb6ef62b-1246-4586-b850-166081d3b358
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6f171572-82b3-4bb2-ab2d-4d060133abeb/fb6ef62b-1246-4586-b850-166081d3b358/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6f171572-82b3-4bb2-ab2d-4d060133abeb/fb6ef62b-1246-4586-b850-166081d3b358
+md5	1eff49f75953c1573102ffa22ff28508

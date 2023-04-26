@@ -1,0 +1,8 @@
+
+signId	3052
+text	Pontius Pilatus
+imageUuid	d754938c-2758-4b8a-8618-52b4108b80b3
+translationKey	db1704a3-2e3f-4f97-8979-d7e4cfb55d9a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d754938c-2758-4b8a-8618-52b4108b80b3/db1704a3-2e3f-4f97-8979-d7e4cfb55d9a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d754938c-2758-4b8a-8618-52b4108b80b3/db1704a3-2e3f-4f97-8979-d7e4cfb55d9a
+md5	0016b83f0e60046b291a75d6b5c439b6

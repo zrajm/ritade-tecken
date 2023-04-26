@@ -1,0 +1,7 @@
+signId	2038
+text	bricka
+imageUuid	20f08a0d-d233-4c27-93c0-f92da1e28ea1
+translationKey	57f1cd06-6219-4a54-b44a-ce686ec6552b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/20f08a0d-d233-4c27-93c0-f92da1e28ea1/57f1cd06-6219-4a54-b44a-ce686ec6552b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/20f08a0d-d233-4c27-93c0-f92da1e28ea1/57f1cd06-6219-4a54-b44a-ce686ec6552b
+md5	a8a60554105d380f39209ea58481eff8

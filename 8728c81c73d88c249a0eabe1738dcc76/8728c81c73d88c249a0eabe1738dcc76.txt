@@ -1,0 +1,8 @@
+
+signId	2627
+text	amma
+imageUuid	28dc0882-80d2-46b7-8284-eb77a66bfb9a
+translationKey	78c56b86-2d26-4970-9717-e8d378f3f584
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/28dc0882-80d2-46b7-8284-eb77a66bfb9a/78c56b86-2d26-4970-9717-e8d378f3f584/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/28dc0882-80d2-46b7-8284-eb77a66bfb9a/78c56b86-2d26-4970-9717-e8d378f3f584
+md5	8728c81c73d88c249a0eabe1738dcc76

@@ -1,0 +1,8 @@
+
+signId	510
+text	groda
+imageUuid	404b771a-ddc5-48f1-b798-7f0162917be0
+translationKey	ad5dd22e-d7b6-4995-856f-09266052233e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/404b771a-ddc5-48f1-b798-7f0162917be0/ad5dd22e-d7b6-4995-856f-09266052233e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/404b771a-ddc5-48f1-b798-7f0162917be0/ad5dd22e-d7b6-4995-856f-09266052233e
+md5	81872c1b0d58c8806384fb6bfdf9a84d

@@ -1,0 +1,7 @@
+signId	315
+text	eftermiddag
+imageUuid	627bbb37-99e3-43fc-9eb4-d81f0f42df95
+translationKey	253e95e3-b1f9-4e84-9d56-56266977487a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/627bbb37-99e3-43fc-9eb4-d81f0f42df95/253e95e3-b1f9-4e84-9d56-56266977487a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/627bbb37-99e3-43fc-9eb4-d81f0f42df95/253e95e3-b1f9-4e84-9d56-56266977487a
+md5	bf97250e18a7cd4fc66c98ae13b76ab0

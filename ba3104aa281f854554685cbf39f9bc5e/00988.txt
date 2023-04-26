@@ -1,0 +1,7 @@
+signId	988
+text	midsommar
+imageUuid	36b6b2c7-0f52-48cb-af69-10f5b4ae1511
+translationKey	c1a61087-45c5-489d-8264-9f2bcd5282c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/36b6b2c7-0f52-48cb-af69-10f5b4ae1511/c1a61087-45c5-489d-8264-9f2bcd5282c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/36b6b2c7-0f52-48cb-af69-10f5b4ae1511/c1a61087-45c5-489d-8264-9f2bcd5282c4
+md5	ba3104aa281f854554685cbf39f9bc5e

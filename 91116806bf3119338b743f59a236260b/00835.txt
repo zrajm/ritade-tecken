@@ -1,0 +1,7 @@
+signId	835
+text	kvist
+imageUuid	752c96dc-f7f1-43c1-9c15-e81d7942fda0
+translationKey	4680f354-85d5-4403-b2e7-9b79c2dd8dab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/752c96dc-f7f1-43c1-9c15-e81d7942fda0/4680f354-85d5-4403-b2e7-9b79c2dd8dab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/752c96dc-f7f1-43c1-9c15-e81d7942fda0/4680f354-85d5-4403-b2e7-9b79c2dd8dab
+md5	91116806bf3119338b743f59a236260b

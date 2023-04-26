@@ -1,0 +1,7 @@
+signId	3104
+text	kärnvapen
+imageUuid	08d03587-c12e-48ec-aa42-d789f7e2b6d2
+translationKey	781bad3b-907e-4a21-9067-abcd0290ec43
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/08d03587-c12e-48ec-aa42-d789f7e2b6d2/781bad3b-907e-4a21-9067-abcd0290ec43/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/08d03587-c12e-48ec-aa42-d789f7e2b6d2/781bad3b-907e-4a21-9067-abcd0290ec43
+md5	c4d59b6080ee561fbcf92e6b5a013f20

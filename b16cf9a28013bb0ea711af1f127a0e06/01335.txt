@@ -1,0 +1,7 @@
+signId	1335
+text	skifta
+imageUuid	213955b9-0eb4-420f-8571-29393fb8232d
+translationKey	9248605a-771b-4434-9d09-4602d87fa8a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/213955b9-0eb4-420f-8571-29393fb8232d/9248605a-771b-4434-9d09-4602d87fa8a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/213955b9-0eb4-420f-8571-29393fb8232d/9248605a-771b-4434-9d09-4602d87fa8a4
+md5	b16cf9a28013bb0ea711af1f127a0e06

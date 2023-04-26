@@ -1,0 +1,7 @@
+signId	3375
+text	kråka
+imageUuid	dcb91e83-65d0-48fb-ba60-858b0cbe0abd
+translationKey	d53bdc38-d621-4131-b133-4acaa26df74e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dcb91e83-65d0-48fb-ba60-858b0cbe0abd/d53bdc38-d621-4131-b133-4acaa26df74e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dcb91e83-65d0-48fb-ba60-858b0cbe0abd/d53bdc38-d621-4131-b133-4acaa26df74e
+md5	6ff708b0f1782ee04a5b909547b0349e

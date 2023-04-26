@@ -1,0 +1,7 @@
+signId	1406
+text	smälta
+imageUuid	65e50784-0bca-4ab5-9924-70b02b1aa6f4
+translationKey	b24953b1-ad8e-4b88-a3fb-b7ae413099b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/65e50784-0bca-4ab5-9924-70b02b1aa6f4/b24953b1-ad8e-4b88-a3fb-b7ae413099b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/65e50784-0bca-4ab5-9924-70b02b1aa6f4/b24953b1-ad8e-4b88-a3fb-b7ae413099b5
+md5	73df96d6f6f9690c7cc335b951850435

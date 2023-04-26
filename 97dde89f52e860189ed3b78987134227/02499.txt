@@ -1,0 +1,7 @@
+signId	2499
+text	visa (variant)
+imageUuid	4eff3a08-cd18-45c5-b05a-c261c03f5ada
+translationKey	a6efefd8-6346-43d8-8352-47093a1464b7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4eff3a08-cd18-45c5-b05a-c261c03f5ada/a6efefd8-6346-43d8-8352-47093a1464b7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4eff3a08-cd18-45c5-b05a-c261c03f5ada/a6efefd8-6346-43d8-8352-47093a1464b7
+md5	97dde89f52e860189ed3b78987134227

@@ -1,0 +1,8 @@
+
+signId	2220
+text	huvudvärk
+imageUuid	609a430b-008a-41fe-8939-db5a4c3dca65
+translationKey	31760a52-7a80-4ccc-aba9-d83ffa6bc0c1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/609a430b-008a-41fe-8939-db5a4c3dca65/31760a52-7a80-4ccc-aba9-d83ffa6bc0c1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/609a430b-008a-41fe-8939-db5a4c3dca65/31760a52-7a80-4ccc-aba9-d83ffa6bc0c1
+md5	9b427b71b6743b00ab84c7ce197dc0b0

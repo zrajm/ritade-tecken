@@ -1,0 +1,7 @@
+signId	1945
+text	motion
+imageUuid	f5dddb4c-20bc-4016-9d5e-f3d7dbf39917
+translationKey	a56f65fd-ff43-4ed6-a223-d46c47b1d7cc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f5dddb4c-20bc-4016-9d5e-f3d7dbf39917/a56f65fd-ff43-4ed6-a223-d46c47b1d7cc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f5dddb4c-20bc-4016-9d5e-f3d7dbf39917/a56f65fd-ff43-4ed6-a223-d46c47b1d7cc
+md5	e8f0e059048ca781e9cdbbf8b48c58a3

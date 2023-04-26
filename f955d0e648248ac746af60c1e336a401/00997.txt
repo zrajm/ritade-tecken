@@ -1,0 +1,7 @@
+signId	997
+text	minut
+imageUuid	f944af0e-892d-41b4-ac6b-e7025d45b5f8
+translationKey	ec9bad86-beb6-4021-aafd-f93337ca500f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f944af0e-892d-41b4-ac6b-e7025d45b5f8/ec9bad86-beb6-4021-aafd-f93337ca500f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f944af0e-892d-41b4-ac6b-e7025d45b5f8/ec9bad86-beb6-4021-aafd-f93337ca500f
+md5	f955d0e648248ac746af60c1e336a401

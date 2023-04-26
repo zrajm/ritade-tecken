@@ -1,0 +1,7 @@
+signId	2466
+text	kompost
+imageUuid	5f218d50-a022-46c0-b987-f764fdffa33e
+translationKey	bf41e31b-90f5-4ab9-b17c-396b0d66ede3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5f218d50-a022-46c0-b987-f764fdffa33e/bf41e31b-90f5-4ab9-b17c-396b0d66ede3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5f218d50-a022-46c0-b987-f764fdffa33e/bf41e31b-90f5-4ab9-b17c-396b0d66ede3
+md5	e345549b6c9d2deca2a47f5254ab0259

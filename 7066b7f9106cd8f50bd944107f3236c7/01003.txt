@@ -1,0 +1,7 @@
+signId	1003
+text	mjölk
+imageUuid	c7e1dfa9-5df4-4297-b7e5-dacb0efa3f99
+translationKey	e42a6f04-771c-478b-a01f-5ae8900e91ac
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c7e1dfa9-5df4-4297-b7e5-dacb0efa3f99/e42a6f04-771c-478b-a01f-5ae8900e91ac/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c7e1dfa9-5df4-4297-b7e5-dacb0efa3f99/e42a6f04-771c-478b-a01f-5ae8900e91ac
+md5	7066b7f9106cd8f50bd944107f3236c7

@@ -1,0 +1,7 @@
+signId	1840
+text	popcorn
+imageUuid	84261fcc-2f6c-4005-9b18-77333eec9504
+translationKey	c4b8fa08-211c-4cbd-b1a6-f53f87ab22ae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/84261fcc-2f6c-4005-9b18-77333eec9504/c4b8fa08-211c-4cbd-b1a6-f53f87ab22ae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/84261fcc-2f6c-4005-9b18-77333eec9504/c4b8fa08-211c-4cbd-b1a6-f53f87ab22ae
+md5	e87711813d7706d0b42867a619649dcd

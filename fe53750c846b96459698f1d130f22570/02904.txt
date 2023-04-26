@@ -1,0 +1,7 @@
+signId	2904
+text	religion
+imageUuid	b798eca7-2f51-419b-84ea-22ea6c3b25e6
+translationKey	2bc716b6-6469-451f-b312-823dc072226b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b798eca7-2f51-419b-84ea-22ea6c3b25e6/2bc716b6-6469-451f-b312-823dc072226b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b798eca7-2f51-419b-84ea-22ea6c3b25e6/2bc716b6-6469-451f-b312-823dc072226b
+md5	fe53750c846b96459698f1d130f22570

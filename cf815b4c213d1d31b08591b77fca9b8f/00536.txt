@@ -1,0 +1,7 @@
+signId	536
+text	gymnastik
+imageUuid	58de8dc0-d47e-4232-934e-fb93025e9a3e
+translationKey	c46ebd72-d241-482d-b7e4-500ff2c8cfab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/58de8dc0-d47e-4232-934e-fb93025e9a3e/c46ebd72-d241-482d-b7e4-500ff2c8cfab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/58de8dc0-d47e-4232-934e-fb93025e9a3e/c46ebd72-d241-482d-b7e4-500ff2c8cfab
+md5	cf815b4c213d1d31b08591b77fca9b8f

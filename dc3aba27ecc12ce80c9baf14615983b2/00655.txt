@@ -1,0 +1,7 @@
+signId	655
+text	ibland
+imageUuid	773e2ce2-2347-4789-ab4b-4a5be4e32286
+translationKey	131f51a2-2174-4ccb-9014-c2a5a8ab7239
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/773e2ce2-2347-4789-ab4b-4a5be4e32286/131f51a2-2174-4ccb-9014-c2a5a8ab7239/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/773e2ce2-2347-4789-ab4b-4a5be4e32286/131f51a2-2174-4ccb-9014-c2a5a8ab7239
+md5	dc3aba27ecc12ce80c9baf14615983b2

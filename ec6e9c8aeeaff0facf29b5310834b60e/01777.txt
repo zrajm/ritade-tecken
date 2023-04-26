@@ -1,0 +1,7 @@
+signId	1777
+text	X (bokstav)
+imageUuid	0dc9780d-1160-4124-b29f-1abf609a9ada
+translationKey	438102f5-84e7-4815-b400-0d835821fa6b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0dc9780d-1160-4124-b29f-1abf609a9ada/438102f5-84e7-4815-b400-0d835821fa6b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0dc9780d-1160-4124-b29f-1abf609a9ada/438102f5-84e7-4815-b400-0d835821fa6b
+md5	ec6e9c8aeeaff0facf29b5310834b60e

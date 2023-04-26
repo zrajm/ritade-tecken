@@ -1,0 +1,8 @@
+
+signId	2479
+text	skräp
+imageUuid	0598f42b-1cc6-48a7-8cff-eeef47a4daf7
+translationKey	c921acfc-82cb-4854-867b-70bb34555188
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0598f42b-1cc6-48a7-8cff-eeef47a4daf7/c921acfc-82cb-4854-867b-70bb34555188/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0598f42b-1cc6-48a7-8cff-eeef47a4daf7/c921acfc-82cb-4854-867b-70bb34555188
+md5	918e2be7a39e63900cc4168d546375ba

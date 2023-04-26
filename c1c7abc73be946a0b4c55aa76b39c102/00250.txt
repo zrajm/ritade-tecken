@@ -1,0 +1,7 @@
+signId	250
+text	dansa 4
+imageUuid	43e49399-1898-4352-9cb8-a29b08843004
+translationKey	5342e3a4-bcdc-4c03-9c6f-3e6e8a83e76c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/43e49399-1898-4352-9cb8-a29b08843004/5342e3a4-bcdc-4c03-9c6f-3e6e8a83e76c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/43e49399-1898-4352-9cb8-a29b08843004/5342e3a4-bcdc-4c03-9c6f-3e6e8a83e76c
+md5	c1c7abc73be946a0b4c55aa76b39c102

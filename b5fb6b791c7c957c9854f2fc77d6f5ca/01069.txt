@@ -1,0 +1,7 @@
+signId	1069
+text	nattskjorta
+imageUuid	b51ea3ff-351a-4b6b-b42c-114413ad8362
+translationKey	5d05c046-4e69-483d-8a5f-05e8f03faa78
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b51ea3ff-351a-4b6b-b42c-114413ad8362/5d05c046-4e69-483d-8a5f-05e8f03faa78/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b51ea3ff-351a-4b6b-b42c-114413ad8362/5d05c046-4e69-483d-8a5f-05e8f03faa78
+md5	b5fb6b791c7c957c9854f2fc77d6f5ca

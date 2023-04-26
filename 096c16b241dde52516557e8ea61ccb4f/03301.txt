@@ -1,0 +1,7 @@
+signId	3301
+text	handalfabet
+imageUuid	f7b24198-7102-48ce-a926-ade9d2c644dd
+translationKey	bbf9014c-99aa-40a7-92cb-e0d94ae4f0bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f7b24198-7102-48ce-a926-ade9d2c644dd/bbf9014c-99aa-40a7-92cb-e0d94ae4f0bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f7b24198-7102-48ce-a926-ade9d2c644dd/bbf9014c-99aa-40a7-92cb-e0d94ae4f0bf
+md5	096c16b241dde52516557e8ea61ccb4f

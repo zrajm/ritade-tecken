@@ -1,0 +1,8 @@
+
+signId	941
+text	läppstift
+imageUuid	6477fe7b-261f-4dd4-be82-a49f55fa97d9
+translationKey	bfcd2056-5c74-44a2-8e37-3c811f2bce1e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6477fe7b-261f-4dd4-be82-a49f55fa97d9/bfcd2056-5c74-44a2-8e37-3c811f2bce1e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6477fe7b-261f-4dd4-be82-a49f55fa97d9/bfcd2056-5c74-44a2-8e37-3c811f2bce1e
+md5	e2cbbd5e07ed11b97d6ef97e520c1bf0

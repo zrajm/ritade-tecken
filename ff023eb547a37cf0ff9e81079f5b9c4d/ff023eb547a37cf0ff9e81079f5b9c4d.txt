@@ -1,0 +1,8 @@
+
+signId	3119
+text	demonstrera
+imageUuid	788b5a89-0bca-42a1-af59-a473f5483743
+translationKey	68a791d0-03bf-4a13-b666-22d388349b70
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/788b5a89-0bca-42a1-af59-a473f5483743/68a791d0-03bf-4a13-b666-22d388349b70/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/788b5a89-0bca-42a1-af59-a473f5483743/68a791d0-03bf-4a13-b666-22d388349b70
+md5	ff023eb547a37cf0ff9e81079f5b9c4d

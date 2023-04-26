@@ -1,0 +1,8 @@
+
+signId	1789
+text	åska
+imageUuid	5b9bcbb4-e504-498f-8db6-cb73cd7bc7a1
+translationKey	a0c12b09-3706-4bfa-bd9d-bc63f5fcc35c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5b9bcbb4-e504-498f-8db6-cb73cd7bc7a1/a0c12b09-3706-4bfa-bd9d-bc63f5fcc35c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5b9bcbb4-e504-498f-8db6-cb73cd7bc7a1/a0c12b09-3706-4bfa-bd9d-bc63f5fcc35c
+md5	e4b56acc36e7b2c1c4088c4e04ded661

@@ -1,0 +1,7 @@
+signId	2999
+text	i övermorgon
+imageUuid	2d947f46-878e-499f-b418-0f99e655df89
+translationKey	77917ed8-f47f-4b42-bea0-c52aca48c029
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d947f46-878e-499f-b418-0f99e655df89/77917ed8-f47f-4b42-bea0-c52aca48c029/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d947f46-878e-499f-b418-0f99e655df89/77917ed8-f47f-4b42-bea0-c52aca48c029
+md5	c5ecabbbff0cf303fc597f1e88ee25e2

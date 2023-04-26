@@ -1,0 +1,8 @@
+
+signId	2717
+text	strykbräda
+imageUuid	903f0c6d-2388-4366-a4b7-f44a36b7052c
+translationKey	60bb061f-4c96-4321-b24f-4c893d86d83c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/903f0c6d-2388-4366-a4b7-f44a36b7052c/60bb061f-4c96-4321-b24f-4c893d86d83c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/903f0c6d-2388-4366-a4b7-f44a36b7052c/60bb061f-4c96-4321-b24f-4c893d86d83c
+md5	d0aaeab188973850ab2e03a2af2cf581

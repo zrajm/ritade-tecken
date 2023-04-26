@@ -1,0 +1,7 @@
+signId	3427
+text	volontär
+imageUuid	cbec2f07-884e-46d8-8b1b-3d7e3836d437
+translationKey	44285506-acff-45b4-be95-1b488bc57750
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cbec2f07-884e-46d8-8b1b-3d7e3836d437/44285506-acff-45b4-be95-1b488bc57750/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cbec2f07-884e-46d8-8b1b-3d7e3836d437/44285506-acff-45b4-be95-1b488bc57750
+md5	b715bcf3355b631e71f807149499ab69

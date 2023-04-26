@@ -1,0 +1,7 @@
+signId	69
+text	armband
+imageUuid	5179ff37-cef6-43bd-8070-a8fef870a365
+translationKey	5b1d136d-d671-4f68-851b-79dba332311e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5179ff37-cef6-43bd-8070-a8fef870a365/5b1d136d-d671-4f68-851b-79dba332311e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5179ff37-cef6-43bd-8070-a8fef870a365/5b1d136d-d671-4f68-851b-79dba332311e
+md5	2846161730fa5d64924c9dcf19609130

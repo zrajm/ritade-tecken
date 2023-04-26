@@ -1,0 +1,8 @@
+
+signId	3110
+text	varna
+imageUuid	135ff5c1-3642-45f0-816a-96828ff933de
+translationKey	f4cac9d5-da50-4cdc-b587-ce2670951006
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/135ff5c1-3642-45f0-816a-96828ff933de/f4cac9d5-da50-4cdc-b587-ce2670951006/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/135ff5c1-3642-45f0-816a-96828ff933de/f4cac9d5-da50-4cdc-b587-ce2670951006
+md5	ef652fcfbc8dbb84dd1e05e6efa86437

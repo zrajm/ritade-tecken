@@ -1,0 +1,7 @@
+signId	1943
+text	flyga 3
+imageUuid	804f1369-23a2-4ed3-9a89-e6ffce017e02
+translationKey	61417f1f-bfa2-496e-adc4-4a6da0ed6b8e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/804f1369-23a2-4ed3-9a89-e6ffce017e02/61417f1f-bfa2-496e-adc4-4a6da0ed6b8e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/804f1369-23a2-4ed3-9a89-e6ffce017e02/61417f1f-bfa2-496e-adc4-4a6da0ed6b8e
+md5	08ead2513c9964a6969de77286e9f8a8

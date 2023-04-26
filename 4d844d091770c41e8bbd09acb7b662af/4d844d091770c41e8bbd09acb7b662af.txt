@@ -1,0 +1,16 @@
+
+signId	112
+text	begrava
+imageUuid	3c0c778a-59ff-42c5-9e95-8a02e8d7012b
+translationKey	b420c95a-8cb2-41b6-bd44-b6cd71316d62
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3c0c778a-59ff-42c5-9e95-8a02e8d7012b/b420c95a-8cb2-41b6-bd44-b6cd71316d62/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3c0c778a-59ff-42c5-9e95-8a02e8d7012b/b420c95a-8cb2-41b6-bd44-b6cd71316d62
+md5	4d844d091770c41e8bbd09acb7b662af
+
+signId	113
+text	begravning
+imageUuid	3e308728-8429-4169-9920-bbc4c1b8c2d4
+translationKey	426bb194-9ac4-49a9-927f-50d7aba78b72
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3e308728-8429-4169-9920-bbc4c1b8c2d4/426bb194-9ac4-49a9-927f-50d7aba78b72/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3e308728-8429-4169-9920-bbc4c1b8c2d4/426bb194-9ac4-49a9-927f-50d7aba78b72
+md5	4d844d091770c41e8bbd09acb7b662af

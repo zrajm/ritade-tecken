@@ -1,0 +1,8 @@
+
+signId	1950
+text	undersöka 1
+imageUuid	de858d92-e6e2-4439-bae6-abd7413ec60b
+translationKey	6790004a-c1ba-4b81-82b7-be18b9fcdaaa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/de858d92-e6e2-4439-bae6-abd7413ec60b/6790004a-c1ba-4b81-82b7-be18b9fcdaaa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/de858d92-e6e2-4439-bae6-abd7413ec60b/6790004a-c1ba-4b81-82b7-be18b9fcdaaa
+md5	c7088092592506854f3cf827d372263a

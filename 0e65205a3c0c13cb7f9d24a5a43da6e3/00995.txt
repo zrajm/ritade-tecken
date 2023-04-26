@@ -1,0 +1,7 @@
+signId	995
+text	minne
+imageUuid	50c42d99-4d4a-4046-bcd4-812eec26862b
+translationKey	943c8f1d-828c-4e25-a6c4-3515e29570e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/50c42d99-4d4a-4046-bcd4-812eec26862b/943c8f1d-828c-4e25-a6c4-3515e29570e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/50c42d99-4d4a-4046-bcd4-812eec26862b/943c8f1d-828c-4e25-a6c4-3515e29570e8
+md5	0e65205a3c0c13cb7f9d24a5a43da6e3

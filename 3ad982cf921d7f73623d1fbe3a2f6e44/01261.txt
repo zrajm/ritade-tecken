@@ -1,0 +1,7 @@
+signId	1261
+text	rusa
+imageUuid	3688b6ef-c68d-4f7a-887f-a19b3638984d
+translationKey	f9c441f7-82c8-4feb-9378-16cd99b3475c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3688b6ef-c68d-4f7a-887f-a19b3638984d/f9c441f7-82c8-4feb-9378-16cd99b3475c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3688b6ef-c68d-4f7a-887f-a19b3638984d/f9c441f7-82c8-4feb-9378-16cd99b3475c
+md5	3ad982cf921d7f73623d1fbe3a2f6e44

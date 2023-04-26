@@ -1,0 +1,7 @@
+signId	606
+text	hoppa
+imageUuid	0f16e29d-9f2d-4cb1-aa35-35ee1aea1663
+translationKey	8d85d4a8-34a6-42eb-8b19-b33a32e6fc13
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0f16e29d-9f2d-4cb1-aa35-35ee1aea1663/8d85d4a8-34a6-42eb-8b19-b33a32e6fc13/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0f16e29d-9f2d-4cb1-aa35-35ee1aea1663/8d85d4a8-34a6-42eb-8b19-b33a32e6fc13
+md5	71d70157023b4afd80fe9b35a48c76fb

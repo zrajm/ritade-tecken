@@ -1,0 +1,7 @@
+signId	1371
+text	skål
+imageUuid	03ea084a-c686-47dd-a904-d50ac344ea0f
+translationKey	5ac60684-6227-45d6-876e-0ffd4836f88a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/03ea084a-c686-47dd-a904-d50ac344ea0f/5ac60684-6227-45d6-876e-0ffd4836f88a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/03ea084a-c686-47dd-a904-d50ac344ea0f/5ac60684-6227-45d6-876e-0ffd4836f88a
+md5	0471541814afa02b2262003308435e05

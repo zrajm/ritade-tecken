@@ -1,0 +1,7 @@
+signId	2122
+text	kant
+imageUuid	562e78d2-9a1c-4b00-8718-48fb725f16a4
+translationKey	68d80cb1-f421-4af4-940e-42e96d7f2502
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/562e78d2-9a1c-4b00-8718-48fb725f16a4/68d80cb1-f421-4af4-940e-42e96d7f2502/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/562e78d2-9a1c-4b00-8718-48fb725f16a4/68d80cb1-f421-4af4-940e-42e96d7f2502
+md5	1fa7be866035cb6b538e789b6f4d8027

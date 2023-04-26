@@ -1,0 +1,7 @@
+signId	1108
+text	omgivning
+imageUuid	916b0757-146b-4063-84a2-ac31f1ca8048
+translationKey	9adb4edb-0903-434a-8330-458bc11c8cfe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/916b0757-146b-4063-84a2-ac31f1ca8048/9adb4edb-0903-434a-8330-458bc11c8cfe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/916b0757-146b-4063-84a2-ac31f1ca8048/9adb4edb-0903-434a-8330-458bc11c8cfe
+md5	c11c0e0295df6187ef2ed9be2fef9dd5

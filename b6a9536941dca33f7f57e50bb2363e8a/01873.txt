@@ -1,0 +1,7 @@
+signId	1873
+text	papper
+imageUuid	45b31382-b714-4b28-bafd-f90921336cb2
+translationKey	2d51fddd-6967-44b0-b383-90215fabd725
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/45b31382-b714-4b28-bafd-f90921336cb2/2d51fddd-6967-44b0-b383-90215fabd725/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/45b31382-b714-4b28-bafd-f90921336cb2/2d51fddd-6967-44b0-b383-90215fabd725
+md5	b6a9536941dca33f7f57e50bb2363e8a

@@ -1,0 +1,7 @@
+signId	17
+text	17_1 (tal)
+imageUuid	3752180a-560d-429d-9b32-1b1d2ef3895d
+translationKey	a5c52ec6-08c5-45c7-8adc-1f6ddace335e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3752180a-560d-429d-9b32-1b1d2ef3895d/a5c52ec6-08c5-45c7-8adc-1f6ddace335e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3752180a-560d-429d-9b32-1b1d2ef3895d/a5c52ec6-08c5-45c7-8adc-1f6ddace335e
+md5	35223260cdeae6c95e1f9e5e39042cee

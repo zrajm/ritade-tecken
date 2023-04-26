@@ -1,0 +1,7 @@
+signId	2856
+text	mos
+imageUuid	a04cf868-c501-4dbe-85bc-d7e5ecec0be5
+translationKey	8b706f06-3eda-416d-9996-2764f88a7b65
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a04cf868-c501-4dbe-85bc-d7e5ecec0be5/8b706f06-3eda-416d-9996-2764f88a7b65/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a04cf868-c501-4dbe-85bc-d7e5ecec0be5/8b706f06-3eda-416d-9996-2764f88a7b65
+md5	b3ddea1cbf8d6bad04ca5ee27fbdf894

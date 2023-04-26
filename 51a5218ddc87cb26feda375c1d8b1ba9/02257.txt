@@ -1,0 +1,7 @@
+signId	2257
+text	vardagsrum
+imageUuid	5470434f-fa08-4628-b8bb-3f2ee48473b1
+translationKey	acd38ae0-ee43-4fd6-940c-6862055d6196
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5470434f-fa08-4628-b8bb-3f2ee48473b1/acd38ae0-ee43-4fd6-940c-6862055d6196/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5470434f-fa08-4628-b8bb-3f2ee48473b1/acd38ae0-ee43-4fd6-940c-6862055d6196
+md5	51a5218ddc87cb26feda375c1d8b1ba9

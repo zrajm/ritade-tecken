@@ -1,0 +1,8 @@
+
+signId	3079
+text	skrivare
+imageUuid	162dec61-2985-49b4-a373-a8d0fdb7de60
+translationKey	d52cd196-db18-4081-941e-3baf4223ff58
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/162dec61-2985-49b4-a373-a8d0fdb7de60/d52cd196-db18-4081-941e-3baf4223ff58/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/162dec61-2985-49b4-a373-a8d0fdb7de60/d52cd196-db18-4081-941e-3baf4223ff58
+md5	c94ebbb253408c0f39b0710e750b255d

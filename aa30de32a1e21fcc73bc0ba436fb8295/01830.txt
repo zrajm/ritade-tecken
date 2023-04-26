@@ -1,0 +1,7 @@
+signId	1830
+text	överallt
+imageUuid	333377a2-332c-467c-93f5-331cd51262ea
+translationKey	326c18cf-aefd-40ca-a344-39be81ef0a19
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/333377a2-332c-467c-93f5-331cd51262ea/326c18cf-aefd-40ca-a344-39be81ef0a19/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/333377a2-332c-467c-93f5-331cd51262ea/326c18cf-aefd-40ca-a344-39be81ef0a19
+md5	aa30de32a1e21fcc73bc0ba436fb8295

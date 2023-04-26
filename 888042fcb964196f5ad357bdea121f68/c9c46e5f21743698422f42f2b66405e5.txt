@@ -1,0 +1,8 @@
+
+signId	3336
+text	produkt
+imageUuid	381c107b-ef03-4fa4-b1a2-88a9b68815b6
+translationKey	d664d72b-73b3-40a1-a144-6bdca4aba80e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/381c107b-ef03-4fa4-b1a2-88a9b68815b6/d664d72b-73b3-40a1-a144-6bdca4aba80e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/381c107b-ef03-4fa4-b1a2-88a9b68815b6/d664d72b-73b3-40a1-a144-6bdca4aba80e
+md5	c9c46e5f21743698422f42f2b66405e5

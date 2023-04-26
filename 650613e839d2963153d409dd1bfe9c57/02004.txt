@@ -1,0 +1,7 @@
+signId	2004
+text	sista
+imageUuid	7bd2ac99-5c2f-4cd3-ab2a-35c8da37377d
+translationKey	afaea11b-afe4-49b5-babd-5528aa1fe4a3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7bd2ac99-5c2f-4cd3-ab2a-35c8da37377d/afaea11b-afe4-49b5-babd-5528aa1fe4a3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7bd2ac99-5c2f-4cd3-ab2a-35c8da37377d/afaea11b-afe4-49b5-babd-5528aa1fe4a3
+md5	650613e839d2963153d409dd1bfe9c57

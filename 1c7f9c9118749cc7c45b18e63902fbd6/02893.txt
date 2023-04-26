@@ -1,0 +1,7 @@
+signId	2893
+text	lotto
+imageUuid	1467aa54-c7c9-4ef8-9576-e77c8a0b9c88
+translationKey	c65b3692-ea56-4c00-8616-3c374a427525
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1467aa54-c7c9-4ef8-9576-e77c8a0b9c88/c65b3692-ea56-4c00-8616-3c374a427525/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1467aa54-c7c9-4ef8-9576-e77c8a0b9c88/c65b3692-ea56-4c00-8616-3c374a427525
+md5	1c7f9c9118749cc7c45b18e63902fbd6

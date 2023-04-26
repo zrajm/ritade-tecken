@@ -1,0 +1,7 @@
+signId	2848
+text	åtta (siffra)
+imageUuid	b1dffb61-98b7-4d45-8028-f6d2a8aeade2
+translationKey	227b7da9-0353-421a-b237-90cc8db18ecb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b1dffb61-98b7-4d45-8028-f6d2a8aeade2/227b7da9-0353-421a-b237-90cc8db18ecb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b1dffb61-98b7-4d45-8028-f6d2a8aeade2/227b7da9-0353-421a-b237-90cc8db18ecb
+md5	6451b66e9f790b09e1569f517df2cc4c

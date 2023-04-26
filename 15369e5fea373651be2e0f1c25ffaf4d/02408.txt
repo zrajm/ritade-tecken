@@ -1,0 +1,7 @@
+signId	2408
+text	vänsterpartiet
+imageUuid	b29e5a2f-fd41-4018-86c7-0ce12942de7c
+translationKey	952b0a99-d8b1-496d-8f90-324ca59ddd2c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b29e5a2f-fd41-4018-86c7-0ce12942de7c/952b0a99-d8b1-496d-8f90-324ca59ddd2c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b29e5a2f-fd41-4018-86c7-0ce12942de7c/952b0a99-d8b1-496d-8f90-324ca59ddd2c
+md5	15369e5fea373651be2e0f1c25ffaf4d

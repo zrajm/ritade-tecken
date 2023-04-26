@@ -1,0 +1,7 @@
+signId	1333
+text	skicka
+imageUuid	c672cbed-147c-45a4-b8b4-bf833025d30b
+translationKey	6893a752-84ed-4664-876c-381677592e00
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c672cbed-147c-45a4-b8b4-bf833025d30b/6893a752-84ed-4664-876c-381677592e00/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c672cbed-147c-45a4-b8b4-bf833025d30b/6893a752-84ed-4664-876c-381677592e00
+md5	d733210b0c73f7d5323e46339921ae58

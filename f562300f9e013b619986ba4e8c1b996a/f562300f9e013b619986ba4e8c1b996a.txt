@@ -1,0 +1,8 @@
+
+signId	2440
+text	persontecken
+imageUuid	38f25311-fc15-4b16-ad02-3e22753e7807
+translationKey	31a2a71a-2ce5-43f1-945c-091e6b10980f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/38f25311-fc15-4b16-ad02-3e22753e7807/31a2a71a-2ce5-43f1-945c-091e6b10980f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/38f25311-fc15-4b16-ad02-3e22753e7807/31a2a71a-2ce5-43f1-945c-091e6b10980f
+md5	f562300f9e013b619986ba4e8c1b996a

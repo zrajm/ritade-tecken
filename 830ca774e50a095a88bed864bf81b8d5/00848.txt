@@ -1,0 +1,7 @@
+signId	848
+text	kär
+imageUuid	a605bdc9-062c-4499-84d5-f5b245362210
+translationKey	142fddea-386d-4ab8-a870-36f40d582f07
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a605bdc9-062c-4499-84d5-f5b245362210/142fddea-386d-4ab8-a870-36f40d582f07/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a605bdc9-062c-4499-84d5-f5b245362210/142fddea-386d-4ab8-a870-36f40d582f07
+md5	830ca774e50a095a88bed864bf81b8d5

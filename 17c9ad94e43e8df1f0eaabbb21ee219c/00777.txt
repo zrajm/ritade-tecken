@@ -1,0 +1,7 @@
+signId	777
+text	kock
+imageUuid	e59e83cb-ee04-4a79-875b-b09befc12edd
+translationKey	12df4f90-05d6-4119-9d75-78cc2915221a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e59e83cb-ee04-4a79-875b-b09befc12edd/12df4f90-05d6-4119-9d75-78cc2915221a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e59e83cb-ee04-4a79-875b-b09befc12edd/12df4f90-05d6-4119-9d75-78cc2915221a
+md5	17c9ad94e43e8df1f0eaabbb21ee219c

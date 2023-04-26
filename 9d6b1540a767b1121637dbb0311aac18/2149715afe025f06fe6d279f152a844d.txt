@@ -1,0 +1,8 @@
+
+signId	174
+text	borta
+imageUuid	6b8d59c3-e683-4975-a52c-690fc7cd7d83
+translationKey	84c5ceda-2e4a-4049-baed-7ddb1af86799
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b8d59c3-e683-4975-a52c-690fc7cd7d83/84c5ceda-2e4a-4049-baed-7ddb1af86799/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b8d59c3-e683-4975-a52c-690fc7cd7d83/84c5ceda-2e4a-4049-baed-7ddb1af86799
+md5	2149715afe025f06fe6d279f152a844d

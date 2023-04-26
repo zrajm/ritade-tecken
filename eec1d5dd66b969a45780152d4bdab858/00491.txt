@@ -1,0 +1,7 @@
+signId	491
+text	glasögon
+imageUuid	48b1edfb-b684-4d18-a4fd-060c486bc06c
+translationKey	319cf59e-a42b-40e3-bf56-d09849a41be6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/48b1edfb-b684-4d18-a4fd-060c486bc06c/319cf59e-a42b-40e3-bf56-d09849a41be6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/48b1edfb-b684-4d18-a4fd-060c486bc06c/319cf59e-a42b-40e3-bf56-d09849a41be6
+md5	eec1d5dd66b969a45780152d4bdab858

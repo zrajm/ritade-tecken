@@ -1,0 +1,7 @@
+signId	3294
+text	massa
+imageUuid	4c3b6596-471e-46f9-8a18-65b24fec761e
+translationKey	79fc270a-2171-4bfb-9cf7-72a0006f1c02
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4c3b6596-471e-46f9-8a18-65b24fec761e/79fc270a-2171-4bfb-9cf7-72a0006f1c02/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4c3b6596-471e-46f9-8a18-65b24fec761e/79fc270a-2171-4bfb-9cf7-72a0006f1c02
+md5	fdf31bd6a4e501bb15cad296b7816f86

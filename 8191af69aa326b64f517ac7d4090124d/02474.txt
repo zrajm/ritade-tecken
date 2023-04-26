@@ -1,0 +1,7 @@
+signId	2474
+text	poäng
+imageUuid	c7f93b5d-ef62-4523-b1b2-ba1661a965b8
+translationKey	d0dbc365-11f7-4386-8390-f6631d4ffdeb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c7f93b5d-ef62-4523-b1b2-ba1661a965b8/d0dbc365-11f7-4386-8390-f6631d4ffdeb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c7f93b5d-ef62-4523-b1b2-ba1661a965b8/d0dbc365-11f7-4386-8390-f6631d4ffdeb
+md5	8191af69aa326b64f517ac7d4090124d

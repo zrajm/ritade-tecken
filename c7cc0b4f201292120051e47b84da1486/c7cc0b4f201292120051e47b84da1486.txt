@@ -1,0 +1,8 @@
+
+signId	453
+text	förlora
+imageUuid	9df03d15-c561-4680-ab66-ad4bfa69de85
+translationKey	cbe3f9f4-5ac8-4859-8acd-4052c26654b0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9df03d15-c561-4680-ab66-ad4bfa69de85/cbe3f9f4-5ac8-4859-8acd-4052c26654b0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9df03d15-c561-4680-ab66-ad4bfa69de85/cbe3f9f4-5ac8-4859-8acd-4052c26654b0
+md5	c7cc0b4f201292120051e47b84da1486

@@ -1,0 +1,7 @@
+signId	2809
+text	skruv
+imageUuid	54e920d1-bfed-4baf-b70f-0ec7c0180458
+translationKey	ac560ce6-657f-44a8-9827-0cc47ef9d860
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/54e920d1-bfed-4baf-b70f-0ec7c0180458/ac560ce6-657f-44a8-9827-0cc47ef9d860/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/54e920d1-bfed-4baf-b70f-0ec7c0180458/ac560ce6-657f-44a8-9827-0cc47ef9d860
+md5	50b036e2a659fcd91fc3c55bcf9efa37

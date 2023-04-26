@@ -1,0 +1,7 @@
+signId	1721
+text	verktyg
+imageUuid	fb84ea3e-018e-4e69-88ca-7ac495d396b3
+translationKey	d341fa58-c099-4844-aa00-27107d966eda
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fb84ea3e-018e-4e69-88ca-7ac495d396b3/d341fa58-c099-4844-aa00-27107d966eda/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fb84ea3e-018e-4e69-88ca-7ac495d396b3/d341fa58-c099-4844-aa00-27107d966eda
+md5	26dc4358fb61215a83d697e532965e6b

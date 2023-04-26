@@ -1,0 +1,7 @@
+signId	177
+text	bra
+imageUuid	7aebc8ef-1512-4958-98a6-2fe52b0ef1f9
+translationKey	6f1aef70-ab3f-4234-839d-560862216272
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7aebc8ef-1512-4958-98a6-2fe52b0ef1f9/6f1aef70-ab3f-4234-839d-560862216272/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7aebc8ef-1512-4958-98a6-2fe52b0ef1f9/6f1aef70-ab3f-4234-839d-560862216272
+md5	b767f62a38a891a590c370380a4c5bbf

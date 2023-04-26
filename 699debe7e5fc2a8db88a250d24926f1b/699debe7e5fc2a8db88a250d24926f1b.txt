@@ -1,0 +1,8 @@
+
+signId	2762
+text	tvestjärt
+imageUuid	71c0e291-adac-48fd-b4cb-bc84bf5dafa6
+translationKey	3fcb7ba0-ff54-4fe9-be58-9c52c8dff0cb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/71c0e291-adac-48fd-b4cb-bc84bf5dafa6/3fcb7ba0-ff54-4fe9-be58-9c52c8dff0cb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/71c0e291-adac-48fd-b4cb-bc84bf5dafa6/3fcb7ba0-ff54-4fe9-be58-9c52c8dff0cb
+md5	699debe7e5fc2a8db88a250d24926f1b

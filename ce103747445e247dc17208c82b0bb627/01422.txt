@@ -1,0 +1,7 @@
+signId	1422
+text	socker
+imageUuid	a76ba820-1ef7-41e2-925b-767f90a50365
+translationKey	c4c833eb-ca2f-4221-9046-bcaaf5fac462
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a76ba820-1ef7-41e2-925b-767f90a50365/c4c833eb-ca2f-4221-9046-bcaaf5fac462/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a76ba820-1ef7-41e2-925b-767f90a50365/c4c833eb-ca2f-4221-9046-bcaaf5fac462
+md5	ce103747445e247dc17208c82b0bb627

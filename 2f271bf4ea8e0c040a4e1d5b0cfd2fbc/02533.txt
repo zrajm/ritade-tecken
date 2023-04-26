@@ -1,0 +1,7 @@
+signId	2533
+text	examen
+imageUuid	6b04a18f-8be2-44e2-802c-244d4c616199
+translationKey	5f05ede1-a2f7-4e81-8ee1-bd7e1ccb0afc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b04a18f-8be2-44e2-802c-244d4c616199/5f05ede1-a2f7-4e81-8ee1-bd7e1ccb0afc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b04a18f-8be2-44e2-802c-244d4c616199/5f05ede1-a2f7-4e81-8ee1-bd7e1ccb0afc
+md5	2f271bf4ea8e0c040a4e1d5b0cfd2fbc

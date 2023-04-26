@@ -1,0 +1,7 @@
+signId	3380
+text	applåder 2
+imageUuid	5ad77edd-8093-46d0-9c3a-da9160b815e9
+translationKey	4958e10f-75ab-405b-9d31-7b5611354acf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ad77edd-8093-46d0-9c3a-da9160b815e9/4958e10f-75ab-405b-9d31-7b5611354acf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ad77edd-8093-46d0-9c3a-da9160b815e9/4958e10f-75ab-405b-9d31-7b5611354acf
+md5	954a44a413f5fbd6891219b497dbab90

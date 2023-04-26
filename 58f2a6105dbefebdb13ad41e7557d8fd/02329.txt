@@ -1,0 +1,7 @@
+signId	2329
+text	döv
+imageUuid	d626d490-9a7a-49c6-a065-4adf4c66d22d
+translationKey	b48b3cef-ff2d-41b2-99fb-14df08a2b84e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d626d490-9a7a-49c6-a065-4adf4c66d22d/b48b3cef-ff2d-41b2-99fb-14df08a2b84e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d626d490-9a7a-49c6-a065-4adf4c66d22d/b48b3cef-ff2d-41b2-99fb-14df08a2b84e
+md5	58f2a6105dbefebdb13ad41e7557d8fd

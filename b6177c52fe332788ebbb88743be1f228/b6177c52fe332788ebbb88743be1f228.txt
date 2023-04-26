@@ -1,0 +1,8 @@
+
+signId	1816
+text	ödla
+imageUuid	fdb45174-8903-4f9c-a123-683ee9cb62df
+translationKey	dca8e76f-910d-4757-8585-8755f23c14d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fdb45174-8903-4f9c-a123-683ee9cb62df/dca8e76f-910d-4757-8585-8755f23c14d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fdb45174-8903-4f9c-a123-683ee9cb62df/dca8e76f-910d-4757-8585-8755f23c14d3
+md5	b6177c52fe332788ebbb88743be1f228

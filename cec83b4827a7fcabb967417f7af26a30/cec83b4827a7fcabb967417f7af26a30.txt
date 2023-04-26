@@ -1,0 +1,8 @@
+
+signId	564
+text	hammare
+imageUuid	86e03ee7-e7f4-4fdc-9c23-64f104c130f6
+translationKey	4040c1e9-50f7-4ab8-a8d7-1cdbb3346fd8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86e03ee7-e7f4-4fdc-9c23-64f104c130f6/4040c1e9-50f7-4ab8-a8d7-1cdbb3346fd8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86e03ee7-e7f4-4fdc-9c23-64f104c130f6/4040c1e9-50f7-4ab8-a8d7-1cdbb3346fd8
+md5	cec83b4827a7fcabb967417f7af26a30

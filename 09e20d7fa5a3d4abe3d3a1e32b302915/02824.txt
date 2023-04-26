@@ -1,0 +1,7 @@
+signId	2824
+text	nysa
+imageUuid	74358c87-f02d-412f-b437-8d1b44c0623d
+translationKey	756286b9-7f17-49ab-a172-a382b28162e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/74358c87-f02d-412f-b437-8d1b44c0623d/756286b9-7f17-49ab-a172-a382b28162e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/74358c87-f02d-412f-b437-8d1b44c0623d/756286b9-7f17-49ab-a172-a382b28162e1
+md5	09e20d7fa5a3d4abe3d3a1e32b302915

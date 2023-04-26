@@ -1,0 +1,7 @@
+signId	259
+text	deras
+imageUuid	a3d91f49-d8b6-465f-9679-e97b22891cee
+translationKey	897cd6a1-797e-4b1d-8e18-c85e70d47e3d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a3d91f49-d8b6-465f-9679-e97b22891cee/897cd6a1-797e-4b1d-8e18-c85e70d47e3d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a3d91f49-d8b6-465f-9679-e97b22891cee/897cd6a1-797e-4b1d-8e18-c85e70d47e3d
+md5	fe9e37d576f21e538a8e49a2f0ce84a7

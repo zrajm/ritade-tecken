@@ -1,0 +1,8 @@
+
+signId	2091
+text	Uppsala
+imageUuid	3930546d-dfd7-45fc-8da7-eb25492ed8ca
+translationKey	34bcffe9-4d78-4d36-9fae-d5c5f64ab546
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3930546d-dfd7-45fc-8da7-eb25492ed8ca/34bcffe9-4d78-4d36-9fae-d5c5f64ab546/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3930546d-dfd7-45fc-8da7-eb25492ed8ca/34bcffe9-4d78-4d36-9fae-d5c5f64ab546
+md5	bdafb063343491f1def1a4e2c2b786c0

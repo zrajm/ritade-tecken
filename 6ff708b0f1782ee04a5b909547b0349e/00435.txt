@@ -1,0 +1,7 @@
+signId	435
+text	fågel
+imageUuid	88e7bc61-8501-41f7-a126-40f5a6242598
+translationKey	3ab0fee2-ae97-4bae-b5b4-3a0e92a81d61
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/88e7bc61-8501-41f7-a126-40f5a6242598/3ab0fee2-ae97-4bae-b5b4-3a0e92a81d61/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/88e7bc61-8501-41f7-a126-40f5a6242598/3ab0fee2-ae97-4bae-b5b4-3a0e92a81d61
+md5	6ff708b0f1782ee04a5b909547b0349e

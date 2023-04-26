@@ -1,0 +1,8 @@
+
+signId	3214
+text	färre
+imageUuid	4af2deeb-19bf-4236-9a89-a497d3a98e5b
+translationKey	aa5908cb-099f-4802-838e-02abb35dc523
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4af2deeb-19bf-4236-9a89-a497d3a98e5b/aa5908cb-099f-4802-838e-02abb35dc523/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4af2deeb-19bf-4236-9a89-a497d3a98e5b/aa5908cb-099f-4802-838e-02abb35dc523
+md5	73a3b2e68907b980a73db89d9a278253

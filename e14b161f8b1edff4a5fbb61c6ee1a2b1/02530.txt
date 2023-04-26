@@ -1,0 +1,7 @@
+signId	2530
+text	premiär
+imageUuid	000d484f-ca8c-4761-bd08-f975595f0a58
+translationKey	c5d50835-3a2b-42cb-84f4-66f937982407
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/000d484f-ca8c-4761-bd08-f975595f0a58/c5d50835-3a2b-42cb-84f4-66f937982407/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/000d484f-ca8c-4761-bd08-f975595f0a58/c5d50835-3a2b-42cb-84f4-66f937982407
+md5	03a3dd61648ec60fda28daaca936b827

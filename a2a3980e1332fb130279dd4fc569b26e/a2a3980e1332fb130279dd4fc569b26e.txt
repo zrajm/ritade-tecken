@@ -1,0 +1,8 @@
+
+signId	2673
+text	vindkraftverk
+imageUuid	9df29596-043f-4727-b4ca-6953ada84066
+translationKey	a7e4883a-043d-4a6f-a504-ba1bc430f647
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9df29596-043f-4727-b4ca-6953ada84066/a7e4883a-043d-4a6f-a504-ba1bc430f647/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9df29596-043f-4727-b4ca-6953ada84066/a7e4883a-043d-4a6f-a504-ba1bc430f647
+md5	a2a3980e1332fb130279dd4fc569b26e

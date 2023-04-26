@@ -1,0 +1,7 @@
+signId	2453
+text	Tyskland
+imageUuid	ebca004d-9703-4bb6-aeb4-b321a272d63b
+translationKey	0507bcfa-0e42-42d2-8b74-41efa834e323
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ebca004d-9703-4bb6-aeb4-b321a272d63b/0507bcfa-0e42-42d2-8b74-41efa834e323/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ebca004d-9703-4bb6-aeb4-b321a272d63b/0507bcfa-0e42-42d2-8b74-41efa834e323
+md5	b672f97eac3c3f60401f4ce5b10b0ea3

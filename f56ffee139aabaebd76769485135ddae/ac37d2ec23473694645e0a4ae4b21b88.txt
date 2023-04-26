@@ -1,0 +1,8 @@
+
+signId	1327
+text	skadad
+imageUuid	c99eca27-bcfa-4957-9df6-5c9b9f7e9efd
+translationKey	be9e6f94-2d63-4484-84cb-5f493086d9c8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c99eca27-bcfa-4957-9df6-5c9b9f7e9efd/be9e6f94-2d63-4484-84cb-5f493086d9c8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c99eca27-bcfa-4957-9df6-5c9b9f7e9efd/be9e6f94-2d63-4484-84cb-5f493086d9c8
+md5	ac37d2ec23473694645e0a4ae4b21b88

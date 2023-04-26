@@ -1,0 +1,7 @@
+signId	799
+text	kort (substantiv)
+imageUuid	01266639-45f7-455a-8001-cd7f0260d751
+translationKey	2b0e036f-ce41-4b44-b190-cd350cf5a1c3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/01266639-45f7-455a-8001-cd7f0260d751/2b0e036f-ce41-4b44-b190-cd350cf5a1c3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/01266639-45f7-455a-8001-cd7f0260d751/2b0e036f-ce41-4b44-b190-cd350cf5a1c3
+md5	777faa1f049123d5ac011254a8dd57fd

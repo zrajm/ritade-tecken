@@ -1,0 +1,7 @@
+signId	1251
+text	roll
+imageUuid	6830b553-dc8c-47af-987f-016c8dd57c57
+translationKey	c08ce6fc-5502-478e-bf66-42484c95cdac
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6830b553-dc8c-47af-987f-016c8dd57c57/c08ce6fc-5502-478e-bf66-42484c95cdac/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6830b553-dc8c-47af-987f-016c8dd57c57/c08ce6fc-5502-478e-bf66-42484c95cdac
+md5	27715d7d4bf4f5152d6fc9894714d67b

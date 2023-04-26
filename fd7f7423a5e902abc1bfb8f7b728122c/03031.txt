@@ -1,0 +1,7 @@
+signId	3031
+text	kreativ
+imageUuid	45fc890f-f284-4198-827b-0f552a4b5d75
+translationKey	d95b3ccf-c00c-4844-894c-ad6aea5885e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/45fc890f-f284-4198-827b-0f552a4b5d75/d95b3ccf-c00c-4844-894c-ad6aea5885e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/45fc890f-f284-4198-827b-0f552a4b5d75/d95b3ccf-c00c-4844-894c-ad6aea5885e8
+md5	fd7f7423a5e902abc1bfb8f7b728122c

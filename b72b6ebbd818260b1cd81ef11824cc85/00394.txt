@@ -1,0 +1,7 @@
+signId	394
+text	fort (snabbt)
+imageUuid	36ed50c2-20d5-4b9c-9210-a6fe613b42b4
+translationKey	4faf9df3-7d3f-43ce-887f-c3ce71e84eea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/36ed50c2-20d5-4b9c-9210-a6fe613b42b4/4faf9df3-7d3f-43ce-887f-c3ce71e84eea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/36ed50c2-20d5-4b9c-9210-a6fe613b42b4/4faf9df3-7d3f-43ce-887f-c3ce71e84eea
+md5	b72b6ebbd818260b1cd81ef11824cc85

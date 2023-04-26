@@ -1,0 +1,48 @@
+
+signId	343
+text	farfar
+imageUuid	2d0a345e-61a7-4bb3-86f2-9114b74eca39
+translationKey	a365bf2d-ed5a-4ef8-856d-677a7fd54007
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d0a345e-61a7-4bb3-86f2-9114b74eca39/a365bf2d-ed5a-4ef8-856d-677a7fd54007/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d0a345e-61a7-4bb3-86f2-9114b74eca39/a365bf2d-ed5a-4ef8-856d-677a7fd54007
+md5	dfb6dff4158e50fc6533c87d624c08f0
+
+signId	345
+text	farmor
+imageUuid	12439536-d309-415c-ad58-6074e3e45cf5
+translationKey	d6c114ce-7efc-452a-8b6d-a006821a372f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/12439536-d309-415c-ad58-6074e3e45cf5/d6c114ce-7efc-452a-8b6d-a006821a372f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/12439536-d309-415c-ad58-6074e3e45cf5/d6c114ce-7efc-452a-8b6d-a006821a372f
+md5	dfb6dff4158e50fc6533c87d624c08f0
+
+signId	523
+text	gubbe
+imageUuid	e2123cd5-2995-4f06-ba67-a026cca42b41
+translationKey	af318981-553f-4269-b548-b60dd105319f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e2123cd5-2995-4f06-ba67-a026cca42b41/af318981-553f-4269-b548-b60dd105319f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e2123cd5-2995-4f06-ba67-a026cca42b41/af318981-553f-4269-b548-b60dd105319f
+md5	dfb6dff4158e50fc6533c87d624c08f0
+
+signId	528
+text	gumma
+imageUuid	bc041a96-e63d-4bdb-b83b-7aa987765c29
+translationKey	883209c5-30ef-4993-97ac-a47f17c24f67
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bc041a96-e63d-4bdb-b83b-7aa987765c29/883209c5-30ef-4993-97ac-a47f17c24f67/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bc041a96-e63d-4bdb-b83b-7aa987765c29/883209c5-30ef-4993-97ac-a47f17c24f67
+md5	dfb6dff4158e50fc6533c87d624c08f0
+
+signId	1011
+text	morfar
+imageUuid	9a3ba416-ed36-4860-986c-2759ea1e06cf
+translationKey	a392dec3-1b80-45c7-8307-aad577d504b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9a3ba416-ed36-4860-986c-2759ea1e06cf/a392dec3-1b80-45c7-8307-aad577d504b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9a3ba416-ed36-4860-986c-2759ea1e06cf/a392dec3-1b80-45c7-8307-aad577d504b4
+md5	dfb6dff4158e50fc6533c87d624c08f0
+
+signId	1014
+text	mormor
+imageUuid	841e1902-56c8-4da1-aac5-d38adaa6b088
+translationKey	c677061d-c90e-44df-b154-d0947ac79530
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/841e1902-56c8-4da1-aac5-d38adaa6b088/c677061d-c90e-44df-b154-d0947ac79530/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/841e1902-56c8-4da1-aac5-d38adaa6b088/c677061d-c90e-44df-b154-d0947ac79530
+md5	dfb6dff4158e50fc6533c87d624c08f0

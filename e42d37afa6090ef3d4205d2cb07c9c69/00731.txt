@@ -1,0 +1,7 @@
+signId	731
+text	kast
+imageUuid	3f7a5703-9131-4628-9249-515f93d52f07
+translationKey	b2e18414-4bc1-480c-8603-151a7e6a15a0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3f7a5703-9131-4628-9249-515f93d52f07/b2e18414-4bc1-480c-8603-151a7e6a15a0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3f7a5703-9131-4628-9249-515f93d52f07/b2e18414-4bc1-480c-8603-151a7e6a15a0
+md5	e42d37afa6090ef3d4205d2cb07c9c69

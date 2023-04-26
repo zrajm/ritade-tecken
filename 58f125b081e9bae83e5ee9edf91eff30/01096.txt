@@ -1,0 +1,7 @@
+signId	1096
+text	nästan
+imageUuid	f2c0ced4-635d-44fc-8314-aa533ddd55a5
+translationKey	19ee2f30-2a02-4b8c-afa5-7dec10427499
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f2c0ced4-635d-44fc-8314-aa533ddd55a5/19ee2f30-2a02-4b8c-afa5-7dec10427499/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f2c0ced4-635d-44fc-8314-aa533ddd55a5/19ee2f30-2a02-4b8c-afa5-7dec10427499
+md5	58f125b081e9bae83e5ee9edf91eff30

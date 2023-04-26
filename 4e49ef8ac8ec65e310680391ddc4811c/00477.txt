@@ -1,0 +1,7 @@
+signId	477
+text	gata
+imageUuid	775dbd6c-b5d6-4be3-ab28-d173953a07e2
+translationKey	f89d6bd9-9d20-4f16-8b1b-00866dbebe76
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/775dbd6c-b5d6-4be3-ab28-d173953a07e2/f89d6bd9-9d20-4f16-8b1b-00866dbebe76/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/775dbd6c-b5d6-4be3-ab28-d173953a07e2/f89d6bd9-9d20-4f16-8b1b-00866dbebe76
+md5	4e49ef8ac8ec65e310680391ddc4811c

@@ -1,0 +1,7 @@
+signId	2723
+text	påskägg
+imageUuid	08285b65-9012-4dbc-8ec7-f136d4cd0393
+translationKey	1250ca8d-c50c-4f20-9dcf-9d9ff668052e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/08285b65-9012-4dbc-8ec7-f136d4cd0393/1250ca8d-c50c-4f20-9dcf-9d9ff668052e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/08285b65-9012-4dbc-8ec7-f136d4cd0393/1250ca8d-c50c-4f20-9dcf-9d9ff668052e
+md5	77e800a5c74a14927db43d0a26704529

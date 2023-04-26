@@ -1,0 +1,8 @@
+
+signId	1593
+text	tjugo över
+imageUuid	8a31f919-9163-4344-8472-9b97ef7cfdde
+translationKey	3f3d8b63-f6dd-4945-ae20-dcac37c6e6e5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8a31f919-9163-4344-8472-9b97ef7cfdde/3f3d8b63-f6dd-4945-ae20-dcac37c6e6e5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8a31f919-9163-4344-8472-9b97ef7cfdde/3f3d8b63-f6dd-4945-ae20-dcac37c6e6e5
+md5	2b06ecbb00cd3d5029df0b93f450888d

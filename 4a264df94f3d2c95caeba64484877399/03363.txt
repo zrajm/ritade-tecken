@@ -1,0 +1,7 @@
+signId	3363
+text	levande
+imageUuid	5ca37033-0548-4364-a00d-04bdf664a750
+translationKey	d937c75f-0a99-49ca-b687-d347d811de54
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ca37033-0548-4364-a00d-04bdf664a750/d937c75f-0a99-49ca-b687-d347d811de54/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ca37033-0548-4364-a00d-04bdf664a750/d937c75f-0a99-49ca-b687-d347d811de54
+md5	4a264df94f3d2c95caeba64484877399

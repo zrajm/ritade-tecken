@@ -1,0 +1,7 @@
+signId	1864
+text	rally
+imageUuid	153fc63a-c6de-4ba2-b986-e1f74f25a255
+translationKey	671af990-7bed-438c-a1be-11adcf4977f9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/153fc63a-c6de-4ba2-b986-e1f74f25a255/671af990-7bed-438c-a1be-11adcf4977f9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/153fc63a-c6de-4ba2-b986-e1f74f25a255/671af990-7bed-438c-a1be-11adcf4977f9
+md5	a90558d0affd8f72bd8ffec9c674f0c5

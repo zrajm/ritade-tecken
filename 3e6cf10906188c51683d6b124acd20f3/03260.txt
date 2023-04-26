@@ -1,0 +1,7 @@
+signId	3260
+text	fokusera
+imageUuid	d47997fd-3a7b-4603-b448-1fd02a18f4a4
+translationKey	90f4ff6f-96eb-45b7-a0f1-cbd806aefa65
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d47997fd-3a7b-4603-b448-1fd02a18f4a4/90f4ff6f-96eb-45b7-a0f1-cbd806aefa65/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d47997fd-3a7b-4603-b448-1fd02a18f4a4/90f4ff6f-96eb-45b7-a0f1-cbd806aefa65
+md5	3e6cf10906188c51683d6b124acd20f3

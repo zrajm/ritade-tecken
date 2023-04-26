@@ -1,0 +1,8 @@
+
+signId	1514
+text	stänka
+imageUuid	dcc54568-1c38-47b6-ae9c-852781d03f13
+translationKey	8d8a3774-92c9-422c-9be4-80c0a7efd7c5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dcc54568-1c38-47b6-ae9c-852781d03f13/8d8a3774-92c9-422c-9be4-80c0a7efd7c5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dcc54568-1c38-47b6-ae9c-852781d03f13/8d8a3774-92c9-422c-9be4-80c0a7efd7c5
+md5	9fdb2b258671e8f19a6f5d5ca6a18191

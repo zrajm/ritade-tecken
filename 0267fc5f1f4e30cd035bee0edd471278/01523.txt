@@ -1,0 +1,7 @@
+signId	1523
+text	svamp
+imageUuid	e94ad922-dd52-4a62-80c7-360f5cae8f5f
+translationKey	9621220e-3923-4540-91be-02bbacf9a839
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e94ad922-dd52-4a62-80c7-360f5cae8f5f/9621220e-3923-4540-91be-02bbacf9a839/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e94ad922-dd52-4a62-80c7-360f5cae8f5f/9621220e-3923-4540-91be-02bbacf9a839
+md5	0267fc5f1f4e30cd035bee0edd471278

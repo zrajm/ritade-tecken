@@ -1,0 +1,7 @@
+signId	2034
+text	Alfons Åberg 2
+imageUuid	6a5c010e-6017-4974-b182-b6138f0148ad
+translationKey	f2f95aac-86f8-4aeb-954c-1070066cbea0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6a5c010e-6017-4974-b182-b6138f0148ad/f2f95aac-86f8-4aeb-954c-1070066cbea0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6a5c010e-6017-4974-b182-b6138f0148ad/f2f95aac-86f8-4aeb-954c-1070066cbea0
+md5	5bbcfc140878a12d0411de11fc1c4fc0

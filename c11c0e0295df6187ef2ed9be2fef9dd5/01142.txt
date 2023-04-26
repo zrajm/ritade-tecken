@@ -1,0 +1,7 @@
+signId	1142
+text	park
+imageUuid	af576ca4-7026-424f-9098-abc82c130c97
+translationKey	522e183b-a52e-4843-aafc-4186eeb8ea47
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af576ca4-7026-424f-9098-abc82c130c97/522e183b-a52e-4843-aafc-4186eeb8ea47/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af576ca4-7026-424f-9098-abc82c130c97/522e183b-a52e-4843-aafc-4186eeb8ea47
+md5	c11c0e0295df6187ef2ed9be2fef9dd5

@@ -1,0 +1,7 @@
+signId	2930
+text	bacill
+imageUuid	57aa838a-39ff-4b48-994d-e72530ac5e94
+translationKey	4b39ec9a-fa98-4ddb-8447-7c9e989f1ce1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/57aa838a-39ff-4b48-994d-e72530ac5e94/4b39ec9a-fa98-4ddb-8447-7c9e989f1ce1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/57aa838a-39ff-4b48-994d-e72530ac5e94/4b39ec9a-fa98-4ddb-8447-7c9e989f1ce1
+md5	2c0d9b4606e74b2399d1d652739a1543

@@ -1,0 +1,7 @@
+signId	2880
+text	bingo
+imageUuid	3335bc65-9922-4356-b507-f898dab567c9
+translationKey	7a18d43c-5782-4764-bd0f-97ff813d6f04
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3335bc65-9922-4356-b507-f898dab567c9/7a18d43c-5782-4764-bd0f-97ff813d6f04/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3335bc65-9922-4356-b507-f898dab567c9/7a18d43c-5782-4764-bd0f-97ff813d6f04
+md5	34425fbcfd80a24381cd5e8c0c961d88

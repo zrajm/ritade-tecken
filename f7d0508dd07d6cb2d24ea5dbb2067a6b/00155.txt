@@ -1,0 +1,7 @@
+signId	155
+text	blåsa (med munnen)
+imageUuid	84a31841-b059-4ec1-bf6f-c0ce89c2fceb
+translationKey	3eee9e01-e696-485b-918f-2a11b81bca72
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/84a31841-b059-4ec1-bf6f-c0ce89c2fceb/3eee9e01-e696-485b-918f-2a11b81bca72/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/84a31841-b059-4ec1-bf6f-c0ce89c2fceb/3eee9e01-e696-485b-918f-2a11b81bca72
+md5	f7d0508dd07d6cb2d24ea5dbb2067a6b

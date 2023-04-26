@@ -1,0 +1,8 @@
+
+signId	1201
+text	psykolog
+imageUuid	170428af-9b05-48fa-b81a-9a3b8a9f2506
+translationKey	36306120-2e87-40a8-8a74-a00a2061bf66
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/170428af-9b05-48fa-b81a-9a3b8a9f2506/36306120-2e87-40a8-8a74-a00a2061bf66/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/170428af-9b05-48fa-b81a-9a3b8a9f2506/36306120-2e87-40a8-8a74-a00a2061bf66
+md5	13907534fda0a2ceb6e4a4ad2cec853d

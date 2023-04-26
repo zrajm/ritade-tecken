@@ -1,0 +1,16 @@
+
+signId	2391
+text	skottkärra
+imageUuid	867ee305-631f-4d48-81a9-18a23e48cca8
+translationKey	89b6f7d2-d368-461a-a8f1-b0630895fff7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/867ee305-631f-4d48-81a9-18a23e48cca8/89b6f7d2-d368-461a-a8f1-b0630895fff7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/867ee305-631f-4d48-81a9-18a23e48cca8/89b6f7d2-d368-461a-a8f1-b0630895fff7
+md5	fc7154917ae22b3bb5c53979c326fab4
+
+signId	2979
+text	rullator
+imageUuid	1d043be7-429e-473f-9273-f14d792702e0
+translationKey	ac303d18-b61e-4973-9d9f-ac1952fd83cf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1d043be7-429e-473f-9273-f14d792702e0/ac303d18-b61e-4973-9d9f-ac1952fd83cf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1d043be7-429e-473f-9273-f14d792702e0/ac303d18-b61e-4973-9d9f-ac1952fd83cf
+md5	fc7154917ae22b3bb5c53979c326fab4

@@ -1,0 +1,7 @@
+signId	2699
+text	skurmedel
+imageUuid	b29c2488-c352-4719-a7ec-ebac10e68498
+translationKey	0c281803-7ce5-4f3e-9684-aca55819a658
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b29c2488-c352-4719-a7ec-ebac10e68498/0c281803-7ce5-4f3e-9684-aca55819a658/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b29c2488-c352-4719-a7ec-ebac10e68498/0c281803-7ce5-4f3e-9684-aca55819a658
+md5	b64841df83bd244c7806e7feb303a321

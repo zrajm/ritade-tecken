@@ -1,0 +1,7 @@
+signId	998
+text	miss
+imageUuid	2da72db1-6889-4405-a265-c44c609f0168
+translationKey	1866f45c-ad7b-482f-91aa-e08548e1abba
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2da72db1-6889-4405-a265-c44c609f0168/1866f45c-ad7b-482f-91aa-e08548e1abba/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2da72db1-6889-4405-a265-c44c609f0168/1866f45c-ad7b-482f-91aa-e08548e1abba
+md5	96fdfa62f88a0ca4ab437cbd643af58f

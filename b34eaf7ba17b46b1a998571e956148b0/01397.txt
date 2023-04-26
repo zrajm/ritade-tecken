@@ -1,0 +1,7 @@
+signId	1397
+text	smaskens
+imageUuid	d8a839bb-76cd-4c07-b465-dd19e403dd0c
+translationKey	47276d33-4131-4a9c-98b7-a210d8c89b1a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d8a839bb-76cd-4c07-b465-dd19e403dd0c/47276d33-4131-4a9c-98b7-a210d8c89b1a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d8a839bb-76cd-4c07-b465-dd19e403dd0c/47276d33-4131-4a9c-98b7-a210d8c89b1a
+md5	d163bec6c399b62854327e7654f4bbdf

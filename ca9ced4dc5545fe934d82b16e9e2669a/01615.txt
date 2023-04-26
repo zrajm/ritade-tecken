@@ -1,0 +1,7 @@
+signId	1615
+text	trofast
+imageUuid	49f09bf2-164c-4658-8497-f5ff420cda84
+translationKey	c783da0e-564d-4d71-95fe-83aec6283b58
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/49f09bf2-164c-4658-8497-f5ff420cda84/c783da0e-564d-4d71-95fe-83aec6283b58/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/49f09bf2-164c-4658-8497-f5ff420cda84/c783da0e-564d-4d71-95fe-83aec6283b58
+md5	ca9ced4dc5545fe934d82b16e9e2669a

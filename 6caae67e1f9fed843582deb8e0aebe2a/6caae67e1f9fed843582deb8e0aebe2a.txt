@@ -1,0 +1,8 @@
+
+signId	368
+text	finger
+imageUuid	3a443456-69b1-4fd3-a7a7-07f01dc50c5e
+translationKey	3aa7bd3e-ce19-4701-a8c1-d30cd5ddbb2f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a443456-69b1-4fd3-a7a7-07f01dc50c5e/3aa7bd3e-ce19-4701-a8c1-d30cd5ddbb2f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a443456-69b1-4fd3-a7a7-07f01dc50c5e/3aa7bd3e-ce19-4701-a8c1-d30cd5ddbb2f
+md5	6caae67e1f9fed843582deb8e0aebe2a

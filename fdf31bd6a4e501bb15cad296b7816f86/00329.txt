@@ -1,0 +1,7 @@
+signId	329
+text	enormt
+imageUuid	9ede2a1b-280a-4939-88bc-210552f96216
+translationKey	3794566e-43b0-4c73-96b0-2b10eb0b7f16
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9ede2a1b-280a-4939-88bc-210552f96216/3794566e-43b0-4c73-96b0-2b10eb0b7f16/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9ede2a1b-280a-4939-88bc-210552f96216/3794566e-43b0-4c73-96b0-2b10eb0b7f16
+md5	fdf31bd6a4e501bb15cad296b7816f86

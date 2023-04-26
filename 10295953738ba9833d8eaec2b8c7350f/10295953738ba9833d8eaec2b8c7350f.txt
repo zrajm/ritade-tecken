@@ -1,0 +1,8 @@
+
+signId	744
+text	kjol
+imageUuid	c5a7c241-ca84-4b9e-8046-4361297fd027
+translationKey	e50bd919-c7b4-4845-8d53-55c9164f2c6c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c5a7c241-ca84-4b9e-8046-4361297fd027/e50bd919-c7b4-4845-8d53-55c9164f2c6c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c5a7c241-ca84-4b9e-8046-4361297fd027/e50bd919-c7b4-4845-8d53-55c9164f2c6c
+md5	10295953738ba9833d8eaec2b8c7350f

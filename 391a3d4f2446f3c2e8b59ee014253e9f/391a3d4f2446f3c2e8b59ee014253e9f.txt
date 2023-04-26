@@ -1,0 +1,8 @@
+
+signId	3413
+text	Skype
+imageUuid	c17f4b78-5947-4931-b100-3e3c77fe2abc
+translationKey	4ff48a2d-4eab-467b-865b-011eb1114042
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c17f4b78-5947-4931-b100-3e3c77fe2abc/4ff48a2d-4eab-467b-865b-011eb1114042/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c17f4b78-5947-4931-b100-3e3c77fe2abc/4ff48a2d-4eab-467b-865b-011eb1114042
+md5	391a3d4f2446f3c2e8b59ee014253e9f

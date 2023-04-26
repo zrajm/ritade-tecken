@@ -1,0 +1,32 @@
+
+signId	527
+text	gullig
+imageUuid	3a12edd0-e9ed-4f28-a25f-84816a6d4d70
+translationKey	9acda663-09cb-40b4-9819-f112f75aa1b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a12edd0-e9ed-4f28-a25f-84816a6d4d70/9acda663-09cb-40b4-9819-f112f75aa1b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a12edd0-e9ed-4f28-a25f-84816a6d4d70/9acda663-09cb-40b4-9819-f112f75aa1b5
+md5	4e5b5296c7bf56dc0674af5fde1d55f4
+
+signId	901
+text	liten 2
+imageUuid	296d6034-f354-4acc-8d7a-02c7b7b47f30
+translationKey	b8fa363c-3441-476a-ba7e-03be2bc617e0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/296d6034-f354-4acc-8d7a-02c7b7b47f30/b8fa363c-3441-476a-ba7e-03be2bc617e0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/296d6034-f354-4acc-8d7a-02c7b7b47f30/b8fa363c-3441-476a-ba7e-03be2bc617e0
+md5	4e5b5296c7bf56dc0674af5fde1d55f4
+
+signId	1231
+text	rar
+imageUuid	9835d3b2-7305-4c0b-9df1-bf4e068e10df
+translationKey	43f560ba-0112-4a55-ab36-93c701c46409
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9835d3b2-7305-4c0b-9df1-bf4e068e10df/43f560ba-0112-4a55-ab36-93c701c46409/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9835d3b2-7305-4c0b-9df1-bf4e068e10df/43f560ba-0112-4a55-ab36-93c701c46409
+md5	4e5b5296c7bf56dc0674af5fde1d55f4
+
+signId	1550
+text	söt
+imageUuid	ea56f1c7-3354-47d5-a5b1-dd9e949d2e75
+translationKey	b424b71a-f274-487e-ba57-2961bfcf06b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea56f1c7-3354-47d5-a5b1-dd9e949d2e75/b424b71a-f274-487e-ba57-2961bfcf06b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea56f1c7-3354-47d5-a5b1-dd9e949d2e75/b424b71a-f274-487e-ba57-2961bfcf06b6
+md5	4e5b5296c7bf56dc0674af5fde1d55f4

@@ -1,0 +1,7 @@
+signId	1982
+text	rektangel
+imageUuid	f81e4b77-486b-4dc9-92c6-cb35df86164b
+translationKey	b0f5eb5f-3bb3-4807-bd21-71331bf4835f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f81e4b77-486b-4dc9-92c6-cb35df86164b/b0f5eb5f-3bb3-4807-bd21-71331bf4835f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f81e4b77-486b-4dc9-92c6-cb35df86164b/b0f5eb5f-3bb3-4807-bd21-71331bf4835f
+md5	e2904142c6879761a98803ab1b8c48ea

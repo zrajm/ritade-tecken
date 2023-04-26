@@ -1,0 +1,7 @@
+signId	1205
+text	puss på kinden
+imageUuid	ba05223b-3361-4de5-b6e4-7ff639028207
+translationKey	346f845d-0220-4fab-b57d-dd852e966409
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ba05223b-3361-4de5-b6e4-7ff639028207/346f845d-0220-4fab-b57d-dd852e966409/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ba05223b-3361-4de5-b6e4-7ff639028207/346f845d-0220-4fab-b57d-dd852e966409
+md5	ee86de37b3537f7d19bc6806312c5ac3

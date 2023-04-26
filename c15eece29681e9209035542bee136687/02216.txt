@@ -1,0 +1,7 @@
+signId	2216
+text	efterrätt
+imageUuid	0bae48ea-1564-4aca-8e51-5c048b978275
+translationKey	a4ff6797-111c-4cae-bf7d-921294d71677
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0bae48ea-1564-4aca-8e51-5c048b978275/a4ff6797-111c-4cae-bf7d-921294d71677/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0bae48ea-1564-4aca-8e51-5c048b978275/a4ff6797-111c-4cae-bf7d-921294d71677
+md5	c15eece29681e9209035542bee136687

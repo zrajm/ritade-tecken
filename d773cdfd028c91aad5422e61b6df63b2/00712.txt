@@ -1,0 +1,7 @@
+signId	712
+text	kaka
+imageUuid	1fdebced-6ebc-476e-b749-cbb58359c0b4
+translationKey	06d0edb4-84e8-4ab8-bd15-55cbd953d000
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1fdebced-6ebc-476e-b749-cbb58359c0b4/06d0edb4-84e8-4ab8-bd15-55cbd953d000/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1fdebced-6ebc-476e-b749-cbb58359c0b4/06d0edb4-84e8-4ab8-bd15-55cbd953d000
+md5	d773cdfd028c91aad5422e61b6df63b2

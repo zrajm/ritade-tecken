@@ -1,0 +1,16 @@
+
+signId	902
+text	liten 3
+imageUuid	7f17a55a-bd75-4aba-ad8a-cf93859648a4
+translationKey	10fef3aa-d759-4df9-b3ef-990d1152b23f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f17a55a-bd75-4aba-ad8a-cf93859648a4/10fef3aa-d759-4df9-b3ef-990d1152b23f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f17a55a-bd75-4aba-ad8a-cf93859648a4/10fef3aa-d759-4df9-b3ef-990d1152b23f
+md5	fbc9a674fcf801c0d55ff25c68b161cd
+
+signId	3266
+text	term
+imageUuid	64443e3e-e4f5-4de1-9e83-afb99a9fb89b
+translationKey	0aed7114-7646-4e51-a1b2-bf865a62be75
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/64443e3e-e4f5-4de1-9e83-afb99a9fb89b/0aed7114-7646-4e51-a1b2-bf865a62be75/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/64443e3e-e4f5-4de1-9e83-afb99a9fb89b/0aed7114-7646-4e51-a1b2-bf865a62be75
+md5	fbc9a674fcf801c0d55ff25c68b161cd

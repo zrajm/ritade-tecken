@@ -1,0 +1,8 @@
+
+signId	2640
+text	hårtork
+imageUuid	cc35491d-bd0d-4c91-abbe-0f06469349e1
+translationKey	56729981-9455-411b-80e7-bdbb3c17c3e4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cc35491d-bd0d-4c91-abbe-0f06469349e1/56729981-9455-411b-80e7-bdbb3c17c3e4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cc35491d-bd0d-4c91-abbe-0f06469349e1/56729981-9455-411b-80e7-bdbb3c17c3e4
+md5	f15ab7b51c6e8e60d9c41909f18221f4

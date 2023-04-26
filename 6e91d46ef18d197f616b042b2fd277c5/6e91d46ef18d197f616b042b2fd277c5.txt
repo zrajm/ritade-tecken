@@ -1,0 +1,16 @@
+
+signId	2532
+text	vass
+imageUuid	251f45ce-2a3f-42ac-8cbb-68e2f3dcde66
+translationKey	f2da808f-e833-43d1-b6c0-8f9de26c6599
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/251f45ce-2a3f-42ac-8cbb-68e2f3dcde66/f2da808f-e833-43d1-b6c0-8f9de26c6599/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/251f45ce-2a3f-42ac-8cbb-68e2f3dcde66/f2da808f-e833-43d1-b6c0-8f9de26c6599
+md5	6e91d46ef18d197f616b042b2fd277c5
+
+signId	3179
+text	slö
+imageUuid	c06abf8e-dafb-431a-8dfc-37d3dfa9e98b
+translationKey	1c8349e2-7e7b-4756-bac4-0f56e7522010
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c06abf8e-dafb-431a-8dfc-37d3dfa9e98b/1c8349e2-7e7b-4756-bac4-0f56e7522010/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c06abf8e-dafb-431a-8dfc-37d3dfa9e98b/1c8349e2-7e7b-4756-bac4-0f56e7522010
+md5	6e91d46ef18d197f616b042b2fd277c5

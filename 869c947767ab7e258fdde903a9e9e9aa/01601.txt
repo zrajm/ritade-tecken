@@ -1,0 +1,7 @@
+signId	1601
+text	torka av 1
+imageUuid	98565e03-a2f3-4404-8467-8304ebe29bc0
+translationKey	8caeddd7-7ccb-4e84-bfb7-665714578ac7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/98565e03-a2f3-4404-8467-8304ebe29bc0/8caeddd7-7ccb-4e84-bfb7-665714578ac7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/98565e03-a2f3-4404-8467-8304ebe29bc0/8caeddd7-7ccb-4e84-bfb7-665714578ac7
+md5	869c947767ab7e258fdde903a9e9e9aa

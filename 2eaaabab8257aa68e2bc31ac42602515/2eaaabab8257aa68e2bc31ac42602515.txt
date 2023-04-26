@@ -1,0 +1,8 @@
+
+signId	2968
+text	spotta
+imageUuid	86b8204b-54ae-4776-8a29-147c94214b1a
+translationKey	1ae95d31-ee97-4c63-8017-3c5d1cddb45c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86b8204b-54ae-4776-8a29-147c94214b1a/1ae95d31-ee97-4c63-8017-3c5d1cddb45c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86b8204b-54ae-4776-8a29-147c94214b1a/1ae95d31-ee97-4c63-8017-3c5d1cddb45c
+md5	2eaaabab8257aa68e2bc31ac42602515

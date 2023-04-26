@@ -1,0 +1,8 @@
+
+signId	986
+text	middag (måltid)
+imageUuid	c0c1ba96-8a89-49af-b7a3-1e6cb9647e57
+translationKey	8d3dca07-fa5e-47b5-b219-45bc5e9c2222
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c0c1ba96-8a89-49af-b7a3-1e6cb9647e57/8d3dca07-fa5e-47b5-b219-45bc5e9c2222/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c0c1ba96-8a89-49af-b7a3-1e6cb9647e57/8d3dca07-fa5e-47b5-b219-45bc5e9c2222
+md5	ca6e315751f770ae4483df8dc19b5d75

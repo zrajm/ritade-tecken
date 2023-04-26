@@ -1,0 +1,8 @@
+
+signId	1540
+text	sår
+imageUuid	053e6b76-ed13-428b-bfd8-7fbf98ebe79f
+translationKey	29b3906a-a2a1-43ea-bed4-cb12bbf55ca0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/053e6b76-ed13-428b-bfd8-7fbf98ebe79f/29b3906a-a2a1-43ea-bed4-cb12bbf55ca0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/053e6b76-ed13-428b-bfd8-7fbf98ebe79f/29b3906a-a2a1-43ea-bed4-cb12bbf55ca0
+md5	b847de43b0a60a7a01688f9f9bd1abcb

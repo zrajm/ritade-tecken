@@ -1,0 +1,7 @@
+signId	1571
+text	tejp
+imageUuid	547c4d0d-b4e5-4da6-8597-19fa87b7d6df
+translationKey	d105e0fa-8896-45b0-a866-c7abe230514a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/547c4d0d-b4e5-4da6-8597-19fa87b7d6df/d105e0fa-8896-45b0-a866-c7abe230514a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/547c4d0d-b4e5-4da6-8597-19fa87b7d6df/d105e0fa-8896-45b0-a866-c7abe230514a
+md5	916d91e0c1506ec0e9347ae5d323605e

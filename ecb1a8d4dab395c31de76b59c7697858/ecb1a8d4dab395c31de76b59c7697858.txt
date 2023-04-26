@@ -1,0 +1,8 @@
+
+signId	589
+text	himmel
+imageUuid	2bddc9cf-62a5-4a51-af63-e15745f5ece9
+translationKey	23cd13f4-3031-456a-a630-f0338b24742a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2bddc9cf-62a5-4a51-af63-e15745f5ece9/23cd13f4-3031-456a-a630-f0338b24742a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2bddc9cf-62a5-4a51-af63-e15745f5ece9/23cd13f4-3031-456a-a630-f0338b24742a
+md5	ecb1a8d4dab395c31de76b59c7697858

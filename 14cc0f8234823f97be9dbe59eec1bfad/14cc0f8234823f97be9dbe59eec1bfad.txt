@@ -1,0 +1,8 @@
+
+signId	765
+text	klänning
+imageUuid	75944d22-2321-40a9-80e4-018c2616494f
+translationKey	920eee74-01a7-49dd-8384-ae61ab42bdf4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/75944d22-2321-40a9-80e4-018c2616494f/920eee74-01a7-49dd-8384-ae61ab42bdf4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/75944d22-2321-40a9-80e4-018c2616494f/920eee74-01a7-49dd-8384-ae61ab42bdf4
+md5	14cc0f8234823f97be9dbe59eec1bfad

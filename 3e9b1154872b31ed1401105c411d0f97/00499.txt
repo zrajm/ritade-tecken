@@ -1,0 +1,7 @@
+signId	499
+text	golv
+imageUuid	27e99172-8a4f-4f85-b42b-73a500f06445
+translationKey	7b2d5b54-2d2d-4349-903e-ce91706574ba
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/27e99172-8a4f-4f85-b42b-73a500f06445/7b2d5b54-2d2d-4349-903e-ce91706574ba/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/27e99172-8a4f-4f85-b42b-73a500f06445/7b2d5b54-2d2d-4349-903e-ce91706574ba
+md5	3e9b1154872b31ed1401105c411d0f97

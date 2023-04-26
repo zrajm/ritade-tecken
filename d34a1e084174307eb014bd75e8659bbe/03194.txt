@@ -1,0 +1,7 @@
+signId	3194
+text	brott
+imageUuid	d66aa04c-fbe1-4d02-ab51-f67149fa6ce0
+translationKey	c66ba608-e7a9-4d30-9c3e-8505c2c73559
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d66aa04c-fbe1-4d02-ab51-f67149fa6ce0/c66ba608-e7a9-4d30-9c3e-8505c2c73559/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d66aa04c-fbe1-4d02-ab51-f67149fa6ce0/c66ba608-e7a9-4d30-9c3e-8505c2c73559
+md5	d34a1e084174307eb014bd75e8659bbe

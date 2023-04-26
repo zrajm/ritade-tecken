@@ -1,0 +1,8 @@
+
+signId	1373
+text	skåpbil
+imageUuid	3bccadad-40b3-4ccf-a291-cba5b2c86736
+translationKey	88720175-70dc-4685-854b-e54bb3b91a6a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3bccadad-40b3-4ccf-a291-cba5b2c86736/88720175-70dc-4685-854b-e54bb3b91a6a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3bccadad-40b3-4ccf-a291-cba5b2c86736/88720175-70dc-4685-854b-e54bb3b91a6a
+md5	47870e2fd7cd6df57f55afa2dce479fc

@@ -1,0 +1,7 @@
+signId	3130
+text	potatisskalare
+imageUuid	05e30fe4-0e16-4c74-a702-5ac922acc254
+translationKey	f6f1c9ec-faf6-42ef-b0cb-a48125f46934
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/05e30fe4-0e16-4c74-a702-5ac922acc254/f6f1c9ec-faf6-42ef-b0cb-a48125f46934/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/05e30fe4-0e16-4c74-a702-5ac922acc254/f6f1c9ec-faf6-42ef-b0cb-a48125f46934
+md5	2d8b93169fa190b89d31515e8434b10a

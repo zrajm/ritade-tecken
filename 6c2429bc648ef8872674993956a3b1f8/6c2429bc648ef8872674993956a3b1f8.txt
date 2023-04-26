@@ -1,0 +1,8 @@
+
+signId	3343
+text	rotera
+imageUuid	7038bef9-344b-4a2f-8aea-2054d045d3b2
+translationKey	c94891fd-fd32-4859-a51e-25c37bf0757e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7038bef9-344b-4a2f-8aea-2054d045d3b2/c94891fd-fd32-4859-a51e-25c37bf0757e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7038bef9-344b-4a2f-8aea-2054d045d3b2/c94891fd-fd32-4859-a51e-25c37bf0757e
+md5	6c2429bc648ef8872674993956a3b1f8

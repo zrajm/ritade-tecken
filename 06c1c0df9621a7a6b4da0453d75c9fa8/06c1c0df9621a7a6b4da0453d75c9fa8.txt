@@ -1,0 +1,8 @@
+
+signId	3389
+text	födelsemärke
+imageUuid	9655c679-07b3-4e81-b64c-249637846432
+translationKey	c2f0032d-5d45-4539-ba8b-ec20644312a0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9655c679-07b3-4e81-b64c-249637846432/c2f0032d-5d45-4539-ba8b-ec20644312a0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9655c679-07b3-4e81-b64c-249637846432/c2f0032d-5d45-4539-ba8b-ec20644312a0
+md5	06c1c0df9621a7a6b4da0453d75c9fa8

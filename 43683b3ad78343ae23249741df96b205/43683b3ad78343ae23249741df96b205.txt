@@ -1,0 +1,16 @@
+
+signId	705
+text	järnväg
+imageUuid	32bd929f-873e-4bff-896b-4422ef7e4004
+translationKey	df34f2ef-88ff-40e7-b8df-ea0c5947e30d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/32bd929f-873e-4bff-896b-4422ef7e4004/df34f2ef-88ff-40e7-b8df-ea0c5947e30d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/32bd929f-873e-4bff-896b-4422ef7e4004/df34f2ef-88ff-40e7-b8df-ea0c5947e30d
+md5	43683b3ad78343ae23249741df96b205
+
+signId	1659
+text	tåg
+imageUuid	62eda035-8291-4327-a5dd-da572952bf28
+translationKey	961dae6b-a1a9-428b-9ff5-d4a7b45e010f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/62eda035-8291-4327-a5dd-da572952bf28/961dae6b-a1a9-428b-9ff5-d4a7b45e010f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/62eda035-8291-4327-a5dd-da572952bf28/961dae6b-a1a9-428b-9ff5-d4a7b45e010f
+md5	43683b3ad78343ae23249741df96b205

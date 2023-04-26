@@ -1,0 +1,7 @@
+signId	686
+text	jag
+imageUuid	3a1fc060-9779-4bc0-8650-27d6bb8af54c
+translationKey	57bc1d6d-f871-4d5f-a576-35106e4dac34
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a1fc060-9779-4bc0-8650-27d6bb8af54c/57bc1d6d-f871-4d5f-a576-35106e4dac34/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a1fc060-9779-4bc0-8650-27d6bb8af54c/57bc1d6d-f871-4d5f-a576-35106e4dac34
+md5	6cd0b35527aa2bbc1b4da674d9ac3c3d

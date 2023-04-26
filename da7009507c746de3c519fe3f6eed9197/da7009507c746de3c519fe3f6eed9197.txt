@@ -1,0 +1,8 @@
+
+signId	1184
+text	potta
+imageUuid	af336a96-1bf5-4138-bfb3-0af1fd68dc6f
+translationKey	f39a0f32-2905-4ba6-9715-3e0b1aca18fe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af336a96-1bf5-4138-bfb3-0af1fd68dc6f/f39a0f32-2905-4ba6-9715-3e0b1aca18fe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af336a96-1bf5-4138-bfb3-0af1fd68dc6f/f39a0f32-2905-4ba6-9715-3e0b1aca18fe
+md5	da7009507c746de3c519fe3f6eed9197

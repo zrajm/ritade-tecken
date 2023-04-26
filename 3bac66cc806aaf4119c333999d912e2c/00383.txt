@@ -1,0 +1,7 @@
+signId	383
+text	flod
+imageUuid	bf3fb206-505f-4702-89e5-ddc5fe9ec37b
+translationKey	b3a97a56-f608-4f59-b603-13d0cc4d0829
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bf3fb206-505f-4702-89e5-ddc5fe9ec37b/b3a97a56-f608-4f59-b603-13d0cc4d0829/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bf3fb206-505f-4702-89e5-ddc5fe9ec37b/b3a97a56-f608-4f59-b603-13d0cc4d0829
+md5	3bac66cc806aaf4119c333999d912e2c

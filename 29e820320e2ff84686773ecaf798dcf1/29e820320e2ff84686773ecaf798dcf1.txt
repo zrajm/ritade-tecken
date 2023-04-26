@@ -1,0 +1,8 @@
+
+signId	572
+text	har inte (äger inte)
+imageUuid	4fa2598e-4213-44b0-a326-ded2b36ebd78
+translationKey	4c10858f-b72e-419c-86d3-06c17c711d2b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4fa2598e-4213-44b0-a326-ded2b36ebd78/4c10858f-b72e-419c-86d3-06c17c711d2b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4fa2598e-4213-44b0-a326-ded2b36ebd78/4c10858f-b72e-419c-86d3-06c17c711d2b
+md5	29e820320e2ff84686773ecaf798dcf1

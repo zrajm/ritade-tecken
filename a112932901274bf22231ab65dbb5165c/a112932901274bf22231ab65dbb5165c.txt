@@ -1,0 +1,24 @@
+
+signId	1364
+text	skrämma
+imageUuid	fc78afeb-32c4-4ba9-a85a-a307453c5e7e
+translationKey	17a9fd73-5cc2-4104-9618-e08c3b478a48
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fc78afeb-32c4-4ba9-a85a-a307453c5e7e/17a9fd73-5cc2-4104-9618-e08c3b478a48/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fc78afeb-32c4-4ba9-a85a-a307453c5e7e/17a9fd73-5cc2-4104-9618-e08c3b478a48
+md5	a112932901274bf22231ab65dbb5165c
+
+signId	1847
+text	monster
+imageUuid	99e4ee5c-fa68-4053-99e6-b9cd8c714973
+translationKey	6270f357-33af-4587-8594-bf34db53aa4d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/99e4ee5c-fa68-4053-99e6-b9cd8c714973/6270f357-33af-4587-8594-bf34db53aa4d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/99e4ee5c-fa68-4053-99e6-b9cd8c714973/6270f357-33af-4587-8594-bf34db53aa4d
+md5	a112932901274bf22231ab65dbb5165c
+
+signId	1957
+text	spöke 2
+imageUuid	fc7f91fd-8bd2-4b8f-acae-4c87a488d920
+translationKey	be4ac27b-ec9e-46be-9503-8e8445b3a728
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fc7f91fd-8bd2-4b8f-acae-4c87a488d920/be4ac27b-ec9e-46be-9503-8e8445b3a728/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fc7f91fd-8bd2-4b8f-acae-4c87a488d920/be4ac27b-ec9e-46be-9503-8e8445b3a728
+md5	a112932901274bf22231ab65dbb5165c

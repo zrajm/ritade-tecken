@@ -1,0 +1,8 @@
+
+signId	1875
+text	på en gång
+imageUuid	f0c0fdae-48c6-412e-b6da-aa280570d7bc
+translationKey	ff5a3fc4-8132-44e5-a2ef-180199f8b862
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f0c0fdae-48c6-412e-b6da-aa280570d7bc/ff5a3fc4-8132-44e5-a2ef-180199f8b862/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f0c0fdae-48c6-412e-b6da-aa280570d7bc/ff5a3fc4-8132-44e5-a2ef-180199f8b862
+md5	5b5302be05281927ebb9aa00fa417763

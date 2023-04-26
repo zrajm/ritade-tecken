@@ -1,0 +1,16 @@
+
+signId	2121
+text	iväg
+imageUuid	2efa324d-4f88-4334-bfbd-a3b2f691e97b
+translationKey	68c5caff-9dec-4cd1-9b2b-097d9bceedf6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2efa324d-4f88-4334-bfbd-a3b2f691e97b/68c5caff-9dec-4cd1-9b2b-097d9bceedf6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2efa324d-4f88-4334-bfbd-a3b2f691e97b/68c5caff-9dec-4cd1-9b2b-097d9bceedf6
+md5	01f2de9b82c9d29e266f2253a5e16c3f
+
+signId	2151
+text	sticka iväg
+imageUuid	3cccacf5-9bd0-4f8a-9e97-b49354dd608b
+translationKey	8e6dc8c5-af68-4baa-b34c-5f1357f4b9ba
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3cccacf5-9bd0-4f8a-9e97-b49354dd608b/8e6dc8c5-af68-4baa-b34c-5f1357f4b9ba/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3cccacf5-9bd0-4f8a-9e97-b49354dd608b/8e6dc8c5-af68-4baa-b34c-5f1357f4b9ba
+md5	01f2de9b82c9d29e266f2253a5e16c3f

@@ -1,0 +1,16 @@
+
+signId	357
+text	femtio (tal)
+imageUuid	c2c3b3a4-dad0-4ad6-a215-123533047fb0
+translationKey	0e95e109-be57-48e9-8f5f-f33668015c52
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c2c3b3a4-dad0-4ad6-a215-123533047fb0/0e95e109-be57-48e9-8f5f-f33668015c52/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c2c3b3a4-dad0-4ad6-a215-123533047fb0/0e95e109-be57-48e9-8f5f-f33668015c52
+md5	9ccb3c1c089d1d4c03240323f65c381a
+
+signId	2852
+text	50 (tal)
+imageUuid	f2e1db06-487c-440b-8bfd-af2dcc662c10
+translationKey	c6e6e2f7-4828-45dd-bbba-ea7ebcdfdbb8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f2e1db06-487c-440b-8bfd-af2dcc662c10/c6e6e2f7-4828-45dd-bbba-ea7ebcdfdbb8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f2e1db06-487c-440b-8bfd-af2dcc662c10/c6e6e2f7-4828-45dd-bbba-ea7ebcdfdbb8
+md5	9ccb3c1c089d1d4c03240323f65c381a

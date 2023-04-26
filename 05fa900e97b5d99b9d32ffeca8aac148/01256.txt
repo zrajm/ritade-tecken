@@ -1,0 +1,7 @@
+signId	1256
+text	rot
+imageUuid	414ab8a2-fd53-45af-b7d4-332a7e78de1b
+translationKey	ccc7b501-6d9c-4dc0-83b0-fcf72347fbfa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/414ab8a2-fd53-45af-b7d4-332a7e78de1b/ccc7b501-6d9c-4dc0-83b0-fcf72347fbfa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/414ab8a2-fd53-45af-b7d4-332a7e78de1b/ccc7b501-6d9c-4dc0-83b0-fcf72347fbfa
+md5	05fa900e97b5d99b9d32ffeca8aac148

@@ -1,0 +1,7 @@
+signId	2741
+text	snowboard
+imageUuid	b8e38141-f680-4469-ab88-4a0aaf02556b
+translationKey	6cf7d409-f129-477b-8d97-87d25dbf5af2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b8e38141-f680-4469-ab88-4a0aaf02556b/6cf7d409-f129-477b-8d97-87d25dbf5af2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b8e38141-f680-4469-ab88-4a0aaf02556b/6cf7d409-f129-477b-8d97-87d25dbf5af2
+md5	bb67f483063ca19a4e4efdd821f2ca39

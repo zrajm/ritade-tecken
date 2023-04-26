@@ -1,0 +1,8 @@
+
+signId	2294
+text	plocka upp
+imageUuid	2af3b0ac-1cfa-4ca4-82dc-46871ea43be0
+translationKey	71fde858-cfff-421a-ad3a-7595cf09e2fe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2af3b0ac-1cfa-4ca4-82dc-46871ea43be0/71fde858-cfff-421a-ad3a-7595cf09e2fe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2af3b0ac-1cfa-4ca4-82dc-46871ea43be0/71fde858-cfff-421a-ad3a-7595cf09e2fe
+md5	1c6891de6e04147fc091ca67c7cac071

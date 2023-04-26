@@ -1,0 +1,8 @@
+
+signId	3097
+text	Ukraina
+imageUuid	c49d3099-b335-4ea1-a30b-61b01b1859da
+translationKey	3e34969c-8a68-469f-b3a1-eb3079462382
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c49d3099-b335-4ea1-a30b-61b01b1859da/3e34969c-8a68-469f-b3a1-eb3079462382/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c49d3099-b335-4ea1-a30b-61b01b1859da/3e34969c-8a68-469f-b3a1-eb3079462382
+md5	03299017fae8e94a620e27e0049bdd02

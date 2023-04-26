@@ -1,0 +1,8 @@
+
+signId	2576
+text	fjäll
+imageUuid	9107cd34-0975-4192-bb95-28cc93586d4d
+translationKey	1bf73b4a-2f52-40bb-8bf1-bbb1d021be17
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9107cd34-0975-4192-bb95-28cc93586d4d/1bf73b4a-2f52-40bb-8bf1-bbb1d021be17/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9107cd34-0975-4192-bb95-28cc93586d4d/1bf73b4a-2f52-40bb-8bf1-bbb1d021be17
+md5	0c2d0cc3fdf3380aac14ecd275311478

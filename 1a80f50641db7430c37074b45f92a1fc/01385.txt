@@ -1,0 +1,7 @@
+signId	1385
+text	sluta
+imageUuid	bcb0b067-8145-440f-8cbe-f9b2d45de2ae
+translationKey	a9805407-76df-4ffd-bdc7-7388c8b38295
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bcb0b067-8145-440f-8cbe-f9b2d45de2ae/a9805407-76df-4ffd-bdc7-7388c8b38295/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bcb0b067-8145-440f-8cbe-f9b2d45de2ae/a9805407-76df-4ffd-bdc7-7388c8b38295
+md5	598636fa9dd8ca3b7f1f041f34bd37ce

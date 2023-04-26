@@ -1,0 +1,8 @@
+
+signId	2315
+text	ångest
+imageUuid	0e03dbca-2527-489b-b4a0-6b09ddd67d88
+translationKey	a37df965-67bd-49fe-9dc3-d867bfb9f568
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0e03dbca-2527-489b-b4a0-6b09ddd67d88/a37df965-67bd-49fe-9dc3-d867bfb9f568/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0e03dbca-2527-489b-b4a0-6b09ddd67d88/a37df965-67bd-49fe-9dc3-d867bfb9f568
+md5	3529b669175a306a2e5aac18944519db

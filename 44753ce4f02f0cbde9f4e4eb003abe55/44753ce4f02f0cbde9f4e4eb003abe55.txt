@@ -1,0 +1,8 @@
+
+signId	3338
+text	påverka
+imageUuid	a789c3f1-649a-48aa-85d7-3fa98985a18c
+translationKey	e77f4423-26dc-4748-a27a-70038f79888f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a789c3f1-649a-48aa-85d7-3fa98985a18c/e77f4423-26dc-4748-a27a-70038f79888f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a789c3f1-649a-48aa-85d7-3fa98985a18c/e77f4423-26dc-4748-a27a-70038f79888f
+md5	44753ce4f02f0cbde9f4e4eb003abe55

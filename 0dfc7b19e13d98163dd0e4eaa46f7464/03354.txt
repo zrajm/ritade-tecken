@@ -1,0 +1,7 @@
+signId	3354
+text	sura
+imageUuid	77469db4-63ee-446a-afc2-7f808dc641d5
+translationKey	0b25776c-0721-4c9d-a8fd-f57b75d20acf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/77469db4-63ee-446a-afc2-7f808dc641d5/0b25776c-0721-4c9d-a8fd-f57b75d20acf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/77469db4-63ee-446a-afc2-7f808dc641d5/0b25776c-0721-4c9d-a8fd-f57b75d20acf
+md5	0dfc7b19e13d98163dd0e4eaa46f7464

@@ -1,0 +1,7 @@
+signId	3263
+text	kontakta
+imageUuid	6bd19338-cd61-4a4c-8f08-7f6b7cb7a6ec
+translationKey	75d64ce3-d029-440e-9cb2-7460fa8f9e78
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6bd19338-cd61-4a4c-8f08-7f6b7cb7a6ec/75d64ce3-d029-440e-9cb2-7460fa8f9e78/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6bd19338-cd61-4a4c-8f08-7f6b7cb7a6ec/75d64ce3-d029-440e-9cb2-7460fa8f9e78
+md5	e3530d1c8cd351cba315a8929591309e

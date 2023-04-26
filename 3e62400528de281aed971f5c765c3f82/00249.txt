@@ -1,0 +1,7 @@
+signId	249
+text	dammsugare
+imageUuid	3eafd579-e432-4478-9f8f-a7f433bd59f8
+translationKey	5de7be39-d9fe-438a-8357-b83f92abbb81
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3eafd579-e432-4478-9f8f-a7f433bd59f8/5de7be39-d9fe-438a-8357-b83f92abbb81/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3eafd579-e432-4478-9f8f-a7f433bd59f8/5de7be39-d9fe-438a-8357-b83f92abbb81
+md5	3e62400528de281aed971f5c765c3f82

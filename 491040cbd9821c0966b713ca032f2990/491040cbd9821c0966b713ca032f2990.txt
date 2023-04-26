@@ -1,0 +1,8 @@
+
+signId	2525
+text	spela (t ex fotboll)
+imageUuid	0e39a5d3-1338-482a-92f3-f3bbfe281c61
+translationKey	8e5e7486-a3a2-4b97-99d5-c66239915208
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0e39a5d3-1338-482a-92f3-f3bbfe281c61/8e5e7486-a3a2-4b97-99d5-c66239915208/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0e39a5d3-1338-482a-92f3-f3bbfe281c61/8e5e7486-a3a2-4b97-99d5-c66239915208
+md5	491040cbd9821c0966b713ca032f2990

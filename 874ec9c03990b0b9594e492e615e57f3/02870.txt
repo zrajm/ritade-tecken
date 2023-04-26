@@ -1,0 +1,7 @@
+signId	2870
+text	80 (tal)
+imageUuid	8c1cdd4e-933e-47c8-a776-8c42448dddb3
+translationKey	c6d73593-5088-490b-971d-75aeb83ce6bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c1cdd4e-933e-47c8-a776-8c42448dddb3/c6d73593-5088-490b-971d-75aeb83ce6bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c1cdd4e-933e-47c8-a776-8c42448dddb3/c6d73593-5088-490b-971d-75aeb83ce6bf
+md5	874ec9c03990b0b9594e492e615e57f3

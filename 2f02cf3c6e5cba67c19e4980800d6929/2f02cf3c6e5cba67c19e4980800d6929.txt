@@ -1,0 +1,8 @@
+
+signId	952
+text	M (bokstav)
+imageUuid	aa6b8f60-1768-438f-b664-fb99ce10cbc6
+translationKey	49de916a-f082-4263-b1a1-74bda92e43c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aa6b8f60-1768-438f-b664-fb99ce10cbc6/49de916a-f082-4263-b1a1-74bda92e43c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aa6b8f60-1768-438f-b664-fb99ce10cbc6/49de916a-f082-4263-b1a1-74bda92e43c7
+md5	2f02cf3c6e5cba67c19e4980800d6929

@@ -1,0 +1,8 @@
+
+signId	2437
+text	naturkunskap
+imageUuid	aafe5ece-46d6-44ad-a037-b64ca1be8e97
+translationKey	849d38e9-9f61-484e-89f8-b41158043454
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aafe5ece-46d6-44ad-a037-b64ca1be8e97/849d38e9-9f61-484e-89f8-b41158043454/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aafe5ece-46d6-44ad-a037-b64ca1be8e97/849d38e9-9f61-484e-89f8-b41158043454
+md5	7f2f8c53c9bd70297db9aadf7b0b3175

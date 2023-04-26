@@ -1,0 +1,7 @@
+signId	165
+text	bok
+imageUuid	35b78906-25a6-4b2e-883f-f04f51f13a16
+translationKey	004d65dd-7225-4df9-bcb2-c6b350ae9856
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/35b78906-25a6-4b2e-883f-f04f51f13a16/004d65dd-7225-4df9-bcb2-c6b350ae9856/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/35b78906-25a6-4b2e-883f-f04f51f13a16/004d65dd-7225-4df9-bcb2-c6b350ae9856
+md5	df21d1da497929b8f2bfb1130752ca2f

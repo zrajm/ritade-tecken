@@ -1,0 +1,7 @@
+signId	3259
+text	kommunicera
+imageUuid	d70c87c1-2d3c-4037-b999-4bbaa7a50e21
+translationKey	d4505d36-d3aa-4ceb-a006-709cd402b67f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d70c87c1-2d3c-4037-b999-4bbaa7a50e21/d4505d36-d3aa-4ceb-a006-709cd402b67f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d70c87c1-2d3c-4037-b999-4bbaa7a50e21/d4505d36-d3aa-4ceb-a006-709cd402b67f
+md5	0f7000969ae3ca854d4e15442d4507b7

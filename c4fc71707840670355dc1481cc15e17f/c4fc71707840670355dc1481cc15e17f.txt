@@ -1,0 +1,8 @@
+
+signId	2690
+text	skurhink
+imageUuid	26c282bd-9967-45d8-a923-b14f49b68182
+translationKey	aca5a331-3968-4938-ae02-48db9ea38d02
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/26c282bd-9967-45d8-a923-b14f49b68182/aca5a331-3968-4938-ae02-48db9ea38d02/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/26c282bd-9967-45d8-a923-b14f49b68182/aca5a331-3968-4938-ae02-48db9ea38d02
+md5	c4fc71707840670355dc1481cc15e17f

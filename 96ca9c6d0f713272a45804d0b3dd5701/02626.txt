@@ -1,0 +1,7 @@
+signId	2626
+text	allmän
+imageUuid	7afc84b1-8be6-4239-a8e0-5c592701d219
+translationKey	b8bba2bd-31d1-4913-ae52-656ded3076a0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7afc84b1-8be6-4239-a8e0-5c592701d219/b8bba2bd-31d1-4913-ae52-656ded3076a0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7afc84b1-8be6-4239-a8e0-5c592701d219/b8bba2bd-31d1-4913-ae52-656ded3076a0
+md5	96ca9c6d0f713272a45804d0b3dd5701

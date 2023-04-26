@@ -1,0 +1,7 @@
+signId	2447
+text	samtal
+imageUuid	14f0c3fd-fecc-49d8-8fc2-55a8be998c02
+translationKey	acdd0f10-1988-4f7d-ad3a-c805f4425ae1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/14f0c3fd-fecc-49d8-8fc2-55a8be998c02/acdd0f10-1988-4f7d-ad3a-c805f4425ae1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/14f0c3fd-fecc-49d8-8fc2-55a8be998c02/acdd0f10-1988-4f7d-ad3a-c805f4425ae1
+md5	d386f2f069610a83ff6f3084ffa5dad7

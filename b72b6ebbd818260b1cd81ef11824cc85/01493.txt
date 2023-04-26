@@ -1,0 +1,7 @@
+signId	1493
+text	strax
+imageUuid	59e4377e-cb19-460b-b6b6-7087a7ab2db1
+translationKey	129f614f-1e85-479e-aab1-4d7b2eeb5562
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/59e4377e-cb19-460b-b6b6-7087a7ab2db1/129f614f-1e85-479e-aab1-4d7b2eeb5562/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/59e4377e-cb19-460b-b6b6-7087a7ab2db1/129f614f-1e85-479e-aab1-4d7b2eeb5562
+md5	b72b6ebbd818260b1cd81ef11824cc85

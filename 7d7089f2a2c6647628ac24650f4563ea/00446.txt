@@ -1,0 +1,7 @@
+signId	446
+text	fönster 2
+imageUuid	27934cbc-1a4b-403d-8134-6cb9820d5134
+translationKey	5d40f280-6e4d-4859-9dca-b180cd5a159b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/27934cbc-1a4b-403d-8134-6cb9820d5134/5d40f280-6e4d-4859-9dca-b180cd5a159b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/27934cbc-1a4b-403d-8134-6cb9820d5134/5d40f280-6e4d-4859-9dca-b180cd5a159b
+md5	5b753569907d2e32afcef940156f85b0

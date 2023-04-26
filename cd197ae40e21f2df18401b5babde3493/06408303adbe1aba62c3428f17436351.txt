@@ -1,0 +1,8 @@
+
+signId	2457
+text	explodera
+imageUuid	d2548e87-1da2-4844-8771-b3908008cbee
+translationKey	4794cc7a-9a8c-4f74-a017-cfe4da8cb225
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d2548e87-1da2-4844-8771-b3908008cbee/4794cc7a-9a8c-4f74-a017-cfe4da8cb225/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d2548e87-1da2-4844-8771-b3908008cbee/4794cc7a-9a8c-4f74-a017-cfe4da8cb225
+md5	06408303adbe1aba62c3428f17436351

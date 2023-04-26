@@ -1,0 +1,8 @@
+
+signId	2232
+text	mustasch
+imageUuid	bb0ad8ae-3b69-4d74-a981-138c17d356c0
+translationKey	f15e1316-a080-4271-a59e-7ce00c66ea7c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bb0ad8ae-3b69-4d74-a981-138c17d356c0/f15e1316-a080-4271-a59e-7ce00c66ea7c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bb0ad8ae-3b69-4d74-a981-138c17d356c0/f15e1316-a080-4271-a59e-7ce00c66ea7c
+md5	2fe2d19af29a1a7f7c3f5b1058d53455

@@ -1,0 +1,8 @@
+
+signId	2928
+text	tacos
+imageUuid	733ec1ad-b056-47d0-81f7-764d13048d1c
+translationKey	7d27b02b-7326-46f6-a40b-27d1bd6249ad
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/733ec1ad-b056-47d0-81f7-764d13048d1c/7d27b02b-7326-46f6-a40b-27d1bd6249ad/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/733ec1ad-b056-47d0-81f7-764d13048d1c/7d27b02b-7326-46f6-a40b-27d1bd6249ad
+md5	530615cd7fe4455d8835962d7dd9c416

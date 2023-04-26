@@ -1,0 +1,8 @@
+
+signId	2414
+text	Australien
+imageUuid	8158d916-1acc-45b3-a01c-c5657744562a
+translationKey	2e220174-afa5-478b-8d66-cca1d8efdd81
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8158d916-1acc-45b3-a01c-c5657744562a/2e220174-afa5-478b-8d66-cca1d8efdd81/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8158d916-1acc-45b3-a01c-c5657744562a/2e220174-afa5-478b-8d66-cca1d8efdd81
+md5	5318853237a94e9e523a75883caedea5

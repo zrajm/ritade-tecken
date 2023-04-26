@@ -1,0 +1,7 @@
+signId	3136
+text	spetsig
+imageUuid	706b368b-c344-43b1-96cf-8ae77f1d16b6
+translationKey	e5fbcb7b-22b2-4537-acbc-f63373fc437e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/706b368b-c344-43b1-96cf-8ae77f1d16b6/e5fbcb7b-22b2-4537-acbc-f63373fc437e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/706b368b-c344-43b1-96cf-8ae77f1d16b6/e5fbcb7b-22b2-4537-acbc-f63373fc437e
+md5	c3af6b0279d38bc9c89f325d740a02b6

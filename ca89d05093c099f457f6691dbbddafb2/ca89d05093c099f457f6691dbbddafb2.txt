@@ -1,0 +1,16 @@
+
+signId	2544
+text	pil
+imageUuid	5383639c-f76d-467d-9a4f-38fcf8e4183f
+translationKey	327b36ce-b5c7-4a0c-a1c1-db1286c97823
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5383639c-f76d-467d-9a4f-38fcf8e4183f/327b36ce-b5c7-4a0c-a1c1-db1286c97823/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5383639c-f76d-467d-9a4f-38fcf8e4183f/327b36ce-b5c7-4a0c-a1c1-db1286c97823
+md5	ca89d05093c099f457f6691dbbddafb2
+
+signId	2566
+text	pilbåge
+imageUuid	a399a123-8faa-4cd8-abc6-19808353ed98
+translationKey	2b30d439-1f82-4dba-9969-87da77fe823f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a399a123-8faa-4cd8-abc6-19808353ed98/2b30d439-1f82-4dba-9969-87da77fe823f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a399a123-8faa-4cd8-abc6-19808353ed98/2b30d439-1f82-4dba-9969-87da77fe823f
+md5	ca89d05093c099f457f6691dbbddafb2

@@ -1,0 +1,7 @@
+signId	726
+text	kappa 1
+imageUuid	c7b45d63-0ac5-4cd4-9b4f-5ab141d46684
+translationKey	2f1f18bf-f038-4ff9-9bd3-cd7f0b9533f0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c7b45d63-0ac5-4cd4-9b4f-5ab141d46684/2f1f18bf-f038-4ff9-9bd3-cd7f0b9533f0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c7b45d63-0ac5-4cd4-9b4f-5ab141d46684/2f1f18bf-f038-4ff9-9bd3-cd7f0b9533f0
+md5	892d1d5877393a13fdf12c459e7e5ecf

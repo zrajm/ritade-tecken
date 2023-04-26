@@ -1,0 +1,8 @@
+
+signId	3074
+text	okej
+imageUuid	596c7d41-84d2-4035-94d0-78b38a1a63d0
+translationKey	344236d4-6a46-4183-a9ca-541d815f591a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/596c7d41-84d2-4035-94d0-78b38a1a63d0/344236d4-6a46-4183-a9ca-541d815f591a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/596c7d41-84d2-4035-94d0-78b38a1a63d0/344236d4-6a46-4183-a9ca-541d815f591a
+md5	e90912d6ce3052eb2be13e70b580bece

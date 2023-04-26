@@ -1,0 +1,7 @@
+signId	2995
+text	förstoringsglas
+imageUuid	a017997a-c9f1-4dc2-8ba6-f2aa5cae5c65
+translationKey	ec11c5ff-97e1-498d-b296-87c7f6b74c11
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a017997a-c9f1-4dc2-8ba6-f2aa5cae5c65/ec11c5ff-97e1-498d-b296-87c7f6b74c11/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a017997a-c9f1-4dc2-8ba6-f2aa5cae5c65/ec11c5ff-97e1-498d-b296-87c7f6b74c11
+md5	258ab5cfd723c894001313e1a62d73a5

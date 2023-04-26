@@ -1,0 +1,8 @@
+
+signId	2522
+text	skaldjur
+imageUuid	6c34f856-9c88-46f1-a8f8-bcc11360c0ba
+translationKey	af6c885f-a355-4dad-9054-7e454d8b70b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6c34f856-9c88-46f1-a8f8-bcc11360c0ba/af6c885f-a355-4dad-9054-7e454d8b70b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6c34f856-9c88-46f1-a8f8-bcc11360c0ba/af6c885f-a355-4dad-9054-7e454d8b70b9
+md5	0614b282076993f2d6dd91b4de48b536

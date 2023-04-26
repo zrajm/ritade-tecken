@@ -1,0 +1,32 @@
+
+signId	1224
+text	radera
+imageUuid	1df9504e-8407-4630-a9bc-2a42ca46b307
+translationKey	26209cb5-eb88-40dc-a974-43db408a613b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1df9504e-8407-4630-a9bc-2a42ca46b307/26209cb5-eb88-40dc-a974-43db408a613b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1df9504e-8407-4630-a9bc-2a42ca46b307/26209cb5-eb88-40dc-a974-43db408a613b
+md5	a66eb6a199c434d412e3cd6ae936b471
+
+signId	1225
+text	radergummi
+imageUuid	ab86e1b8-e5db-411f-bde7-6112374370eb
+translationKey	c4670f21-ff44-40cc-be4f-e4373fa8279b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ab86e1b8-e5db-411f-bde7-6112374370eb/c4670f21-ff44-40cc-be4f-e4373fa8279b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ab86e1b8-e5db-411f-bde7-6112374370eb/c4670f21-ff44-40cc-be4f-e4373fa8279b
+md5	a66eb6a199c434d412e3cd6ae936b471
+
+signId	1519
+text	sudda
+imageUuid	e12cad2c-1f00-4245-9a17-75ea4b9efba7
+translationKey	43528c8f-6234-4a97-b180-768f1e84d3ff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e12cad2c-1f00-4245-9a17-75ea4b9efba7/43528c8f-6234-4a97-b180-768f1e84d3ff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e12cad2c-1f00-4245-9a17-75ea4b9efba7/43528c8f-6234-4a97-b180-768f1e84d3ff
+md5	a66eb6a199c434d412e3cd6ae936b471
+
+signId	1520
+text	suddgummi
+imageUuid	9f8c61d5-07c5-4289-96a8-c3e204b6256f
+translationKey	27e21d8b-6d58-4aa5-ab68-a7f1c6d7bfb3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9f8c61d5-07c5-4289-96a8-c3e204b6256f/27e21d8b-6d58-4aa5-ab68-a7f1c6d7bfb3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9f8c61d5-07c5-4289-96a8-c3e204b6256f/27e21d8b-6d58-4aa5-ab68-a7f1c6d7bfb3
+md5	a66eb6a199c434d412e3cd6ae936b471

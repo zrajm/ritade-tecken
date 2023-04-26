@@ -1,0 +1,8 @@
+
+signId	40
+text	aldrig
+imageUuid	4b61f296-e399-4c9c-a34b-296bfbb8acb5
+translationKey	979e38c4-1c31-448d-9751-4a7027b5e599
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4b61f296-e399-4c9c-a34b-296bfbb8acb5/979e38c4-1c31-448d-9751-4a7027b5e599/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4b61f296-e399-4c9c-a34b-296bfbb8acb5/979e38c4-1c31-448d-9751-4a7027b5e599
+md5	add828794aadb3c022ed54f278b483a6

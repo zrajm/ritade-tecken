@@ -1,0 +1,7 @@
+signId	1859
+text	sjätte
+imageUuid	2ebe10af-6af9-4647-959e-b4e5c9d16160
+translationKey	d83c88df-2217-4c4d-bbed-5e2df8fb7907
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ebe10af-6af9-4647-959e-b4e5c9d16160/d83c88df-2217-4c4d-bbed-5e2df8fb7907/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ebe10af-6af9-4647-959e-b4e5c9d16160/d83c88df-2217-4c4d-bbed-5e2df8fb7907
+md5	6f26c532df278fbf67c8094baf66f4e5

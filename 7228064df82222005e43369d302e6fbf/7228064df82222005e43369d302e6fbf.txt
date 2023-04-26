@@ -1,0 +1,16 @@
+
+signId	107
+text	barnslig
+imageUuid	583a9880-7523-4e76-b93e-dbfae42bc626
+translationKey	93bff3d3-d97a-4445-86b6-24ec33b9de3f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/583a9880-7523-4e76-b93e-dbfae42bc626/93bff3d3-d97a-4445-86b6-24ec33b9de3f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/583a9880-7523-4e76-b93e-dbfae42bc626/93bff3d3-d97a-4445-86b6-24ec33b9de3f
+md5	7228064df82222005e43369d302e6fbf
+
+signId	871
+text	larvig
+imageUuid	ad6a3a34-54f3-49f2-af4f-2fe9b8715452
+translationKey	0965bf55-20e6-4c43-9a08-6eba32f88877
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ad6a3a34-54f3-49f2-af4f-2fe9b8715452/0965bf55-20e6-4c43-9a08-6eba32f88877/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ad6a3a34-54f3-49f2-af4f-2fe9b8715452/0965bf55-20e6-4c43-9a08-6eba32f88877
+md5	7228064df82222005e43369d302e6fbf

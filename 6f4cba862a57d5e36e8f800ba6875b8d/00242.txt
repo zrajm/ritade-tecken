@@ -1,0 +1,7 @@
+signId	242
+text	cykla
+imageUuid	79f678eb-4667-44d8-919d-9c92af2ee393
+translationKey	75473e6c-ddfe-489f-8f29-798abf93ac17
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/79f678eb-4667-44d8-919d-9c92af2ee393/75473e6c-ddfe-489f-8f29-798abf93ac17/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/79f678eb-4667-44d8-919d-9c92af2ee393/75473e6c-ddfe-489f-8f29-798abf93ac17
+md5	6f4cba862a57d5e36e8f800ba6875b8d

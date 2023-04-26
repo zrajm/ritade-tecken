@@ -1,0 +1,8 @@
+
+signId	3001
+text	kladdig
+imageUuid	9ca52e60-8c4f-4768-b584-aa5510d2f2cf
+translationKey	847b012c-8b67-466a-b1d3-979bc2e75588
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9ca52e60-8c4f-4768-b584-aa5510d2f2cf/847b012c-8b67-466a-b1d3-979bc2e75588/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9ca52e60-8c4f-4768-b584-aa5510d2f2cf/847b012c-8b67-466a-b1d3-979bc2e75588
+md5	4343953e1c580a73579cbca8eda0d806

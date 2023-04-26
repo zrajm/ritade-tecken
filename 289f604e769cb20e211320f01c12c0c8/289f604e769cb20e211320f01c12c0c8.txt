@@ -1,0 +1,16 @@
+
+signId	535
+text	gymnasium
+imageUuid	ca235ed1-809a-4455-ab65-322de3818ce1
+translationKey	89b72113-be46-4997-9092-5d40714fdaca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ca235ed1-809a-4455-ab65-322de3818ce1/89b72113-be46-4997-9092-5d40714fdaca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ca235ed1-809a-4455-ab65-322de3818ce1/89b72113-be46-4997-9092-5d40714fdaca
+md5	289f604e769cb20e211320f01c12c0c8
+
+signId	2625
+text	student
+imageUuid	a5db8bc3-5426-485e-b3ed-15f68b0b1b03
+translationKey	2854f3bc-2f5f-40b4-8ae9-b0fdd73f2048
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a5db8bc3-5426-485e-b3ed-15f68b0b1b03/2854f3bc-2f5f-40b4-8ae9-b0fdd73f2048/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a5db8bc3-5426-485e-b3ed-15f68b0b1b03/2854f3bc-2f5f-40b4-8ae9-b0fdd73f2048
+md5	289f604e769cb20e211320f01c12c0c8

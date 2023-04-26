@@ -1,0 +1,7 @@
+signId	1464
+text	stan
+imageUuid	45cd4989-33e4-43e9-9de9-99c02d465c26
+translationKey	72a1a4fb-7d59-4bb9-8fc1-2cc26c414490
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/45cd4989-33e4-43e9-9de9-99c02d465c26/72a1a4fb-7d59-4bb9-8fc1-2cc26c414490/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/45cd4989-33e4-43e9-9de9-99c02d465c26/72a1a4fb-7d59-4bb9-8fc1-2cc26c414490
+md5	75edd72970750007480853dbe462f7c0

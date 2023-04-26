@@ -1,0 +1,8 @@
+
+signId	2599
+text	sköterska
+imageUuid	2ee62c8e-3193-4d64-b370-30fc55871fab
+translationKey	dc16b76f-bebc-4beb-b6bd-6ee8a244072e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ee62c8e-3193-4d64-b370-30fc55871fab/dc16b76f-bebc-4beb-b6bd-6ee8a244072e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ee62c8e-3193-4d64-b370-30fc55871fab/dc16b76f-bebc-4beb-b6bd-6ee8a244072e
+md5	d96f7d3d5f00e865ab0481fc4baddcfa

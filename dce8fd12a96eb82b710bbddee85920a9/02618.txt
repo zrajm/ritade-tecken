@@ -1,0 +1,7 @@
+signId	2618
+text	väster
+imageUuid	43b05948-cac9-4c6d-9e51-9c630467b50a
+translationKey	2a96f4ae-9ab3-4d3e-895f-aaf17bc3fb14
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/43b05948-cac9-4c6d-9e51-9c630467b50a/2a96f4ae-9ab3-4d3e-895f-aaf17bc3fb14/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/43b05948-cac9-4c6d-9e51-9c630467b50a/2a96f4ae-9ab3-4d3e-895f-aaf17bc3fb14
+md5	82dc8994004f0cdee2bb590e9ac7917e

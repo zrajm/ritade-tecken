@@ -1,0 +1,7 @@
+signId	187
+text	brist
+imageUuid	e786a888-b59d-4e7a-bedc-03bf48130173
+translationKey	40011a48-6b38-4b98-985e-f3bcaf54cdde
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e786a888-b59d-4e7a-bedc-03bf48130173/40011a48-6b38-4b98-985e-f3bcaf54cdde/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e786a888-b59d-4e7a-bedc-03bf48130173/40011a48-6b38-4b98-985e-f3bcaf54cdde
+md5	a8c479771e4aae19cbc44b31d877611f

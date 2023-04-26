@@ -1,0 +1,8 @@
+
+signId	1754
+text	våga 2
+imageUuid	12ab1311-1024-4c56-a68a-64a1b4902833
+translationKey	36a57b48-60d7-4d15-9243-4860bad809ec
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/12ab1311-1024-4c56-a68a-64a1b4902833/36a57b48-60d7-4d15-9243-4860bad809ec/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/12ab1311-1024-4c56-a68a-64a1b4902833/36a57b48-60d7-4d15-9243-4860bad809ec
+md5	0a67986a4d8d540bb8c5c8348198322a

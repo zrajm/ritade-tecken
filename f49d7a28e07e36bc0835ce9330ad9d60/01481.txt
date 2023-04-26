@@ -1,0 +1,7 @@
+signId	1481
+text	stolt
+imageUuid	31b7e96e-f02f-44e6-a969-ddede61bfadc
+translationKey	3ed0d9c7-099e-4957-a6b1-e29e949d6ced
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/31b7e96e-f02f-44e6-a969-ddede61bfadc/3ed0d9c7-099e-4957-a6b1-e29e949d6ced/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/31b7e96e-f02f-44e6-a969-ddede61bfadc/3ed0d9c7-099e-4957-a6b1-e29e949d6ced
+md5	f49d7a28e07e36bc0835ce9330ad9d60

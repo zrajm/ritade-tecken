@@ -1,0 +1,7 @@
+signId	60
+text	arbeta 1
+imageUuid	c3db3269-a906-445b-ba1c-5f451d42d41c
+translationKey	a2693a44-44cf-44f7-9cd1-925ccd8f9a94
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c3db3269-a906-445b-ba1c-5f451d42d41c/a2693a44-44cf-44f7-9cd1-925ccd8f9a94/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c3db3269-a906-445b-ba1c-5f451d42d41c/a2693a44-44cf-44f7-9cd1-925ccd8f9a94
+md5	b87fb3e99a2dedfbfcc395394d4e57d5

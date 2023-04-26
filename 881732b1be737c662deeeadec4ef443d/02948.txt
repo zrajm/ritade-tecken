@@ -1,0 +1,7 @@
+signId	2948
+text	artist
+imageUuid	22240576-1770-41bd-810c-f9a5cff12ada
+translationKey	76bb0cc6-9199-458c-955e-ab41e9c8510b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/22240576-1770-41bd-810c-f9a5cff12ada/76bb0cc6-9199-458c-955e-ab41e9c8510b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/22240576-1770-41bd-810c-f9a5cff12ada/76bb0cc6-9199-458c-955e-ab41e9c8510b
+md5	881732b1be737c662deeeadec4ef443d

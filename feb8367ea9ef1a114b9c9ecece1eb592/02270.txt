@@ -1,0 +1,7 @@
+signId	2270
+text	galonbyxor
+imageUuid	f987ba0d-170f-47f4-a6ec-7369a5510328
+translationKey	aa72b7f8-40c3-4fc4-b9d6-0c4b70e77fd4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f987ba0d-170f-47f4-a6ec-7369a5510328/aa72b7f8-40c3-4fc4-b9d6-0c4b70e77fd4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f987ba0d-170f-47f4-a6ec-7369a5510328/aa72b7f8-40c3-4fc4-b9d6-0c4b70e77fd4
+md5	feb8367ea9ef1a114b9c9ecece1eb592

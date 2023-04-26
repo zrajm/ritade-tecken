@@ -1,0 +1,7 @@
+signId	2375
+text	politik
+imageUuid	7f97f569-3487-4484-84fc-77315d6ac8af
+translationKey	86eb2815-3010-4f9f-9eb7-b819e12a2da6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f97f569-3487-4484-84fc-77315d6ac8af/86eb2815-3010-4f9f-9eb7-b819e12a2da6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f97f569-3487-4484-84fc-77315d6ac8af/86eb2815-3010-4f9f-9eb7-b819e12a2da6
+md5	c6e10e3dbd93809d3ccac164b24d0b63

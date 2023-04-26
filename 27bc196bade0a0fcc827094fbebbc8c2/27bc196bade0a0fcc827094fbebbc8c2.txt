@@ -1,0 +1,8 @@
+
+signId	481
+text	genom
+imageUuid	1f5604a1-9f4b-43ed-84cd-02a33a8854b5
+translationKey	24b51c7a-dba9-4596-a81a-dbd97f8d8bf9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1f5604a1-9f4b-43ed-84cd-02a33a8854b5/24b51c7a-dba9-4596-a81a-dbd97f8d8bf9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1f5604a1-9f4b-43ed-84cd-02a33a8854b5/24b51c7a-dba9-4596-a81a-dbd97f8d8bf9
+md5	27bc196bade0a0fcc827094fbebbc8c2

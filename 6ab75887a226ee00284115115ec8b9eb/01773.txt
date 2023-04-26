@@ -1,0 +1,7 @@
+signId	1773
+text	väska
+imageUuid	9d44efda-109c-4027-a58c-7f1dd9ef8301
+translationKey	f252439f-2c65-4c4c-b91e-8311b732deec
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9d44efda-109c-4027-a58c-7f1dd9ef8301/f252439f-2c65-4c4c-b91e-8311b732deec/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9d44efda-109c-4027-a58c-7f1dd9ef8301/f252439f-2c65-4c4c-b91e-8311b732deec
+md5	6ab75887a226ee00284115115ec8b9eb

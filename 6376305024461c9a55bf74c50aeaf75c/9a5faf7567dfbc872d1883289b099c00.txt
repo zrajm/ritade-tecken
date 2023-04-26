@@ -1,0 +1,8 @@
+
+signId	1637
+text	tugga (verb)
+imageUuid	126fe78c-3e4a-41d6-8ed1-1c3f503f4e5b
+translationKey	75b80299-d351-495d-810f-c226473aac21
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/126fe78c-3e4a-41d6-8ed1-1c3f503f4e5b/75b80299-d351-495d-810f-c226473aac21/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/126fe78c-3e4a-41d6-8ed1-1c3f503f4e5b/75b80299-d351-495d-810f-c226473aac21
+md5	9a5faf7567dfbc872d1883289b099c00

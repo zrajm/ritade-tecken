@@ -1,0 +1,7 @@
+signId	2405
+text	valsedel
+imageUuid	4a947ce6-8b30-48b8-8674-c20c2cc58e48
+translationKey	58d4d14e-d496-41ee-afb3-34086de95bb6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4a947ce6-8b30-48b8-8674-c20c2cc58e48/58d4d14e-d496-41ee-afb3-34086de95bb6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4a947ce6-8b30-48b8-8674-c20c2cc58e48/58d4d14e-d496-41ee-afb3-34086de95bb6
+md5	5be851d110884779b8b7370c0c16346f

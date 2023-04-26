@@ -1,0 +1,32 @@
+
+signId	717
+text	kam
+imageUuid	ecc83cb8-a684-4a09-aed1-5393deef0702
+translationKey	96d0683d-64a0-407b-baf1-36783d7d0a8b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ecc83cb8-a684-4a09-aed1-5393deef0702/96d0683d-64a0-407b-baf1-36783d7d0a8b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ecc83cb8-a684-4a09-aed1-5393deef0702/96d0683d-64a0-407b-baf1-36783d7d0a8b
+md5	3796bd79df0099fc8bb45ba7c6ddfdf3
+
+signId	719
+text	kamma
+imageUuid	39769a93-eaba-46e9-b1fa-c71dfbe95564
+translationKey	15250f94-ce63-4df3-920c-5f113c8ee48a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/39769a93-eaba-46e9-b1fa-c71dfbe95564/15250f94-ce63-4df3-920c-5f113c8ee48a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/39769a93-eaba-46e9-b1fa-c71dfbe95564/15250f94-ce63-4df3-920c-5f113c8ee48a
+md5	3796bd79df0099fc8bb45ba7c6ddfdf3
+
+signId	2214
+text	borste
+imageUuid	8aad50d3-3820-42cb-9ff7-6cbb7e82925c
+translationKey	e96be6fd-c108-4972-846f-447f54f0607b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8aad50d3-3820-42cb-9ff7-6cbb7e82925c/e96be6fd-c108-4972-846f-447f54f0607b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8aad50d3-3820-42cb-9ff7-6cbb7e82925c/e96be6fd-c108-4972-846f-447f54f0607b
+md5	3796bd79df0099fc8bb45ba7c6ddfdf3
+
+signId	2221
+text	hårborste
+imageUuid	aa512855-0cde-48f2-a4c0-09543c0109cb
+translationKey	3298c5b7-0e4b-430e-a402-5551e64f6614
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aa512855-0cde-48f2-a4c0-09543c0109cb/3298c5b7-0e4b-430e-a402-5551e64f6614/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aa512855-0cde-48f2-a4c0-09543c0109cb/3298c5b7-0e4b-430e-a402-5551e64f6614
+md5	3796bd79df0099fc8bb45ba7c6ddfdf3

@@ -1,0 +1,7 @@
+signId	2889
+text	hängmatta
+imageUuid	33974fa6-b412-43d9-9b3d-682d82852e54
+translationKey	dc27f040-30a3-49af-a7d6-5cc2b256e224
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/33974fa6-b412-43d9-9b3d-682d82852e54/dc27f040-30a3-49af-a7d6-5cc2b256e224/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/33974fa6-b412-43d9-9b3d-682d82852e54/dc27f040-30a3-49af-a7d6-5cc2b256e224
+md5	695e18cfb4866e2756b289147d0f02b4

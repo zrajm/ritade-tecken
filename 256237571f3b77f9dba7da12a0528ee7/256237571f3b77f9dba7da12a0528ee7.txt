@@ -1,0 +1,8 @@
+
+signId	1091
+text	näbb
+imageUuid	903dcca6-5fa7-4330-8b19-66beb751367c
+translationKey	9313df4f-e29d-4c47-b80e-a3afe7e5add8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/903dcca6-5fa7-4330-8b19-66beb751367c/9313df4f-e29d-4c47-b80e-a3afe7e5add8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/903dcca6-5fa7-4330-8b19-66beb751367c/9313df4f-e29d-4c47-b80e-a3afe7e5add8
+md5	256237571f3b77f9dba7da12a0528ee7

@@ -1,0 +1,7 @@
+signId	3441
+text	utveckla
+imageUuid	5bf6fafb-ec6f-4559-8ce6-af283221c359
+translationKey	c218ab86-a677-4953-930e-88517f2c067f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5bf6fafb-ec6f-4559-8ce6-af283221c359/c218ab86-a677-4953-930e-88517f2c067f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5bf6fafb-ec6f-4559-8ce6-af283221c359/c218ab86-a677-4953-930e-88517f2c067f
+md5	aaf63649cd9ce3c69d20e2fc8e6f2257

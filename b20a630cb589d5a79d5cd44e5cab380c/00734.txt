@@ -1,0 +1,7 @@
+signId	734
+text	katt
+imageUuid	e082f0cf-ba7a-42e1-b24b-72e7b417dae9
+translationKey	06fc28ee-0c04-4449-b48a-bc0f2aecea27
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e082f0cf-ba7a-42e1-b24b-72e7b417dae9/06fc28ee-0c04-4449-b48a-bc0f2aecea27/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e082f0cf-ba7a-42e1-b24b-72e7b417dae9/06fc28ee-0c04-4449-b48a-bc0f2aecea27
+md5	b20a630cb589d5a79d5cd44e5cab380c

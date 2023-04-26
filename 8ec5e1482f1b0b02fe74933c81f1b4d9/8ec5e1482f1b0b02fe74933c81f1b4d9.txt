@@ -1,0 +1,8 @@
+
+signId	1596
+text	tom
+imageUuid	0a75c6f6-b0ad-4f54-897c-1b92a04e5c1f
+translationKey	4350e8be-396f-465c-8235-9a6843f4cb53
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0a75c6f6-b0ad-4f54-897c-1b92a04e5c1f/4350e8be-396f-465c-8235-9a6843f4cb53/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0a75c6f6-b0ad-4f54-897c-1b92a04e5c1f/4350e8be-396f-465c-8235-9a6843f4cb53
+md5	8ec5e1482f1b0b02fe74933c81f1b4d9

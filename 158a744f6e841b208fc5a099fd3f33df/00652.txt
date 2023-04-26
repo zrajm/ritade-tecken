@@ -1,0 +1,7 @@
+signId	652
+text	i dag
+imageUuid	06abc16d-9433-4742-bd03-09248c4f5253
+translationKey	8fd4ae33-d227-467d-bca0-086e5c372f81
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/06abc16d-9433-4742-bd03-09248c4f5253/8fd4ae33-d227-467d-bca0-086e5c372f81/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/06abc16d-9433-4742-bd03-09248c4f5253/8fd4ae33-d227-467d-bca0-086e5c372f81
+md5	158a744f6e841b208fc5a099fd3f33df

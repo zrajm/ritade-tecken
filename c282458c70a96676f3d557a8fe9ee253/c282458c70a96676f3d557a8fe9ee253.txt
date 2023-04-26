@@ -1,0 +1,8 @@
+
+signId	244
+text	dag
+imageUuid	16ea38ce-733e-46c8-ad9e-1c0f70039ca9
+translationKey	ba7c5601-8eba-4fc7-8575-9cc9effa8f70
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/16ea38ce-733e-46c8-ad9e-1c0f70039ca9/ba7c5601-8eba-4fc7-8575-9cc9effa8f70/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/16ea38ce-733e-46c8-ad9e-1c0f70039ca9/ba7c5601-8eba-4fc7-8575-9cc9effa8f70
+md5	c282458c70a96676f3d557a8fe9ee253

@@ -1,0 +1,7 @@
+signId	1788
+text	år 2
+imageUuid	9e1567b7-abef-4a3d-b317-510e7add9efd
+translationKey	96abc565-bd7f-4bfd-9c5e-aa8c04bdc748
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9e1567b7-abef-4a3d-b317-510e7add9efd/96abc565-bd7f-4bfd-9c5e-aa8c04bdc748/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9e1567b7-abef-4a3d-b317-510e7add9efd/96abc565-bd7f-4bfd-9c5e-aa8c04bdc748
+md5	c26ca8733d936bd8393a60a7663d8845

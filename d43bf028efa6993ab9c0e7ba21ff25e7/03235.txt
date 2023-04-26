@@ -1,0 +1,7 @@
+signId	3235
+text	troende (religion)
+imageUuid	d304628a-ff47-42de-86d2-09e4c6af103a
+translationKey	bc0bec99-d085-4d0f-8517-bcb5c338e183
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d304628a-ff47-42de-86d2-09e4c6af103a/bc0bec99-d085-4d0f-8517-bcb5c338e183/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d304628a-ff47-42de-86d2-09e4c6af103a/bc0bec99-d085-4d0f-8517-bcb5c338e183
+md5	d43bf028efa6993ab9c0e7ba21ff25e7

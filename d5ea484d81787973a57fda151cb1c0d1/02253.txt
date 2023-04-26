@@ -1,0 +1,7 @@
+signId	2253
+text	träslöjd
+imageUuid	b6e2c216-e96b-48a7-a43f-2d98e45b79ef
+translationKey	c699c662-85fd-47c6-981b-1d75a90a9313
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b6e2c216-e96b-48a7-a43f-2d98e45b79ef/c699c662-85fd-47c6-981b-1d75a90a9313/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b6e2c216-e96b-48a7-a43f-2d98e45b79ef/c699c662-85fd-47c6-981b-1d75a90a9313
+md5	d5ea484d81787973a57fda151cb1c0d1

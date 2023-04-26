@@ -1,0 +1,7 @@
+signId	2615
+text	utbildning
+imageUuid	c8c75790-41b4-4976-9007-e9e9d2a0c9d3
+translationKey	319f19bf-3cb7-435e-8dd3-c9cac9137cfb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c8c75790-41b4-4976-9007-e9e9d2a0c9d3/319f19bf-3cb7-435e-8dd3-c9cac9137cfb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c8c75790-41b4-4976-9007-e9e9d2a0c9d3/319f19bf-3cb7-435e-8dd3-c9cac9137cfb
+md5	3ad2a17ee2153fc36c6191b9fa9a8b8e

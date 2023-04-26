@@ -1,0 +1,8 @@
+
+signId	2185
+text	kasta iväg
+imageUuid	1682d22f-8f92-427a-9dad-2bbabbffc5f6
+translationKey	1a61bf2c-2d8c-419b-b716-283f9df5e3dd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1682d22f-8f92-427a-9dad-2bbabbffc5f6/1a61bf2c-2d8c-419b-b716-283f9df5e3dd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1682d22f-8f92-427a-9dad-2bbabbffc5f6/1a61bf2c-2d8c-419b-b716-283f9df5e3dd
+md5	0bdb8aad5d7870016c53b45ba8136495

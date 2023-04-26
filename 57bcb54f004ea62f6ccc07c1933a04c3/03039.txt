@@ -1,0 +1,7 @@
+signId	3039
+text	makten
+imageUuid	268be101-b9d1-4aaf-8efb-7d660089cebb
+translationKey	3815cd44-87b0-4014-9531-21fc60f4b5ea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/268be101-b9d1-4aaf-8efb-7d660089cebb/3815cd44-87b0-4014-9531-21fc60f4b5ea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/268be101-b9d1-4aaf-8efb-7d660089cebb/3815cd44-87b0-4014-9531-21fc60f4b5ea
+md5	57bcb54f004ea62f6ccc07c1933a04c3

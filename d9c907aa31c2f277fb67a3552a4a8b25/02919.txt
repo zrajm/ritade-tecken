@@ -1,0 +1,7 @@
+signId	2919
+text	dragspel
+imageUuid	0a4756e7-4cab-4e51-95b7-e51026d503b1
+translationKey	68db2bc6-fb98-4606-9760-086889aa43eb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0a4756e7-4cab-4e51-95b7-e51026d503b1/68db2bc6-fb98-4606-9760-086889aa43eb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0a4756e7-4cab-4e51-95b7-e51026d503b1/68db2bc6-fb98-4606-9760-086889aa43eb
+md5	d9c907aa31c2f277fb67a3552a4a8b25

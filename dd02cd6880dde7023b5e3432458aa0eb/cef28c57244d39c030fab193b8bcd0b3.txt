@@ -1,0 +1,16 @@
+
+signId	2720
+text	temperatur
+imageUuid	7f27e704-ced7-44bf-b1b3-5b73307d8066
+translationKey	b957e95e-845c-4a5d-9d7c-ef3e282f6dd5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f27e704-ced7-44bf-b1b3-5b73307d8066/b957e95e-845c-4a5d-9d7c-ef3e282f6dd5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f27e704-ced7-44bf-b1b3-5b73307d8066/b957e95e-845c-4a5d-9d7c-ef3e282f6dd5
+md5	cef28c57244d39c030fab193b8bcd0b3
+
+signId	2734
+text	grader (temperatur)
+imageUuid	1eb7a99f-9e94-4559-81ee-c4949b38cbab
+translationKey	5e661799-6184-4bf0-9ee4-be6f0f1c3a1a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1eb7a99f-9e94-4559-81ee-c4949b38cbab/5e661799-6184-4bf0-9ee4-be6f0f1c3a1a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1eb7a99f-9e94-4559-81ee-c4949b38cbab/5e661799-6184-4bf0-9ee4-be6f0f1c3a1a
+md5	cef28c57244d39c030fab193b8bcd0b3

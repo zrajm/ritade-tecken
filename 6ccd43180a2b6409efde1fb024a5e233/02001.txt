@@ -1,0 +1,7 @@
+signId	2001
+text	söderut
+imageUuid	bddc8b7e-8061-45fa-887e-3016d890480e
+translationKey	2d69ad3b-d3a1-4f93-b494-6824ee2eb641
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bddc8b7e-8061-45fa-887e-3016d890480e/2d69ad3b-d3a1-4f93-b494-6824ee2eb641/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bddc8b7e-8061-45fa-887e-3016d890480e/2d69ad3b-d3a1-4f93-b494-6824ee2eb641
+md5	6ccd43180a2b6409efde1fb024a5e233

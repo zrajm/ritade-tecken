@@ -1,0 +1,16 @@
+
+signId	2279
+text	hundra (tal)
+imageUuid	03820b39-3719-4926-97f5-2cf10096dd39
+translationKey	8675db51-b1c7-4111-a4df-b8b55e2d8bc8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/03820b39-3719-4926-97f5-2cf10096dd39/8675db51-b1c7-4111-a4df-b8b55e2d8bc8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/03820b39-3719-4926-97f5-2cf10096dd39/8675db51-b1c7-4111-a4df-b8b55e2d8bc8
+md5	89c28f5d56c8faf434d4f178811e00d8
+
+signId	2855
+text	100 (tal)
+imageUuid	37ad886e-88c2-47dd-87cd-482067e316f8
+translationKey	9448fdc5-2dbf-4bd8-9a20-1f54d0ffb2aa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/37ad886e-88c2-47dd-87cd-482067e316f8/9448fdc5-2dbf-4bd8-9a20-1f54d0ffb2aa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/37ad886e-88c2-47dd-87cd-482067e316f8/9448fdc5-2dbf-4bd8-9a20-1f54d0ffb2aa
+md5	89c28f5d56c8faf434d4f178811e00d8

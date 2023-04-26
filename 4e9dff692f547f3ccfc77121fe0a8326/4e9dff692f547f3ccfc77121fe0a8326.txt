@@ -1,0 +1,8 @@
+
+signId	2234
+text	nacke
+imageUuid	72c26eff-2d67-400b-8a5e-e4fc028adb5e
+translationKey	8adf7840-9cdb-4e7b-8b00-0732d95a9d2a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72c26eff-2d67-400b-8a5e-e4fc028adb5e/8adf7840-9cdb-4e7b-8b00-0732d95a9d2a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72c26eff-2d67-400b-8a5e-e4fc028adb5e/8adf7840-9cdb-4e7b-8b00-0732d95a9d2a
+md5	4e9dff692f547f3ccfc77121fe0a8326

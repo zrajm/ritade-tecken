@@ -1,0 +1,7 @@
+signId	2218
+text	fritidshem
+imageUuid	51fcc569-3c63-4e8a-a408-12b45eab0b98
+translationKey	9ec7c70f-c472-46f7-84fd-b499bbd5bce5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/51fcc569-3c63-4e8a-a408-12b45eab0b98/9ec7c70f-c472-46f7-84fd-b499bbd5bce5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/51fcc569-3c63-4e8a-a408-12b45eab0b98/9ec7c70f-c472-46f7-84fd-b499bbd5bce5
+md5	2523742c46babe2a8cebb13d635c395d

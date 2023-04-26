@@ -1,0 +1,7 @@
+signId	1218
+text	pärlor
+imageUuid	98938a4f-497e-4979-8f6c-932d8d372ee4
+translationKey	8874a28c-1517-4e71-a1ec-6f4f5124e841
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/98938a4f-497e-4979-8f6c-932d8d372ee4/8874a28c-1517-4e71-a1ec-6f4f5124e841/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/98938a4f-497e-4979-8f6c-932d8d372ee4/8874a28c-1517-4e71-a1ec-6f4f5124e841
+md5	90f6105c5f6a57127b836d02cb227ffb

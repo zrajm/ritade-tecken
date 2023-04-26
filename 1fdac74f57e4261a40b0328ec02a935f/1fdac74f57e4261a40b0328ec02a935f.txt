@@ -1,0 +1,8 @@
+
+signId	1317
+text	sjukdom
+imageUuid	a8328d00-b713-4256-a6f8-2062ccd8499a
+translationKey	81e808e8-a163-47da-97cc-30949c479774
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a8328d00-b713-4256-a6f8-2062ccd8499a/81e808e8-a163-47da-97cc-30949c479774/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a8328d00-b713-4256-a6f8-2062ccd8499a/81e808e8-a163-47da-97cc-30949c479774
+md5	1fdac74f57e4261a40b0328ec02a935f

@@ -1,0 +1,7 @@
+signId	2163
+text	borg
+imageUuid	1b06b07c-0fa9-4203-bf0c-7b06a461f5ae
+translationKey	5bdd1be0-938f-4194-a845-af60bba000ef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1b06b07c-0fa9-4203-bf0c-7b06a461f5ae/5bdd1be0-938f-4194-a845-af60bba000ef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1b06b07c-0fa9-4203-bf0c-7b06a461f5ae/5bdd1be0-938f-4194-a845-af60bba000ef
+md5	c390bcf7885ea617f99816de451af64a

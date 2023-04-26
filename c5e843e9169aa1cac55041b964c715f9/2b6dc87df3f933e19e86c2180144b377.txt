@@ -1,0 +1,8 @@
+
+signId	2608
+text	torn
+imageUuid	0c5001fe-660f-419f-9472-c826784780b8
+translationKey	b3602231-ef0c-42e4-94d7-9d73de1ba805
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0c5001fe-660f-419f-9472-c826784780b8/b3602231-ef0c-42e4-94d7-9d73de1ba805/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0c5001fe-660f-419f-9472-c826784780b8/b3602231-ef0c-42e4-94d7-9d73de1ba805
+md5	2b6dc87df3f933e19e86c2180144b377

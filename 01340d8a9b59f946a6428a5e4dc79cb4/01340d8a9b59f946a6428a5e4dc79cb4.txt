@@ -1,0 +1,16 @@
+
+signId	1322
+text	sjuttio (tal)
+imageUuid	d1bbb173-3d9c-423c-9ddb-0981e176c467
+translationKey	674a75ed-6eab-43b3-b038-1699f7dda66a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d1bbb173-3d9c-423c-9ddb-0981e176c467/674a75ed-6eab-43b3-b038-1699f7dda66a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d1bbb173-3d9c-423c-9ddb-0981e176c467/674a75ed-6eab-43b3-b038-1699f7dda66a
+md5	01340d8a9b59f946a6428a5e4dc79cb4
+
+signId	2863
+text	70 (tal)
+imageUuid	e9f2a149-1564-4366-9de6-f9aef36d3d76
+translationKey	85ebd025-58f3-4d6d-b738-cc18dc7d6e0b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e9f2a149-1564-4366-9de6-f9aef36d3d76/85ebd025-58f3-4d6d-b738-cc18dc7d6e0b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e9f2a149-1564-4366-9de6-f9aef36d3d76/85ebd025-58f3-4d6d-b738-cc18dc7d6e0b
+md5	01340d8a9b59f946a6428a5e4dc79cb4

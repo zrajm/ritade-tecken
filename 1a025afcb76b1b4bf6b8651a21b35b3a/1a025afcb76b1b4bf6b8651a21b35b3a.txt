@@ -1,0 +1,16 @@
+
+signId	975
+text	medel 1
+imageUuid	c8a12338-1b14-469e-9fcf-9cc6442faee9
+translationKey	4967c205-87c7-4b6e-9b8c-8361b6e30d60
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c8a12338-1b14-469e-9fcf-9cc6442faee9/4967c205-87c7-4b6e-9b8c-8361b6e30d60/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c8a12338-1b14-469e-9fcf-9cc6442faee9/4967c205-87c7-4b6e-9b8c-8361b6e30d60
+md5	1a025afcb76b1b4bf6b8651a21b35b3a
+
+signId	2702
+text	sköljmedel
+imageUuid	2842d4a5-ed48-4db4-b5e9-82fff1083bb2
+translationKey	f5d368c7-ff6d-4983-8ad9-1b84089cc6b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2842d4a5-ed48-4db4-b5e9-82fff1083bb2/f5d368c7-ff6d-4983-8ad9-1b84089cc6b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2842d4a5-ed48-4db4-b5e9-82fff1083bb2/f5d368c7-ff6d-4983-8ad9-1b84089cc6b4
+md5	1a025afcb76b1b4bf6b8651a21b35b3a

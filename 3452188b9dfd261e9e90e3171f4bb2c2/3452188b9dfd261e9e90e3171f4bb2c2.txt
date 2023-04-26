@@ -1,0 +1,8 @@
+
+signId	1070
+text	nej 1
+imageUuid	5e45e663-9109-4beb-97a1-2ecdfe50d608
+translationKey	d3dbcc84-2bbf-4dd0-9158-5fd773a5e90c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e45e663-9109-4beb-97a1-2ecdfe50d608/d3dbcc84-2bbf-4dd0-9158-5fd773a5e90c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e45e663-9109-4beb-97a1-2ecdfe50d608/d3dbcc84-2bbf-4dd0-9158-5fd773a5e90c
+md5	3452188b9dfd261e9e90e3171f4bb2c2

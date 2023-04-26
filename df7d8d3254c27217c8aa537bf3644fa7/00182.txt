@@ -1,0 +1,7 @@
+signId	182
+text	bred
+imageUuid	1d3386c1-6a99-406f-a66e-1cb9d464ef06
+translationKey	ff93ff7e-f8ad-4944-9f07-78b5c841c461
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1d3386c1-6a99-406f-a66e-1cb9d464ef06/ff93ff7e-f8ad-4944-9f07-78b5c841c461/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1d3386c1-6a99-406f-a66e-1cb9d464ef06/ff93ff7e-f8ad-4944-9f07-78b5c841c461
+md5	df7d8d3254c27217c8aa537bf3644fa7

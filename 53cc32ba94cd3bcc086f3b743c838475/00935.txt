@@ -1,0 +1,7 @@
+signId	935
+text	lägga sig
+imageUuid	c75cec8d-a277-4d8c-8db3-63d980935145
+translationKey	0da0d8cf-8026-4e7a-97c1-0cbb7f643221
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c75cec8d-a277-4d8c-8db3-63d980935145/0da0d8cf-8026-4e7a-97c1-0cbb7f643221/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c75cec8d-a277-4d8c-8db3-63d980935145/0da0d8cf-8026-4e7a-97c1-0cbb7f643221
+md5	53cc32ba94cd3bcc086f3b743c838475

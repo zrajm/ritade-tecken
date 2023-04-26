@@ -1,0 +1,8 @@
+
+signId	1666
+text	tändstickor
+imageUuid	32a150d2-1705-4e68-89eb-210d1d0091c6
+translationKey	f93498a6-3be2-4bb3-b33c-f48a2c01174c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/32a150d2-1705-4e68-89eb-210d1d0091c6/f93498a6-3be2-4bb3-b33c-f48a2c01174c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/32a150d2-1705-4e68-89eb-210d1d0091c6/f93498a6-3be2-4bb3-b33c-f48a2c01174c
+md5	602e314c6d2c5d996459e6286495961b

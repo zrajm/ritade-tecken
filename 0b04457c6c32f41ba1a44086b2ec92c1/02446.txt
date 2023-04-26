@@ -1,0 +1,7 @@
+signId	2446
+text	samhällskunskap
+imageUuid	62602f47-d8b1-4e75-b7fb-a999cc1cc91a
+translationKey	21fe89a8-5de4-4097-abe5-42e1fd831f91
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/62602f47-d8b1-4e75-b7fb-a999cc1cc91a/21fe89a8-5de4-4097-abe5-42e1fd831f91/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/62602f47-d8b1-4e75-b7fb-a999cc1cc91a/21fe89a8-5de4-4097-abe5-42e1fd831f91
+md5	0b04457c6c32f41ba1a44086b2ec92c1

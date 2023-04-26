@@ -1,0 +1,7 @@
+signId	885
+text	leverans
+imageUuid	b0ab2dec-4805-46fc-8a4f-d5fb4e547d8b
+translationKey	4a877ce0-1928-4747-beb3-444360d5f1d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b0ab2dec-4805-46fc-8a4f-d5fb4e547d8b/4a877ce0-1928-4747-beb3-444360d5f1d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b0ab2dec-4805-46fc-8a4f-d5fb4e547d8b/4a877ce0-1928-4747-beb3-444360d5f1d1
+md5	d733210b0c73f7d5323e46339921ae58

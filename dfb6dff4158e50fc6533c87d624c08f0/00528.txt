@@ -1,0 +1,7 @@
+signId	528
+text	gumma
+imageUuid	bc041a96-e63d-4bdb-b83b-7aa987765c29
+translationKey	883209c5-30ef-4993-97ac-a47f17c24f67
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bc041a96-e63d-4bdb-b83b-7aa987765c29/883209c5-30ef-4993-97ac-a47f17c24f67/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bc041a96-e63d-4bdb-b83b-7aa987765c29/883209c5-30ef-4993-97ac-a47f17c24f67
+md5	dfb6dff4158e50fc6533c87d624c08f0

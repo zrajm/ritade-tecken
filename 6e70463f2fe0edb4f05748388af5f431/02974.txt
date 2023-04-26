@@ -1,0 +1,7 @@
+signId	2974
+text	moster
+imageUuid	039c1ef6-8962-4af4-ace6-c1542fb0e5b7
+translationKey	f189033b-4590-427e-8237-169dee1879d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/039c1ef6-8962-4af4-ace6-c1542fb0e5b7/f189033b-4590-427e-8237-169dee1879d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/039c1ef6-8962-4af4-ace6-c1542fb0e5b7/f189033b-4590-427e-8237-169dee1879d3
+md5	6e70463f2fe0edb4f05748388af5f431

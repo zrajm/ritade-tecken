@@ -1,0 +1,7 @@
+signId	816
+text	krypa
+imageUuid	1fd3eef9-609b-4565-bc4f-ab74dfa822da
+translationKey	b89e896e-139e-409a-9cda-3f0456d6a211
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1fd3eef9-609b-4565-bc4f-ab74dfa822da/b89e896e-139e-409a-9cda-3f0456d6a211/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1fd3eef9-609b-4565-bc4f-ab74dfa822da/b89e896e-139e-409a-9cda-3f0456d6a211
+md5	6d1a23c6ad9f03d693452a6ad8076ea6

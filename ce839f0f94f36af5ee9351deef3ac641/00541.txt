@@ -1,0 +1,7 @@
+signId	541
+text	gånger
+imageUuid	85b25fe5-1372-473b-a871-f9971a40bf8d
+translationKey	3d468661-c2f8-4609-b5c1-2c4fc55083b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/85b25fe5-1372-473b-a871-f9971a40bf8d/3d468661-c2f8-4609-b5c1-2c4fc55083b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/85b25fe5-1372-473b-a871-f9971a40bf8d/3d468661-c2f8-4609-b5c1-2c4fc55083b6
+md5	ce839f0f94f36af5ee9351deef3ac641

@@ -1,0 +1,7 @@
+signId	3000
+text	jeep
+imageUuid	8be14e9b-435d-462c-b5e4-24462c9fd7b3
+translationKey	f09c4d60-c666-4ac3-931e-ec9bdc85bc18
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8be14e9b-435d-462c-b5e4-24462c9fd7b3/f09c4d60-c666-4ac3-931e-ec9bdc85bc18/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8be14e9b-435d-462c-b5e4-24462c9fd7b3/f09c4d60-c666-4ac3-931e-ec9bdc85bc18
+md5	3cddcc1f3dfccf7f5d65903c5cd10f08

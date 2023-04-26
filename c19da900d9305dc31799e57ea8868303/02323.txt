@@ -1,0 +1,7 @@
+signId	2323
+text	dagcenter
+imageUuid	5001a87f-e119-434e-9128-7e07f6c28c69
+translationKey	070ae8c1-a1ac-4964-a272-08bb4301ac8b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5001a87f-e119-434e-9128-7e07f6c28c69/070ae8c1-a1ac-4964-a272-08bb4301ac8b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5001a87f-e119-434e-9128-7e07f6c28c69/070ae8c1-a1ac-4964-a272-08bb4301ac8b
+md5	c19da900d9305dc31799e57ea8868303

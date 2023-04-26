@@ -1,0 +1,7 @@
+signId	611
+text	hotell
+imageUuid	b56db7b4-37bb-4ca7-9da4-59bee18a54d9
+translationKey	c9b9a6f4-60e5-45bf-bae2-b14f68e3348c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b56db7b4-37bb-4ca7-9da4-59bee18a54d9/c9b9a6f4-60e5-45bf-bae2-b14f68e3348c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b56db7b4-37bb-4ca7-9da4-59bee18a54d9/c9b9a6f4-60e5-45bf-bae2-b14f68e3348c
+md5	18d516605e9bb2c42502e89ebb39ebeb

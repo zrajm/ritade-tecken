@@ -1,0 +1,7 @@
+signId	1977
+text	cykeldäck
+imageUuid	9cb17fdb-bba1-43c7-9a16-8ef4c866b630
+translationKey	00de253c-1d6b-4e26-8e9b-42080686fc57
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9cb17fdb-bba1-43c7-9a16-8ef4c866b630/00de253c-1d6b-4e26-8e9b-42080686fc57/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9cb17fdb-bba1-43c7-9a16-8ef4c866b630/00de253c-1d6b-4e26-8e9b-42080686fc57
+md5	9a97f9b647dbe91043b93a7020b5d26a

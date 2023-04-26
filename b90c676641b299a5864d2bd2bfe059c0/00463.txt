@@ -1,0 +1,7 @@
+signId	463
+text	förstå
+imageUuid	87326c22-7620-4403-a6ee-e9ee07f02236
+translationKey	22399dc6-5e08-423c-b5f8-6ec506a51a7c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/87326c22-7620-4403-a6ee-e9ee07f02236/22399dc6-5e08-423c-b5f8-6ec506a51a7c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/87326c22-7620-4403-a6ee-e9ee07f02236/22399dc6-5e08-423c-b5f8-6ec506a51a7c
+md5	b90c676641b299a5864d2bd2bfe059c0

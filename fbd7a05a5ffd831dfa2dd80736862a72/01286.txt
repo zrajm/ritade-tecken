@@ -1,0 +1,7 @@
+signId	1286
+text	salva
+imageUuid	d5146a20-bc17-40d6-88dc-2073de79eaf0
+translationKey	1353a060-c0a0-4a7e-a3d1-64bd5c69028b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d5146a20-bc17-40d6-88dc-2073de79eaf0/1353a060-c0a0-4a7e-a3d1-64bd5c69028b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d5146a20-bc17-40d6-88dc-2073de79eaf0/1353a060-c0a0-4a7e-a3d1-64bd5c69028b
+md5	fbd7a05a5ffd831dfa2dd80736862a72

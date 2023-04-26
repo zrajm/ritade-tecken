@@ -1,0 +1,7 @@
+signId	1932
+text	tonår
+imageUuid	9bca4501-c610-4795-bcff-27cef635ec35
+translationKey	63bac5f8-0d1c-4d33-8fff-a74569945200
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9bca4501-c610-4795-bcff-27cef635ec35/63bac5f8-0d1c-4d33-8fff-a74569945200/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9bca4501-c610-4795-bcff-27cef635ec35/63bac5f8-0d1c-4d33-8fff-a74569945200
+md5	126906e7ceb252e7b44a60c0add222ba

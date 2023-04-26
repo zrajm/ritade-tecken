@@ -1,0 +1,7 @@
+signId	954
+text	mager
+imageUuid	0d2d4156-0fdd-410c-bc99-deecb1887593
+translationKey	e55107fd-f1ba-4271-8aff-02eff3baed3d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0d2d4156-0fdd-410c-bc99-deecb1887593/e55107fd-f1ba-4271-8aff-02eff3baed3d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0d2d4156-0fdd-410c-bc99-deecb1887593/e55107fd-f1ba-4271-8aff-02eff3baed3d
+md5	673ce61d77174aed376fcc1fe0f5065a

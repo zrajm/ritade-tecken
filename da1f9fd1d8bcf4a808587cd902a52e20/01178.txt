@@ -1,0 +1,7 @@
+signId	1178
+text	pojke
+imageUuid	48dd8649-843b-453e-aed4-819ff066ff78
+translationKey	2ad2382d-b495-4555-bad8-24565144ad3e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/48dd8649-843b-453e-aed4-819ff066ff78/2ad2382d-b495-4555-bad8-24565144ad3e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/48dd8649-843b-453e-aed4-819ff066ff78/2ad2382d-b495-4555-bad8-24565144ad3e
+md5	da1f9fd1d8bcf4a808587cd902a52e20

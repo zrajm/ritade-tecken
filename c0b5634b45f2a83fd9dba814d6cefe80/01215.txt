@@ -1,0 +1,7 @@
+signId	1215
+text	påskgubbe
+imageUuid	080fd73e-2472-48dc-b920-893738fce096
+translationKey	a47fea50-da5f-4907-b786-dae36a428bb2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/080fd73e-2472-48dc-b920-893738fce096/a47fea50-da5f-4907-b786-dae36a428bb2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/080fd73e-2472-48dc-b920-893738fce096/a47fea50-da5f-4907-b786-dae36a428bb2
+md5	c0b5634b45f2a83fd9dba814d6cefe80

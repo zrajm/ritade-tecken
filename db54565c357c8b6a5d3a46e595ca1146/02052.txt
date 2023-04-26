@@ -1,0 +1,7 @@
+signId	2052
+text	förkläde
+imageUuid	0ffa1214-82c5-4c2e-bc06-7926a9d34da3
+translationKey	51a517a7-3984-4d8c-ac0c-3aaf4b1e881a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0ffa1214-82c5-4c2e-bc06-7926a9d34da3/51a517a7-3984-4d8c-ac0c-3aaf4b1e881a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0ffa1214-82c5-4c2e-bc06-7926a9d34da3/51a517a7-3984-4d8c-ac0c-3aaf4b1e881a
+md5	db54565c357c8b6a5d3a46e595ca1146

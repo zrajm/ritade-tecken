@@ -1,0 +1,7 @@
+signId	1026
+text	mura
+imageUuid	7bb7d2f0-89af-4b16-b61e-eda51d9f10d0
+translationKey	1efe3b65-ec23-4499-84f0-1f50ed3e387d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7bb7d2f0-89af-4b16-b61e-eda51d9f10d0/1efe3b65-ec23-4499-84f0-1f50ed3e387d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7bb7d2f0-89af-4b16-b61e-eda51d9f10d0/1efe3b65-ec23-4499-84f0-1f50ed3e387d
+md5	6708fa3e002af0eaea53af75dfa5f4f4

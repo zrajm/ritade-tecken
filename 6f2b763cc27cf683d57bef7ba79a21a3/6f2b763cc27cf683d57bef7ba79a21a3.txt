@@ -1,0 +1,8 @@
+
+signId	2969
+text	tanka
+imageUuid	eee1ce9a-97a7-4d37-8cbf-85ff9e5460ff
+translationKey	3b538668-8cd3-4f04-b318-3dfe07fcfbbd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eee1ce9a-97a7-4d37-8cbf-85ff9e5460ff/3b538668-8cd3-4f04-b318-3dfe07fcfbbd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eee1ce9a-97a7-4d37-8cbf-85ff9e5460ff/3b538668-8cd3-4f04-b318-3dfe07fcfbbd
+md5	6f2b763cc27cf683d57bef7ba79a21a3

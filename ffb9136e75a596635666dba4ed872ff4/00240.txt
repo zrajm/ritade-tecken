@@ -1,0 +1,7 @@
+signId	240
+text	cowboy
+imageUuid	5163a742-bd15-4aac-a437-eda36be996a7
+translationKey	f81803e6-f27f-4af2-832c-0ec5011f8aca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5163a742-bd15-4aac-a437-eda36be996a7/f81803e6-f27f-4af2-832c-0ec5011f8aca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5163a742-bd15-4aac-a437-eda36be996a7/f81803e6-f27f-4af2-832c-0ec5011f8aca
+md5	ffb9136e75a596635666dba4ed872ff4

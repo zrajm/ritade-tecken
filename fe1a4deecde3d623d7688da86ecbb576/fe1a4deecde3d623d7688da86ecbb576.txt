@@ -1,0 +1,8 @@
+
+signId	3197
+text	böter
+imageUuid	fccbadeb-89f4-41d9-bf1f-6a535a3e6661
+translationKey	1b722e6b-7955-4e29-8f72-fccb6535b8f1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fccbadeb-89f4-41d9-bf1f-6a535a3e6661/1b722e6b-7955-4e29-8f72-fccb6535b8f1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fccbadeb-89f4-41d9-bf1f-6a535a3e6661/1b722e6b-7955-4e29-8f72-fccb6535b8f1
+md5	fe1a4deecde3d623d7688da86ecbb576

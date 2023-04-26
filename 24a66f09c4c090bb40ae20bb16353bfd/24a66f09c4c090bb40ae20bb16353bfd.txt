@@ -1,0 +1,8 @@
+
+signId	64
+text	arbetsterapeut
+imageUuid	19701a1a-0c4e-41c8-9e57-c3d3b5ccfa60
+translationKey	79b951ac-2dd0-4c1b-b017-5293e263fd63
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/19701a1a-0c4e-41c8-9e57-c3d3b5ccfa60/79b951ac-2dd0-4c1b-b017-5293e263fd63/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/19701a1a-0c4e-41c8-9e57-c3d3b5ccfa60/79b951ac-2dd0-4c1b-b017-5293e263fd63
+md5	24a66f09c4c090bb40ae20bb16353bfd

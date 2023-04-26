@@ -1,0 +1,7 @@
+signId	407
+text	fritid
+imageUuid	40c419c6-8a02-4d6c-88db-b606c54dfa18
+translationKey	01dec23b-64ee-4ea3-b250-921af931154b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/40c419c6-8a02-4d6c-88db-b606c54dfa18/01dec23b-64ee-4ea3-b250-921af931154b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/40c419c6-8a02-4d6c-88db-b606c54dfa18/01dec23b-64ee-4ea3-b250-921af931154b
+md5	7292afd0e1376b1caa073ba69c983e0c

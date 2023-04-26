@@ -1,0 +1,7 @@
+signId	2435
+text	matsäck
+imageUuid	12bd0882-d1fc-4754-9b51-41df9c6c07c9
+translationKey	b939cbb8-4180-4b72-9985-f28bb0f58d17
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/12bd0882-d1fc-4754-9b51-41df9c6c07c9/b939cbb8-4180-4b72-9985-f28bb0f58d17/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/12bd0882-d1fc-4754-9b51-41df9c6c07c9/b939cbb8-4180-4b72-9985-f28bb0f58d17
+md5	e60f4914e06d4eca62abd7d63ffe337b

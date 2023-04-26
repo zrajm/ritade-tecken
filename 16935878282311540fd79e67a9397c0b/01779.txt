@@ -1,0 +1,7 @@
+signId	1779
+text	yoghurt
+imageUuid	5dc60b98-0b5c-4340-bc25-06db0ab016cc
+translationKey	f88a12d8-68a1-449e-8e31-5d9ff049798d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5dc60b98-0b5c-4340-bc25-06db0ab016cc/f88a12d8-68a1-449e-8e31-5d9ff049798d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5dc60b98-0b5c-4340-bc25-06db0ab016cc/f88a12d8-68a1-449e-8e31-5d9ff049798d
+md5	16935878282311540fd79e67a9397c0b

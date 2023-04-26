@@ -1,0 +1,7 @@
+signId	2322
+text	cyklop
+imageUuid	bb604c42-603f-4424-af5a-c67205234fb2
+translationKey	0ecc29cf-545f-4558-84b2-d68b89388817
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bb604c42-603f-4424-af5a-c67205234fb2/0ecc29cf-545f-4558-84b2-d68b89388817/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bb604c42-603f-4424-af5a-c67205234fb2/0ecc29cf-545f-4558-84b2-d68b89388817
+md5	f06c1877696dd088aa579cbca91b5d70

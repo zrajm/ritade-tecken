@@ -1,0 +1,7 @@
+signId	663
+text	igår
+imageUuid	db662af0-d1e3-4e27-ae7d-598994fe3b14
+translationKey	ca65ad20-59ff-4dca-876e-c66b1a1c6578
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/db662af0-d1e3-4e27-ae7d-598994fe3b14/ca65ad20-59ff-4dca-876e-c66b1a1c6578/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/db662af0-d1e3-4e27-ae7d-598994fe3b14/ca65ad20-59ff-4dca-876e-c66b1a1c6578
+md5	147310935149328d99594fe76ba245f5

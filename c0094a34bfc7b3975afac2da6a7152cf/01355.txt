@@ -1,0 +1,7 @@
+signId	1355
+text	skratt
+imageUuid	5cf69147-7811-47c3-b738-d5a7be4ec4c5
+translationKey	5f475b15-fa7d-44ca-a4f0-7ab08ede6dee
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5cf69147-7811-47c3-b738-d5a7be4ec4c5/5f475b15-fa7d-44ca-a4f0-7ab08ede6dee/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5cf69147-7811-47c3-b738-d5a7be4ec4c5/5f475b15-fa7d-44ca-a4f0-7ab08ede6dee
+md5	c0094a34bfc7b3975afac2da6a7152cf

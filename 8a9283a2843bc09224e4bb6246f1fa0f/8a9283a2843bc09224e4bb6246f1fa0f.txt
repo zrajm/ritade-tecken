@@ -1,0 +1,8 @@
+
+signId	2793
+text	onanera (man)
+imageUuid	39c956a4-a63a-4389-b452-ccee9110e955
+translationKey	6d6f2b5e-20f0-4897-bb2c-9e3d09dd0411
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/39c956a4-a63a-4389-b452-ccee9110e955/6d6f2b5e-20f0-4897-bb2c-9e3d09dd0411/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/39c956a4-a63a-4389-b452-ccee9110e955/6d6f2b5e-20f0-4897-bb2c-9e3d09dd0411
+md5	8a9283a2843bc09224e4bb6246f1fa0f

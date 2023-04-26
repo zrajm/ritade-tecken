@@ -1,0 +1,7 @@
+signId	1852
+text	ordna
+imageUuid	5b09eaf8-2c59-4645-aa1d-5d418db66ed3
+translationKey	0b81e78f-0b22-4554-9009-4f2cfefad5be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5b09eaf8-2c59-4645-aa1d-5d418db66ed3/0b81e78f-0b22-4554-9009-4f2cfefad5be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5b09eaf8-2c59-4645-aa1d-5d418db66ed3/0b81e78f-0b22-4554-9009-4f2cfefad5be
+md5	9a25e447bd86b60c5aad1ceb29831b78

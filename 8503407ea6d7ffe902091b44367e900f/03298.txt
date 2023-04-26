@@ -1,0 +1,7 @@
+signId	3298
+text	genomgång
+imageUuid	d7ba4ed9-2b1c-455b-a81f-67dbca3504cc
+translationKey	95b883a2-9c8c-4faf-85da-6de4b624d0dc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d7ba4ed9-2b1c-455b-a81f-67dbca3504cc/95b883a2-9c8c-4faf-85da-6de4b624d0dc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d7ba4ed9-2b1c-455b-a81f-67dbca3504cc/95b883a2-9c8c-4faf-85da-6de4b624d0dc
+md5	8503407ea6d7ffe902091b44367e900f

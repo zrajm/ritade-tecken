@@ -1,0 +1,7 @@
+signId	920
+text	lysa
+imageUuid	180bc048-f421-48f7-ad75-3ac2f43716ef
+translationKey	8f04fdd6-c7e3-48f0-a705-948381b2a5bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/180bc048-f421-48f7-ad75-3ac2f43716ef/8f04fdd6-c7e3-48f0-a705-948381b2a5bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/180bc048-f421-48f7-ad75-3ac2f43716ef/8f04fdd6-c7e3-48f0-a705-948381b2a5bf
+md5	7fa12656efce5db50cc5e31b51d002eb

@@ -1,0 +1,7 @@
+signId	1283
+text	sakta
+imageUuid	12511ed5-ff83-408e-b459-8a7c7ce7fcd4
+translationKey	ef7522fa-ceed-45d2-aadb-2da7de69244e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/12511ed5-ff83-408e-b459-8a7c7ce7fcd4/ef7522fa-ceed-45d2-aadb-2da7de69244e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/12511ed5-ff83-408e-b459-8a7c7ce7fcd4/ef7522fa-ceed-45d2-aadb-2da7de69244e
+md5	241dac474e034eeeaf83319ba985489b

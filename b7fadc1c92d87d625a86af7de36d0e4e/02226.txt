@@ -1,0 +1,7 @@
+signId	2226
+text	madrass
+imageUuid	096ce427-8609-43f8-bfd3-a1d08b643688
+translationKey	39527b3b-1b22-4b5b-9dc4-807c55b420c8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/096ce427-8609-43f8-bfd3-a1d08b643688/39527b3b-1b22-4b5b-9dc4-807c55b420c8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/096ce427-8609-43f8-bfd3-a1d08b643688/39527b3b-1b22-4b5b-9dc4-807c55b420c8
+md5	b7fadc1c92d87d625a86af7de36d0e4e

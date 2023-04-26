@@ -1,0 +1,7 @@
+signId	2704
+text	marsipan
+imageUuid	3ad328f3-54b1-459e-9ed5-bb128a7422f4
+translationKey	21e85497-761a-40c9-99ac-425953a44967
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3ad328f3-54b1-459e-9ed5-bb128a7422f4/21e85497-761a-40c9-99ac-425953a44967/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3ad328f3-54b1-459e-9ed5-bb128a7422f4/21e85497-761a-40c9-99ac-425953a44967
+md5	88a5bda48addedbb1974315648b9e75b

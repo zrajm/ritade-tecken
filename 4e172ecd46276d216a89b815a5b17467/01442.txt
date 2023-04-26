@@ -1,0 +1,7 @@
+signId	1442
+text	sparkcykel
+imageUuid	1985af1d-b86a-4ec3-aa6f-91ff59cc2ec2
+translationKey	86d425ce-8774-40b5-8a3e-29aa55a6a97c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1985af1d-b86a-4ec3-aa6f-91ff59cc2ec2/86d425ce-8774-40b5-8a3e-29aa55a6a97c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1985af1d-b86a-4ec3-aa6f-91ff59cc2ec2/86d425ce-8774-40b5-8a3e-29aa55a6a97c
+md5	4e172ecd46276d216a89b815a5b17467

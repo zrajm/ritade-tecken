@@ -1,0 +1,7 @@
+signId	465
+text	förstår inte 1
+imageUuid	6a5d9f16-2596-4309-95d2-ae4add13bd14
+translationKey	43a1b69d-03f8-4be3-870d-af57d5133bfd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6a5d9f16-2596-4309-95d2-ae4add13bd14/43a1b69d-03f8-4be3-870d-af57d5133bfd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6a5d9f16-2596-4309-95d2-ae4add13bd14/43a1b69d-03f8-4be3-870d-af57d5133bfd
+md5	32f4a35eb09d2707d96b501104eab4a4

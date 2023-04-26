@@ -1,0 +1,8 @@
+
+signId	246
+text	dags
+imageUuid	173ba8c1-0021-4f04-82ad-7a92ad850902
+translationKey	f0ab6eec-b652-4c90-9cbb-12feacedca07
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/173ba8c1-0021-4f04-82ad-7a92ad850902/f0ab6eec-b652-4c90-9cbb-12feacedca07/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/173ba8c1-0021-4f04-82ad-7a92ad850902/f0ab6eec-b652-4c90-9cbb-12feacedca07
+md5	80053c18a33756b1e89a9b5c0094d348

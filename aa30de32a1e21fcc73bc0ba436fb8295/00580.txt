@@ -1,0 +1,7 @@
+signId	580
+text	hela (allt)
+imageUuid	830489a5-8e3c-46f9-b607-b4e975e2b3eb
+translationKey	40c21d48-424c-4424-8850-77b17ec133e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/830489a5-8e3c-46f9-b607-b4e975e2b3eb/40c21d48-424c-4424-8850-77b17ec133e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/830489a5-8e3c-46f9-b607-b4e975e2b3eb/40c21d48-424c-4424-8850-77b17ec133e8
+md5	aa30de32a1e21fcc73bc0ba436fb8295

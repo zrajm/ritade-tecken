@@ -1,0 +1,8 @@
+
+signId	773
+text	knä
+imageUuid	d7d6fb92-13fb-4c47-b2bb-3f9d441bb0cd
+translationKey	dcfa727b-8d91-47fd-92d8-deb7d25cc3c1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d7d6fb92-13fb-4c47-b2bb-3f9d441bb0cd/dcfa727b-8d91-47fd-92d8-deb7d25cc3c1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d7d6fb92-13fb-4c47-b2bb-3f9d441bb0cd/dcfa727b-8d91-47fd-92d8-deb7d25cc3c1
+md5	9c2d083752904974ba948286b0d61f09

@@ -1,0 +1,8 @@
+
+signId	2426
+text	julbock
+imageUuid	c836cdb0-9034-4180-bde3-75aa8b9a15cf
+translationKey	5685cfce-0131-4835-80d9-271206ea4d48
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c836cdb0-9034-4180-bde3-75aa8b9a15cf/5685cfce-0131-4835-80d9-271206ea4d48/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c836cdb0-9034-4180-bde3-75aa8b9a15cf/5685cfce-0131-4835-80d9-271206ea4d48
+md5	68a5f5480bbf23e55a4726734d4b7115

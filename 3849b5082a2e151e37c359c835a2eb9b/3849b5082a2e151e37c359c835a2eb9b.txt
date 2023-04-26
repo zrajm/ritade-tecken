@@ -1,0 +1,16 @@
+
+signId	2359
+text	lapa
+imageUuid	89aa3bc0-6704-4a0f-ae58-9e4faef62509
+translationKey	ae1e6707-15c6-4e5e-abd6-a4be687f5dd9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/89aa3bc0-6704-4a0f-ae58-9e4faef62509/ae1e6707-15c6-4e5e-abd6-a4be687f5dd9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/89aa3bc0-6704-4a0f-ae58-9e4faef62509/ae1e6707-15c6-4e5e-abd6-a4be687f5dd9
+md5	3849b5082a2e151e37c359c835a2eb9b
+
+signId	2392
+text	slicka
+imageUuid	fac08860-11e9-48ad-953a-ca4dd7b1ebae
+translationKey	1f4b844f-b112-4946-9f8c-1c8b761c2c0c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fac08860-11e9-48ad-953a-ca4dd7b1ebae/1f4b844f-b112-4946-9f8c-1c8b761c2c0c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fac08860-11e9-48ad-953a-ca4dd7b1ebae/1f4b844f-b112-4946-9f8c-1c8b761c2c0c
+md5	3849b5082a2e151e37c359c835a2eb9b

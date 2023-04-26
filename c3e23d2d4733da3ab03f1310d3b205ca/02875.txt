@@ -1,0 +1,7 @@
+signId	2875
+text	backe
+imageUuid	21b6247d-071c-4777-931e-e21ec9c2ef39
+translationKey	04a9b13f-146f-4ba9-a885-30b65428b4bb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/21b6247d-071c-4777-931e-e21ec9c2ef39/04a9b13f-146f-4ba9-a885-30b65428b4bb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/21b6247d-071c-4777-931e-e21ec9c2ef39/04a9b13f-146f-4ba9-a885-30b65428b4bb
+md5	c3e23d2d4733da3ab03f1310d3b205ca

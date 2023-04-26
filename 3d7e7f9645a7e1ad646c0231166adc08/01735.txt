@@ -1,0 +1,7 @@
+signId	1735
+text	villa
+imageUuid	01a6446b-08de-4a37-83d0-f95410e56d86
+translationKey	37d3fe1e-9399-4df4-aa58-14aaa41283cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/01a6446b-08de-4a37-83d0-f95410e56d86/37d3fe1e-9399-4df4-aa58-14aaa41283cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/01a6446b-08de-4a37-83d0-f95410e56d86/37d3fe1e-9399-4df4-aa58-14aaa41283cd
+md5	3d7e7f9645a7e1ad646c0231166adc08

@@ -1,0 +1,7 @@
+signId	2327
+text	diktatur
+imageUuid	84535ca0-ad15-4cb3-b909-650088caebdd
+translationKey	be02dba7-0f23-44b2-929a-a91f0f658db5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/84535ca0-ad15-4cb3-b909-650088caebdd/be02dba7-0f23-44b2-929a-a91f0f658db5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/84535ca0-ad15-4cb3-b909-650088caebdd/be02dba7-0f23-44b2-929a-a91f0f658db5
+md5	dfdf3a0b503c625d0e5744c867e96ca0

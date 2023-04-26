@@ -1,0 +1,16 @@
+
+signId	1849
+text	engelska
+imageUuid	7f158c23-c821-45ac-a160-f8d0b4f97586
+translationKey	b4a45fd0-4c87-4bad-8048-3ad65735224a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f158c23-c821-45ac-a160-f8d0b4f97586/b4a45fd0-4c87-4bad-8048-3ad65735224a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f158c23-c821-45ac-a160-f8d0b4f97586/b4a45fd0-4c87-4bad-8048-3ad65735224a
+md5	ee09aae462e21b07c452a45a3b429f6b
+
+signId	1854
+text	England
+imageUuid	ba535562-5694-4c06-a417-eb00a99fa83f
+translationKey	ad210fb4-71b8-45cc-aff6-16d452e4d8c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ba535562-5694-4c06-a417-eb00a99fa83f/ad210fb4-71b8-45cc-aff6-16d452e4d8c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ba535562-5694-4c06-a417-eb00a99fa83f/ad210fb4-71b8-45cc-aff6-16d452e4d8c4
+md5	ee09aae462e21b07c452a45a3b429f6b

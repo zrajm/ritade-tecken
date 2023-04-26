@@ -1,0 +1,7 @@
+signId	770
+text	knuffa
+imageUuid	23049859-7a81-46fe-9a4a-7d0c6aa3da11
+translationKey	69977393-c6f7-4c5d-8eb5-b95ee64742ff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/23049859-7a81-46fe-9a4a-7d0c6aa3da11/69977393-c6f7-4c5d-8eb5-b95ee64742ff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/23049859-7a81-46fe-9a4a-7d0c6aa3da11/69977393-c6f7-4c5d-8eb5-b95ee64742ff
+md5	1e3ce00fa84830037a4ae32a05a04aef

@@ -1,0 +1,8 @@
+
+signId	872
+text	lastbil
+imageUuid	c9fac092-f80c-4fe0-bf96-24bfc0eae947
+translationKey	39a7f34d-541d-4354-9a0e-bba4c5fe021b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c9fac092-f80c-4fe0-bf96-24bfc0eae947/39a7f34d-541d-4354-9a0e-bba4c5fe021b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c9fac092-f80c-4fe0-bf96-24bfc0eae947/39a7f34d-541d-4354-9a0e-bba4c5fe021b
+md5	769e91980b6dd3b4aac742d64b137675

@@ -1,0 +1,8 @@
+
+signId	2470
+text	motståndare
+imageUuid	0c919601-d3a1-4cc6-8c0d-15c022e68673
+translationKey	eed02544-bf33-416a-9a7c-395899bc8586
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0c919601-d3a1-4cc6-8c0d-15c022e68673/eed02544-bf33-416a-9a7c-395899bc8586/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0c919601-d3a1-4cc6-8c0d-15c022e68673/eed02544-bf33-416a-9a7c-395899bc8586
+md5	cf289c3362bbf2e2e6b3157e1cf3ee6a

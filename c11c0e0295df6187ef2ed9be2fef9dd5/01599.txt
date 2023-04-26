@@ -1,0 +1,7 @@
+signId	1599
+text	torg
+imageUuid	2bd2fb3e-36d1-4da3-99ee-0238098fa7b1
+translationKey	303b9894-2a3d-48bb-ba8c-ad7d7b2a14bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2bd2fb3e-36d1-4da3-99ee-0238098fa7b1/303b9894-2a3d-48bb-ba8c-ad7d7b2a14bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2bd2fb3e-36d1-4da3-99ee-0238098fa7b1/303b9894-2a3d-48bb-ba8c-ad7d7b2a14bf
+md5	c11c0e0295df6187ef2ed9be2fef9dd5

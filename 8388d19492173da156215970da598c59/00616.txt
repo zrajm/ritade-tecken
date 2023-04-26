@@ -1,0 +1,7 @@
+signId	616
+text	hurra
+imageUuid	47e45aff-abf2-49f2-bc23-87fc863739ea
+translationKey	c504ab55-0d4b-4a5c-9c3c-a936ed965907
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/47e45aff-abf2-49f2-bc23-87fc863739ea/c504ab55-0d4b-4a5c-9c3c-a936ed965907/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/47e45aff-abf2-49f2-bc23-87fc863739ea/c504ab55-0d4b-4a5c-9c3c-a936ed965907
+md5	8388d19492173da156215970da598c59

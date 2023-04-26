@@ -1,0 +1,8 @@
+
+signId	2354
+text	kristdemokraterna
+imageUuid	7d763437-9192-44d5-bc47-6e530dbe2ee7
+translationKey	3911b2ee-796b-4d11-a6fa-e8b1f6565513
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7d763437-9192-44d5-bc47-6e530dbe2ee7/3911b2ee-796b-4d11-a6fa-e8b1f6565513/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7d763437-9192-44d5-bc47-6e530dbe2ee7/3911b2ee-796b-4d11-a6fa-e8b1f6565513
+md5	8aac55c7059c24b387e797ed09630b61

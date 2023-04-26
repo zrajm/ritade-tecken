@@ -1,0 +1,16 @@
+
+signId	1394
+text	smak
+imageUuid	d08e24ea-c818-4c2d-8de0-187ba2773af4
+translationKey	a84125e8-5d77-4a49-b12a-a5126923f42f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d08e24ea-c818-4c2d-8de0-187ba2773af4/a84125e8-5d77-4a49-b12a-a5126923f42f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d08e24ea-c818-4c2d-8de0-187ba2773af4/a84125e8-5d77-4a49-b12a-a5126923f42f
+md5	c60ff818c4b0392a5277c46aa681eb2c
+
+signId	1395
+text	smaka
+imageUuid	90f652f0-db88-48d4-b2c7-24832a2f7e06
+translationKey	8c4fd9c9-5c44-4934-844c-3b9155ae126b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/90f652f0-db88-48d4-b2c7-24832a2f7e06/8c4fd9c9-5c44-4934-844c-3b9155ae126b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/90f652f0-db88-48d4-b2c7-24832a2f7e06/8c4fd9c9-5c44-4934-844c-3b9155ae126b
+md5	c60ff818c4b0392a5277c46aa681eb2c

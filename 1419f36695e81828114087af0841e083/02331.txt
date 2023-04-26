@@ -1,0 +1,7 @@
+signId	2331
+text	folkpartiet
+imageUuid	29342f19-275d-4c2a-acf5-baf49be5e932
+translationKey	d0196d69-fbf0-4f59-b2f6-264b09f65864
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/29342f19-275d-4c2a-acf5-baf49be5e932/d0196d69-fbf0-4f59-b2f6-264b09f65864/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/29342f19-275d-4c2a-acf5-baf49be5e932/d0196d69-fbf0-4f59-b2f6-264b09f65864
+md5	1419f36695e81828114087af0841e083

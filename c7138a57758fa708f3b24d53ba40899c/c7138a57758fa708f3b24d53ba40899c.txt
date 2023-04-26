@@ -1,0 +1,8 @@
+
+signId	2992
+text	fluga (klädesplagg)
+imageUuid	14b073a3-19fa-444d-89fd-1151aab97afa
+translationKey	76f86813-ce22-491d-b940-6372d1fe5a42
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/14b073a3-19fa-444d-89fd-1151aab97afa/76f86813-ce22-491d-b940-6372d1fe5a42/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/14b073a3-19fa-444d-89fd-1151aab97afa/76f86813-ce22-491d-b940-6372d1fe5a42
+md5	c7138a57758fa708f3b24d53ba40899c

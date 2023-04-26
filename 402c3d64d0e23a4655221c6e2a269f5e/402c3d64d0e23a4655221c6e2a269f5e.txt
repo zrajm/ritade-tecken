@@ -1,0 +1,8 @@
+
+signId	2094
+text	Alfons Åberg 1
+imageUuid	c6bb5aa8-c41b-4b07-bc57-d02766e9db45
+translationKey	029a0ae1-4f9d-4856-ae8e-4a42284a25cf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c6bb5aa8-c41b-4b07-bc57-d02766e9db45/029a0ae1-4f9d-4856-ae8e-4a42284a25cf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c6bb5aa8-c41b-4b07-bc57-d02766e9db45/029a0ae1-4f9d-4856-ae8e-4a42284a25cf
+md5	402c3d64d0e23a4655221c6e2a269f5e

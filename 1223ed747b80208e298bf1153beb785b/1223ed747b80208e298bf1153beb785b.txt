@@ -1,0 +1,16 @@
+
+signId	233
+text	choklad
+imageUuid	845c1ae9-6624-4fa4-bde6-d26febc9f338
+translationKey	519cad41-4455-45ac-95bd-654686002d91
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/845c1ae9-6624-4fa4-bde6-d26febc9f338/519cad41-4455-45ac-95bd-654686002d91/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/845c1ae9-6624-4fa4-bde6-d26febc9f338/519cad41-4455-45ac-95bd-654686002d91
+md5	1223ed747b80208e298bf1153beb785b
+
+signId	2806
+text	kakao
+imageUuid	86eac0a5-f95a-4e4b-bd91-8602a659b96e
+translationKey	d6cd0d4b-2988-4cc2-a96f-5544843cb383
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86eac0a5-f95a-4e4b-bd91-8602a659b96e/d6cd0d4b-2988-4cc2-a96f-5544843cb383/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86eac0a5-f95a-4e4b-bd91-8602a659b96e/d6cd0d4b-2988-4cc2-a96f-5544843cb383
+md5	1223ed747b80208e298bf1153beb785b

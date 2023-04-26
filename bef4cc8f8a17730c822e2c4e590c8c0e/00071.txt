@@ -1,0 +1,7 @@
+signId	71
+text	artig
+imageUuid	1690b295-c871-42bd-952e-9c5aa0e67876
+translationKey	839132db-391e-4b37-90c5-b2c8e5908493
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1690b295-c871-42bd-952e-9c5aa0e67876/839132db-391e-4b37-90c5-b2c8e5908493/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1690b295-c871-42bd-952e-9c5aa0e67876/839132db-391e-4b37-90c5-b2c8e5908493
+md5	bef4cc8f8a17730c822e2c4e590c8c0e

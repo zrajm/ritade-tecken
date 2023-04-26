@@ -1,0 +1,8 @@
+
+signId	1689
+text	V (bokstav)
+imageUuid	818d4b31-2938-4766-9f6d-9cb257e03494
+translationKey	db837775-4443-4089-a31b-d79f2d75dd07
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/818d4b31-2938-4766-9f6d-9cb257e03494/db837775-4443-4089-a31b-d79f2d75dd07/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/818d4b31-2938-4766-9f6d-9cb257e03494/db837775-4443-4089-a31b-d79f2d75dd07
+md5	9e20cc8f127310295571cd4659407b08

@@ -1,0 +1,7 @@
+signId	3404
+text	mentor
+imageUuid	2a0e9d66-3b8e-4c76-a99c-5a2d51268515
+translationKey	47bee57c-7d94-48ea-a780-b716fd7f8144
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2a0e9d66-3b8e-4c76-a99c-5a2d51268515/47bee57c-7d94-48ea-a780-b716fd7f8144/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2a0e9d66-3b8e-4c76-a99c-5a2d51268515/47bee57c-7d94-48ea-a780-b716fd7f8144
+md5	b989cdafff74f64348e51a811b7a27b1

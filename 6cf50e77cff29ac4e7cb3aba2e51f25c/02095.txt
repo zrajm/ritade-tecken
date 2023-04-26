@@ -1,0 +1,7 @@
+signId	2095
+text	andfådd
+imageUuid	2ecdaa0b-c9b6-478a-8f68-ecca07243492
+translationKey	6e4074df-6e5a-45fc-8947-f455f91552f4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ecdaa0b-c9b6-478a-8f68-ecca07243492/6e4074df-6e5a-45fc-8947-f455f91552f4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ecdaa0b-c9b6-478a-8f68-ecca07243492/6e4074df-6e5a-45fc-8947-f455f91552f4
+md5	6cf50e77cff29ac4e7cb3aba2e51f25c

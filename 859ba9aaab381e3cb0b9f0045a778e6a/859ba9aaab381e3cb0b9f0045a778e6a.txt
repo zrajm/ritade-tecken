@@ -1,0 +1,8 @@
+
+signId	2229
+text	mjukisbyxor
+imageUuid	f636edc7-43a1-4413-b0e5-6ea3c34988d8
+translationKey	05ae3f70-6b6a-4242-a75e-6e71c041d521
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f636edc7-43a1-4413-b0e5-6ea3c34988d8/05ae3f70-6b6a-4242-a75e-6e71c041d521/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f636edc7-43a1-4413-b0e5-6ea3c34988d8/05ae3f70-6b6a-4242-a75e-6e71c041d521
+md5	859ba9aaab381e3cb0b9f0045a778e6a

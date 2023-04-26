@@ -1,0 +1,7 @@
+signId	1784
+text	å (vattendrag)
+imageUuid	8cb2057c-50c6-4196-942b-ad16053c5f23
+translationKey	59e1e70b-333c-460c-902d-879c9a7d8b6a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8cb2057c-50c6-4196-942b-ad16053c5f23/59e1e70b-333c-460c-902d-879c9a7d8b6a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8cb2057c-50c6-4196-942b-ad16053c5f23/59e1e70b-333c-460c-902d-879c9a7d8b6a
+md5	31a2898e8f769091845ab6a46421972c

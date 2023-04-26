@@ -1,0 +1,7 @@
+signId	192
+text	bror
+imageUuid	69d68ea9-4971-4e49-be59-d8205c47de58
+translationKey	166a59c6-f161-4756-84f8-35c1b06704e4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/69d68ea9-4971-4e49-be59-d8205c47de58/166a59c6-f161-4756-84f8-35c1b06704e4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/69d68ea9-4971-4e49-be59-d8205c47de58/166a59c6-f161-4756-84f8-35c1b06704e4
+md5	149281a2e4c9cced34fa5568501a69d5

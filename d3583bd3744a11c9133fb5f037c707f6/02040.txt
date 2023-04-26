@@ -1,0 +1,7 @@
+signId	2040
+text	central
+imageUuid	f6270269-f5ca-412e-b853-8d8a1d20c5c1
+translationKey	71f8f34d-1469-4969-baf4-1ed977be1c58
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f6270269-f5ca-412e-b853-8d8a1d20c5c1/71f8f34d-1469-4969-baf4-1ed977be1c58/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f6270269-f5ca-412e-b853-8d8a1d20c5c1/71f8f34d-1469-4969-baf4-1ed977be1c58
+md5	d3583bd3744a11c9133fb5f037c707f6

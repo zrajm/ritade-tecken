@@ -1,0 +1,8 @@
+
+signId	1093
+text	nära
+imageUuid	ef97eb0f-4dd9-47b3-bb9f-8505e26d1b2b
+translationKey	05e22a19-99f3-43dd-9638-51daeaf1dffd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ef97eb0f-4dd9-47b3-bb9f-8505e26d1b2b/05e22a19-99f3-43dd-9638-51daeaf1dffd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ef97eb0f-4dd9-47b3-bb9f-8505e26d1b2b/05e22a19-99f3-43dd-9638-51daeaf1dffd
+md5	46d4b9fc652bc7546789a57fa2eed733

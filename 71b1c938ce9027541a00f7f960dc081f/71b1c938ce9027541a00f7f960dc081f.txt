@@ -1,0 +1,8 @@
+
+signId	2753
+text	konståkning
+imageUuid	edb40bb8-480e-4d05-a4f1-838a79fbdd88
+translationKey	37e75128-03fc-4f4b-ba35-992da3f324b3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/edb40bb8-480e-4d05-a4f1-838a79fbdd88/37e75128-03fc-4f4b-ba35-992da3f324b3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/edb40bb8-480e-4d05-a4f1-838a79fbdd88/37e75128-03fc-4f4b-ba35-992da3f324b3
+md5	71b1c938ce9027541a00f7f960dc081f

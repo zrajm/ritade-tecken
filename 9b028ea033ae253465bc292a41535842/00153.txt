@@ -1,0 +1,7 @@
+signId	153
+text	blå 1
+imageUuid	8f8464e9-470c-4ba6-86c8-f10cca3f83aa
+translationKey	160037f6-fb9b-4daa-bc38-27641ffe7167
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8f8464e9-470c-4ba6-86c8-f10cca3f83aa/160037f6-fb9b-4daa-bc38-27641ffe7167/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8f8464e9-470c-4ba6-86c8-f10cca3f83aa/160037f6-fb9b-4daa-bc38-27641ffe7167
+md5	9b028ea033ae253465bc292a41535842

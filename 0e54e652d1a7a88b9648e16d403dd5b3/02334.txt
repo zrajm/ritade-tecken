@@ -1,0 +1,7 @@
+signId	2334
+text	giftig
+imageUuid	0f5e6d6e-c264-4557-83af-80642e907d7e
+translationKey	43030585-d11d-4e38-a57d-63578ebbb273
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0f5e6d6e-c264-4557-83af-80642e907d7e/43030585-d11d-4e38-a57d-63578ebbb273/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0f5e6d6e-c264-4557-83af-80642e907d7e/43030585-d11d-4e38-a57d-63578ebbb273
+md5	0e54e652d1a7a88b9648e16d403dd5b3

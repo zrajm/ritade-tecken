@@ -1,0 +1,7 @@
+signId	3071
+text	lus
+imageUuid	b7eba1c5-04a5-4b4e-a0c1-4e4a95e5984a
+translationKey	f3762827-f8fb-447e-8dc4-5e14c7d19837
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b7eba1c5-04a5-4b4e-a0c1-4e4a95e5984a/f3762827-f8fb-447e-8dc4-5e14c7d19837/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b7eba1c5-04a5-4b4e-a0c1-4e4a95e5984a/f3762827-f8fb-447e-8dc4-5e14c7d19837
+md5	f8b9fb66b79cd894575f954e520ad8a0

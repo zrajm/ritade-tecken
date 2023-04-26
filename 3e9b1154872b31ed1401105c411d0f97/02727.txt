@@ -1,0 +1,7 @@
+signId	2727
+text	brits
+imageUuid	bfe97180-f350-4914-b94e-939f4566ebb9
+translationKey	9aa068ba-792c-4c10-a8bd-7e7751aab4ed
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bfe97180-f350-4914-b94e-939f4566ebb9/9aa068ba-792c-4c10-a8bd-7e7751aab4ed/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bfe97180-f350-4914-b94e-939f4566ebb9/9aa068ba-792c-4c10-a8bd-7e7751aab4ed
+md5	3e9b1154872b31ed1401105c411d0f97

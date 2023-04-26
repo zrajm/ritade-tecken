@@ -1,0 +1,7 @@
+signId	963
+text	marknad
+imageUuid	235919c8-a4dc-404a-b9c6-0842a241f38b
+translationKey	da792923-1f32-4353-be82-3def4adc5c42
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/235919c8-a4dc-404a-b9c6-0842a241f38b/da792923-1f32-4353-be82-3def4adc5c42/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/235919c8-a4dc-404a-b9c6-0842a241f38b/da792923-1f32-4353-be82-3def4adc5c42
+md5	c11c0e0295df6187ef2ed9be2fef9dd5

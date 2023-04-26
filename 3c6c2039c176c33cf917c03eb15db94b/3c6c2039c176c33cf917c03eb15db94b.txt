@@ -1,0 +1,16 @@
+
+signId	2356
+text	kurragömma
+imageUuid	a05d44b6-7272-4720-b084-dbe9f85aa402
+translationKey	eb03fa52-2dbb-4760-8650-6589b9dbc482
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a05d44b6-7272-4720-b084-dbe9f85aa402/eb03fa52-2dbb-4760-8650-6589b9dbc482/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a05d44b6-7272-4720-b084-dbe9f85aa402/eb03fa52-2dbb-4760-8650-6589b9dbc482
+md5	3c6c2039c176c33cf917c03eb15db94b
+
+signId	2752
+text	skämmas
+imageUuid	4c2c01aa-0044-44f1-9cef-bce3c814fc8a
+translationKey	0daa3e82-eb12-486e-b482-39cf5623d7e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4c2c01aa-0044-44f1-9cef-bce3c814fc8a/0daa3e82-eb12-486e-b482-39cf5623d7e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4c2c01aa-0044-44f1-9cef-bce3c814fc8a/0daa3e82-eb12-486e-b482-39cf5623d7e1
+md5	3c6c2039c176c33cf917c03eb15db94b

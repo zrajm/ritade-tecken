@@ -1,0 +1,8 @@
+
+signId	2786
+text	hästsvans
+imageUuid	871dadf2-59f4-4717-8da3-e9bb7c0f0a9c
+translationKey	e12a8236-2e51-4c1e-9426-cb5ca296dbc7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/871dadf2-59f4-4717-8da3-e9bb7c0f0a9c/e12a8236-2e51-4c1e-9426-cb5ca296dbc7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/871dadf2-59f4-4717-8da3-e9bb7c0f0a9c/e12a8236-2e51-4c1e-9426-cb5ca296dbc7
+md5	a7f146ab119d51689acd10358e2e79f6

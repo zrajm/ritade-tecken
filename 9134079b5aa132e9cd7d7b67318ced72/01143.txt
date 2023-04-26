@@ -1,0 +1,7 @@
+signId	1143
+text	passa (inte i sport)
+imageUuid	7f64f75c-2dfc-4287-8bfc-38bcf2b25777
+translationKey	495e21de-4c00-4013-bd2b-5d17f0e778a3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f64f75c-2dfc-4287-8bfc-38bcf2b25777/495e21de-4c00-4013-bd2b-5d17f0e778a3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f64f75c-2dfc-4287-8bfc-38bcf2b25777/495e21de-4c00-4013-bd2b-5d17f0e778a3
+md5	9134079b5aa132e9cd7d7b67318ced72

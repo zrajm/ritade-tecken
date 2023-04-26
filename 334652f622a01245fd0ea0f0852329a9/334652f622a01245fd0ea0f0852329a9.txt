@@ -1,0 +1,16 @@
+
+signId	11
+text	14_1 (tal)
+imageUuid	e64941d3-ff90-4b22-b9ad-cdfa1c8de234
+translationKey	b0a02e4c-a5dc-4fa3-b53d-53c53f3b31e7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e64941d3-ff90-4b22-b9ad-cdfa1c8de234/b0a02e4c-a5dc-4fa3-b53d-53c53f3b31e7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e64941d3-ff90-4b22-b9ad-cdfa1c8de234/b0a02e4c-a5dc-4fa3-b53d-53c53f3b31e7
+md5	334652f622a01245fd0ea0f0852329a9
+
+signId	3155
+text	fjorton 1
+imageUuid	fd84415b-bdb1-4341-87bb-3f95a8134ff3
+translationKey	5f0f6d53-db01-4f22-b7b1-674499fd36e3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fd84415b-bdb1-4341-87bb-3f95a8134ff3/5f0f6d53-db01-4f22-b7b1-674499fd36e3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fd84415b-bdb1-4341-87bb-3f95a8134ff3/5f0f6d53-db01-4f22-b7b1-674499fd36e3
+md5	334652f622a01245fd0ea0f0852329a9

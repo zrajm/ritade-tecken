@@ -1,0 +1,7 @@
+signId	2100
+text	brygga
+imageUuid	d5cbf73c-5e84-409e-af14-3334bf22fd12
+translationKey	6ef4729d-a74c-4d37-baef-0be7e6387959
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d5cbf73c-5e84-409e-af14-3334bf22fd12/6ef4729d-a74c-4d37-baef-0be7e6387959/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d5cbf73c-5e84-409e-af14-3334bf22fd12/6ef4729d-a74c-4d37-baef-0be7e6387959
+md5	cdad5ff45211b77c90aa5adcebbd2d66

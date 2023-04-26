@@ -1,0 +1,7 @@
+signId	2243
+text	räka
+imageUuid	b9b7c529-633f-4cfb-9577-902664941992
+translationKey	0a38670e-9104-4506-9f50-de6db506c495
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b9b7c529-633f-4cfb-9577-902664941992/0a38670e-9104-4506-9f50-de6db506c495/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b9b7c529-633f-4cfb-9577-902664941992/0a38670e-9104-4506-9f50-de6db506c495
+md5	5494501a68a390eb7dea08db1f6df4e9

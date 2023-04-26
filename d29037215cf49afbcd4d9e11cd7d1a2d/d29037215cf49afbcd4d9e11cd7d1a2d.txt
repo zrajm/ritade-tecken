@@ -1,0 +1,40 @@
+
+signId	1836
+text	analysera
+imageUuid	b7e9ea08-cabb-4423-8b7f-06ceab064bca
+translationKey	9cdfdc00-6f21-4f08-a236-838adde3ac15
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b7e9ea08-cabb-4423-8b7f-06ceab064bca/9cdfdc00-6f21-4f08-a236-838adde3ac15/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b7e9ea08-cabb-4423-8b7f-06ceab064bca/9cdfdc00-6f21-4f08-a236-838adde3ac15
+md5	d29037215cf49afbcd4d9e11cd7d1a2d
+
+signId	1858
+text	undersöka 2
+imageUuid	82347787-5e4b-4028-b445-3753e4cd06be
+translationKey	dc231ad5-ed65-4c26-8da6-fdd07a1e0a52
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/82347787-5e4b-4028-b445-3753e4cd06be/dc231ad5-ed65-4c26-8da6-fdd07a1e0a52/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/82347787-5e4b-4028-b445-3753e4cd06be/dc231ad5-ed65-4c26-8da6-fdd07a1e0a52
+md5	d29037215cf49afbcd4d9e11cd7d1a2d
+
+signId	1861
+text	forska
+imageUuid	7d2fc665-846b-4083-9e2f-b59612f7710c
+translationKey	83e85c07-0f1f-430c-8772-75a1c365f5d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7d2fc665-846b-4083-9e2f-b59612f7710c/83e85c07-0f1f-430c-8772-75a1c365f5d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7d2fc665-846b-4083-9e2f-b59612f7710c/83e85c07-0f1f-430c-8772-75a1c365f5d3
+md5	d29037215cf49afbcd4d9e11cd7d1a2d
+
+signId	1933
+text	forskare
+imageUuid	3828056c-5bc6-436d-8766-e5162cd449fe
+translationKey	d337d9cd-04b0-4202-8ba9-46a20e7f41b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3828056c-5bc6-436d-8766-e5162cd449fe/d337d9cd-04b0-4202-8ba9-46a20e7f41b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3828056c-5bc6-436d-8766-e5162cd449fe/d337d9cd-04b0-4202-8ba9-46a20e7f41b6
+md5	d29037215cf49afbcd4d9e11cd7d1a2d
+
+signId	1978
+text	granska
+imageUuid	b7455b76-b828-4b74-819b-37318e87b3ee
+translationKey	acf6cd4a-9452-40bd-af12-c65859be1c61
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b7455b76-b828-4b74-819b-37318e87b3ee/acf6cd4a-9452-40bd-af12-c65859be1c61/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b7455b76-b828-4b74-819b-37318e87b3ee/acf6cd4a-9452-40bd-af12-c65859be1c61
+md5	d29037215cf49afbcd4d9e11cd7d1a2d

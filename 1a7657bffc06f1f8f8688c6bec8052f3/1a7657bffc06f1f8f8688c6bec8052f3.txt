@@ -1,0 +1,8 @@
+
+signId	857
+text	köttbullar
+imageUuid	79cccce3-5917-49e2-b254-187679a44606
+translationKey	b6502075-5645-4d1f-a7c9-8a282bd841bd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/79cccce3-5917-49e2-b254-187679a44606/b6502075-5645-4d1f-a7c9-8a282bd841bd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/79cccce3-5917-49e2-b254-187679a44606/b6502075-5645-4d1f-a7c9-8a282bd841bd
+md5	1a7657bffc06f1f8f8688c6bec8052f3

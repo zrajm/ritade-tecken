@@ -1,0 +1,8 @@
+
+signId	1404
+text	smyckesaffär
+imageUuid	45d58e78-2a0d-4aad-8c52-803bf2e76e93
+translationKey	bc38bc37-1cdc-4c03-b93e-530ebda083c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/45d58e78-2a0d-4aad-8c52-803bf2e76e93/bc38bc37-1cdc-4c03-b93e-530ebda083c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/45d58e78-2a0d-4aad-8c52-803bf2e76e93/bc38bc37-1cdc-4c03-b93e-530ebda083c4
+md5	acea503f1b452e8b53c9550b2b4f7fee

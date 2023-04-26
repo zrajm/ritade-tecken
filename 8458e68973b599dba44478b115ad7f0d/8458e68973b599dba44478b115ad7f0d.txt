@@ -1,0 +1,8 @@
+
+signId	700
+text	julgran
+imageUuid	da0c8c70-7dd9-4d4d-af0f-fb4c92eca0e4
+translationKey	d5cf458c-2dbe-444b-a48c-75e3a08e3400
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/da0c8c70-7dd9-4d4d-af0f-fb4c92eca0e4/d5cf458c-2dbe-444b-a48c-75e3a08e3400/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/da0c8c70-7dd9-4d4d-af0f-fb4c92eca0e4/d5cf458c-2dbe-444b-a48c-75e3a08e3400
+md5	8458e68973b599dba44478b115ad7f0d

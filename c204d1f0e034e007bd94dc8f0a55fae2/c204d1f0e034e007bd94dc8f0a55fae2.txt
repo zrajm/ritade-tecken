@@ -1,0 +1,8 @@
+
+signId	2643
+text	knäckebröd
+imageUuid	7651ee4b-11b6-448d-a378-5c9a0116aa7e
+translationKey	86b4e7b5-e7c6-4255-9bbf-3c008a716452
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7651ee4b-11b6-448d-a378-5c9a0116aa7e/86b4e7b5-e7c6-4255-9bbf-3c008a716452/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7651ee4b-11b6-448d-a378-5c9a0116aa7e/86b4e7b5-e7c6-4255-9bbf-3c008a716452
+md5	c204d1f0e034e007bd94dc8f0a55fae2

@@ -1,0 +1,7 @@
+signId	949
+text	lördag
+imageUuid	ee348a97-b7ae-4ebd-82be-2b9ddcd7b6d5
+translationKey	ee904c70-b9dc-4d99-8664-5b0c54ac1631
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ee348a97-b7ae-4ebd-82be-2b9ddcd7b6d5/ee904c70-b9dc-4d99-8664-5b0c54ac1631/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ee348a97-b7ae-4ebd-82be-2b9ddcd7b6d5/ee904c70-b9dc-4d99-8664-5b0c54ac1631
+md5	0fc42097bc0c2433a4a57e55a0975aac

@@ -1,0 +1,8 @@
+
+signId	1177
+text	pojkar
+imageUuid	2b93a7aa-70a2-4a82-a74b-6fc4df39336f
+translationKey	bc15ec0a-115f-4839-9421-42337a181e67
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2b93a7aa-70a2-4a82-a74b-6fc4df39336f/bc15ec0a-115f-4839-9421-42337a181e67/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2b93a7aa-70a2-4a82-a74b-6fc4df39336f/bc15ec0a-115f-4839-9421-42337a181e67
+md5	4a749ae2ffccbef6963abaac6178ccbc

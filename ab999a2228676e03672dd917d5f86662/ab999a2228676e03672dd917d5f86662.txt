@@ -1,0 +1,8 @@
+
+signId	3141
+text	talman
+imageUuid	4d0ad3c6-63c3-440f-9466-037ee1030029
+translationKey	21f48546-0566-4382-a874-c9b5c4b42ce0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4d0ad3c6-63c3-440f-9466-037ee1030029/21f48546-0566-4382-a874-c9b5c4b42ce0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4d0ad3c6-63c3-440f-9466-037ee1030029/21f48546-0566-4382-a874-c9b5c4b42ce0
+md5	ab999a2228676e03672dd917d5f86662

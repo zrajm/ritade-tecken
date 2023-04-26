@@ -1,0 +1,16 @@
+
+signId	56
+text	apotek
+imageUuid	62b17eac-5a0d-4888-9c6b-b243118d1307
+translationKey	4a70d58e-cff5-4b7e-ab73-1fcec035575b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/62b17eac-5a0d-4888-9c6b-b243118d1307/4a70d58e-cff5-4b7e-ab73-1fcec035575b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/62b17eac-5a0d-4888-9c6b-b243118d1307/4a70d58e-cff5-4b7e-ab73-1fcec035575b
+md5	590a643bcf042918c8b4b2d0628eb273
+
+signId	977
+text	medicin
+imageUuid	e482f496-b031-4451-a90c-37212077c076
+translationKey	ab91f841-0388-41f0-bed0-263bcaba5273
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e482f496-b031-4451-a90c-37212077c076/ab91f841-0388-41f0-bed0-263bcaba5273/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e482f496-b031-4451-a90c-37212077c076/ab91f841-0388-41f0-bed0-263bcaba5273
+md5	590a643bcf042918c8b4b2d0628eb273

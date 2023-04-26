@@ -1,0 +1,7 @@
+signId	3322
+text	liberal
+imageUuid	af7cd746-889f-4981-8e02-c57da2afc434
+translationKey	d27d0a83-2de1-4a2e-b47a-ebbffe314998
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af7cd746-889f-4981-8e02-c57da2afc434/d27d0a83-2de1-4a2e-b47a-ebbffe314998/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af7cd746-889f-4981-8e02-c57da2afc434/d27d0a83-2de1-4a2e-b47a-ebbffe314998
+md5	73ddf945257e93cbce9ef1d452554f54

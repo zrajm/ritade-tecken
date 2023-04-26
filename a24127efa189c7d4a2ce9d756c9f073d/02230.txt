@@ -1,0 +1,7 @@
+signId	2230
+text	munnen stängd
+imageUuid	fc6720e4-e9c7-43f7-91f1-d943365bb588
+translationKey	ac94fb0c-5576-4ac0-b238-7a0eefe97b8f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fc6720e4-e9c7-43f7-91f1-d943365bb588/ac94fb0c-5576-4ac0-b238-7a0eefe97b8f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fc6720e4-e9c7-43f7-91f1-d943365bb588/ac94fb0c-5576-4ac0-b238-7a0eefe97b8f
+md5	a24127efa189c7d4a2ce9d756c9f073d

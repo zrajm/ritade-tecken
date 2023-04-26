@@ -1,0 +1,8 @@
+
+signId	2556
+text	cement
+imageUuid	ea42ed22-ff65-4be2-b774-be736188cd0e
+translationKey	764d8bec-dc03-4178-86d6-9ccd41c102de
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea42ed22-ff65-4be2-b774-be736188cd0e/764d8bec-dc03-4178-86d6-9ccd41c102de/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea42ed22-ff65-4be2-b774-be736188cd0e/764d8bec-dc03-4178-86d6-9ccd41c102de
+md5	9bc59f1e70c5b5ccbf1413fafa2efc64

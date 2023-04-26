@@ -1,0 +1,8 @@
+
+signId	1018
+text	motor
+imageUuid	c3a9795b-61a1-4134-897c-79ede370d021
+translationKey	2eb46b0f-0193-4bfd-8360-14b0a7c3b93d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c3a9795b-61a1-4134-897c-79ede370d021/2eb46b0f-0193-4bfd-8360-14b0a7c3b93d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c3a9795b-61a1-4134-897c-79ede370d021/2eb46b0f-0193-4bfd-8360-14b0a7c3b93d
+md5	c7e2bd06301642a8508e3e2f3c5588f7

@@ -1,0 +1,7 @@
+signId	2763
+text	boule
+imageUuid	d0cfe438-f3f1-452f-8c89-44e8ea118e12
+translationKey	f7f0776c-3652-49fc-b1d3-7356c7a93aa1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d0cfe438-f3f1-452f-8c89-44e8ea118e12/f7f0776c-3652-49fc-b1d3-7356c7a93aa1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d0cfe438-f3f1-452f-8c89-44e8ea118e12/f7f0776c-3652-49fc-b1d3-7356c7a93aa1
+md5	f960d10a4d79b5f7879d6a5c82f87edb

@@ -1,0 +1,7 @@
+signId	3067
+text	havredryck
+imageUuid	e711353a-f206-4f66-be0c-ac281f227f71
+translationKey	c50249e1-337e-4d53-bc8c-5f3c2b6bbc9d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e711353a-f206-4f66-be0c-ac281f227f71/c50249e1-337e-4d53-bc8c-5f3c2b6bbc9d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e711353a-f206-4f66-be0c-ac281f227f71/c50249e1-337e-4d53-bc8c-5f3c2b6bbc9d
+md5	12fbfd1105cc0b3b43c4a57fbd081f40

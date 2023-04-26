@@ -1,0 +1,8 @@
+
+signId	149
+text	blomma
+imageUuid	3ded9ea3-50c6-4175-8873-77367eaab5b6
+translationKey	2b9db16c-4f2f-47fa-9c78-8b7d0eeccd1d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3ded9ea3-50c6-4175-8873-77367eaab5b6/2b9db16c-4f2f-47fa-9c78-8b7d0eeccd1d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3ded9ea3-50c6-4175-8873-77367eaab5b6/2b9db16c-4f2f-47fa-9c78-8b7d0eeccd1d
+md5	bec84e11d5f7c502df30366e6681e899

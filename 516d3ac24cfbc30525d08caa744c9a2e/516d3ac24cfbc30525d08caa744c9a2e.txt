@@ -1,0 +1,16 @@
+
+signId	707
+text	kafé 4
+imageUuid	5e61462b-f429-47f8-958d-91703979a53c
+translationKey	3113bd23-8ea7-40a6-ab8f-12b358d21f96
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e61462b-f429-47f8-958d-91703979a53c/3113bd23-8ea7-40a6-ab8f-12b358d21f96/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e61462b-f429-47f8-958d-91703979a53c/3113bd23-8ea7-40a6-ab8f-12b358d21f96
+md5	516d3ac24cfbc30525d08caa744c9a2e
+
+signId	788
+text	konditori
+imageUuid	d5090933-9ad8-4d47-960f-2d65f3f18f96
+translationKey	7df3abab-f75d-4370-bf16-287e7e59f8eb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d5090933-9ad8-4d47-960f-2d65f3f18f96/7df3abab-f75d-4370-bf16-287e7e59f8eb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d5090933-9ad8-4d47-960f-2d65f3f18f96/7df3abab-f75d-4370-bf16-287e7e59f8eb
+md5	516d3ac24cfbc30525d08caa744c9a2e

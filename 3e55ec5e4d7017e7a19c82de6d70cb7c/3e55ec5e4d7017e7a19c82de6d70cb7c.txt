@@ -1,0 +1,16 @@
+
+signId	1156
+text	perfekt 2
+imageUuid	e205e9a8-ed61-429a-adcd-c4a84d061c65
+translationKey	5ec991ee-6a00-4a48-aa88-77584ada2dc2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e205e9a8-ed61-429a-adcd-c4a84d061c65/5ec991ee-6a00-4a48-aa88-77584ada2dc2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e205e9a8-ed61-429a-adcd-c4a84d061c65/5ec991ee-6a00-4a48-aa88-77584ada2dc2
+md5	3e55ec5e4d7017e7a19c82de6d70cb7c
+
+signId	1188
+text	precis
+imageUuid	548f4d11-cf56-402f-9e11-0a9704acc0b2
+translationKey	44401e2c-6487-4b76-a145-19e838f3a68e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/548f4d11-cf56-402f-9e11-0a9704acc0b2/44401e2c-6487-4b76-a145-19e838f3a68e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/548f4d11-cf56-402f-9e11-0a9704acc0b2/44401e2c-6487-4b76-a145-19e838f3a68e
+md5	3e55ec5e4d7017e7a19c82de6d70cb7c

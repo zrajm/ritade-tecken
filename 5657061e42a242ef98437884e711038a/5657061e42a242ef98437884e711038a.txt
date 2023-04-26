@@ -1,0 +1,8 @@
+
+signId	2204
+text	vi 3
+imageUuid	5244c9ce-c5b7-4971-accc-13742fbb38fc
+translationKey	507f528c-e7bf-4209-b065-8b48689845a6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5244c9ce-c5b7-4971-accc-13742fbb38fc/507f528c-e7bf-4209-b065-8b48689845a6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5244c9ce-c5b7-4971-accc-13742fbb38fc/507f528c-e7bf-4209-b065-8b48689845a6
+md5	5657061e42a242ef98437884e711038a

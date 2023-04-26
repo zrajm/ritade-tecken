@@ -1,0 +1,8 @@
+
+signId	2709
+text	påsklov
+imageUuid	ec2bcd94-6c5e-438f-bc98-99fe59b649e1
+translationKey	9b66acaa-6430-4f02-86b9-c7d05c786835
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ec2bcd94-6c5e-438f-bc98-99fe59b649e1/9b66acaa-6430-4f02-86b9-c7d05c786835/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ec2bcd94-6c5e-438f-bc98-99fe59b649e1/9b66acaa-6430-4f02-86b9-c7d05c786835
+md5	fd542ff61c11d85bcebe3e4c2455a2c7

@@ -1,0 +1,7 @@
+signId	3156
+text	fjorton 2
+imageUuid	b7942c71-1cd1-4461-8da9-068a34acb70b
+translationKey	251201fd-18e4-4de8-841c-f3fa0bbe4d73
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b7942c71-1cd1-4461-8da9-068a34acb70b/251201fd-18e4-4de8-841c-f3fa0bbe4d73/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b7942c71-1cd1-4461-8da9-068a34acb70b/251201fd-18e4-4de8-841c-f3fa0bbe4d73
+md5	2d639cda9b056b0ae7f01c40d555a3fd

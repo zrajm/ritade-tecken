@@ -1,0 +1,8 @@
+
+signId	430
+text	fylla år 1
+imageUuid	d29ec15b-12b6-4f22-b5f8-831d9c4c5681
+translationKey	3d84ae67-6f22-452f-b4e1-1a19337b28c9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d29ec15b-12b6-4f22-b5f8-831d9c4c5681/3d84ae67-6f22-452f-b4e1-1a19337b28c9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d29ec15b-12b6-4f22-b5f8-831d9c4c5681/3d84ae67-6f22-452f-b4e1-1a19337b28c9
+md5	3a1e57f8c879480fc2000c595eaaf5d5

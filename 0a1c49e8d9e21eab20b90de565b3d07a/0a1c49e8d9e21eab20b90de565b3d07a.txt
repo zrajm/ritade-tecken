@@ -1,0 +1,8 @@
+
+signId	1025
+text	munspel
+imageUuid	10b43e9a-bd48-48ff-8ddd-7ae193da0795
+translationKey	ce41383d-08ef-45a5-9411-1bd32e9ec475
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/10b43e9a-bd48-48ff-8ddd-7ae193da0795/ce41383d-08ef-45a5-9411-1bd32e9ec475/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/10b43e9a-bd48-48ff-8ddd-7ae193da0795/ce41383d-08ef-45a5-9411-1bd32e9ec475
+md5	0a1c49e8d9e21eab20b90de565b3d07a

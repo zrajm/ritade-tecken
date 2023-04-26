@@ -1,0 +1,8 @@
+
+signId	645
+text	höna
+imageUuid	a99ad7e3-de33-40b9-8723-b2eb60eb26f4
+translationKey	50ac5302-c3da-4898-be59-69cd7858e6db
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a99ad7e3-de33-40b9-8723-b2eb60eb26f4/50ac5302-c3da-4898-be59-69cd7858e6db/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a99ad7e3-de33-40b9-8723-b2eb60eb26f4/50ac5302-c3da-4898-be59-69cd7858e6db
+md5	e91f0ee6d0124565e48f89339b1afa6b

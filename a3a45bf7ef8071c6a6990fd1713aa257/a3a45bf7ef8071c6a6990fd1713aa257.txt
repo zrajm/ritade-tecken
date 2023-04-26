@@ -1,0 +1,8 @@
+
+signId	377
+text	fjäril
+imageUuid	9644fff5-e42d-4d7f-a7a3-174b77965a0f
+translationKey	705955e9-32a9-492c-8c84-e3ccd58b161e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9644fff5-e42d-4d7f-a7a3-174b77965a0f/705955e9-32a9-492c-8c84-e3ccd58b161e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9644fff5-e42d-4d7f-a7a3-174b77965a0f/705955e9-32a9-492c-8c84-e3ccd58b161e
+md5	a3a45bf7ef8071c6a6990fd1713aa257

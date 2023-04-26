@@ -1,0 +1,7 @@
+signId	2410
+text	övergångsställe
+imageUuid	ad4d9715-fe47-445c-a6e1-3e5b494c03b6
+translationKey	79a2d028-57c8-4890-9a9f-274eb3ca7eaa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ad4d9715-fe47-445c-a6e1-3e5b494c03b6/79a2d028-57c8-4890-9a9f-274eb3ca7eaa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ad4d9715-fe47-445c-a6e1-3e5b494c03b6/79a2d028-57c8-4890-9a9f-274eb3ca7eaa
+md5	5b4838db0d287b979c73ec9b9f41b958

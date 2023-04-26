@@ -1,0 +1,8 @@
+
+signId	2147
+text	slarvig
+imageUuid	bfd51822-1ddf-4c01-a010-53cca0a29963
+translationKey	e14a75cf-1e67-48a4-b14d-4835bbc4447e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bfd51822-1ddf-4c01-a010-53cca0a29963/e14a75cf-1e67-48a4-b14d-4835bbc4447e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bfd51822-1ddf-4c01-a010-53cca0a29963/e14a75cf-1e67-48a4-b14d-4835bbc4447e
+md5	ffa59d7dbe5c441fe8b51628a351a3d2

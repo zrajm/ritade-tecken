@@ -1,0 +1,16 @@
+
+signId	1608
+text	trasig
+imageUuid	549a1dd7-8ec0-4d67-a569-9969dfd795ad
+translationKey	278632eb-f34c-45b2-a901-707bd62d5cd5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/549a1dd7-8ec0-4d67-a569-9969dfd795ad/278632eb-f34c-45b2-a901-707bd62d5cd5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/549a1dd7-8ec0-4d67-a569-9969dfd795ad/278632eb-f34c-45b2-a901-707bd62d5cd5
+md5	5db6b0e1806731fde35557d446b1cbf7
+
+signId	2981
+text	bryta
+imageUuid	41efd2dc-b7df-4b63-86d0-e5663d1d2223
+translationKey	996cc441-7965-468c-839d-e56ced604974
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/41efd2dc-b7df-4b63-86d0-e5663d1d2223/996cc441-7965-468c-839d-e56ced604974/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/41efd2dc-b7df-4b63-86d0-e5663d1d2223/996cc441-7965-468c-839d-e56ced604974
+md5	5db6b0e1806731fde35557d446b1cbf7

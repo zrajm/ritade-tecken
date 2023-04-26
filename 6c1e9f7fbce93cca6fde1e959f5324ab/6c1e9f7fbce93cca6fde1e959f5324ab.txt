@@ -1,0 +1,8 @@
+
+signId	3420
+text	teori
+imageUuid	fd19dce4-c0ef-490b-a167-a40ce293d60f
+translationKey	d1455f8b-00b2-4df4-8380-ee4951816f00
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fd19dce4-c0ef-490b-a167-a40ce293d60f/d1455f8b-00b2-4df4-8380-ee4951816f00/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fd19dce4-c0ef-490b-a167-a40ce293d60f/d1455f8b-00b2-4df4-8380-ee4951816f00
+md5	6c1e9f7fbce93cca6fde1e959f5324ab

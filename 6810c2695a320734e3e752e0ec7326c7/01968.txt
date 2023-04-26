@@ -1,0 +1,7 @@
+signId	1968
+text	dit 3
+imageUuid	9f6c507b-4461-4211-a6b8-d0dd3a7e9975
+translationKey	d339f8f3-b0a4-4db1-b67d-e56d13e89859
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9f6c507b-4461-4211-a6b8-d0dd3a7e9975/d339f8f3-b0a4-4db1-b67d-e56d13e89859/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9f6c507b-4461-4211-a6b8-d0dd3a7e9975/d339f8f3-b0a4-4db1-b67d-e56d13e89859
+md5	6810c2695a320734e3e752e0ec7326c7

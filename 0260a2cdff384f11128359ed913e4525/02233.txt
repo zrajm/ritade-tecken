@@ -1,0 +1,7 @@
+signId	2233
+text	möbler
+imageUuid	29ece9df-51b6-485c-8a18-64db102dec18
+translationKey	15f15103-9be6-426a-adfb-1d5022e6ecfa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/29ece9df-51b6-485c-8a18-64db102dec18/15f15103-9be6-426a-adfb-1d5022e6ecfa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/29ece9df-51b6-485c-8a18-64db102dec18/15f15103-9be6-426a-adfb-1d5022e6ecfa
+md5	0260a2cdff384f11128359ed913e4525

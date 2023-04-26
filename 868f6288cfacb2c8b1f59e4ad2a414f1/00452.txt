@@ -1,0 +1,7 @@
+signId	452
+text	författare
+imageUuid	645e23d1-f250-4fbf-9ae0-4798ecd5ef67
+translationKey	2be41db5-8340-45cb-af4b-4f9407d35042
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/645e23d1-f250-4fbf-9ae0-4798ecd5ef67/2be41db5-8340-45cb-af4b-4f9407d35042/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/645e23d1-f250-4fbf-9ae0-4798ecd5ef67/2be41db5-8340-45cb-af4b-4f9407d35042
+md5	868f6288cfacb2c8b1f59e4ad2a414f1

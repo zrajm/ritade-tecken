@@ -1,0 +1,7 @@
+signId	514
+text	gråta
+imageUuid	ac9706c5-2e2b-4f03-822a-2b2a36171eba
+translationKey	a25b6181-fe24-4570-8b84-9ae15bb1ce9a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ac9706c5-2e2b-4f03-822a-2b2a36171eba/a25b6181-fe24-4570-8b84-9ae15bb1ce9a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ac9706c5-2e2b-4f03-822a-2b2a36171eba/a25b6181-fe24-4570-8b84-9ae15bb1ce9a
+md5	734d559523a701a8dbb5c2126617a5fe

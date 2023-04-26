@@ -1,0 +1,8 @@
+
+signId	369
+text	Finland
+imageUuid	d0dd1466-a69a-495a-a1df-7061aa02d7e1
+translationKey	46154272-ac10-47ac-a95f-df3d0411a839
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d0dd1466-a69a-495a-a1df-7061aa02d7e1/46154272-ac10-47ac-a95f-df3d0411a839/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d0dd1466-a69a-495a-a1df-7061aa02d7e1/46154272-ac10-47ac-a95f-df3d0411a839
+md5	162349d81545a73829e16aa31d34e9cc

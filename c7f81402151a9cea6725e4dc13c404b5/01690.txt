@@ -1,0 +1,7 @@
+signId	1690
+text	vacker
+imageUuid	64d020e4-94cd-4128-a3d9-3dc4f59adc4c
+translationKey	334b4f1b-e3ef-4d3f-8da3-548b49affb59
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/64d020e4-94cd-4128-a3d9-3dc4f59adc4c/334b4f1b-e3ef-4d3f-8da3-548b49affb59/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/64d020e4-94cd-4128-a3d9-3dc4f59adc4c/334b4f1b-e3ef-4d3f-8da3-548b49affb59
+md5	c7f81402151a9cea6725e4dc13c404b5

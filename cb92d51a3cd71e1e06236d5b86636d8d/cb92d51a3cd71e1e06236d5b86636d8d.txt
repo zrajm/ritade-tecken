@@ -1,0 +1,24 @@
+
+signId	78
+text	augusti
+imageUuid	9e9069b6-d25d-4824-a9ae-1a05149111b2
+translationKey	b66c2a20-3687-46a5-88dd-d1819d841384
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9e9069b6-d25d-4824-a9ae-1a05149111b2/b66c2a20-3687-46a5-88dd-d1819d841384/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9e9069b6-d25d-4824-a9ae-1a05149111b2/b66c2a20-3687-46a5-88dd-d1819d841384
+md5	cb92d51a3cd71e1e06236d5b86636d8d
+
+signId	410
+text	frukt
+imageUuid	5a5477b5-42ef-4414-b2cc-f22c4ea6791f
+translationKey	e0f5e4d3-86e6-4da8-b0e2-0b9065e8a761
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5a5477b5-42ef-4414-b2cc-f22c4ea6791f/e0f5e4d3-86e6-4da8-b0e2-0b9065e8a761/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5a5477b5-42ef-4414-b2cc-f22c4ea6791f/e0f5e4d3-86e6-4da8-b0e2-0b9065e8a761
+md5	cb92d51a3cd71e1e06236d5b86636d8d
+
+signId	1809
+text	äpple
+imageUuid	55fd2e7b-bc70-44c8-9f7f-48a83cee4dc8
+translationKey	12e90665-5e14-4824-92fa-29420e593ab1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/55fd2e7b-bc70-44c8-9f7f-48a83cee4dc8/12e90665-5e14-4824-92fa-29420e593ab1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/55fd2e7b-bc70-44c8-9f7f-48a83cee4dc8/12e90665-5e14-4824-92fa-29420e593ab1
+md5	cb92d51a3cd71e1e06236d5b86636d8d

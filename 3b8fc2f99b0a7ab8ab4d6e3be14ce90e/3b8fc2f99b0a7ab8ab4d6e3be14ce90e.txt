@@ -1,0 +1,8 @@
+
+signId	1439
+text	spagetti
+imageUuid	ae037699-e695-4257-a598-4e6a4e005c83
+translationKey	7c1271c8-257d-45af-857f-b1e02e4f4690
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ae037699-e695-4257-a598-4e6a4e005c83/7c1271c8-257d-45af-857f-b1e02e4f4690/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ae037699-e695-4257-a598-4e6a4e005c83/7c1271c8-257d-45af-857f-b1e02e4f4690
+md5	3b8fc2f99b0a7ab8ab4d6e3be14ce90e

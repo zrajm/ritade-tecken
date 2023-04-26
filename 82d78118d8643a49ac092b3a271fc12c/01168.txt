@@ -1,0 +1,7 @@
+signId	1168
+text	planet
+imageUuid	f2fbe527-fe37-4942-bedd-4f1b3cc03182
+translationKey	81d9270a-de5a-4fc1-80cf-ae4ae5422667
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f2fbe527-fe37-4942-bedd-4f1b3cc03182/81d9270a-de5a-4fc1-80cf-ae4ae5422667/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f2fbe527-fe37-4942-bedd-4f1b3cc03182/81d9270a-de5a-4fc1-80cf-ae4ae5422667
+md5	84cec28b20aceeb561f76e31c699aeb1

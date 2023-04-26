@@ -1,0 +1,8 @@
+
+signId	2649
+text	lungor
+imageUuid	2f4a1ae2-a068-494c-9dcd-8231391e61dd
+translationKey	2dbeec3d-c077-418a-bdfc-5d6560e3d20b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2f4a1ae2-a068-494c-9dcd-8231391e61dd/2dbeec3d-c077-418a-bdfc-5d6560e3d20b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2f4a1ae2-a068-494c-9dcd-8231391e61dd/2dbeec3d-c077-418a-bdfc-5d6560e3d20b
+md5	15e1f8e12598bf695e523fd9fe6a218d

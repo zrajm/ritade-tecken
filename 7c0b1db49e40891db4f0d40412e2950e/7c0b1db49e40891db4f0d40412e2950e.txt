@@ -1,0 +1,8 @@
+
+signId	2170
+text	falukorv
+imageUuid	b9f30915-f6ad-4874-9e59-8b6503ff0699
+translationKey	b197ada4-6b1b-4875-ae93-433e6c425eca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b9f30915-f6ad-4874-9e59-8b6503ff0699/b197ada4-6b1b-4875-ae93-433e6c425eca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b9f30915-f6ad-4874-9e59-8b6503ff0699/b197ada4-6b1b-4875-ae93-433e6c425eca
+md5	7c0b1db49e40891db4f0d40412e2950e

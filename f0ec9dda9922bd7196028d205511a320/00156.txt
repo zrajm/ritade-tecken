@@ -1,0 +1,7 @@
+signId	156
+text	blåst
+imageUuid	d2b0dfc6-9480-4d6b-a0f3-89129a1dd033
+translationKey	a1af09c9-4609-4f59-b88c-335914d6a199
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d2b0dfc6-9480-4d6b-a0f3-89129a1dd033/a1af09c9-4609-4f59-b88c-335914d6a199/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d2b0dfc6-9480-4d6b-a0f3-89129a1dd033/a1af09c9-4609-4f59-b88c-335914d6a199
+md5	21ec10876c5b4f7fb60d1062504b07b0

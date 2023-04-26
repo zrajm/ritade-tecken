@@ -1,0 +1,8 @@
+
+signId	2662
+text	solenergi
+imageUuid	3dd69bab-8746-4cf5-bbcc-c7045db402de
+translationKey	e7d26a45-4cba-4fde-bcef-14be60f2dd0e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3dd69bab-8746-4cf5-bbcc-c7045db402de/e7d26a45-4cba-4fde-bcef-14be60f2dd0e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3dd69bab-8746-4cf5-bbcc-c7045db402de/e7d26a45-4cba-4fde-bcef-14be60f2dd0e
+md5	f4fe0497d484fbd25e17cfe324090d48

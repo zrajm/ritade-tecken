@@ -1,0 +1,7 @@
+signId	2642
+text	kebab
+imageUuid	72a428a0-229a-4ef1-bb09-d594181e6cbc
+translationKey	9b0d34e2-9489-4d44-941a-3e86af5422b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72a428a0-229a-4ef1-bb09-d594181e6cbc/9b0d34e2-9489-4d44-941a-3e86af5422b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72a428a0-229a-4ef1-bb09-d594181e6cbc/9b0d34e2-9489-4d44-941a-3e86af5422b9
+md5	2f78d3e3bb3267d7ca2d9928386c0d81

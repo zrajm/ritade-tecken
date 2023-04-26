@@ -1,0 +1,7 @@
+signId	1739
+text	vinka
+imageUuid	e8a90c60-298a-4c72-a0f2-f92c294a448e
+translationKey	1c0a983d-d742-4511-858e-0cfef4a9340a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e8a90c60-298a-4c72-a0f2-f92c294a448e/1c0a983d-d742-4511-858e-0cfef4a9340a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e8a90c60-298a-4c72-a0f2-f92c294a448e/1c0a983d-d742-4511-858e-0cfef4a9340a
+md5	eed9c569a2cadf9389f4f3ddd108fe79

@@ -1,0 +1,7 @@
+signId	892
+text	lila 1
+imageUuid	80e892d4-3f3e-4f3e-9c36-3938954a009f
+translationKey	6a0404ff-2d85-4e1b-927e-c00720724640
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/80e892d4-3f3e-4f3e-9c36-3938954a009f/6a0404ff-2d85-4e1b-927e-c00720724640/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/80e892d4-3f3e-4f3e-9c36-3938954a009f/6a0404ff-2d85-4e1b-927e-c00720724640
+md5	dcf2be9379e1c6e26db5ea0c7bc2052f

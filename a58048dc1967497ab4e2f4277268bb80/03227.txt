@@ -1,0 +1,7 @@
+signId	3227
+text	romb
+imageUuid	852ee2ff-4973-4415-a191-c40390e61f6a
+translationKey	1a7cdf1c-6142-4ecb-9e5b-5b609fdf5944
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/852ee2ff-4973-4415-a191-c40390e61f6a/1a7cdf1c-6142-4ecb-9e5b-5b609fdf5944/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/852ee2ff-4973-4415-a191-c40390e61f6a/1a7cdf1c-6142-4ecb-9e5b-5b609fdf5944
+md5	a58048dc1967497ab4e2f4277268bb80

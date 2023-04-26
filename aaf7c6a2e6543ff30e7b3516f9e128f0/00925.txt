@@ -1,0 +1,7 @@
+signId	925
+text	låna
+imageUuid	905271bf-24f1-4d02-b173-fb96d6e60246
+translationKey	5f5b3e4b-402e-4922-9e89-21b381426165
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/905271bf-24f1-4d02-b173-fb96d6e60246/5f5b3e4b-402e-4922-9e89-21b381426165/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/905271bf-24f1-4d02-b173-fb96d6e60246/5f5b3e4b-402e-4922-9e89-21b381426165
+md5	aaf7c6a2e6543ff30e7b3516f9e128f0

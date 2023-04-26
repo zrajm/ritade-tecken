@@ -1,0 +1,16 @@
+
+signId	158
+text	blöja
+imageUuid	71475d08-d69f-42dc-b0d4-a62e451c8f57
+translationKey	f413e3cd-c1ed-452f-ba19-1027e9af723c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/71475d08-d69f-42dc-b0d4-a62e451c8f57/f413e3cd-c1ed-452f-ba19-1027e9af723c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/71475d08-d69f-42dc-b0d4-a62e451c8f57/f413e3cd-c1ed-452f-ba19-1027e9af723c
+md5	8b99c47004cf4fb1508724eb96c17d83
+
+signId	2851
+text	binda
+imageUuid	b6342d56-50c3-4607-86b9-267e9c5d84c7
+translationKey	c4bdcdc4-7a76-4dd0-85da-5a233f0165f8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b6342d56-50c3-4607-86b9-267e9c5d84c7/c4bdcdc4-7a76-4dd0-85da-5a233f0165f8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b6342d56-50c3-4607-86b9-267e9c5d84c7/c4bdcdc4-7a76-4dd0-85da-5a233f0165f8
+md5	8b99c47004cf4fb1508724eb96c17d83

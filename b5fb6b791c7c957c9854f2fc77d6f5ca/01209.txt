@@ -1,0 +1,7 @@
+signId	1209
+text	pyjamas 1
+imageUuid	1e35af8e-4a3f-4159-a417-2d2a4954abce
+translationKey	ad0aa82f-5594-4058-8011-e7186398f23d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1e35af8e-4a3f-4159-a417-2d2a4954abce/ad0aa82f-5594-4058-8011-e7186398f23d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1e35af8e-4a3f-4159-a417-2d2a4954abce/ad0aa82f-5594-4058-8011-e7186398f23d
+md5	dcc17d2c0b6a21606263de123a6a2cbd

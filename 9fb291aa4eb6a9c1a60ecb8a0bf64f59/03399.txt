@@ -1,0 +1,7 @@
+signId	3399
+text	klockan 6
+imageUuid	dc65f2c0-662c-4b28-8c5e-79d34c191e73
+translationKey	593b0bea-6a81-4beb-a060-6ac3b53ab704
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dc65f2c0-662c-4b28-8c5e-79d34c191e73/593b0bea-6a81-4beb-a060-6ac3b53ab704/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dc65f2c0-662c-4b28-8c5e-79d34c191e73/593b0bea-6a81-4beb-a060-6ac3b53ab704
+md5	9fb291aa4eb6a9c1a60ecb8a0bf64f59

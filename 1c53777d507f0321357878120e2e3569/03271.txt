@@ -1,0 +1,7 @@
+signId	3271
+text	frustrerad
+imageUuid	02ccd364-9b6a-446c-a215-f99dc968d555
+translationKey	c285a6b5-27d5-4915-81bb-54d5f90c046e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/02ccd364-9b6a-446c-a215-f99dc968d555/c285a6b5-27d5-4915-81bb-54d5f90c046e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/02ccd364-9b6a-446c-a215-f99dc968d555/c285a6b5-27d5-4915-81bb-54d5f90c046e
+md5	1c53777d507f0321357878120e2e3569

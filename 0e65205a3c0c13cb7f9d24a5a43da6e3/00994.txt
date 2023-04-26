@@ -1,0 +1,7 @@
+signId	994
+text	minnas
+imageUuid	2ed0c645-4da1-4ac4-ace8-76b1d28d9443
+translationKey	f3e50e4f-b166-4a30-83ee-781e8338f798
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ed0c645-4da1-4ac4-ace8-76b1d28d9443/f3e50e4f-b166-4a30-83ee-781e8338f798/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ed0c645-4da1-4ac4-ace8-76b1d28d9443/f3e50e4f-b166-4a30-83ee-781e8338f798
+md5	0e65205a3c0c13cb7f9d24a5a43da6e3

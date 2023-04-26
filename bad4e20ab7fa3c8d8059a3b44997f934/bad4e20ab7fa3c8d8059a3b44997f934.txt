@@ -1,0 +1,8 @@
+
+signId	2187
+text	ligga 2
+imageUuid	b6f4826f-8891-4b78-9f57-5387f1dbeb47
+translationKey	708649f4-889c-4b69-8b02-597fe9aa90ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b6f4826f-8891-4b78-9f57-5387f1dbeb47/708649f4-889c-4b69-8b02-597fe9aa90ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b6f4826f-8891-4b78-9f57-5387f1dbeb47/708649f4-889c-4b69-8b02-597fe9aa90ab
+md5	bad4e20ab7fa3c8d8059a3b44997f934

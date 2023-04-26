@@ -1,0 +1,7 @@
+signId	2600
+text	smartboard
+imageUuid	6b99bf75-f44a-4b74-9301-1ae06013c804
+translationKey	bd1f9f48-81dd-4095-a258-1b0fc1927d6d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b99bf75-f44a-4b74-9301-1ae06013c804/bd1f9f48-81dd-4095-a258-1b0fc1927d6d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b99bf75-f44a-4b74-9301-1ae06013c804/bd1f9f48-81dd-4095-a258-1b0fc1927d6d
+md5	dd883696d9e454ae28102243a223f200

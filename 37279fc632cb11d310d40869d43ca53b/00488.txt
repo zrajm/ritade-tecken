@@ -1,0 +1,7 @@
+signId	488
+text	glad
+imageUuid	75a1ed34-9a96-493a-8f6f-a1e94691696d
+translationKey	fb33063d-6cde-4ddd-a69e-b64d003f4af0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/75a1ed34-9a96-493a-8f6f-a1e94691696d/fb33063d-6cde-4ddd-a69e-b64d003f4af0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/75a1ed34-9a96-493a-8f6f-a1e94691696d/fb33063d-6cde-4ddd-a69e-b64d003f4af0
+md5	37279fc632cb11d310d40869d43ca53b

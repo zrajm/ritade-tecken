@@ -1,0 +1,16 @@
+
+signId	2342
+text	hälsa 2
+imageUuid	87086f0a-4c61-43a0-a95c-425854fc2025
+translationKey	aefebd79-b83a-487a-93c4-d2b4ad890852
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/87086f0a-4c61-43a0-a95c-425854fc2025/aefebd79-b83a-487a-93c4-d2b4ad890852/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/87086f0a-4c61-43a0-a95c-425854fc2025/aefebd79-b83a-487a-93c4-d2b4ad890852
+md5	92a447239148c359ce0eac9408e08e81
+
+signId	2389
+text	skaka hand
+imageUuid	5adce67f-23e6-4491-be50-fd05e5e41d85
+translationKey	73813813-f691-489b-8b14-261cae7c6727
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5adce67f-23e6-4491-be50-fd05e5e41d85/73813813-f691-489b-8b14-261cae7c6727/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5adce67f-23e6-4491-be50-fd05e5e41d85/73813813-f691-489b-8b14-261cae7c6727
+md5	92a447239148c359ce0eac9408e08e81

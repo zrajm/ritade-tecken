@@ -1,0 +1,7 @@
+signId	932
+text	läder
+imageUuid	f1036773-a2f1-4924-b172-31c86223d733
+translationKey	0e36913b-c8cb-401c-8f24-0b49509a09b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f1036773-a2f1-4924-b172-31c86223d733/0e36913b-c8cb-401c-8f24-0b49509a09b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f1036773-a2f1-4924-b172-31c86223d733/0e36913b-c8cb-401c-8f24-0b49509a09b9
+md5	cd791f42fa9171e8183bae864235bbdf

@@ -1,0 +1,7 @@
+signId	2360
+text	linne
+imageUuid	b97f2ec5-07d1-4ac3-a1fd-838e688e3fca
+translationKey	83b24c29-a3f6-48f6-b2e3-eea95dff40a3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b97f2ec5-07d1-4ac3-a1fd-838e688e3fca/83b24c29-a3f6-48f6-b2e3-eea95dff40a3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b97f2ec5-07d1-4ac3-a1fd-838e688e3fca/83b24c29-a3f6-48f6-b2e3-eea95dff40a3
+md5	dc025e28c4efec67cbd7a685ed8fadf0

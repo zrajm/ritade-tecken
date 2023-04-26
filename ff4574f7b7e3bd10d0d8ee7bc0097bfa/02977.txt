@@ -1,0 +1,7 @@
+signId	2977
+text	hoodie
+imageUuid	ada58b8f-8827-4b01-af63-46e1a75b5fe9
+translationKey	3440fef8-dcb2-491a-9b64-451a1058552b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ada58b8f-8827-4b01-af63-46e1a75b5fe9/3440fef8-dcb2-491a-9b64-451a1058552b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ada58b8f-8827-4b01-af63-46e1a75b5fe9/3440fef8-dcb2-491a-9b64-451a1058552b
+md5	ff4574f7b7e3bd10d0d8ee7bc0097bfa

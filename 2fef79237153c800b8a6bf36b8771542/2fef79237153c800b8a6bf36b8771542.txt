@@ -1,0 +1,8 @@
+
+signId	2054
+text	hall
+imageUuid	ce13a6db-8285-4349-8372-b2605d4a5a14
+translationKey	ca3107fb-16bd-413a-88e5-28d162260163
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ce13a6db-8285-4349-8372-b2605d4a5a14/ca3107fb-16bd-413a-88e5-28d162260163/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ce13a6db-8285-4349-8372-b2605d4a5a14/ca3107fb-16bd-413a-88e5-28d162260163
+md5	2fef79237153c800b8a6bf36b8771542

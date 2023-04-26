@@ -1,0 +1,7 @@
+signId	3364
+text	livet
+imageUuid	07b92651-50a6-4c15-a33f-816d38919855
+translationKey	6a8e9109-4617-45e9-9a1e-2a9a446cc25b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/07b92651-50a6-4c15-a33f-816d38919855/6a8e9109-4617-45e9-9a1e-2a9a446cc25b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/07b92651-50a6-4c15-a33f-816d38919855/6a8e9109-4617-45e9-9a1e-2a9a446cc25b
+md5	4a264df94f3d2c95caeba64484877399

@@ -1,0 +1,8 @@
+
+signId	2404
+text	vallokal
+imageUuid	345289b1-5d83-4e3a-b053-cc4eac8c06c4
+translationKey	526949af-ee5b-4e0a-8cbc-2a90d6721532
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/345289b1-5d83-4e3a-b053-cc4eac8c06c4/526949af-ee5b-4e0a-8cbc-2a90d6721532/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/345289b1-5d83-4e3a-b053-cc4eac8c06c4/526949af-ee5b-4e0a-8cbc-2a90d6721532
+md5	c0f44ecc4e5dda513b9f9d847214eef8

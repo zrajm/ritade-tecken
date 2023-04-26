@@ -1,0 +1,7 @@
+signId	1378
+text	skön
+imageUuid	2b55d616-6f68-4f7f-9b8e-70913229f974
+translationKey	7110eab9-e1c4-4dae-8dc8-0e7a1c6bc0b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2b55d616-6f68-4f7f-9b8e-70913229f974/7110eab9-e1c4-4dae-8dc8-0e7a1c6bc0b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2b55d616-6f68-4f7f-9b8e-70913229f974/7110eab9-e1c4-4dae-8dc8-0e7a1c6bc0b8
+md5	1b7ec306ff6531ac7910777ddd9c7e60

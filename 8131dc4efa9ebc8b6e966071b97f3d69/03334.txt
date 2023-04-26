@@ -1,0 +1,7 @@
+signId	3334
+text	pressa
+imageUuid	af89b4f6-904e-4049-930a-2f00caf9fb0e
+translationKey	e0ee116f-de5f-4b3e-b072-35311f62a744
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af89b4f6-904e-4049-930a-2f00caf9fb0e/e0ee116f-de5f-4b3e-b072-35311f62a744/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af89b4f6-904e-4049-930a-2f00caf9fb0e/e0ee116f-de5f-4b3e-b072-35311f62a744
+md5	8131dc4efa9ebc8b6e966071b97f3d69

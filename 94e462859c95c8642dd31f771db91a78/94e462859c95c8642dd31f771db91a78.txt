@@ -1,0 +1,8 @@
+
+signId	2515
+text	skjuta
+imageUuid	64afc6f4-deb2-401e-bd6a-9ce9a2b0f9f5
+translationKey	6d02353b-5d09-4aef-8f0b-e83ccd4f6239
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/64afc6f4-deb2-401e-bd6a-9ce9a2b0f9f5/6d02353b-5d09-4aef-8f0b-e83ccd4f6239/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/64afc6f4-deb2-401e-bd6a-9ce9a2b0f9f5/6d02353b-5d09-4aef-8f0b-e83ccd4f6239
+md5	94e462859c95c8642dd31f771db91a78

@@ -1,0 +1,7 @@
+signId	1611
+text	trehjuling
+imageUuid	7d6759da-9c55-42b3-b3c1-beab24cc16c6
+translationKey	e6361edb-68ce-4c06-af23-6b03477f4896
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7d6759da-9c55-42b3-b3c1-beab24cc16c6/e6361edb-68ce-4c06-af23-6b03477f4896/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7d6759da-9c55-42b3-b3c1-beab24cc16c6/e6361edb-68ce-4c06-af23-6b03477f4896
+md5	2ff4fb04d9b5b544e5e381734576c640

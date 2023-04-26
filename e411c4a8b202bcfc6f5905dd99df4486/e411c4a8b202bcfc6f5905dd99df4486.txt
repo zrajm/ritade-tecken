@@ -1,0 +1,8 @@
+
+signId	3198
+text	debatt
+imageUuid	6488469c-bcce-4f48-a576-d61c008bd5e8
+translationKey	cba19b1c-3d65-4dd9-acc3-0ecdf1615d09
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6488469c-bcce-4f48-a576-d61c008bd5e8/cba19b1c-3d65-4dd9-acc3-0ecdf1615d09/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6488469c-bcce-4f48-a576-d61c008bd5e8/cba19b1c-3d65-4dd9-acc3-0ecdf1615d09
+md5	e411c4a8b202bcfc6f5905dd99df4486

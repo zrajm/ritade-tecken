@@ -1,0 +1,8 @@
+
+signId	2485
+text	tyg
+imageUuid	caa9a95c-7d6b-47a2-8e41-c869cb0c8f1d
+translationKey	e7253a04-b20a-44ac-8886-96a0854623ee
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/caa9a95c-7d6b-47a2-8e41-c869cb0c8f1d/e7253a04-b20a-44ac-8886-96a0854623ee/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/caa9a95c-7d6b-47a2-8e41-c869cb0c8f1d/e7253a04-b20a-44ac-8886-96a0854623ee
+md5	49342526e74659ae5513a9a525578be0

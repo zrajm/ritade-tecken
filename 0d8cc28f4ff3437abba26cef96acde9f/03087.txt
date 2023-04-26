@@ -1,0 +1,7 @@
+signId	3087
+text	moské
+imageUuid	d594c80c-bd56-42b2-83de-a5d7898c8ba5
+translationKey	d689ef22-13ab-4747-b549-ac1180690b8d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d594c80c-bd56-42b2-83de-a5d7898c8ba5/d689ef22-13ab-4747-b549-ac1180690b8d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d594c80c-bd56-42b2-83de-a5d7898c8ba5/d689ef22-13ab-4747-b549-ac1180690b8d
+md5	0d8cc28f4ff3437abba26cef96acde9f

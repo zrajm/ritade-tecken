@@ -1,0 +1,7 @@
+signId	85
+text	baby
+imageUuid	e30bc851-8d82-43e4-a766-8e7a403d1287
+translationKey	994e5624-53fc-4916-8d62-a3079e0aa9d7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e30bc851-8d82-43e4-a766-8e7a403d1287/994e5624-53fc-4916-8d62-a3079e0aa9d7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e30bc851-8d82-43e4-a766-8e7a403d1287/994e5624-53fc-4916-8d62-a3079e0aa9d7
+md5	5a492ccb021c04787939f00dc2e40713

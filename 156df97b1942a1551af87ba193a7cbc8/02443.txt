@@ -1,0 +1,7 @@
+signId	2443
+text	plantera
+imageUuid	d8ee51c1-0232-47c4-b567-37e5d78ad851
+translationKey	e2ef2074-0927-4976-b3ad-0e33c5fa3dd9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d8ee51c1-0232-47c4-b567-37e5d78ad851/e2ef2074-0927-4976-b3ad-0e33c5fa3dd9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d8ee51c1-0232-47c4-b567-37e5d78ad851/e2ef2074-0927-4976-b3ad-0e33c5fa3dd9
+md5	cffcf43115b5e531bc14b1286c0da3d9

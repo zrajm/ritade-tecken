@@ -1,0 +1,7 @@
+signId	2491
+text	vulkan
+imageUuid	8167dc2d-346a-4f81-afa3-f674557d71dc
+translationKey	008c6a3b-379b-4121-a198-219b9615cdc7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8167dc2d-346a-4f81-afa3-f674557d71dc/008c6a3b-379b-4121-a198-219b9615cdc7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8167dc2d-346a-4f81-afa3-f674557d71dc/008c6a3b-379b-4121-a198-219b9615cdc7
+md5	0b96a369f8fb5ace2bce2960a9c959f8

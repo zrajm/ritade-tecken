@@ -1,0 +1,7 @@
+signId	2654
+text	papperskorg
+imageUuid	0bf9e0bd-551c-43ae-973f-c9a05f0cd14d
+translationKey	b9548290-a816-4f16-b916-441eb606b10d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0bf9e0bd-551c-43ae-973f-c9a05f0cd14d/b9548290-a816-4f16-b916-441eb606b10d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0bf9e0bd-551c-43ae-973f-c9a05f0cd14d/b9548290-a816-4f16-b916-441eb606b10d
+md5	a57059ff535c4826613ba57657412f00

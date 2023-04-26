@@ -1,0 +1,7 @@
+signId	2887
+text	garn
+imageUuid	0f1d775b-5714-4434-b79c-ecb0cc0c2fb5
+translationKey	e9e022f1-395c-4b36-a307-c3a785c6fce9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0f1d775b-5714-4434-b79c-ecb0cc0c2fb5/e9e022f1-395c-4b36-a307-c3a785c6fce9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0f1d775b-5714-4434-b79c-ecb0cc0c2fb5/e9e022f1-395c-4b36-a307-c3a785c6fce9
+md5	9a6447362b48e5f529630b519be8d22d

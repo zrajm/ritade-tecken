@@ -1,0 +1,7 @@
+signId	1393
+text	slät
+imageUuid	3b966f02-c3e1-499d-b540-e98e603f95c1
+translationKey	24a74d1e-d6f0-4c2f-aa5d-657b69857819
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b966f02-c3e1-499d-b540-e98e603f95c1/24a74d1e-d6f0-4c2f-aa5d-657b69857819/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b966f02-c3e1-499d-b540-e98e603f95c1/24a74d1e-d6f0-4c2f-aa5d-657b69857819
+md5	830e7cb169a76beb3abec81d606df2e8

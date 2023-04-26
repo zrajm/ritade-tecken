@@ -1,0 +1,8 @@
+
+signId	353
+text	feber
+imageUuid	6a785551-aa6b-4a49-86fb-d7e576dafaed
+translationKey	42944058-eb4e-4263-850d-f0147cfcd67a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6a785551-aa6b-4a49-86fb-d7e576dafaed/42944058-eb4e-4263-850d-f0147cfcd67a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6a785551-aa6b-4a49-86fb-d7e576dafaed/42944058-eb4e-4263-850d-f0147cfcd67a
+md5	9735138ea1f323a33e38b7cd535d3119

@@ -1,0 +1,7 @@
+signId	390
+text	flygvärdinna
+imageUuid	6e9609b3-6afa-431d-94a5-89d6bea6b836
+translationKey	c07a7637-4e03-4f40-b7d2-f965016b99a8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6e9609b3-6afa-431d-94a5-89d6bea6b836/c07a7637-4e03-4f40-b7d2-f965016b99a8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6e9609b3-6afa-431d-94a5-89d6bea6b836/c07a7637-4e03-4f40-b7d2-f965016b99a8
+md5	34f64223fba3385d56da0c35e99a3ebc

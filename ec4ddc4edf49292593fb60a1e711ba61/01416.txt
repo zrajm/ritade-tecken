@@ -1,0 +1,7 @@
+signId	1416
+text	snöa
+imageUuid	3aeb9add-fd25-4205-b101-b42864734eea
+translationKey	d82de8d5-8b77-49ac-8a5b-7a6152fbc306
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3aeb9add-fd25-4205-b101-b42864734eea/d82de8d5-8b77-49ac-8a5b-7a6152fbc306/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3aeb9add-fd25-4205-b101-b42864734eea/d82de8d5-8b77-49ac-8a5b-7a6152fbc306
+md5	ec4ddc4edf49292593fb60a1e711ba61

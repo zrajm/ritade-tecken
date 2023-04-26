@@ -1,0 +1,7 @@
+signId	457
+text	församling
+imageUuid	3c63896e-4a73-4739-b5d4-9b1f4c661918
+translationKey	e2b98575-8ee4-4a05-9e4e-48d3d032e402
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3c63896e-4a73-4739-b5d4-9b1f4c661918/e2b98575-8ee4-4a05-9e4e-48d3d032e402/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3c63896e-4a73-4739-b5d4-9b1f4c661918/e2b98575-8ee4-4a05-9e4e-48d3d032e402
+md5	1c1b7b6843ca31d4aec4347cdd702216

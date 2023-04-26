@@ -1,0 +1,7 @@
+signId	341
+text	familj
+imageUuid	549ce6b0-27c6-40fd-8e4f-aa157d1a0746
+translationKey	0c206a34-c375-45f7-81f7-b71c56685c19
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/549ce6b0-27c6-40fd-8e4f-aa157d1a0746/0c206a34-c375-45f7-81f7-b71c56685c19/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/549ce6b0-27c6-40fd-8e4f-aa157d1a0746/0c206a34-c375-45f7-81f7-b71c56685c19
+md5	19b1a20d18e18802feccc6261919d792

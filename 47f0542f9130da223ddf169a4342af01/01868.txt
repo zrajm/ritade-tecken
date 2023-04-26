@@ -1,0 +1,7 @@
+signId	1868
+text	jävlar
+imageUuid	8014fbfe-375e-44eb-b894-b5229713c0bc
+translationKey	05288be8-7b27-4449-9c62-1c7c8c20c1f0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8014fbfe-375e-44eb-b894-b5229713c0bc/05288be8-7b27-4449-9c62-1c7c8c20c1f0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8014fbfe-375e-44eb-b894-b5229713c0bc/05288be8-7b27-4449-9c62-1c7c8c20c1f0
+md5	47f0542f9130da223ddf169a4342af01

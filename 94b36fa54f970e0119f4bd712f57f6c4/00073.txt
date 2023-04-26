@@ -1,0 +1,7 @@
+signId	73
+text	ask (låda)
+imageUuid	d9720b38-b53b-4c07-bdaa-51b3d49b3d3e
+translationKey	ba5e82bd-655d-47d2-8d49-8767f1fbce05
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d9720b38-b53b-4c07-bdaa-51b3d49b3d3e/ba5e82bd-655d-47d2-8d49-8767f1fbce05/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d9720b38-b53b-4c07-bdaa-51b3d49b3d3e/ba5e82bd-655d-47d2-8d49-8767f1fbce05
+md5	94b36fa54f970e0119f4bd712f57f6c4

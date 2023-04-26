@@ -1,0 +1,7 @@
+signId	480
+text	ge 2
+imageUuid	ce82362e-45c1-4906-815c-8e5b7f2ad806
+translationKey	22bed3b2-6d07-4d99-8eea-1abf631c86f6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ce82362e-45c1-4906-815c-8e5b7f2ad806/22bed3b2-6d07-4d99-8eea-1abf631c86f6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ce82362e-45c1-4906-815c-8e5b7f2ad806/22bed3b2-6d07-4d99-8eea-1abf631c86f6
+md5	7a9f6c534b73e88562525f262757e18e

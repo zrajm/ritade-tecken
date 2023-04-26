@@ -1,0 +1,8 @@
+
+signId	2595
+text	recept
+imageUuid	99841035-096a-49a0-b086-6afa228e27f2
+translationKey	b97b1ab7-e39f-4b9e-9b5f-2b762cf03272
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/99841035-096a-49a0-b086-6afa228e27f2/b97b1ab7-e39f-4b9e-9b5f-2b762cf03272/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/99841035-096a-49a0-b086-6afa228e27f2/b97b1ab7-e39f-4b9e-9b5f-2b762cf03272
+md5	b878c925f07cbeab2296dc3b59703ecb

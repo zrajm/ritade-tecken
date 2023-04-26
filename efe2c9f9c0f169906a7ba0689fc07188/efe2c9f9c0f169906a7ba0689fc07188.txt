@@ -1,0 +1,8 @@
+
+signId	2112
+text	gaffel 1
+imageUuid	d3c10d8c-c93d-4a02-8ca2-a9bf49b5bebc
+translationKey	3ede41cf-7007-4fff-8301-447ee50297a6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d3c10d8c-c93d-4a02-8ca2-a9bf49b5bebc/3ede41cf-7007-4fff-8301-447ee50297a6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d3c10d8c-c93d-4a02-8ca2-a9bf49b5bebc/3ede41cf-7007-4fff-8301-447ee50297a6
+md5	efe2c9f9c0f169906a7ba0689fc07188

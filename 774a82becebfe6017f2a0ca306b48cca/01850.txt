@@ -1,0 +1,7 @@
+signId	1850
+text	chips 1
+imageUuid	a9c88b84-a779-4ad1-8dd3-87ef74224683
+translationKey	ba6578a3-b125-4239-aefc-106210a9623c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a9c88b84-a779-4ad1-8dd3-87ef74224683/ba6578a3-b125-4239-aefc-106210a9623c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a9c88b84-a779-4ad1-8dd3-87ef74224683/ba6578a3-b125-4239-aefc-106210a9623c
+md5	774a82becebfe6017f2a0ca306b48cca

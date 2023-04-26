@@ -1,0 +1,7 @@
+signId	2455
+text	vård
+imageUuid	40d6f75a-8ad0-4ba4-9a34-5f0a0bac6a68
+translationKey	c84a40a7-21b8-430c-a43d-75c3a84adbef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/40d6f75a-8ad0-4ba4-9a34-5f0a0bac6a68/c84a40a7-21b8-430c-a43d-75c3a84adbef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/40d6f75a-8ad0-4ba4-9a34-5f0a0bac6a68/c84a40a7-21b8-430c-a43d-75c3a84adbef
+md5	25f5962e2f668a2c381f2169e9c7c1f8

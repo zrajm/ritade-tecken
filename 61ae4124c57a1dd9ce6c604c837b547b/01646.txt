@@ -1,0 +1,7 @@
+signId	1646
+text	tv
+imageUuid	01bc12a6-e526-4450-9170-63a2c7f0a55e
+translationKey	e2769048-94ec-4098-bba7-494faa2326a8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/01bc12a6-e526-4450-9170-63a2c7f0a55e/e2769048-94ec-4098-bba7-494faa2326a8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/01bc12a6-e526-4450-9170-63a2c7f0a55e/e2769048-94ec-4098-bba7-494faa2326a8
+md5	61ae4124c57a1dd9ce6c604c837b547b

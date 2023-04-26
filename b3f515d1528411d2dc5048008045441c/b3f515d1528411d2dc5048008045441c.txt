@@ -1,0 +1,8 @@
+
+signId	2878
+text	bakpulver
+imageUuid	081311ef-b813-4e1f-bfa5-8390073c4218
+translationKey	1e09c71b-02e6-4b49-8ce2-9ab621f502d0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/081311ef-b813-4e1f-bfa5-8390073c4218/1e09c71b-02e6-4b49-8ce2-9ab621f502d0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/081311ef-b813-4e1f-bfa5-8390073c4218/1e09c71b-02e6-4b49-8ce2-9ab621f502d0
+md5	b3f515d1528411d2dc5048008045441c

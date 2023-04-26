@@ -1,0 +1,7 @@
+signId	3393
+text	häfte
+imageUuid	3a07494e-cc7f-4900-b6bc-361634fe49fb
+translationKey	680e54b2-41b7-4e49-a1a0-0b3bbe9a96dd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a07494e-cc7f-4900-b6bc-361634fe49fb/680e54b2-41b7-4e49-a1a0-0b3bbe9a96dd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a07494e-cc7f-4900-b6bc-361634fe49fb/680e54b2-41b7-4e49-a1a0-0b3bbe9a96dd
+md5	d288a102ae4e83e60aee584ffe9eef46

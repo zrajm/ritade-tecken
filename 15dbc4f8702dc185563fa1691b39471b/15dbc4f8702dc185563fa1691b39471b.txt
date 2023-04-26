@@ -1,0 +1,8 @@
+
+signId	694
+text	jojo
+imageUuid	03a4f517-67a0-46f1-b5a8-147a56a758d9
+translationKey	9d4e2e8b-9a25-4fc2-9836-168982361ccf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/03a4f517-67a0-46f1-b5a8-147a56a758d9/9d4e2e8b-9a25-4fc2-9836-168982361ccf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/03a4f517-67a0-46f1-b5a8-147a56a758d9/9d4e2e8b-9a25-4fc2-9836-168982361ccf
+md5	15dbc4f8702dc185563fa1691b39471b

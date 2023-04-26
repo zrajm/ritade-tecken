@@ -1,0 +1,8 @@
+
+signId	2286
+text	känguru
+imageUuid	644b3168-c314-4517-ac0d-1fd2b36227bb
+translationKey	ab7209c5-23de-47c2-b1a4-1f43c705fb8a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/644b3168-c314-4517-ac0d-1fd2b36227bb/ab7209c5-23de-47c2-b1a4-1f43c705fb8a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/644b3168-c314-4517-ac0d-1fd2b36227bb/ab7209c5-23de-47c2-b1a4-1f43c705fb8a
+md5	3e744f6eac5b08a0da9ce0d472277895

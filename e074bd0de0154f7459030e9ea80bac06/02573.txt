@@ -1,0 +1,7 @@
+signId	2573
+text	böna
+imageUuid	b1e5caf7-71b7-47b4-913b-d26b90de160e
+translationKey	3c561fae-de85-4296-81c5-2df48e1c1f95
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b1e5caf7-71b7-47b4-913b-d26b90de160e/3c561fae-de85-4296-81c5-2df48e1c1f95/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b1e5caf7-71b7-47b4-913b-d26b90de160e/3c561fae-de85-4296-81c5-2df48e1c1f95
+md5	e074bd0de0154f7459030e9ea80bac06

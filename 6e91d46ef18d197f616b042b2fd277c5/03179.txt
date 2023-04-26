@@ -1,0 +1,7 @@
+signId	3179
+text	slö
+imageUuid	c06abf8e-dafb-431a-8dfc-37d3dfa9e98b
+translationKey	1c8349e2-7e7b-4756-bac4-0f56e7522010
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c06abf8e-dafb-431a-8dfc-37d3dfa9e98b/1c8349e2-7e7b-4756-bac4-0f56e7522010/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c06abf8e-dafb-431a-8dfc-37d3dfa9e98b/1c8349e2-7e7b-4756-bac4-0f56e7522010
+md5	6e91d46ef18d197f616b042b2fd277c5

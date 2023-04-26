@@ -1,0 +1,7 @@
+signId	3108
+text	skyddsrum
+imageUuid	a93181d7-cd83-4ab8-b1c1-f9acd93dfb7e
+translationKey	d2be0ba2-11ab-4156-8605-faaf7fe8c908
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a93181d7-cd83-4ab8-b1c1-f9acd93dfb7e/d2be0ba2-11ab-4156-8605-faaf7fe8c908/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a93181d7-cd83-4ab8-b1c1-f9acd93dfb7e/d2be0ba2-11ab-4156-8605-faaf7fe8c908
+md5	cc686bd210a9b69f430c8da86de4c205

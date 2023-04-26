@@ -1,0 +1,7 @@
+signId	2461
+text	frö
+imageUuid	dedf7ab7-6114-4c6e-a245-35c3b006da25
+translationKey	64013fe1-d6a4-4812-a19c-8d75e1620442
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dedf7ab7-6114-4c6e-a245-35c3b006da25/64013fe1-d6a4-4812-a19c-8d75e1620442/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dedf7ab7-6114-4c6e-a245-35c3b006da25/64013fe1-d6a4-4812-a19c-8d75e1620442
+md5	fb3e8694486c639ec557207d6e24d251

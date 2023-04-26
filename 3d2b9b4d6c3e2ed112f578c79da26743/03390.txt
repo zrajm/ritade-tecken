@@ -1,0 +1,7 @@
+signId	3390
+text	förbereda
+imageUuid	dcdda046-0d3b-40a9-b4ea-a2e6d49ac0c6
+translationKey	0303ac88-42ec-4098-b9d5-4f99c89fbfc1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dcdda046-0d3b-40a9-b4ea-a2e6d49ac0c6/0303ac88-42ec-4098-b9d5-4f99c89fbfc1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dcdda046-0d3b-40a9-b4ea-a2e6d49ac0c6/0303ac88-42ec-4098-b9d5-4f99c89fbfc1
+md5	3d2b9b4d6c3e2ed112f578c79da26743

@@ -1,0 +1,7 @@
+signId	2658
+text	psalmbok
+imageUuid	c155a585-f9fc-473c-bf19-13bb10248752
+translationKey	d5bbf1b9-59c8-4393-a216-11b94ffb7625
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c155a585-f9fc-473c-bf19-13bb10248752/d5bbf1b9-59c8-4393-a216-11b94ffb7625/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c155a585-f9fc-473c-bf19-13bb10248752/d5bbf1b9-59c8-4393-a216-11b94ffb7625
+md5	7dcbb46ea87869c0f39b00f0febd17ef

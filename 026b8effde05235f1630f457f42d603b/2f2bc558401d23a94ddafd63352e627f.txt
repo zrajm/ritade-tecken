@@ -1,0 +1,8 @@
+
+signId	1044
+text	månad
+imageUuid	ea57e580-1d24-42f9-9222-519d7247dd84
+translationKey	f86e6ad0-ad3c-46bc-b537-42c97f223634
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea57e580-1d24-42f9-9222-519d7247dd84/f86e6ad0-ad3c-46bc-b537-42c97f223634/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea57e580-1d24-42f9-9222-519d7247dd84/f86e6ad0-ad3c-46bc-b537-42c97f223634
+md5	2f2bc558401d23a94ddafd63352e627f

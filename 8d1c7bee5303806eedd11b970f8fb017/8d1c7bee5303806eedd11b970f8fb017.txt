@@ -1,0 +1,8 @@
+
+signId	3419
+text	teckenspråk
+imageUuid	15e418c2-16bb-4880-86e7-ff91d848d1da
+translationKey	aebd2cee-fb73-4643-a9ae-156386f71ba7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/15e418c2-16bb-4880-86e7-ff91d848d1da/aebd2cee-fb73-4643-a9ae-156386f71ba7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/15e418c2-16bb-4880-86e7-ff91d848d1da/aebd2cee-fb73-4643-a9ae-156386f71ba7
+md5	8d1c7bee5303806eedd11b970f8fb017

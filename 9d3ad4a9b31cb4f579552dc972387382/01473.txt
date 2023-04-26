@@ -1,0 +1,7 @@
+signId	1473
+text	sticka
+imageUuid	cf44ac02-6cfc-4ec8-ab53-cf3f60d65350
+translationKey	1fb65185-5209-4e6a-823a-44975578d3b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cf44ac02-6cfc-4ec8-ab53-cf3f60d65350/1fb65185-5209-4e6a-823a-44975578d3b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cf44ac02-6cfc-4ec8-ab53-cf3f60d65350/1fb65185-5209-4e6a-823a-44975578d3b9
+md5	9d3ad4a9b31cb4f579552dc972387382

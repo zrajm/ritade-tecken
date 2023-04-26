@@ -1,0 +1,7 @@
+signId	2922
+text	julkort
+imageUuid	7197aaf1-ece4-400c-a4b3-d4f2a9acf825
+translationKey	23758248-dcc2-4645-ba13-4e6335dbad8c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7197aaf1-ece4-400c-a4b3-d4f2a9acf825/23758248-dcc2-4645-ba13-4e6335dbad8c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7197aaf1-ece4-400c-a4b3-d4f2a9acf825/23758248-dcc2-4645-ba13-4e6335dbad8c
+md5	3ff90dd2ca2ff2b564edf25961dfaf47

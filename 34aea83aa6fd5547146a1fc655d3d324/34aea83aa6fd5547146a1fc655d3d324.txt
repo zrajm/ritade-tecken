@@ -1,0 +1,8 @@
+
+signId	1046
+text	måne
+imageUuid	8f9091d7-b272-49f0-9f67-ded4bdc2da84
+translationKey	d2d843cf-f373-455a-8ef2-e33cf243fbb7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8f9091d7-b272-49f0-9f67-ded4bdc2da84/d2d843cf-f373-455a-8ef2-e33cf243fbb7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8f9091d7-b272-49f0-9f67-ded4bdc2da84/d2d843cf-f373-455a-8ef2-e33cf243fbb7
+md5	34aea83aa6fd5547146a1fc655d3d324

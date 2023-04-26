@@ -1,0 +1,7 @@
+signId	426
+text	funktionsnedsättning
+imageUuid	cf01bbce-a2e2-4bd7-9b32-fa20113ccd08
+translationKey	ab1d5dd2-55aa-43ef-8f9f-a466f9a71f93
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cf01bbce-a2e2-4bd7-9b32-fa20113ccd08/ab1d5dd2-55aa-43ef-8f9f-a466f9a71f93/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cf01bbce-a2e2-4bd7-9b32-fa20113ccd08/ab1d5dd2-55aa-43ef-8f9f-a466f9a71f93
+md5	ce65d1c95a3c288040ebc4eb1fcb3342

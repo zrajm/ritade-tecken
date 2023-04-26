@@ -1,0 +1,7 @@
+signId	120
+text	ben (kroppsdel)
+imageUuid	f97c57a3-4437-4720-b51f-a20a30eb72e5
+translationKey	5dc5ef3e-db56-431e-a44c-e775a198e354
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f97c57a3-4437-4720-b51f-a20a30eb72e5/5dc5ef3e-db56-431e-a44c-e775a198e354/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f97c57a3-4437-4720-b51f-a20a30eb72e5/5dc5ef3e-db56-431e-a44c-e775a198e354
+md5	88da96550706d86325a68db109539234

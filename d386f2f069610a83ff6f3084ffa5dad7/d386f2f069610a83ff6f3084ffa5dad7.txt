@@ -1,0 +1,24 @@
+
+signId	2447
+text	samtal
+imageUuid	14f0c3fd-fecc-49d8-8fc2-55a8be998c02
+translationKey	acdd0f10-1988-4f7d-ad3a-c805f4425ae1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/14f0c3fd-fecc-49d8-8fc2-55a8be998c02/acdd0f10-1988-4f7d-ad3a-c805f4425ae1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/14f0c3fd-fecc-49d8-8fc2-55a8be998c02/acdd0f10-1988-4f7d-ad3a-c805f4425ae1
+md5	d386f2f069610a83ff6f3084ffa5dad7
+
+signId	3174
+text	diskutera
+imageUuid	ea35926d-8391-43ea-bcdb-e9f2a2b45758
+translationKey	55cedc09-5b7d-428d-ab09-9f1b84bfd03f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea35926d-8391-43ea-bcdb-e9f2a2b45758/55cedc09-5b7d-428d-ab09-9f1b84bfd03f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea35926d-8391-43ea-bcdb-e9f2a2b45758/55cedc09-5b7d-428d-ab09-9f1b84bfd03f
+md5	d386f2f069610a83ff6f3084ffa5dad7
+
+signId	3276
+text	samtala
+imageUuid	a0f0eb63-bc1b-432e-aa61-ffd387288419
+translationKey	ed43c9a5-df2b-40a1-9538-a879c1d6fb2d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0f0eb63-bc1b-432e-aa61-ffd387288419/ed43c9a5-df2b-40a1-9538-a879c1d6fb2d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0f0eb63-bc1b-432e-aa61-ffd387288419/ed43c9a5-df2b-40a1-9538-a879c1d6fb2d
+md5	d386f2f069610a83ff6f3084ffa5dad7

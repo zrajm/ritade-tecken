@@ -1,0 +1,7 @@
+signId	1202
+text	pulka
+imageUuid	53b410df-0cdf-4d59-ae28-570d850495c9
+translationKey	54dbba0d-bc26-4ee1-a7a2-040c5bd1d576
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/53b410df-0cdf-4d59-ae28-570d850495c9/54dbba0d-bc26-4ee1-a7a2-040c5bd1d576/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/53b410df-0cdf-4d59-ae28-570d850495c9/54dbba0d-bc26-4ee1-a7a2-040c5bd1d576
+md5	e790547209ff292f8e4f2a80e76b149c

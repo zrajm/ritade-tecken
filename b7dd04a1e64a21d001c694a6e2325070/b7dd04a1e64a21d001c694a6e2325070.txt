@@ -1,0 +1,8 @@
+
+signId	2594
+text	ram
+imageUuid	f9707d6b-56b3-448e-a76c-6ad9d3e57653
+translationKey	00b93cc3-e713-4611-9c33-70f2403072c0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f9707d6b-56b3-448e-a76c-6ad9d3e57653/00b93cc3-e713-4611-9c33-70f2403072c0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f9707d6b-56b3-448e-a76c-6ad9d3e57653/00b93cc3-e713-4611-9c33-70f2403072c0
+md5	b7dd04a1e64a21d001c694a6e2325070

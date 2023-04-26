@@ -1,0 +1,7 @@
+signId	1780
+text	yxa
+imageUuid	2cd09f66-fbcc-4e8d-a77d-5f777c99efbd
+translationKey	a015fc53-02a9-487b-a672-1549a8fad1ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2cd09f66-fbcc-4e8d-a77d-5f777c99efbd/a015fc53-02a9-487b-a672-1549a8fad1ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2cd09f66-fbcc-4e8d-a77d-5f777c99efbd/a015fc53-02a9-487b-a672-1549a8fad1ca
+md5	67e2b1deb26a88c26f07a54573d1c498

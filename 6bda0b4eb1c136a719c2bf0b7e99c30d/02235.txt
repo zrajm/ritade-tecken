@@ -1,0 +1,7 @@
+signId	2235
+text	nicka
+imageUuid	beaeab62-fdcf-45be-83c8-ec25d7719a40
+translationKey	769b86d3-2f6c-4a28-832f-8f3f15a7df39
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/beaeab62-fdcf-45be-83c8-ec25d7719a40/769b86d3-2f6c-4a28-832f-8f3f15a7df39/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/beaeab62-fdcf-45be-83c8-ec25d7719a40/769b86d3-2f6c-4a28-832f-8f3f15a7df39
+md5	6bda0b4eb1c136a719c2bf0b7e99c30d

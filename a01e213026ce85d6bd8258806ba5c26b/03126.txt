@@ -1,0 +1,7 @@
+signId	3126
+text	långt borta
+imageUuid	33177ef3-1369-4a9e-8d2a-f70a163c3f9a
+translationKey	2c66f095-1732-48cf-92c1-51265a2be8ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/33177ef3-1369-4a9e-8d2a-f70a163c3f9a/2c66f095-1732-48cf-92c1-51265a2be8ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/33177ef3-1369-4a9e-8d2a-f70a163c3f9a/2c66f095-1732-48cf-92c1-51265a2be8ca
+md5	a01e213026ce85d6bd8258806ba5c26b

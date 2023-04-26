@@ -1,0 +1,7 @@
+signId	1969
+text	jägare
+imageUuid	d9cf63ca-cbe8-4d0e-8ddc-925acf898e2e
+translationKey	4d9bbb4e-61f2-4f90-95b8-ac77753aff11
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d9cf63ca-cbe8-4d0e-8ddc-925acf898e2e/4d9bbb4e-61f2-4f90-95b8-ac77753aff11/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d9cf63ca-cbe8-4d0e-8ddc-925acf898e2e/4d9bbb4e-61f2-4f90-95b8-ac77753aff11
+md5	52d7986451b3059cd0717b6e2f1505c7

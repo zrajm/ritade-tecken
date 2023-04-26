@@ -1,0 +1,7 @@
+signId	604
+text	hon
+imageUuid	2d2a76d4-72c9-45d8-83cf-de19aeb4737a
+translationKey	bbe9f273-91f1-4bef-a02e-c148a981bbc0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d2a76d4-72c9-45d8-83cf-de19aeb4737a/bbe9f273-91f1-4bef-a02e-c148a981bbc0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d2a76d4-72c9-45d8-83cf-de19aeb4737a/bbe9f273-91f1-4bef-a02e-c148a981bbc0
+md5	d6529601b7d892b9331e996fa388e4f1

@@ -1,0 +1,7 @@
+signId	1418
+text	snögubbe
+imageUuid	b25ff1f5-99ec-413e-8b12-9057673bfc56
+translationKey	51e5a304-2e0c-44eb-b9e5-5309a21941e3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b25ff1f5-99ec-413e-8b12-9057673bfc56/51e5a304-2e0c-44eb-b9e5-5309a21941e3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b25ff1f5-99ec-413e-8b12-9057673bfc56/51e5a304-2e0c-44eb-b9e5-5309a21941e3
+md5	349395420e6e6bb2d2f7286271ea8bac

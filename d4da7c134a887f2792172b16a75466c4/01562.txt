@@ -1,0 +1,7 @@
+signId	1562
+text	tanke
+imageUuid	1c556f9c-c431-4c8c-a713-894e4ee4ee29
+translationKey	d7b40790-6cb1-4238-bdf9-e6491b31c9c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1c556f9c-c431-4c8c-a713-894e4ee4ee29/d7b40790-6cb1-4238-bdf9-e6491b31c9c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1c556f9c-c431-4c8c-a713-894e4ee4ee29/d7b40790-6cb1-4238-bdf9-e6491b31c9c7
+md5	d4da7c134a887f2792172b16a75466c4

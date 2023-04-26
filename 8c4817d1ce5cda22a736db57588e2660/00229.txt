@@ -1,0 +1,7 @@
+signId	229
+text	centralstation
+imageUuid	4b4abb1b-72dc-4b1e-8823-890c0362de7e
+translationKey	1b7c44d1-b3d7-494b-8271-2e431bb55c51
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4b4abb1b-72dc-4b1e-8823-890c0362de7e/1b7c44d1-b3d7-494b-8271-2e431bb55c51/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4b4abb1b-72dc-4b1e-8823-890c0362de7e/1b7c44d1-b3d7-494b-8271-2e431bb55c51
+md5	8c4817d1ce5cda22a736db57588e2660

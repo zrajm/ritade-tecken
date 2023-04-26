@@ -1,0 +1,7 @@
+signId	1858
+text	undersöka 2
+imageUuid	82347787-5e4b-4028-b445-3753e4cd06be
+translationKey	dc231ad5-ed65-4c26-8da6-fdd07a1e0a52
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/82347787-5e4b-4028-b445-3753e4cd06be/dc231ad5-ed65-4c26-8da6-fdd07a1e0a52/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/82347787-5e4b-4028-b445-3753e4cd06be/dc231ad5-ed65-4c26-8da6-fdd07a1e0a52
+md5	d29037215cf49afbcd4d9e11cd7d1a2d

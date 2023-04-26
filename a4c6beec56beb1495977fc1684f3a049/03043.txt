@@ -1,0 +1,7 @@
+signId	3043
+text	skyldiga
+imageUuid	6f7e4561-1ea7-41fc-964c-4b27f7ed28df
+translationKey	fc03734d-b92d-4354-9a9b-75a61add8878
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6f7e4561-1ea7-41fc-964c-4b27f7ed28df/fc03734d-b92d-4354-9a9b-75a61add8878/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6f7e4561-1ea7-41fc-964c-4b27f7ed28df/fc03734d-b92d-4354-9a9b-75a61add8878
+md5	a4c6beec56beb1495977fc1684f3a049

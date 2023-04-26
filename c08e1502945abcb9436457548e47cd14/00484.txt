@@ -1,0 +1,7 @@
+signId	484
+text	gifta
+imageUuid	9c0e5fd6-b75e-4e36-825d-d7c4e43b60a8
+translationKey	62a0ad4f-d78b-455e-b817-b92bc282e10f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9c0e5fd6-b75e-4e36-825d-d7c4e43b60a8/62a0ad4f-d78b-455e-b817-b92bc282e10f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9c0e5fd6-b75e-4e36-825d-d7c4e43b60a8/62a0ad4f-d78b-455e-b817-b92bc282e10f
+md5	c08e1502945abcb9436457548e47cd14

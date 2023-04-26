@@ -1,0 +1,8 @@
+
+signId	471
+text	fötter
+imageUuid	5011d864-a791-4b5a-b016-afe74aa185ae
+translationKey	47625bcf-0f38-4296-b18e-0dd9fdedd201
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5011d864-a791-4b5a-b016-afe74aa185ae/47625bcf-0f38-4296-b18e-0dd9fdedd201/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5011d864-a791-4b5a-b016-afe74aa185ae/47625bcf-0f38-4296-b18e-0dd9fdedd201
+md5	6df6a9baa7687cd43435f086202bf6ba

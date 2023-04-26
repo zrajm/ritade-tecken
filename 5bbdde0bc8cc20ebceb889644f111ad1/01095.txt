@@ -1,0 +1,7 @@
+signId	1095
+text	nästa
+imageUuid	5a8efe34-5c60-46d3-8ab9-b7a29a7a455a
+translationKey	fd30b829-4de5-490b-a3c1-1cb67dcc46ae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5a8efe34-5c60-46d3-8ab9-b7a29a7a455a/fd30b829-4de5-490b-a3c1-1cb67dcc46ae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5a8efe34-5c60-46d3-8ab9-b7a29a7a455a/fd30b829-4de5-490b-a3c1-1cb67dcc46ae
+md5	5bbdde0bc8cc20ebceb889644f111ad1

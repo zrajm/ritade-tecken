@@ -1,0 +1,7 @@
+signId	555
+text	halloween
+imageUuid	1246218b-8222-4868-aad4-996940fcb991
+translationKey	45f3268a-de73-4735-a441-35be71dda40e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1246218b-8222-4868-aad4-996940fcb991/45f3268a-de73-4735-a441-35be71dda40e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1246218b-8222-4868-aad4-996940fcb991/45f3268a-de73-4735-a441-35be71dda40e
+md5	a0fce2a0867571ef2c76e033197f48f8

@@ -1,0 +1,7 @@
+signId	1377
+text	skärp
+imageUuid	90f169f1-4fae-464a-9a86-d51f81a9fb3e
+translationKey	f0932d72-47b8-4386-af08-82409e6d5790
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/90f169f1-4fae-464a-9a86-d51f81a9fb3e/f0932d72-47b8-4386-af08-82409e6d5790/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/90f169f1-4fae-464a-9a86-d51f81a9fb3e/f0932d72-47b8-4386-af08-82409e6d5790
+md5	39b3ed729d08b216073d6db82d653c22

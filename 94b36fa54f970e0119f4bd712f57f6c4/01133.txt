@@ -1,0 +1,7 @@
+signId	1133
+text	paket
+imageUuid	c86cc1d5-8564-45ef-b8dd-34a191890da1
+translationKey	a5feab11-c827-4803-9695-e01cd92ece1f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c86cc1d5-8564-45ef-b8dd-34a191890da1/a5feab11-c827-4803-9695-e01cd92ece1f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c86cc1d5-8564-45ef-b8dd-34a191890da1/a5feab11-c827-4803-9695-e01cd92ece1f
+md5	94b36fa54f970e0119f4bd712f57f6c4

@@ -1,0 +1,8 @@
+
+signId	2598
+text	sjöman
+imageUuid	4125e08b-8847-4142-ba81-ffd94aca5fa5
+translationKey	6ce19891-702b-4938-a925-f90bb0294a61
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4125e08b-8847-4142-ba81-ffd94aca5fa5/6ce19891-702b-4938-a925-f90bb0294a61/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4125e08b-8847-4142-ba81-ffd94aca5fa5/6ce19891-702b-4938-a925-f90bb0294a61
+md5	4c3812f6f9c6ca8dd9bbda75a32e4616

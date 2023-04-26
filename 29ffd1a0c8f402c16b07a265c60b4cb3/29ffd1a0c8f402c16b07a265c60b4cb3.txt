@@ -1,0 +1,8 @@
+
+signId	2637
+text	fyr
+imageUuid	a7b8a35d-7643-4e63-921c-4a571bba3618
+translationKey	ec794929-99c2-4030-ac03-9464b8eff50f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a7b8a35d-7643-4e63-921c-4a571bba3618/ec794929-99c2-4030-ac03-9464b8eff50f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a7b8a35d-7643-4e63-921c-4a571bba3618/ec794929-99c2-4030-ac03-9464b8eff50f
+md5	29ffd1a0c8f402c16b07a265c60b4cb3

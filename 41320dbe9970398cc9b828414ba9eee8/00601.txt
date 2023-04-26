@@ -1,0 +1,7 @@
+signId	601
+text	hjälpa
+imageUuid	dd7d666a-3f03-4869-8590-4ff85b5cd41e
+translationKey	9e9cd0e3-f38e-4720-a055-f8da8c9d184c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dd7d666a-3f03-4869-8590-4ff85b5cd41e/9e9cd0e3-f38e-4720-a055-f8da8c9d184c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dd7d666a-3f03-4869-8590-4ff85b5cd41e/9e9cd0e3-f38e-4720-a055-f8da8c9d184c
+md5	41320dbe9970398cc9b828414ba9eee8

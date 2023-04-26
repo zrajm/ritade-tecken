@@ -1,0 +1,8 @@
+
+signId	256
+text	delfin
+imageUuid	afca09db-c50a-4ac5-ab89-65f6243ed077
+translationKey	48bcbce5-c649-4f80-bf9a-af934209eb9a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/afca09db-c50a-4ac5-ab89-65f6243ed077/48bcbce5-c649-4f80-bf9a-af934209eb9a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/afca09db-c50a-4ac5-ab89-65f6243ed077/48bcbce5-c649-4f80-bf9a-af934209eb9a
+md5	e0115201cee61101655036c2dee01242

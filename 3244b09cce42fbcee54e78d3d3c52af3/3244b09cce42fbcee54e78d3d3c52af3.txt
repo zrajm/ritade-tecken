@@ -1,0 +1,8 @@
+
+signId	2318
+text	bilbana
+imageUuid	055950ea-6204-4326-a784-f6dcb8856def
+translationKey	3d42fe15-ba51-487d-8c75-420923e219a6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/055950ea-6204-4326-a784-f6dcb8856def/3d42fe15-ba51-487d-8c75-420923e219a6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/055950ea-6204-4326-a784-f6dcb8856def/3d42fe15-ba51-487d-8c75-420923e219a6
+md5	3244b09cce42fbcee54e78d3d3c52af3

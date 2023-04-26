@@ -1,0 +1,7 @@
+signId	610
+text	hosta
+imageUuid	22a56ddc-1504-4d62-a0f3-9d0d4648484c
+translationKey	4fb69f59-9f81-44cf-90a4-fb6fc9802c0b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/22a56ddc-1504-4d62-a0f3-9d0d4648484c/4fb69f59-9f81-44cf-90a4-fb6fc9802c0b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/22a56ddc-1504-4d62-a0f3-9d0d4648484c/4fb69f59-9f81-44cf-90a4-fb6fc9802c0b
+md5	adc2c3dfc5be5871dad8312638e7bebe

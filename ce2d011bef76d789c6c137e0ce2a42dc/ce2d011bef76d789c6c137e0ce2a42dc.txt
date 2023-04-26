@@ -1,0 +1,8 @@
+
+signId	1463
+text	stampa
+imageUuid	5534a278-2434-48a2-9409-d10ddf08286a
+translationKey	40c17d4f-7e7a-4cb9-bc40-61d8fda8e54d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5534a278-2434-48a2-9409-d10ddf08286a/40c17d4f-7e7a-4cb9-bc40-61d8fda8e54d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5534a278-2434-48a2-9409-d10ddf08286a/40c17d4f-7e7a-4cb9-bc40-61d8fda8e54d
+md5	ce2d011bef76d789c6c137e0ce2a42dc

@@ -1,0 +1,7 @@
+signId	760
+text	klä på 1
+imageUuid	15902d0d-2910-42e6-ac55-8a1c66e58793
+translationKey	0d3ed9aa-6178-493d-83f9-c00c987d0403
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/15902d0d-2910-42e6-ac55-8a1c66e58793/0d3ed9aa-6178-493d-83f9-c00c987d0403/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/15902d0d-2910-42e6-ac55-8a1c66e58793/0d3ed9aa-6178-493d-83f9-c00c987d0403
+md5	71ab25431eb96601c52ba04470dcbba2

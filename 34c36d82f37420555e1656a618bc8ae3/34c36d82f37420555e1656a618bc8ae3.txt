@@ -1,0 +1,8 @@
+
+signId	1405
+text	smyga
+imageUuid	de556d05-c551-4472-ba6c-329d63ea38c0
+translationKey	2c0c47cd-74af-45ea-9912-f431d13e451a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/de556d05-c551-4472-ba6c-329d63ea38c0/2c0c47cd-74af-45ea-9912-f431d13e451a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/de556d05-c551-4472-ba6c-329d63ea38c0/2c0c47cd-74af-45ea-9912-f431d13e451a
+md5	34c36d82f37420555e1656a618bc8ae3

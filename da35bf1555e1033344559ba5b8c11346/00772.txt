@@ -1,0 +1,7 @@
+signId	772
+text	knåda
+imageUuid	74249c64-7851-4613-a694-aa52b613c10f
+translationKey	097b902d-5a57-4672-9596-ed456bf6eec0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/74249c64-7851-4613-a694-aa52b613c10f/097b902d-5a57-4672-9596-ed456bf6eec0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/74249c64-7851-4613-a694-aa52b613c10f/097b902d-5a57-4672-9596-ed456bf6eec0
+md5	da35bf1555e1033344559ba5b8c11346

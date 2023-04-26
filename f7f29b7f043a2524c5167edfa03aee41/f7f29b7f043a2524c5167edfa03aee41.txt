@@ -1,0 +1,8 @@
+
+signId	1704
+text	vardag
+imageUuid	5651a4d9-f5d3-4958-82c0-dd4b61209f98
+translationKey	ce5d9d90-198f-4662-be00-9a451e9dc0ff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5651a4d9-f5d3-4958-82c0-dd4b61209f98/ce5d9d90-198f-4662-be00-9a451e9dc0ff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5651a4d9-f5d3-4958-82c0-dd4b61209f98/ce5d9d90-198f-4662-be00-9a451e9dc0ff
+md5	f7f29b7f043a2524c5167edfa03aee41

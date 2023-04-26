@@ -1,0 +1,8 @@
+
+signId	1792
+text	åt sidan 1
+imageUuid	75655f37-1e92-4083-907c-1a877535dde9
+translationKey	4be92b78-95cf-4426-9ad7-ba79d69280ea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/75655f37-1e92-4083-907c-1a877535dde9/4be92b78-95cf-4426-9ad7-ba79d69280ea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/75655f37-1e92-4083-907c-1a877535dde9/4be92b78-95cf-4426-9ad7-ba79d69280ea
+md5	e45b979bbbc7fea417cc869821152885

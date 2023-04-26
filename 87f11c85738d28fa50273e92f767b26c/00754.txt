@@ -1,0 +1,7 @@
+signId	754
+text	klok
+imageUuid	84ea0672-9028-4f90-b94f-f9d7bd7a1138
+translationKey	12b96bab-301c-466b-b4c5-18be0358e4f5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/84ea0672-9028-4f90-b94f-f9d7bd7a1138/12b96bab-301c-466b-b4c5-18be0358e4f5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/84ea0672-9028-4f90-b94f-f9d7bd7a1138/12b96bab-301c-466b-b4c5-18be0358e4f5
+md5	87f11c85738d28fa50273e92f767b26c

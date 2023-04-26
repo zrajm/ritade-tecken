@@ -1,0 +1,24 @@
+
+signId	2166
+text	bränna sig
+imageUuid	b8829761-3783-454a-ada8-f5e04627ce63
+translationKey	6981c469-e5d1-4f2d-99e3-23a87fbdaec5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b8829761-3783-454a-ada8-f5e04627ce63/6981c469-e5d1-4f2d-99e3-23a87fbdaec5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b8829761-3783-454a-ada8-f5e04627ce63/6981c469-e5d1-4f2d-99e3-23a87fbdaec5
+md5	2894e75c5dd183001274aa62d4ae80f8
+
+signId	2181
+text	het
+imageUuid	e43e2866-e5d4-4aac-846a-9abe5ff52e4d
+translationKey	087be4b7-463a-4e55-9d0c-842aad2fa896
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e43e2866-e5d4-4aac-846a-9abe5ff52e4d/087be4b7-463a-4e55-9d0c-842aad2fa896/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e43e2866-e5d4-4aac-846a-9abe5ff52e4d/087be4b7-463a-4e55-9d0c-842aad2fa896
+md5	2894e75c5dd183001274aa62d4ae80f8
+
+signId	2182
+text	hett
+imageUuid	6651a7d7-085e-4cd6-b3f5-5892cfb3cbf7
+translationKey	80e55ff4-a71e-40dc-b850-faa964edf7da
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6651a7d7-085e-4cd6-b3f5-5892cfb3cbf7/80e55ff4-a71e-40dc-b850-faa964edf7da/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6651a7d7-085e-4cd6-b3f5-5892cfb3cbf7/80e55ff4-a71e-40dc-b850-faa964edf7da
+md5	2894e75c5dd183001274aa62d4ae80f8

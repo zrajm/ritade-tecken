@@ -1,0 +1,7 @@
+signId	891
+text	lika med
+imageUuid	d731aa8a-1159-481d-a79b-e61aea65c95d
+translationKey	b892ea2d-75fa-4a94-b59e-f5238963c1d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d731aa8a-1159-481d-a79b-e61aea65c95d/b892ea2d-75fa-4a94-b59e-f5238963c1d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d731aa8a-1159-481d-a79b-e61aea65c95d/b892ea2d-75fa-4a94-b59e-f5238963c1d3
+md5	fd5673620ac6bc13e1d93a8bd9da626e

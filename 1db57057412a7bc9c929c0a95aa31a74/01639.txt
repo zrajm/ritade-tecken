@@ -1,0 +1,7 @@
+signId	1639
+text	tunn 1
+imageUuid	e241ca1a-f902-4974-b08a-c2e68ce33096
+translationKey	1c38fe41-7f8d-459e-bcd6-c25027559976
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e241ca1a-f902-4974-b08a-c2e68ce33096/1c38fe41-7f8d-459e-bcd6-c25027559976/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e241ca1a-f902-4974-b08a-c2e68ce33096/1c38fe41-7f8d-459e-bcd6-c25027559976
+md5	1db57057412a7bc9c929c0a95aa31a74

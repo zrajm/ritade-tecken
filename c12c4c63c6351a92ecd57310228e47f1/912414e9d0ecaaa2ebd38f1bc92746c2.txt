@@ -1,0 +1,8 @@
+
+signId	1155
+text	perfekt 1
+imageUuid	dd7feb30-30b4-4ae1-bcb0-101401b944b7
+translationKey	8c7643c4-d6c5-411d-ac46-16bf566b37a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dd7feb30-30b4-4ae1-bcb0-101401b944b7/8c7643c4-d6c5-411d-ac46-16bf566b37a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dd7feb30-30b4-4ae1-bcb0-101401b944b7/8c7643c4-d6c5-411d-ac46-16bf566b37a7
+md5	912414e9d0ecaaa2ebd38f1bc92746c2

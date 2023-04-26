@@ -1,0 +1,7 @@
+signId	1381
+text	slips
+imageUuid	c4f03bc7-5c86-4936-89ca-4601a1e86c49
+translationKey	3dc607d3-907c-4fcf-b921-039e54fa7084
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c4f03bc7-5c86-4936-89ca-4601a1e86c49/3dc607d3-907c-4fcf-b921-039e54fa7084/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c4f03bc7-5c86-4936-89ca-4601a1e86c49/3dc607d3-907c-4fcf-b921-039e54fa7084
+md5	b18b5624ca3d7004e77489e851ebe34b

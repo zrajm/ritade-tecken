@@ -1,0 +1,7 @@
+signId	2812
+text	bakom 2
+imageUuid	d675a915-31d3-4cf6-9c75-5942246be549
+translationKey	879afdd2-379d-4f75-b536-d51b649b7d3a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d675a915-31d3-4cf6-9c75-5942246be549/879afdd2-379d-4f75-b536-d51b649b7d3a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d675a915-31d3-4cf6-9c75-5942246be549/879afdd2-379d-4f75-b536-d51b649b7d3a
+md5	2287b6717e04500012917a8d564a23d8

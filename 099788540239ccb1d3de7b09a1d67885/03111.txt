@@ -1,0 +1,7 @@
+signId	3111
+text	Afghanistan 1
+imageUuid	de3532f3-8f9e-444a-be80-98c5ac96a5a0
+translationKey	d366eedd-d99e-4801-baf1-fef67c0f44c5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/de3532f3-8f9e-444a-be80-98c5ac96a5a0/d366eedd-d99e-4801-baf1-fef67c0f44c5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/de3532f3-8f9e-444a-be80-98c5ac96a5a0/d366eedd-d99e-4801-baf1-fef67c0f44c5
+md5	099788540239ccb1d3de7b09a1d67885

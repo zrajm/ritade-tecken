@@ -1,0 +1,7 @@
+signId	634
+text	härlig
+imageUuid	0abd45a1-bf04-4690-a38e-466d5bbd366b
+translationKey	58dcb63f-bf01-4a0e-983c-6c2d8ed3d90c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0abd45a1-bf04-4690-a38e-466d5bbd366b/58dcb63f-bf01-4a0e-983c-6c2d8ed3d90c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0abd45a1-bf04-4690-a38e-466d5bbd366b/58dcb63f-bf01-4a0e-983c-6c2d8ed3d90c
+md5	ecd1aaf917af93e258af08ebe39860eb

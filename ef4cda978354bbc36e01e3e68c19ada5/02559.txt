@@ -1,0 +1,7 @@
+signId	2559
+text	lön
+imageUuid	95a3b0a5-a580-4be1-a3aa-a0deb7f23eb8
+translationKey	e1061e02-ac17-40eb-b30d-2cabfb14fd87
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/95a3b0a5-a580-4be1-a3aa-a0deb7f23eb8/e1061e02-ac17-40eb-b30d-2cabfb14fd87/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/95a3b0a5-a580-4be1-a3aa-a0deb7f23eb8/e1061e02-ac17-40eb-b30d-2cabfb14fd87
+md5	ef4cda978354bbc36e01e3e68c19ada5

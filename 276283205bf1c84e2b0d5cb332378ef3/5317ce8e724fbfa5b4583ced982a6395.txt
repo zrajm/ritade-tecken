@@ -1,0 +1,8 @@
+
+signId	2487
+text	utställning
+imageUuid	7be57afb-b85f-4c52-9c50-3cd2e5526860
+translationKey	3598a947-7815-48bb-914c-5aa1f06d4c7a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7be57afb-b85f-4c52-9c50-3cd2e5526860/3598a947-7815-48bb-914c-5aa1f06d4c7a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7be57afb-b85f-4c52-9c50-3cd2e5526860/3598a947-7815-48bb-914c-5aa1f06d4c7a
+md5	5317ce8e724fbfa5b4583ced982a6395

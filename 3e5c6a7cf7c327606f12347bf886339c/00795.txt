@@ -1,0 +1,7 @@
+signId	795
+text	korg
+imageUuid	eb5aa160-12a0-4096-ae0b-060f6c643528
+translationKey	61f49253-8a8f-411d-80c7-4edadf7f990e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eb5aa160-12a0-4096-ae0b-060f6c643528/61f49253-8a8f-411d-80c7-4edadf7f990e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eb5aa160-12a0-4096-ae0b-060f6c643528/61f49253-8a8f-411d-80c7-4edadf7f990e
+md5	3e5c6a7cf7c327606f12347bf886339c

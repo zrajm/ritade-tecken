@@ -1,0 +1,8 @@
+
+signId	1712
+text	vattenkanna
+imageUuid	b2e1c1bd-e95e-4e38-b2af-5260df0432f7
+translationKey	97d1f455-b512-4f3d-a735-684cd9668948
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b2e1c1bd-e95e-4e38-b2af-5260df0432f7/97d1f455-b512-4f3d-a735-684cd9668948/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b2e1c1bd-e95e-4e38-b2af-5260df0432f7/97d1f455-b512-4f3d-a735-684cd9668948
+md5	113f2141ad4df743ed679816eead6b62

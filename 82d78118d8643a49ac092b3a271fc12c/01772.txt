@@ -1,0 +1,7 @@
+signId	1772
+text	världen
+imageUuid	3a46a03d-d4d6-42d5-b285-61282eb7d6f5
+translationKey	e36c4ab7-2d1c-4e0a-88da-4babea1ae7f7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a46a03d-d4d6-42d5-b285-61282eb7d6f5/e36c4ab7-2d1c-4e0a-88da-4babea1ae7f7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a46a03d-d4d6-42d5-b285-61282eb7d6f5/e36c4ab7-2d1c-4e0a-88da-4babea1ae7f7
+md5	315594d3b1a3d4347b67c5bd33583b3b

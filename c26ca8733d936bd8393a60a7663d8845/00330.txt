@@ -1,0 +1,7 @@
+signId	330
+text	ensam
+imageUuid	f63e836f-448a-428d-8f3b-aeb4ec73a434
+translationKey	0ec4f1dd-5761-452a-800a-da73bd289e9a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f63e836f-448a-428d-8f3b-aeb4ec73a434/0ec4f1dd-5761-452a-800a-da73bd289e9a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f63e836f-448a-428d-8f3b-aeb4ec73a434/0ec4f1dd-5761-452a-800a-da73bd289e9a
+md5	2418e94836dcc0e0637868ff6cf03b92

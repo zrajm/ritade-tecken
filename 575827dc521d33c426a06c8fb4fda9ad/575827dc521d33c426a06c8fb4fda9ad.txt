@@ -1,0 +1,24 @@
+
+signId	1600
+text	torka
+imageUuid	7579bda6-f5b6-41de-be85-5e915b62e942
+translationKey	cc2b055b-98dc-4392-bcb9-25b10e3654ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7579bda6-f5b6-41de-be85-5e915b62e942/cc2b055b-98dc-4392-bcb9-25b10e3654ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7579bda6-f5b6-41de-be85-5e915b62e942/cc2b055b-98dc-4392-bcb9-25b10e3654ca
+md5	575827dc521d33c426a06c8fb4fda9ad
+
+signId	2288
+text	luft
+imageUuid	0831cba7-c7c7-4eb6-b752-3efae5029d90
+translationKey	98dd5104-c48f-4fa7-adfc-e8ae8854cd16
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0831cba7-c7c7-4eb6-b752-3efae5029d90/98dd5104-c48f-4fa7-adfc-e8ae8854cd16/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0831cba7-c7c7-4eb6-b752-3efae5029d90/98dd5104-c48f-4fa7-adfc-e8ae8854cd16
+md5	575827dc521d33c426a06c8fb4fda9ad
+
+signId	2722
+text	klimat
+imageUuid	7e92511b-c69c-4de5-8c82-ebf7be13110b
+translationKey	7bb7ef8a-ee7c-406a-b3db-9ea28a67def5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e92511b-c69c-4de5-8c82-ebf7be13110b/7bb7ef8a-ee7c-406a-b3db-9ea28a67def5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e92511b-c69c-4de5-8c82-ebf7be13110b/7bb7ef8a-ee7c-406a-b3db-9ea28a67def5
+md5	575827dc521d33c426a06c8fb4fda9ad

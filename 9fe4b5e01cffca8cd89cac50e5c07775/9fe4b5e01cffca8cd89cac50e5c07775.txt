@@ -1,0 +1,8 @@
+
+signId	2488
+text	val (politiskt)
+imageUuid	c8afab27-0eb7-46f9-aaf1-f9146cb02169
+translationKey	980cc17e-5783-4265-83fb-58e381bdc78b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c8afab27-0eb7-46f9-aaf1-f9146cb02169/980cc17e-5783-4265-83fb-58e381bdc78b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c8afab27-0eb7-46f9-aaf1-f9146cb02169/980cc17e-5783-4265-83fb-58e381bdc78b
+md5	9fe4b5e01cffca8cd89cac50e5c07775

@@ -1,0 +1,7 @@
+signId	1812
+text	äta
+imageUuid	4923be2f-27f6-4048-8205-50dcea319c2e
+translationKey	114161bf-a14c-40e5-ad82-8f2bc86ae957
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4923be2f-27f6-4048-8205-50dcea319c2e/114161bf-a14c-40e5-ad82-8f2bc86ae957/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4923be2f-27f6-4048-8205-50dcea319c2e/114161bf-a14c-40e5-ad82-8f2bc86ae957
+md5	4e46ea1d4385735af370f25dd6e421e1

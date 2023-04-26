@@ -1,0 +1,7 @@
+signId	405
+text	frisk
+imageUuid	e1be100e-9ced-4475-bf50-41a4cda1fa0e
+translationKey	f9a56123-5bef-41b1-b060-27e8dadbf6a9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e1be100e-9ced-4475-bf50-41a4cda1fa0e/f9a56123-5bef-41b1-b060-27e8dadbf6a9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e1be100e-9ced-4475-bf50-41a4cda1fa0e/f9a56123-5bef-41b1-b060-27e8dadbf6a9
+md5	4e7ad06f9e97e9625c2979a38a906607

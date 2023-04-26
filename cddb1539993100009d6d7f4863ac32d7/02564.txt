@@ -1,0 +1,7 @@
+signId	2564
+text	Stockholm
+imageUuid	36204e7e-d0c2-4e45-be58-dedcf1f65a52
+translationKey	43981f9f-2426-401f-888c-fa8bcdd15dbd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/36204e7e-d0c2-4e45-be58-dedcf1f65a52/43981f9f-2426-401f-888c-fa8bcdd15dbd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/36204e7e-d0c2-4e45-be58-dedcf1f65a52/43981f9f-2426-401f-888c-fa8bcdd15dbd
+md5	cddb1539993100009d6d7f4863ac32d7

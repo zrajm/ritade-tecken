@@ -1,0 +1,8 @@
+
+signId	1544
+text	säkerhetsbälte
+imageUuid	6899f10f-8b0a-49fc-b7b9-4f45efaaae07
+translationKey	9e1a8fa1-60a5-4555-ab68-0a7dd5ab2343
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6899f10f-8b0a-49fc-b7b9-4f45efaaae07/9e1a8fa1-60a5-4555-ab68-0a7dd5ab2343/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6899f10f-8b0a-49fc-b7b9-4f45efaaae07/9e1a8fa1-60a5-4555-ab68-0a7dd5ab2343
+md5	209d294965d2e602a4a968434ba9341a

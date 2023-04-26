@@ -1,0 +1,7 @@
+signId	923
+text	låda
+imageUuid	227e311b-46d4-4683-9701-88d7ec7d9b93
+translationKey	506d961d-4cc0-4fa3-9b9a-8c3b16f4cefb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/227e311b-46d4-4683-9701-88d7ec7d9b93/506d961d-4cc0-4fa3-9b9a-8c3b16f4cefb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/227e311b-46d4-4683-9701-88d7ec7d9b93/506d961d-4cc0-4fa3-9b9a-8c3b16f4cefb
+md5	94b36fa54f970e0119f4bd712f57f6c4

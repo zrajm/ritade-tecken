@@ -1,0 +1,7 @@
+signId	3022
+text	tvätta ansiktet
+imageUuid	7d2cb33a-d84d-4556-a9db-93d9ec01b1cb
+translationKey	7cdb02e1-d0b6-4118-8cad-7e61915e2b1f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7d2cb33a-d84d-4556-a9db-93d9ec01b1cb/7cdb02e1-d0b6-4118-8cad-7e61915e2b1f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7d2cb33a-d84d-4556-a9db-93d9ec01b1cb/7cdb02e1-d0b6-4118-8cad-7e61915e2b1f
+md5	0fd0b2ec4fc1ef7783009f6a107aa92b

@@ -1,0 +1,16 @@
+
+signId	1565
+text	tassar
+imageUuid	6fbcc2af-8f64-40ee-95d4-934fd8afd081
+translationKey	d51a4bf2-8e1e-490a-9ac2-284f15d730f6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6fbcc2af-8f64-40ee-95d4-934fd8afd081/d51a4bf2-8e1e-490a-9ac2-284f15d730f6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6fbcc2af-8f64-40ee-95d4-934fd8afd081/d51a4bf2-8e1e-490a-9ac2-284f15d730f6
+md5	cac33c7e76a25843fb6329664f76980b
+
+signId	3288
+text	panter
+imageUuid	c3e74200-6f14-4f7d-98ba-c9f51162b3a4
+translationKey	fa71f4c5-3eda-4807-8aea-3f32a57c9c76
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c3e74200-6f14-4f7d-98ba-c9f51162b3a4/fa71f4c5-3eda-4807-8aea-3f32a57c9c76/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c3e74200-6f14-4f7d-98ba-c9f51162b3a4/fa71f4c5-3eda-4807-8aea-3f32a57c9c76
+md5	cac33c7e76a25843fb6329664f76980b

@@ -1,0 +1,7 @@
+signId	1092
+text	när (frågeord)
+imageUuid	46131b85-5bab-4205-916f-660b9a00ff93
+translationKey	3fdcd043-eb3c-4f3b-a2e6-2a5c8f891405
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/46131b85-5bab-4205-916f-660b9a00ff93/3fdcd043-eb3c-4f3b-a2e6-2a5c8f891405/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/46131b85-5bab-4205-916f-660b9a00ff93/3fdcd043-eb3c-4f3b-a2e6-2a5c8f891405
+md5	c4a6039be6955781964159a97687681f

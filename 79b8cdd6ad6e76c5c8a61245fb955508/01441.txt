@@ -1,0 +1,7 @@
+signId	1441
+text	spara
+imageUuid	b184a9d7-2b27-4bab-b319-ac66179f3803
+translationKey	f586e006-e566-4f53-96f0-40ff7d1e0da5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b184a9d7-2b27-4bab-b319-ac66179f3803/f586e006-e566-4f53-96f0-40ff7d1e0da5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b184a9d7-2b27-4bab-b319-ac66179f3803/f586e006-e566-4f53-96f0-40ff7d1e0da5
+md5	79b8cdd6ad6e76c5c8a61245fb955508

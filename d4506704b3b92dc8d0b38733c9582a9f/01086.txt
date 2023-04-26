@@ -1,0 +1,7 @@
+signId	1086
+text	nyår
+imageUuid	c585aa3d-7c21-44cd-9dc7-56ea97b3378b
+translationKey	8d47fc15-af2d-4d3d-810e-5e4b2a64b5b2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c585aa3d-7c21-44cd-9dc7-56ea97b3378b/8d47fc15-af2d-4d3d-810e-5e4b2a64b5b2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c585aa3d-7c21-44cd-9dc7-56ea97b3378b/8d47fc15-af2d-4d3d-810e-5e4b2a64b5b2
+md5	d4506704b3b92dc8d0b38733c9582a9f

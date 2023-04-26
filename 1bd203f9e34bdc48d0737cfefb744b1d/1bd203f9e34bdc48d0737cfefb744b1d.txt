@@ -1,0 +1,8 @@
+
+signId	1673
+text	ugn
+imageUuid	16274c9d-7923-499e-b4a7-7b493c379c32
+translationKey	5ace267f-2067-45a8-b7d4-5c3f9a118ac4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/16274c9d-7923-499e-b4a7-7b493c379c32/5ace267f-2067-45a8-b7d4-5c3f9a118ac4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/16274c9d-7923-499e-b4a7-7b493c379c32/5ace267f-2067-45a8-b7d4-5c3f9a118ac4
+md5	1bd203f9e34bdc48d0737cfefb744b1d

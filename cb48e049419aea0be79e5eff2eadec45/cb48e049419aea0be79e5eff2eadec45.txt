@@ -1,0 +1,8 @@
+
+signId	3314
+text	jämställd
+imageUuid	814a244b-4ec8-4bd5-84ae-27bd2adb0115
+translationKey	26250fe6-c905-41b9-bdb3-2114d70e49e4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/814a244b-4ec8-4bd5-84ae-27bd2adb0115/26250fe6-c905-41b9-bdb3-2114d70e49e4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/814a244b-4ec8-4bd5-84ae-27bd2adb0115/26250fe6-c905-41b9-bdb3-2114d70e49e4
+md5	cb48e049419aea0be79e5eff2eadec45

@@ -1,0 +1,7 @@
+signId	1708
+text	varje dag
+imageUuid	2d7d9c7d-53fa-46e3-9773-9193469d0d04
+translationKey	fb0e3ad1-8187-46d2-aa0e-f73c94109d5c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d7d9c7d-53fa-46e3-9773-9193469d0d04/fb0e3ad1-8187-46d2-aa0e-f73c94109d5c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d7d9c7d-53fa-46e3-9773-9193469d0d04/fb0e3ad1-8187-46d2-aa0e-f73c94109d5c
+md5	83f33859ff332df762e4bcd00d4f137c

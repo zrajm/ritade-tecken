@@ -1,0 +1,16 @@
+
+signId	2347
+text	karta
+imageUuid	56f5bace-92de-4f71-b352-81995999680f
+translationKey	3b2a0cff-b3a2-4040-813f-f997e17aec2b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/56f5bace-92de-4f71-b352-81995999680f/3b2a0cff-b3a2-4040-813f-f997e17aec2b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/56f5bace-92de-4f71-b352-81995999680f/3b2a0cff-b3a2-4040-813f-f997e17aec2b
+md5	36ef5f31bb7022de82a0c7e84283beab
+
+signId	2420
+text	geografi
+imageUuid	a8380a7e-4351-4a73-867c-54af544ffc7e
+translationKey	a77d05f1-39b1-469d-aef7-b321b94b2a93
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a8380a7e-4351-4a73-867c-54af544ffc7e/a77d05f1-39b1-469d-aef7-b321b94b2a93/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a8380a7e-4351-4a73-867c-54af544ffc7e/a77d05f1-39b1-469d-aef7-b321b94b2a93
+md5	36ef5f31bb7022de82a0c7e84283beab

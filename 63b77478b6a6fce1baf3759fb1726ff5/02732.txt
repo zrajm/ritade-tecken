@@ -1,0 +1,7 @@
+signId	2732
+text	ansvar
+imageUuid	cb5b4071-8dd8-4755-a4c1-41c8a3541dc9
+translationKey	293bf16b-fa09-4e84-bdf6-3c6f07bb51f3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cb5b4071-8dd8-4755-a4c1-41c8a3541dc9/293bf16b-fa09-4e84-bdf6-3c6f07bb51f3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cb5b4071-8dd8-4755-a4c1-41c8a3541dc9/293bf16b-fa09-4e84-bdf6-3c6f07bb51f3
+md5	63b77478b6a6fce1baf3759fb1726ff5

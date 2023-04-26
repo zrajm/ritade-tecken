@@ -1,0 +1,7 @@
+signId	2591
+text	peppar
+imageUuid	57055811-5a06-448f-88e2-77285b058519
+translationKey	e2044b51-e654-4352-9e4e-6bb1c51bae8c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/57055811-5a06-448f-88e2-77285b058519/e2044b51-e654-4352-9e4e-6bb1c51bae8c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/57055811-5a06-448f-88e2-77285b058519/e2044b51-e654-4352-9e4e-6bb1c51bae8c
+md5	84601186b7f721643a82d21105e690c1

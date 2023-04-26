@@ -1,0 +1,8 @@
+
+signId	1461
+text	stad
+imageUuid	0a74eaed-a9c1-48b7-a724-7734d52b29bd
+translationKey	3142b680-b26e-446b-9b60-7efa2c674700
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0a74eaed-a9c1-48b7-a724-7734d52b29bd/3142b680-b26e-446b-9b60-7efa2c674700/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0a74eaed-a9c1-48b7-a724-7734d52b29bd/3142b680-b26e-446b-9b60-7efa2c674700
+md5	9074441649e6c86593eb378d44556ec0

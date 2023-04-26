@@ -1,0 +1,7 @@
+signId	950
+text	löv
+imageUuid	8a62a732-b5fd-4181-a7d7-11e2cafbc7f2
+translationKey	17820c61-62af-4bae-8104-895f1ed159ea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8a62a732-b5fd-4181-a7d7-11e2cafbc7f2/17820c61-62af-4bae-8104-895f1ed159ea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8a62a732-b5fd-4181-a7d7-11e2cafbc7f2/17820c61-62af-4bae-8104-895f1ed159ea
+md5	42bf582bfc20e8042abb2fd1438b2c6a

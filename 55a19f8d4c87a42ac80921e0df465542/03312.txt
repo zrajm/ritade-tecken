@@ -1,0 +1,7 @@
+signId	3312
+text	jude
+imageUuid	c487178b-fd90-433c-8be9-d4d283749858
+translationKey	72652f20-18ee-4079-84fd-f838aef37100
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c487178b-fd90-433c-8be9-d4d283749858/72652f20-18ee-4079-84fd-f838aef37100/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c487178b-fd90-433c-8be9-d4d283749858/72652f20-18ee-4079-84fd-f838aef37100
+md5	55a19f8d4c87a42ac80921e0df465542

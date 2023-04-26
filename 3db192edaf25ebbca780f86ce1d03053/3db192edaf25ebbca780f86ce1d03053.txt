@@ -1,0 +1,8 @@
+
+signId	1701
+text	var sitt håll
+imageUuid	a7de9ce0-2130-4260-9cd6-1ec5fd667f48
+translationKey	ab0dd021-b367-4926-9aeb-4549ea70c26f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a7de9ce0-2130-4260-9cd6-1ec5fd667f48/ab0dd021-b367-4926-9aeb-4549ea70c26f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a7de9ce0-2130-4260-9cd6-1ec5fd667f48/ab0dd021-b367-4926-9aeb-4549ea70c26f
+md5	3db192edaf25ebbca780f86ce1d03053

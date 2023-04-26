@@ -1,0 +1,7 @@
+signId	1940
+text	gift
+imageUuid	bc43b39a-bbd6-4faa-8ea4-7e4268249a88
+translationKey	be750d43-467f-40f2-a067-6d3ee4bfa247
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bc43b39a-bbd6-4faa-8ea4-7e4268249a88/be750d43-467f-40f2-a067-6d3ee4bfa247/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bc43b39a-bbd6-4faa-8ea4-7e4268249a88/be750d43-467f-40f2-a067-6d3ee4bfa247
+md5	c08e1502945abcb9436457548e47cd14

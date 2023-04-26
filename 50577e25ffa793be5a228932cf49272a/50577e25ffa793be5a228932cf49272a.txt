@@ -1,0 +1,8 @@
+
+signId	2641
+text	kaffebryggare
+imageUuid	37a770ac-6f43-47b9-b918-13d8830af5fc
+translationKey	17dc7302-64f8-47f1-af9b-2743e5df1e62
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/37a770ac-6f43-47b9-b918-13d8830af5fc/17dc7302-64f8-47f1-af9b-2743e5df1e62/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/37a770ac-6f43-47b9-b918-13d8830af5fc/17dc7302-64f8-47f1-af9b-2743e5df1e62
+md5	50577e25ffa793be5a228932cf49272a

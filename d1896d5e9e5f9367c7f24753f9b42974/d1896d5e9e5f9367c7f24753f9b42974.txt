@@ -1,0 +1,8 @@
+
+signId	2399
+text	sucka
+imageUuid	5316542f-3d53-4e48-917f-5c2f25f38dda
+translationKey	fe0a28de-0777-42d7-9b34-5e16b9752f52
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5316542f-3d53-4e48-917f-5c2f25f38dda/fe0a28de-0777-42d7-9b34-5e16b9752f52/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5316542f-3d53-4e48-917f-5c2f25f38dda/fe0a28de-0777-42d7-9b34-5e16b9752f52
+md5	d1896d5e9e5f9367c7f24753f9b42974

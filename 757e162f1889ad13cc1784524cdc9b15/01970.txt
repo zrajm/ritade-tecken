@@ -1,0 +1,7 @@
+signId	1970
+text	silver
+imageUuid	b74cac52-133b-41ae-b649-b04571129adc
+translationKey	c70ebcb5-960e-4d21-9230-3f1e54ede6d9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b74cac52-133b-41ae-b649-b04571129adc/c70ebcb5-960e-4d21-9230-3f1e54ede6d9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b74cac52-133b-41ae-b649-b04571129adc/c70ebcb5-960e-4d21-9230-3f1e54ede6d9
+md5	757e162f1889ad13cc1784524cdc9b15

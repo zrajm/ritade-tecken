@@ -1,0 +1,8 @@
+
+signId	397
+text	fotboll
+imageUuid	753fe3d6-5db9-4912-9d58-6b6c3ca82d09
+translationKey	fb20322c-3afa-47e6-afb8-653122f13759
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/753fe3d6-5db9-4912-9d58-6b6c3ca82d09/fb20322c-3afa-47e6-afb8-653122f13759/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/753fe3d6-5db9-4912-9d58-6b6c3ca82d09/fb20322c-3afa-47e6-afb8-653122f13759
+md5	2dff54274c47e55ab406324389bb9803

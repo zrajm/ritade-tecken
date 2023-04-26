@@ -1,0 +1,8 @@
+
+signId	1879
+text	färdig 2
+imageUuid	475e4779-2b4e-4c0a-b297-725905ebfddf
+translationKey	467f6be0-87c4-4a37-a6e1-f8c5a53ebde2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/475e4779-2b4e-4c0a-b297-725905ebfddf/467f6be0-87c4-4a37-a6e1-f8c5a53ebde2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/475e4779-2b4e-4c0a-b297-725905ebfddf/467f6be0-87c4-4a37-a6e1-f8c5a53ebde2
+md5	fc6ee777528cbac667a5e5195cebc013

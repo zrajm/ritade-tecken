@@ -1,0 +1,8 @@
+
+signId	1063
+text	namn
+imageUuid	f8c92cb7-8906-45b0-90c1-197d349333b5
+translationKey	1eb37b9a-0d55-4af8-abfa-9389c3ebcc9c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f8c92cb7-8906-45b0-90c1-197d349333b5/1eb37b9a-0d55-4af8-abfa-9389c3ebcc9c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f8c92cb7-8906-45b0-90c1-197d349333b5/1eb37b9a-0d55-4af8-abfa-9389c3ebcc9c
+md5	840252954c8201d88121c2af3c78780a

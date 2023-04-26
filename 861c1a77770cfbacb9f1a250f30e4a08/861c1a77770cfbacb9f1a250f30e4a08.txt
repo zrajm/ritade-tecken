@@ -1,0 +1,8 @@
+
+signId	805
+text	kotte
+imageUuid	71306854-6484-41f7-88cd-1d6e82d56c1f
+translationKey	c79bcf8e-a82f-4d08-a99c-7159e820d8c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/71306854-6484-41f7-88cd-1d6e82d56c1f/c79bcf8e-a82f-4d08-a99c-7159e820d8c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/71306854-6484-41f7-88cd-1d6e82d56c1f/c79bcf8e-a82f-4d08-a99c-7159e820d8c7
+md5	861c1a77770cfbacb9f1a250f30e4a08

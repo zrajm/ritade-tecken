@@ -1,0 +1,7 @@
+signId	2849
+text	nio (siffra)
+imageUuid	7ebb9ee1-08a8-47aa-8d96-3114175d12be
+translationKey	f930ac51-050b-417a-9220-9b69a33e1a0b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7ebb9ee1-08a8-47aa-8d96-3114175d12be/f930ac51-050b-417a-9220-9b69a33e1a0b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7ebb9ee1-08a8-47aa-8d96-3114175d12be/f930ac51-050b-417a-9220-9b69a33e1a0b
+md5	94c598e27fca5e6fc0030ed895cb85f5

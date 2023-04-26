@@ -1,0 +1,8 @@
+
+signId	797
+text	kort (liten)
+imageUuid	747d1f67-976a-4b74-90bb-857f72727464
+translationKey	6dfb4eb4-68dc-44d1-84b9-8bd651d722f2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/747d1f67-976a-4b74-90bb-857f72727464/6dfb4eb4-68dc-44d1-84b9-8bd651d722f2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/747d1f67-976a-4b74-90bb-857f72727464/6dfb4eb4-68dc-44d1-84b9-8bd651d722f2
+md5	e30bb8b199ddad6fde5177040cdafbd8

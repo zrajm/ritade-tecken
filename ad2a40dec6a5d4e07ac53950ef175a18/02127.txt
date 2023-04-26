@@ -1,0 +1,7 @@
+signId	2127
+text	kök 2
+imageUuid	4ef96c02-3f97-417a-9503-d3a5f01cd270
+translationKey	6e71bfa3-f88c-4dad-9f68-76e49d5c4ef0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4ef96c02-3f97-417a-9503-d3a5f01cd270/6e71bfa3-f88c-4dad-9f68-76e49d5c4ef0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4ef96c02-3f97-417a-9503-d3a5f01cd270/6e71bfa3-f88c-4dad-9f68-76e49d5c4ef0
+md5	ad2a40dec6a5d4e07ac53950ef175a18

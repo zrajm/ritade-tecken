@@ -1,0 +1,7 @@
+signId	198
+text	bröd
+imageUuid	cc931f62-1c06-41db-85fa-ed041bde2a8a
+translationKey	ac636fb6-c668-44c1-9d5f-2c3a245b7777
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cc931f62-1c06-41db-85fa-ed041bde2a8a/ac636fb6-c668-44c1-9d5f-2c3a245b7777/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cc931f62-1c06-41db-85fa-ed041bde2a8a/ac636fb6-c668-44c1-9d5f-2c3a245b7777
+md5	ff13af5307805907a510866d4cee785e

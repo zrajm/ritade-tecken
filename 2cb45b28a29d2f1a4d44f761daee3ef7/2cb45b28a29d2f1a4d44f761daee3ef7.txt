@@ -1,0 +1,16 @@
+
+signId	2309
+text	underbar
+imageUuid	0dfcc9fa-57f1-4e82-bcda-0fa1b193eb56
+translationKey	375742d0-22ce-46c1-bde1-645c8c8839a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0dfcc9fa-57f1-4e82-bcda-0fa1b193eb56/375742d0-22ce-46c1-bde1-645c8c8839a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0dfcc9fa-57f1-4e82-bcda-0fa1b193eb56/375742d0-22ce-46c1-bde1-645c8c8839a4
+md5	2cb45b28a29d2f1a4d44f761daee3ef7
+
+signId	3291
+text	imponerad
+imageUuid	320ad178-868c-4c28-8881-58821cce998c
+translationKey	c24456e6-ce66-4557-ba7e-3de173be6234
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/320ad178-868c-4c28-8881-58821cce998c/c24456e6-ce66-4557-ba7e-3de173be6234/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/320ad178-868c-4c28-8881-58821cce998c/c24456e6-ce66-4557-ba7e-3de173be6234
+md5	2cb45b28a29d2f1a4d44f761daee3ef7

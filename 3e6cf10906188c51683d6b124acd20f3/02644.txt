@@ -1,0 +1,7 @@
+signId	2644
+text	koncentrera sig
+imageUuid	1f95b059-64bd-4fa9-b55a-5082ebafb52e
+translationKey	e5771a51-5323-4a2b-b904-2789aa3c31ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1f95b059-64bd-4fa9-b55a-5082ebafb52e/e5771a51-5323-4a2b-b904-2789aa3c31ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1f95b059-64bd-4fa9-b55a-5082ebafb52e/e5771a51-5323-4a2b-b904-2789aa3c31ab
+md5	3e6cf10906188c51683d6b124acd20f3

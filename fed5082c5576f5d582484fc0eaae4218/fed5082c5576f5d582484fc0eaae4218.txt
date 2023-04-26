@@ -1,0 +1,8 @@
+
+signId	1214
+text	påskafton
+imageUuid	5ec052bf-2afb-4b7f-8399-f3e6a3b29a96
+translationKey	75dd266d-5e04-4fcc-acaf-ac886e7a0647
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ec052bf-2afb-4b7f-8399-f3e6a3b29a96/75dd266d-5e04-4fcc-acaf-ac886e7a0647/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ec052bf-2afb-4b7f-8399-f3e6a3b29a96/75dd266d-5e04-4fcc-acaf-ac886e7a0647
+md5	fed5082c5576f5d582484fc0eaae4218

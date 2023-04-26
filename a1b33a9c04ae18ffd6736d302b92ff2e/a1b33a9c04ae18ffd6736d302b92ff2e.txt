@@ -1,0 +1,8 @@
+
+signId	2093
+text	överraska
+imageUuid	fb059465-b28f-421f-94ad-725fab56a574
+translationKey	280eced4-d807-4725-8fc4-49aee2d33b4d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fb059465-b28f-421f-94ad-725fab56a574/280eced4-d807-4725-8fc4-49aee2d33b4d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fb059465-b28f-421f-94ad-725fab56a574/280eced4-d807-4725-8fc4-49aee2d33b4d
+md5	a1b33a9c04ae18ffd6736d302b92ff2e

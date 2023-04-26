@@ -1,0 +1,8 @@
+
+signId	2289
+text	miljon (tal)
+imageUuid	7db14a86-7685-4756-9b95-44f561af89bd
+translationKey	42dc06be-8964-4f12-9b16-feb3ad25cda9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7db14a86-7685-4756-9b95-44f561af89bd/42dc06be-8964-4f12-9b16-feb3ad25cda9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7db14a86-7685-4756-9b95-44f561af89bd/42dc06be-8964-4f12-9b16-feb3ad25cda9
+md5	d1cedbe66a4ed3f20582268052e72865

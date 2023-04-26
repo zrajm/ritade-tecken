@@ -1,0 +1,7 @@
+signId	957
+text	makaroner
+imageUuid	14eec593-b5d7-4d70-abe8-7b723ab690af
+translationKey	146c3c66-b787-44b1-b7eb-37ea7ae2b7f1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/14eec593-b5d7-4d70-abe8-7b723ab690af/146c3c66-b787-44b1-b7eb-37ea7ae2b7f1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/14eec593-b5d7-4d70-abe8-7b723ab690af/146c3c66-b787-44b1-b7eb-37ea7ae2b7f1
+md5	f7539edd4cef3a884cf695b782906fb2

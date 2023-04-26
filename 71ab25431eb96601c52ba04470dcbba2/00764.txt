@@ -1,0 +1,7 @@
+signId	764
+text	kläder
+imageUuid	0df1a96a-d6e4-49e1-b4b9-ac330fdb2301
+translationKey	4db4a1e7-00a3-4a9f-9035-82bd27e44620
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0df1a96a-d6e4-49e1-b4b9-ac330fdb2301/4db4a1e7-00a3-4a9f-9035-82bd27e44620/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0df1a96a-d6e4-49e1-b4b9-ac330fdb2301/4db4a1e7-00a3-4a9f-9035-82bd27e44620
+md5	71ab25431eb96601c52ba04470dcbba2

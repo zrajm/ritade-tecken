@@ -1,0 +1,8 @@
+
+signId	1278
+text	sadel
+imageUuid	209b35ff-80c8-43c1-a1a2-62b6437bcffa
+translationKey	aa45b99b-9441-4acc-afad-033d9d453197
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/209b35ff-80c8-43c1-a1a2-62b6437bcffa/aa45b99b-9441-4acc-afad-033d9d453197/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/209b35ff-80c8-43c1-a1a2-62b6437bcffa/aa45b99b-9441-4acc-afad-033d9d453197
+md5	94875db63d0bda42ded66fe3849d339a

@@ -1,0 +1,7 @@
+signId	374
+text	fisk (mat)
+imageUuid	f7287f77-c7ae-46d9-bb8b-cb6dcb992a8d
+translationKey	94419cb1-3389-49ec-b3b7-0189fffd15d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f7287f77-c7ae-46d9-bb8b-cb6dcb992a8d/94419cb1-3389-49ec-b3b7-0189fffd15d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f7287f77-c7ae-46d9-bb8b-cb6dcb992a8d/94419cb1-3389-49ec-b3b7-0189fffd15d1
+md5	f162df0d4ce315b6e4f058ba1aa3f5c0

@@ -1,0 +1,7 @@
+signId	95
+text	bakåt
+imageUuid	a6b6bcb4-600d-4db0-8534-28d5b7df75da
+translationKey	bc981da9-b8d7-4ed5-b8a0-f1824fa8a6fb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a6b6bcb4-600d-4db0-8534-28d5b7df75da/bc981da9-b8d7-4ed5-b8a0-f1824fa8a6fb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a6b6bcb4-600d-4db0-8534-28d5b7df75da/bc981da9-b8d7-4ed5-b8a0-f1824fa8a6fb
+md5	a511dcac868fd3e8cf8e596109592cf3

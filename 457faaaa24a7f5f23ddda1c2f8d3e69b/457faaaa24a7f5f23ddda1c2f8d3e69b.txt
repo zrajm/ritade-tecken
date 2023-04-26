@@ -1,0 +1,8 @@
+
+signId	1502
+text	studsmatta
+imageUuid	ab6d128b-9739-4551-af84-68f516eb02b3
+translationKey	acaa402a-f3b7-4098-97e8-2f435c891c9d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ab6d128b-9739-4551-af84-68f516eb02b3/acaa402a-f3b7-4098-97e8-2f435c891c9d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ab6d128b-9739-4551-af84-68f516eb02b3/acaa402a-f3b7-4098-97e8-2f435c891c9d
+md5	457faaaa24a7f5f23ddda1c2f8d3e69b

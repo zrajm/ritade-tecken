@@ -1,0 +1,7 @@
+signId	2051
+text	förfärlig
+imageUuid	50161263-9d3b-4349-a1b5-76b402a21247
+translationKey	5d89a6b5-f7ed-4c2f-96a8-e91a50277234
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/50161263-9d3b-4349-a1b5-76b402a21247/5d89a6b5-f7ed-4c2f-96a8-e91a50277234/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/50161263-9d3b-4349-a1b5-76b402a21247/5d89a6b5-f7ed-4c2f-96a8-e91a50277234
+md5	f68e0d99636b2d08e2d191646ebc5157

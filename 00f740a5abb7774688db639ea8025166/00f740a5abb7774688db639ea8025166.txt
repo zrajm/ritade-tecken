@@ -1,0 +1,8 @@
+
+signId	1072
+text	ner för trappan
+imageUuid	ffa79d9d-ae4c-4d0c-83e0-a7c7a0ebe9a1
+translationKey	aefc1538-39f3-426e-a18a-dc3921e2dadf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ffa79d9d-ae4c-4d0c-83e0-a7c7a0ebe9a1/aefc1538-39f3-426e-a18a-dc3921e2dadf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ffa79d9d-ae4c-4d0c-83e0-a7c7a0ebe9a1/aefc1538-39f3-426e-a18a-dc3921e2dadf
+md5	00f740a5abb7774688db639ea8025166

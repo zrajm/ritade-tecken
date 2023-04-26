@@ -1,0 +1,8 @@
+
+signId	231
+text	chaufför
+imageUuid	96110e13-6861-4b07-bd6d-a5b9313d9976
+translationKey	586a13f4-7c0e-4065-aeab-a3d41e3fd524
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/96110e13-6861-4b07-bd6d-a5b9313d9976/586a13f4-7c0e-4065-aeab-a3d41e3fd524/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/96110e13-6861-4b07-bd6d-a5b9313d9976/586a13f4-7c0e-4065-aeab-a3d41e3fd524
+md5	b9f58ddc614ddf8c5316d36848218526

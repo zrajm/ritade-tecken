@@ -1,0 +1,7 @@
+signId	3281
+text	programmera
+imageUuid	cec676ca-338f-4ea3-b159-da308dcb3cc2
+translationKey	ff77210d-c8a3-449d-a8b8-dc951c4682f3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cec676ca-338f-4ea3-b159-da308dcb3cc2/ff77210d-c8a3-449d-a8b8-dc951c4682f3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cec676ca-338f-4ea3-b159-da308dcb3cc2/ff77210d-c8a3-449d-a8b8-dc951c4682f3
+md5	70d510ed0d83aa952fc4f0b6c8c64745

@@ -1,0 +1,8 @@
+
+signId	2403
+text	uppgift
+imageUuid	047618ff-c364-44b4-b732-3757f2f7bd7f
+translationKey	b3526289-ade7-4bdc-ab4c-a70161e72552
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/047618ff-c364-44b4-b732-3757f2f7bd7f/b3526289-ade7-4bdc-ab4c-a70161e72552/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/047618ff-c364-44b4-b732-3757f2f7bd7f/b3526289-ade7-4bdc-ab4c-a70161e72552
+md5	7efd83545e24e140bb66d8bbed608dfe

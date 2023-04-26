@@ -1,0 +1,7 @@
+signId	1996
+text	veterinär
+imageUuid	44ce4f3c-a7dc-463f-a552-2d8080807af1
+translationKey	0ad7a0ec-7321-4763-8452-765380ba7d70
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/44ce4f3c-a7dc-463f-a552-2d8080807af1/0ad7a0ec-7321-4763-8452-765380ba7d70/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/44ce4f3c-a7dc-463f-a552-2d8080807af1/0ad7a0ec-7321-4763-8452-765380ba7d70
+md5	408ceffbee047e0f785d91f88f72fbf2

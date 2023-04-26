@@ -1,0 +1,7 @@
+signId	3172
+text	minister
+imageUuid	0c73a45b-99a0-4bcb-8042-30dc432f62c3
+translationKey	6500f11d-cd6f-4641-b593-d07145c4fa9f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0c73a45b-99a0-4bcb-8042-30dc432f62c3/6500f11d-cd6f-4641-b593-d07145c4fa9f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0c73a45b-99a0-4bcb-8042-30dc432f62c3/6500f11d-cd6f-4641-b593-d07145c4fa9f
+md5	893a6bdeef21fc90be9ad3c387f63866

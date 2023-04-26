@@ -1,0 +1,8 @@
+
+signId	2215
+text	böjda ben
+imageUuid	6637696e-4fe0-45cb-b3d7-b52c561218b7
+translationKey	0be5eb45-0841-425e-b0ce-d23c7c509bd9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6637696e-4fe0-45cb-b3d7-b52c561218b7/0be5eb45-0841-425e-b0ce-d23c7c509bd9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6637696e-4fe0-45cb-b3d7-b52c561218b7/0be5eb45-0841-425e-b0ce-d23c7c509bd9
+md5	ff5f214203b16224488670104ae321c2

@@ -1,0 +1,7 @@
+signId	462
+text	första
+imageUuid	ec2a2acf-2b52-4bc1-854f-5191a4be66dd
+translationKey	59650338-28bb-4a48-b71e-37965c21c018
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ec2a2acf-2b52-4bc1-854f-5191a4be66dd/59650338-28bb-4a48-b71e-37965c21c018/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ec2a2acf-2b52-4bc1-854f-5191a4be66dd/59650338-28bb-4a48-b71e-37965c21c018
+md5	8725b772e32c8b720b8a574d41e058e9

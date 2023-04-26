@@ -1,0 +1,7 @@
+signId	1803
+text	älv
+imageUuid	9fbe624a-358a-4839-b9e0-984cb1560ebb
+translationKey	570ed3a3-8c7d-4297-a5ad-43b42035ab03
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9fbe624a-358a-4839-b9e0-984cb1560ebb/570ed3a3-8c7d-4297-a5ad-43b42035ab03/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9fbe624a-358a-4839-b9e0-984cb1560ebb/570ed3a3-8c7d-4297-a5ad-43b42035ab03
+md5	3bac66cc806aaf4119c333999d912e2c

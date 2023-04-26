@@ -1,0 +1,7 @@
+signId	3217
+text	hinduism
+imageUuid	ee2c603d-0099-42a6-864d-80781c00b8c7
+translationKey	35eff0d8-6d33-4827-b801-3404ed488e38
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ee2c603d-0099-42a6-864d-80781c00b8c7/35eff0d8-6d33-4827-b801-3404ed488e38/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ee2c603d-0099-42a6-864d-80781c00b8c7/35eff0d8-6d33-4827-b801-3404ed488e38
+md5	a3d07f6c13048ab963aac19d230caeb6

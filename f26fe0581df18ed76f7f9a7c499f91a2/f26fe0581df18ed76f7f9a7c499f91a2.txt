@@ -1,0 +1,8 @@
+
+signId	3206
+text	evolution
+imageUuid	b59d3faf-c316-4193-bfca-a060b45d0844
+translationKey	13226640-9b79-4cca-a63a-3bfc94df2d71
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b59d3faf-c316-4193-bfca-a060b45d0844/13226640-9b79-4cca-a63a-3bfc94df2d71/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b59d3faf-c316-4193-bfca-a060b45d0844/13226640-9b79-4cca-a63a-3bfc94df2d71
+md5	f26fe0581df18ed76f7f9a7c499f91a2

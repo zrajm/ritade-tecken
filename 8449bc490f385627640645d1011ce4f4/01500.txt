@@ -1,0 +1,7 @@
+signId	1500
+text	ström
+imageUuid	3d5ded02-073b-44e1-bea1-350c0c62fbe9
+translationKey	f57bcb66-933a-4f2b-bd7e-0e79833399bc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3d5ded02-073b-44e1-bea1-350c0c62fbe9/f57bcb66-933a-4f2b-bd7e-0e79833399bc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3d5ded02-073b-44e1-bea1-350c0c62fbe9/f57bcb66-933a-4f2b-bd7e-0e79833399bc
+md5	8449bc490f385627640645d1011ce4f4

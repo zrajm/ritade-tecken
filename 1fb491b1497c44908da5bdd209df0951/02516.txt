@@ -1,0 +1,7 @@
+signId	2516
+text	blinka (om lampa)
+imageUuid	462f8a3c-c68f-4228-b4b9-2106102203b7
+translationKey	0098f475-fef0-4ad2-ba1e-be6bd1ad4778
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/462f8a3c-c68f-4228-b4b9-2106102203b7/0098f475-fef0-4ad2-ba1e-be6bd1ad4778/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/462f8a3c-c68f-4228-b4b9-2106102203b7/0098f475-fef0-4ad2-ba1e-be6bd1ad4778
+md5	1fb491b1497c44908da5bdd209df0951

@@ -1,0 +1,7 @@
+signId	2069
+text	mugg
+imageUuid	7ee457ab-4b46-4066-ae3d-9fe503636c22
+translationKey	eeb49c8f-cd5e-4f57-bda4-6e68e2529d8c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7ee457ab-4b46-4066-ae3d-9fe503636c22/eeb49c8f-cd5e-4f57-bda4-6e68e2529d8c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7ee457ab-4b46-4066-ae3d-9fe503636c22/eeb49c8f-cd5e-4f57-bda4-6e68e2529d8c
+md5	b8fc2fa68fc907a70f046191c266f36e

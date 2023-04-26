@@ -1,0 +1,7 @@
+signId	245
+text	dagis
+imageUuid	4dcbf904-d586-42fe-b009-bf83a9d7ef68
+translationKey	39707fec-51fb-4c0b-8477-ed72559e1e72
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4dcbf904-d586-42fe-b009-bf83a9d7ef68/39707fec-51fb-4c0b-8477-ed72559e1e72/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4dcbf904-d586-42fe-b009-bf83a9d7ef68/39707fec-51fb-4c0b-8477-ed72559e1e72
+md5	4a02fe79444ed731556bf3cda55a544b

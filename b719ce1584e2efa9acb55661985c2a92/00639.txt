@@ -1,0 +1,7 @@
+signId	639
+text	hög (adjektiv)
+imageUuid	42fda8d6-c955-4f3e-b324-6d3258d2f222
+translationKey	2f1d31e8-1e9b-4f3b-80f4-8c1227c81da3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/42fda8d6-c955-4f3e-b324-6d3258d2f222/2f1d31e8-1e9b-4f3b-80f4-8c1227c81da3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/42fda8d6-c955-4f3e-b324-6d3258d2f222/2f1d31e8-1e9b-4f3b-80f4-8c1227c81da3
+md5	b719ce1584e2efa9acb55661985c2a92

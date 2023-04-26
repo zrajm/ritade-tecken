@@ -1,0 +1,7 @@
+signId	2669
+text	upptäcktsfärd
+imageUuid	dbcfad5d-7e1d-47c8-9a87-973a36a0f281
+translationKey	e458f555-7fba-42b7-a450-c18171bbf992
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dbcfad5d-7e1d-47c8-9a87-973a36a0f281/e458f555-7fba-42b7-a450-c18171bbf992/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dbcfad5d-7e1d-47c8-9a87-973a36a0f281/e458f555-7fba-42b7-a450-c18171bbf992
+md5	15b49576833225390b5c8b4af56248b7

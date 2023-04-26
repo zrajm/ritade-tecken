@@ -1,0 +1,7 @@
+signId	3005
+text	krok
+imageUuid	bef69511-5d7e-4867-a5e7-ceef6e654950
+translationKey	b0e4cab0-7cba-4191-b39b-987113f5167e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bef69511-5d7e-4867-a5e7-ceef6e654950/b0e4cab0-7cba-4191-b39b-987113f5167e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bef69511-5d7e-4867-a5e7-ceef6e654950/b0e4cab0-7cba-4191-b39b-987113f5167e
+md5	851ef243f98b6123a497545e84c6d302

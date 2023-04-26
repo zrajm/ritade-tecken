@@ -1,0 +1,7 @@
+signId	2339
+text	historia
+imageUuid	135330f0-098a-49b4-9951-09fa1726c4b3
+translationKey	e701abbe-7885-4a01-87b4-40735701cb42
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/135330f0-098a-49b4-9951-09fa1726c4b3/e701abbe-7885-4a01-87b4-40735701cb42/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/135330f0-098a-49b4-9951-09fa1726c4b3/e701abbe-7885-4a01-87b4-40735701cb42
+md5	6064f14d181ee9731ead52fbe3137ffb

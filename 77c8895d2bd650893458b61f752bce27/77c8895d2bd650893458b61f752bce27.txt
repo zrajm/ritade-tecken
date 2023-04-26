@@ -1,0 +1,8 @@
+
+signId	3315
+text	koloni
+imageUuid	6b46107b-0514-4440-8727-728b59038f1b
+translationKey	cfaf8e68-7a61-4953-a174-b4cc7772fb1b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b46107b-0514-4440-8727-728b59038f1b/cfaf8e68-7a61-4953-a174-b4cc7772fb1b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b46107b-0514-4440-8727-728b59038f1b/cfaf8e68-7a61-4953-a174-b4cc7772fb1b
+md5	77c8895d2bd650893458b61f752bce27

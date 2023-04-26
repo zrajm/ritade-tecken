@@ -1,0 +1,7 @@
+signId	2760
+text	hjortron
+imageUuid	8e8bd741-eab0-445c-bc6a-d088d4aa36d9
+translationKey	3d31b957-9dff-4724-b6d5-5999cb7d5c13
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8e8bd741-eab0-445c-bc6a-d088d4aa36d9/3d31b957-9dff-4724-b6d5-5999cb7d5c13/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8e8bd741-eab0-445c-bc6a-d088d4aa36d9/3d31b957-9dff-4724-b6d5-5999cb7d5c13
+md5	117f4163c12cf4ea52b52a1976f4d966

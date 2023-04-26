@@ -1,0 +1,7 @@
+signId	2117
+text	hålla riktningen
+imageUuid	22221a89-c610-460a-997d-a1fc4f7af5fc
+translationKey	5b8cfbd8-9c1c-4a8b-862e-7554100b879d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/22221a89-c610-460a-997d-a1fc4f7af5fc/5b8cfbd8-9c1c-4a8b-862e-7554100b879d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/22221a89-c610-460a-997d-a1fc4f7af5fc/5b8cfbd8-9c1c-4a8b-862e-7554100b879d
+md5	1ff962d89b45768548f52a183bf05d2f

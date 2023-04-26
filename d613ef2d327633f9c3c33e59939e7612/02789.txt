@@ -1,0 +1,7 @@
+signId	2789
+text	kondom
+imageUuid	8a36a197-bbf7-4056-8012-6dc0fc7f2d48
+translationKey	f4e2e1e3-eb1a-40ee-b02e-83667a63b65f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8a36a197-bbf7-4056-8012-6dc0fc7f2d48/f4e2e1e3-eb1a-40ee-b02e-83667a63b65f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8a36a197-bbf7-4056-8012-6dc0fc7f2d48/f4e2e1e3-eb1a-40ee-b02e-83667a63b65f
+md5	d613ef2d327633f9c3c33e59939e7612

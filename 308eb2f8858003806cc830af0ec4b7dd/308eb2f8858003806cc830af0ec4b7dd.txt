@@ -1,0 +1,8 @@
+
+signId	2321
+text	centerpartiet
+imageUuid	18e26fa1-13d6-4cbb-a520-54faae7f08a5
+translationKey	46304db3-f1f4-4810-8c20-e21cb37a42d6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/18e26fa1-13d6-4cbb-a520-54faae7f08a5/46304db3-f1f4-4810-8c20-e21cb37a42d6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/18e26fa1-13d6-4cbb-a520-54faae7f08a5/46304db3-f1f4-4810-8c20-e21cb37a42d6
+md5	308eb2f8858003806cc830af0ec4b7dd

@@ -1,0 +1,16 @@
+
+signId	1000
+text	mittemot
+imageUuid	722a44a5-f8b5-4111-aecd-a16312c09fda
+translationKey	bee16e3b-8bda-463e-afbc-3627e0e398f4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/722a44a5-f8b5-4111-aecd-a16312c09fda/bee16e3b-8bda-463e-afbc-3627e0e398f4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/722a44a5-f8b5-4111-aecd-a16312c09fda/bee16e3b-8bda-463e-afbc-3627e0e398f4
+md5	ab22ba999f18a8aff340c447a76407dc
+
+signId	1017
+text	mot
+imageUuid	b792a039-fc5b-4bda-b556-6710962008bc
+translationKey	e6b95d7a-f1e6-490f-b019-951d4d7c8aee
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b792a039-fc5b-4bda-b556-6710962008bc/e6b95d7a-f1e6-490f-b019-951d4d7c8aee/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b792a039-fc5b-4bda-b556-6710962008bc/e6b95d7a-f1e6-490f-b019-951d4d7c8aee
+md5	ab22ba999f18a8aff340c447a76407dc

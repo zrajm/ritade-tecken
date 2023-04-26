@@ -1,0 +1,7 @@
+signId	968
+text	matematik
+imageUuid	8c1d4b71-4fa2-4235-b4a7-febb8cc171f7
+translationKey	65823f46-8ddc-46dd-9d8a-ca4e49d626fc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c1d4b71-4fa2-4235-b4a7-febb8cc171f7/65823f46-8ddc-46dd-9d8a-ca4e49d626fc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c1d4b71-4fa2-4235-b4a7-febb8cc171f7/65823f46-8ddc-46dd-9d8a-ca4e49d626fc
+md5	8a587badca1188fad012928082ea8427

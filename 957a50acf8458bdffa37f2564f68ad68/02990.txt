@@ -1,0 +1,7 @@
+signId	2990
+text	dagar
+imageUuid	4e3458ba-dcb6-4895-b692-9b9fa2f5f853
+translationKey	47a2cbe2-13ca-4956-a7ad-42d1b0b1442d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e3458ba-dcb6-4895-b692-9b9fa2f5f853/47a2cbe2-13ca-4956-a7ad-42d1b0b1442d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e3458ba-dcb6-4895-b692-9b9fa2f5f853/47a2cbe2-13ca-4956-a7ad-42d1b0b1442d
+md5	957a50acf8458bdffa37f2564f68ad68

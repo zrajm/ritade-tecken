@@ -1,0 +1,7 @@
+signId	1726
+text	videokamera
+imageUuid	adf86ae6-f857-46b1-b7d5-ab7ce869efd0
+translationKey	63368374-e5da-4a20-b181-3d1ae3cb30a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/adf86ae6-f857-46b1-b7d5-ab7ce869efd0/63368374-e5da-4a20-b181-3d1ae3cb30a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/adf86ae6-f857-46b1-b7d5-ab7ce869efd0/63368374-e5da-4a20-b181-3d1ae3cb30a4
+md5	618764add800f3f26bc42404072fa2e7

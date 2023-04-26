@@ -1,0 +1,8 @@
+
+signId	1447
+text	spela sällskapsspel
+imageUuid	44eea88b-83c0-4a80-beea-9c42e12ce78e
+translationKey	fcdbe5d0-4c20-497b-b2fd-d8b3747b56b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/44eea88b-83c0-4a80-beea-9c42e12ce78e/fcdbe5d0-4c20-497b-b2fd-d8b3747b56b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/44eea88b-83c0-4a80-beea-9c42e12ce78e/fcdbe5d0-4c20-497b-b2fd-d8b3747b56b4
+md5	8d5fd0d06465a314ee5fcd83281053f7

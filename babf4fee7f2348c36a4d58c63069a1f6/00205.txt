@@ -1,0 +1,7 @@
+signId	205
+text	busig
+imageUuid	5e156a7f-74b7-4e2c-8cfe-b865b91e0f3d
+translationKey	99f984e0-22be-4997-a960-7d01d3c0c63c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e156a7f-74b7-4e2c-8cfe-b865b91e0f3d/99f984e0-22be-4997-a960-7d01d3c0c63c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e156a7f-74b7-4e2c-8cfe-b865b91e0f3d/99f984e0-22be-4997-a960-7d01d3c0c63c
+md5	babf4fee7f2348c36a4d58c63069a1f6

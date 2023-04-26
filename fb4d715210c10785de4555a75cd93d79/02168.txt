@@ -1,0 +1,7 @@
+signId	2168
+text	datorspel
+imageUuid	6413dfb4-927a-4629-9e07-3bc123c6ea36
+translationKey	55198d5a-6a9a-4e12-9854-22869c53cb8f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6413dfb4-927a-4629-9e07-3bc123c6ea36/55198d5a-6a9a-4e12-9854-22869c53cb8f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6413dfb4-927a-4629-9e07-3bc123c6ea36/55198d5a-6a9a-4e12-9854-22869c53cb8f
+md5	fb4d715210c10785de4555a75cd93d79

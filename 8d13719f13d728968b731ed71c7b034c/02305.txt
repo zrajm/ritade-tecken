@@ -1,0 +1,7 @@
+signId	2305
+text	sugrör
+imageUuid	98070753-2077-4de3-acb4-6d2a119e591c
+translationKey	5b372924-50ab-4381-bc0f-529d0213d5dc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/98070753-2077-4de3-acb4-6d2a119e591c/5b372924-50ab-4381-bc0f-529d0213d5dc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/98070753-2077-4de3-acb4-6d2a119e591c/5b372924-50ab-4381-bc0f-529d0213d5dc
+md5	8d13719f13d728968b731ed71c7b034c

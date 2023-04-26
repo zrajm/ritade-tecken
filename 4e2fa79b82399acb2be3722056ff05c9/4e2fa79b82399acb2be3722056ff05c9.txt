@@ -1,0 +1,8 @@
+
+signId	2324
+text	datormus
+imageUuid	d01b4b6a-98dc-4ec4-ba7e-0e7b72065363
+translationKey	f6e1649d-c81a-41a9-b230-9804ee362245
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d01b4b6a-98dc-4ec4-ba7e-0e7b72065363/f6e1649d-c81a-41a9-b230-9804ee362245/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d01b4b6a-98dc-4ec4-ba7e-0e7b72065363/f6e1649d-c81a-41a9-b230-9804ee362245
+md5	4e2fa79b82399acb2be3722056ff05c9

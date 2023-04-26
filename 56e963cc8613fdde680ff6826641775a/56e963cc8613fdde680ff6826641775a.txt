@@ -1,0 +1,8 @@
+
+signId	2398
+text	stig
+imageUuid	bca63c18-9440-4986-bdab-20d73d478f69
+translationKey	b43485e0-6bef-4385-ba98-cdc4dda7587a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bca63c18-9440-4986-bdab-20d73d478f69/b43485e0-6bef-4385-ba98-cdc4dda7587a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bca63c18-9440-4986-bdab-20d73d478f69/b43485e0-6bef-4385-ba98-cdc4dda7587a
+md5	56e963cc8613fdde680ff6826641775a

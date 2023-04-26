@@ -1,0 +1,7 @@
+signId	248
+text	dammsuga
+imageUuid	1e61da00-bc6a-427e-a218-38bb155c60fd
+translationKey	b7c18939-ec27-46ce-afc0-4aa41944cad1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1e61da00-bc6a-427e-a218-38bb155c60fd/b7c18939-ec27-46ce-afc0-4aa41944cad1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1e61da00-bc6a-427e-a218-38bb155c60fd/b7c18939-ec27-46ce-afc0-4aa41944cad1
+md5	3e62400528de281aed971f5c765c3f82

@@ -1,0 +1,8 @@
+
+signId	2059
+text	klassrum
+imageUuid	359ec7dc-ebf3-4b1d-b2d4-4ec82ee3ee2c
+translationKey	248b6fd2-a819-4799-81a3-76f5349a93a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/359ec7dc-ebf3-4b1d-b2d4-4ec82ee3ee2c/248b6fd2-a819-4799-81a3-76f5349a93a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/359ec7dc-ebf3-4b1d-b2d4-4ec82ee3ee2c/248b6fd2-a819-4799-81a3-76f5349a93a4
+md5	fb0479168751dd311b64d4d827516cf7

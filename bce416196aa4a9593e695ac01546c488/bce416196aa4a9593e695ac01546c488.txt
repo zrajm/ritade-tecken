@@ -1,0 +1,8 @@
+
+signId	2737
+text	svälja 2
+imageUuid	a7f21ad3-b201-439e-9c91-86c252a603fc
+translationKey	e1cd5a1f-294e-48c9-bcde-dba61e3450be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a7f21ad3-b201-439e-9c91-86c252a603fc/e1cd5a1f-294e-48c9-bcde-dba61e3450be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a7f21ad3-b201-439e-9c91-86c252a603fc/e1cd5a1f-294e-48c9-bcde-dba61e3450be
+md5	bce416196aa4a9593e695ac01546c488

@@ -1,0 +1,8 @@
+
+signId	391
+text	fläsk
+imageUuid	ad6aad44-a7a4-4b6f-a659-6638b4fb77cb
+translationKey	c4d6d5c3-f1f2-49a8-ac25-319de804c440
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ad6aad44-a7a4-4b6f-a659-6638b4fb77cb/c4d6d5c3-f1f2-49a8-ac25-319de804c440/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ad6aad44-a7a4-4b6f-a659-6638b4fb77cb/c4d6d5c3-f1f2-49a8-ac25-319de804c440
+md5	6e67f73b8de9e1888aa0ea3a8a4bc6ea

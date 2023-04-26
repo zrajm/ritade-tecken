@@ -1,0 +1,7 @@
+signId	266
+text	din tur
+imageUuid	412c5076-f42e-4005-b8f2-7f3d409e3ff4
+translationKey	b532c131-1eb6-46a8-8ad1-1cd7ac12fa9d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/412c5076-f42e-4005-b8f2-7f3d409e3ff4/b532c131-1eb6-46a8-8ad1-1cd7ac12fa9d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/412c5076-f42e-4005-b8f2-7f3d409e3ff4/b532c131-1eb6-46a8-8ad1-1cd7ac12fa9d
+md5	5bbdde0bc8cc20ebceb889644f111ad1

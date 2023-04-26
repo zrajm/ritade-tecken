@@ -1,0 +1,7 @@
+signId	1098
+text	nöje
+imageUuid	1a6887b4-80a4-4947-93de-0d1c90ad38ff
+translationKey	3d74ecad-7b22-408f-80cb-6f752c9dc109
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1a6887b4-80a4-4947-93de-0d1c90ad38ff/3d74ecad-7b22-408f-80cb-6f752c9dc109/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1a6887b4-80a4-4947-93de-0d1c90ad38ff/3d74ecad-7b22-408f-80cb-6f752c9dc109
+md5	9b568c4883fa6953401f689f605a288b

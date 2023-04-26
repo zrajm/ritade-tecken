@@ -1,0 +1,8 @@
+
+signId	3386
+text	dygn
+imageUuid	f4f23af0-6e4e-466b-b143-50f6db48debb
+translationKey	e9983f2c-0e17-47dc-b656-dfdcd2dd06b3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f4f23af0-6e4e-466b-b143-50f6db48debb/e9983f2c-0e17-47dc-b656-dfdcd2dd06b3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f4f23af0-6e4e-466b-b143-50f6db48debb/e9983f2c-0e17-47dc-b656-dfdcd2dd06b3
+md5	956110933bae1e32d1f6e7071dc16938

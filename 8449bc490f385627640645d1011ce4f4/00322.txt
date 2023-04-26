@@ -1,0 +1,7 @@
+signId	322
+text	elektricitet
+imageUuid	978cf0a3-83f3-4377-ae14-d71dc3664e98
+translationKey	a9622220-9b50-4e98-8ab7-5aae13f999ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/978cf0a3-83f3-4377-ae14-d71dc3664e98/a9622220-9b50-4e98-8ab7-5aae13f999ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/978cf0a3-83f3-4377-ae14-d71dc3664e98/a9622220-9b50-4e98-8ab7-5aae13f999ab
+md5	8449bc490f385627640645d1011ce4f4

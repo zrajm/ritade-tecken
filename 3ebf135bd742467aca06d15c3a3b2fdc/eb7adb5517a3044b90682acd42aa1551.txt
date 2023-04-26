@@ -1,0 +1,8 @@
+
+signId	1039
+text	mål
+imageUuid	404e06d8-8378-4e03-8cbe-a09d7e2302c0
+translationKey	e9fc0d61-f2d2-47f2-b503-6c91638c3ee9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/404e06d8-8378-4e03-8cbe-a09d7e2302c0/e9fc0d61-f2d2-47f2-b503-6c91638c3ee9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/404e06d8-8378-4e03-8cbe-a09d7e2302c0/e9fc0d61-f2d2-47f2-b503-6c91638c3ee9
+md5	eb7adb5517a3044b90682acd42aa1551

@@ -1,0 +1,7 @@
+signId	1885
+text	semifinal
+imageUuid	9651277c-bb93-4d6a-8686-dfedb987e3e3
+translationKey	794c5737-9b5f-45c3-b5d4-e5f5b206ea03
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9651277c-bb93-4d6a-8686-dfedb987e3e3/794c5737-9b5f-45c3-b5d4-e5f5b206ea03/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9651277c-bb93-4d6a-8686-dfedb987e3e3/794c5737-9b5f-45c3-b5d4-e5f5b206ea03
+md5	e713b1fdb54db077318a00d77a5165ae

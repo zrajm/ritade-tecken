@@ -1,0 +1,7 @@
+signId	516
+text	gräs
+imageUuid	9fb350a9-a78b-492e-a50e-a48c6dbc03cc
+translationKey	48d72afd-a254-4c83-be5d-0c2ab50b18b2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9fb350a9-a78b-492e-a50e-a48c6dbc03cc/48d72afd-a254-4c83-be5d-0c2ab50b18b2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9fb350a9-a78b-492e-a50e-a48c6dbc03cc/48d72afd-a254-4c83-be5d-0c2ab50b18b2
+md5	c6b9b42e71745432e715d65187fae8bc

@@ -1,0 +1,24 @@
+
+signId	1718
+text	vem
+imageUuid	fff2ac61-162d-4e3a-ae94-72ec227fa235
+translationKey	30971232-c879-4aca-9865-4ceb17d364d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fff2ac61-162d-4e3a-ae94-72ec227fa235/30971232-c879-4aca-9865-4ceb17d364d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fff2ac61-162d-4e3a-ae94-72ec227fa235/30971232-c879-4aca-9865-4ceb17d364d3
+md5	aef434045966ffea99a788f047c7a492
+
+signId	1730
+text	vilka
+imageUuid	8a15e2ed-b017-4504-846c-e4151169b4af
+translationKey	0158f5fd-fbb5-47aa-9688-b8869b3005c7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8a15e2ed-b017-4504-846c-e4151169b4af/0158f5fd-fbb5-47aa-9688-b8869b3005c7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8a15e2ed-b017-4504-846c-e4151169b4af/0158f5fd-fbb5-47aa-9688-b8869b3005c7
+md5	aef434045966ffea99a788f047c7a492
+
+signId	1731
+text	vilken
+imageUuid	f027d057-e877-451f-bd0a-5dd6d906ad2a
+translationKey	583f67aa-851c-4147-b1f7-ff5037172af5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f027d057-e877-451f-bd0a-5dd6d906ad2a/583f67aa-851c-4147-b1f7-ff5037172af5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f027d057-e877-451f-bd0a-5dd6d906ad2a/583f67aa-851c-4147-b1f7-ff5037172af5
+md5	aef434045966ffea99a788f047c7a492

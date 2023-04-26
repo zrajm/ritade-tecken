@@ -1,0 +1,7 @@
+signId	3132
+text	röstlängd
+imageUuid	a09db845-e7b2-442f-b5da-53cb88a27352
+translationKey	5a571a91-d8d7-440e-8be2-07ca8c3718c1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a09db845-e7b2-442f-b5da-53cb88a27352/5a571a91-d8d7-440e-8be2-07ca8c3718c1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a09db845-e7b2-442f-b5da-53cb88a27352/5a571a91-d8d7-440e-8be2-07ca8c3718c1
+md5	b0376ced7c5876e87a566b9d5c61a8f1

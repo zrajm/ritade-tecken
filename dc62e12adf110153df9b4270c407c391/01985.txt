@@ -1,0 +1,7 @@
+signId	1985
+text	dinosaurie 1
+imageUuid	bd8df93d-0865-418a-87da-8fa063c06d46
+translationKey	1bdef03d-f854-4114-81d7-ff5cbc71567f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bd8df93d-0865-418a-87da-8fa063c06d46/1bdef03d-f854-4114-81d7-ff5cbc71567f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bd8df93d-0865-418a-87da-8fa063c06d46/1bdef03d-f854-4114-81d7-ff5cbc71567f
+md5	dc62e12adf110153df9b4270c407c391

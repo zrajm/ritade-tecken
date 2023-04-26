@@ -1,0 +1,7 @@
+signId	1707
+text	varg
+imageUuid	9f31eafc-2108-468a-b4a3-7e01018000f5
+translationKey	a2aeafa9-84c3-4aca-9914-26dcd6353112
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9f31eafc-2108-468a-b4a3-7e01018000f5/a2aeafa9-84c3-4aca-9914-26dcd6353112/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9f31eafc-2108-468a-b4a3-7e01018000f5/a2aeafa9-84c3-4aca-9914-26dcd6353112
+md5	810a05131ffd4b5b1e4dca7a68654307

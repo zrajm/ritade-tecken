@@ -1,0 +1,8 @@
+
+signId	1995
+text	vas
+imageUuid	eb81d54b-8c2c-4040-8b6e-5060ed332609
+translationKey	5baf103a-7cfd-4b18-9e63-d40af16f9811
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eb81d54b-8c2c-4040-8b6e-5060ed332609/5baf103a-7cfd-4b18-9e63-d40af16f9811/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eb81d54b-8c2c-4040-8b6e-5060ed332609/5baf103a-7cfd-4b18-9e63-d40af16f9811
+md5	78f073960498d09bde159e24c4bddfb7

@@ -1,0 +1,7 @@
+signId	1135
+text	pannkaka
+imageUuid	9d3f0504-8e8a-414b-8f56-00f3538eacc0
+translationKey	d4fd394b-560d-49eb-8200-5fbaa0f1c6e6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9d3f0504-8e8a-414b-8f56-00f3538eacc0/d4fd394b-560d-49eb-8200-5fbaa0f1c6e6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9d3f0504-8e8a-414b-8f56-00f3538eacc0/d4fd394b-560d-49eb-8200-5fbaa0f1c6e6
+md5	026b8effde05235f1630f457f42d603b

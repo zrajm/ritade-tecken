@@ -1,0 +1,7 @@
+signId	456
+text	förråd
+imageUuid	6b464888-148b-4a84-b89e-55d188cead43
+translationKey	727706f3-5c64-45fd-bf12-8bddae1fdcf3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b464888-148b-4a84-b89e-55d188cead43/727706f3-5c64-45fd-bf12-8bddae1fdcf3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b464888-148b-4a84-b89e-55d188cead43/727706f3-5c64-45fd-bf12-8bddae1fdcf3
+md5	79b8cdd6ad6e76c5c8a61245fb955508

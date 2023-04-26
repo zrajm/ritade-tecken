@@ -1,0 +1,7 @@
+signId	549
+text	H (bokstav)
+imageUuid	e55f7a23-d2ec-4c71-9251-56b4807947ba
+translationKey	e9918f58-305c-45d8-8985-7f2254569c7e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e55f7a23-d2ec-4c71-9251-56b4807947ba/e9918f58-305c-45d8-8985-7f2254569c7e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e55f7a23-d2ec-4c71-9251-56b4807947ba/e9918f58-305c-45d8-8985-7f2254569c7e
+md5	4588c4fe7c5c469b407057fb6fb80414

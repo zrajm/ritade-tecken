@@ -1,0 +1,8 @@
+
+signId	2169
+text	e-postadress
+imageUuid	a0db9a8a-f30c-43b3-bf32-b69b47415637
+translationKey	12efbc89-6893-44aa-b719-efb01190e4fb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0db9a8a-f30c-43b3-bf32-b69b47415637/12efbc89-6893-44aa-b719-efb01190e4fb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0db9a8a-f30c-43b3-bf32-b69b47415637/12efbc89-6893-44aa-b719-efb01190e4fb
+md5	2169ee19889e054fe6da3e0a4e394f66

@@ -1,0 +1,8 @@
+
+signId	1555
+text	tack
+imageUuid	792eb793-885d-40ec-bd43-8f5df961c5a4
+translationKey	e1e0b2b8-5cc1-4d4e-ae9a-126f19a2838f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/792eb793-885d-40ec-bd43-8f5df961c5a4/e1e0b2b8-5cc1-4d4e-ae9a-126f19a2838f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/792eb793-885d-40ec-bd43-8f5df961c5a4/e1e0b2b8-5cc1-4d4e-ae9a-126f19a2838f
+md5	a1240252ddcb9b5b06a50105f65fb851

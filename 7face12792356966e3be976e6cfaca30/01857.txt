@@ -1,0 +1,7 @@
+signId	1857
+text	nyhet
+imageUuid	645b5460-b27f-411e-be3a-b742cdf8591c
+translationKey	84884352-7cfa-4b66-80a6-af06a950bee6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/645b5460-b27f-411e-be3a-b742cdf8591c/84884352-7cfa-4b66-80a6-af06a950bee6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/645b5460-b27f-411e-be3a-b742cdf8591c/84884352-7cfa-4b66-80a6-af06a950bee6
+md5	7face12792356966e3be976e6cfaca30

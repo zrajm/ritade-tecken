@@ -1,0 +1,7 @@
+signId	3107
+text	sanktioner
+imageUuid	543875b5-6830-42a8-a7de-87c7e4986f86
+translationKey	7317ce65-9bc6-4660-9866-9b28496c66f7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/543875b5-6830-42a8-a7de-87c7e4986f86/7317ce65-9bc6-4660-9866-9b28496c66f7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/543875b5-6830-42a8-a7de-87c7e4986f86/7317ce65-9bc6-4660-9866-9b28496c66f7
+md5	5112346b1061c105bcf91b4eeb8e59e3

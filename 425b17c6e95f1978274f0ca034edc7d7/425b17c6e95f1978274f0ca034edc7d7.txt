@@ -1,0 +1,8 @@
+
+signId	403
+text	fredag
+imageUuid	2c6b3297-2c3b-42a6-b24d-ab2365201da9
+translationKey	574ebc60-4107-4c05-9ba5-a4d8025423d5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2c6b3297-2c3b-42a6-b24d-ab2365201da9/574ebc60-4107-4c05-9ba5-a4d8025423d5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2c6b3297-2c3b-42a6-b24d-ab2365201da9/574ebc60-4107-4c05-9ba5-a4d8025423d5
+md5	425b17c6e95f1978274f0ca034edc7d7

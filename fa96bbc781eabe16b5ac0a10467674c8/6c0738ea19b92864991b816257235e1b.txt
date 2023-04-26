@@ -1,0 +1,8 @@
+
+signId	2496
+text	överkast
+imageUuid	457c3a1f-c289-405e-82cc-2d9451549cb9
+translationKey	9e58f8f3-4db6-45ea-b150-5cf96da65ce3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/457c3a1f-c289-405e-82cc-2d9451549cb9/9e58f8f3-4db6-45ea-b150-5cf96da65ce3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/457c3a1f-c289-405e-82cc-2d9451549cb9/9e58f8f3-4db6-45ea-b150-5cf96da65ce3
+md5	6c0738ea19b92864991b816257235e1b

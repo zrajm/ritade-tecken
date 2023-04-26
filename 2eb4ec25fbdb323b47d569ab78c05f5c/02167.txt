@@ -1,0 +1,7 @@
+signId	2167
+text	chips 2
+imageUuid	55538f07-efff-44b0-9b36-a06aa347e81d
+translationKey	94805522-2722-4c2d-80e6-88989255d919
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/55538f07-efff-44b0-9b36-a06aa347e81d/94805522-2722-4c2d-80e6-88989255d919/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/55538f07-efff-44b0-9b36-a06aa347e81d/94805522-2722-4c2d-80e6-88989255d919
+md5	2eb4ec25fbdb323b47d569ab78c05f5c

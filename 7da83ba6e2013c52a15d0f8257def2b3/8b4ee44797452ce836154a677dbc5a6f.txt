@@ -1,0 +1,8 @@
+
+signId	598
+text	hjort
+imageUuid	2bdee279-3090-43ac-9c7f-c4a9347fd7a1
+translationKey	066f8293-5b9c-4258-8d69-2ebb9e80cf4e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2bdee279-3090-43ac-9c7f-c4a9347fd7a1/066f8293-5b9c-4258-8d69-2ebb9e80cf4e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2bdee279-3090-43ac-9c7f-c4a9347fd7a1/066f8293-5b9c-4258-8d69-2ebb9e80cf4e
+md5	8b4ee44797452ce836154a677dbc5a6f

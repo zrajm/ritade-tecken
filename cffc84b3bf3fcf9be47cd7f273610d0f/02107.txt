@@ -1,0 +1,7 @@
+signId	2107
+text	fel 2
+imageUuid	8d60e3f8-1c54-42e9-b085-606afa63e7d5
+translationKey	e612a493-4119-4f77-a76d-1ed6566aa236
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8d60e3f8-1c54-42e9-b085-606afa63e7d5/e612a493-4119-4f77-a76d-1ed6566aa236/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8d60e3f8-1c54-42e9-b085-606afa63e7d5/e612a493-4119-4f77-a76d-1ed6566aa236
+md5	cffc84b3bf3fcf9be47cd7f273610d0f

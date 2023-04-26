@@ -1,0 +1,7 @@
+signId	1627
+text	trädgård
+imageUuid	554bbe10-e001-434b-816d-a6dbfabbdf23
+translationKey	260f584e-ca4f-4c37-8568-75aa777248ce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/554bbe10-e001-434b-816d-a6dbfabbdf23/260f584e-ca4f-4c37-8568-75aa777248ce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/554bbe10-e001-434b-816d-a6dbfabbdf23/260f584e-ca4f-4c37-8568-75aa777248ce
+md5	ff99ffb6974e9b82232c6c9b0e9edfda

@@ -1,0 +1,7 @@
+signId	1610
+text	trav
+imageUuid	838de49f-6705-4f41-97d6-fe7c95aa8a6a
+translationKey	f142bdc1-7e0d-4c7e-8fb2-53fca8d48a61
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/838de49f-6705-4f41-97d6-fe7c95aa8a6a/f142bdc1-7e0d-4c7e-8fb2-53fca8d48a61/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/838de49f-6705-4f41-97d6-fe7c95aa8a6a/f142bdc1-7e0d-4c7e-8fb2-53fca8d48a61
+md5	dbad204bd6532ac84f8a065430950ea4

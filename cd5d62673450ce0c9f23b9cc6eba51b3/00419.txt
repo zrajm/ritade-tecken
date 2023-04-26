@@ -1,0 +1,7 @@
+signId	419
+text	ful
+imageUuid	f2fa6598-9885-4ea8-9ad6-9a7e357808c1
+translationKey	83754ece-3f6c-4b90-8d2c-296a42bed97e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f2fa6598-9885-4ea8-9ad6-9a7e357808c1/83754ece-3f6c-4b90-8d2c-296a42bed97e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f2fa6598-9885-4ea8-9ad6-9a7e357808c1/83754ece-3f6c-4b90-8d2c-296a42bed97e
+md5	cd5d62673450ce0c9f23b9cc6eba51b3

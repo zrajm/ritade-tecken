@@ -1,0 +1,8 @@
+
+signId	1783
+text	Å (bokstav)
+imageUuid	498f8329-2d4a-49c5-88ad-3d17c45c94ab
+translationKey	a3f7c15a-d134-49da-8d15-8ca0a3d7d913
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/498f8329-2d4a-49c5-88ad-3d17c45c94ab/a3f7c15a-d134-49da-8d15-8ca0a3d7d913/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/498f8329-2d4a-49c5-88ad-3d17c45c94ab/a3f7c15a-d134-49da-8d15-8ca0a3d7d913
+md5	265de555ad90e6a7688f978a2d99b759

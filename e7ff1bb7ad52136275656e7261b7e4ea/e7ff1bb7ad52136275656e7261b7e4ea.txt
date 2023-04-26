@@ -1,0 +1,8 @@
+
+signId	3326
+text	metafor
+imageUuid	7f779a48-b56b-4da2-8537-75f7a2ef5b74
+translationKey	cdcb01df-febb-4ba6-91f2-b687f9528f8c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7f779a48-b56b-4da2-8537-75f7a2ef5b74/cdcb01df-febb-4ba6-91f2-b687f9528f8c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7f779a48-b56b-4da2-8537-75f7a2ef5b74/cdcb01df-febb-4ba6-91f2-b687f9528f8c
+md5	e7ff1bb7ad52136275656e7261b7e4ea

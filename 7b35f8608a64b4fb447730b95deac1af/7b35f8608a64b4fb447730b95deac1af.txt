@@ -1,0 +1,8 @@
+
+signId	1887
+text	upptäcka 2
+imageUuid	b2946f5e-b298-4c4f-a0f8-437989ce3b76
+translationKey	630196ac-21d8-4b1e-932b-0b217e1ba9b0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b2946f5e-b298-4c4f-a0f8-437989ce3b76/630196ac-21d8-4b1e-932b-0b217e1ba9b0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b2946f5e-b298-4c4f-a0f8-437989ce3b76/630196ac-21d8-4b1e-932b-0b217e1ba9b0
+md5	7b35f8608a64b4fb447730b95deac1af

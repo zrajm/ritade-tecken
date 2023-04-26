@@ -1,0 +1,8 @@
+
+signId	101
+text	bank
+imageUuid	e24b7b2d-12e6-4144-8ae0-1a5536ba91d0
+translationKey	0381b06f-7744-47fd-9a40-5c2547f75110
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e24b7b2d-12e6-4144-8ae0-1a5536ba91d0/0381b06f-7744-47fd-9a40-5c2547f75110/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e24b7b2d-12e6-4144-8ae0-1a5536ba91d0/0381b06f-7744-47fd-9a40-5c2547f75110
+md5	b59b0cba615ab7c171669ac61965f67f

@@ -1,0 +1,8 @@
+
+signId	2685
+text	pendeltåg
+imageUuid	78880079-20e2-4751-b6aa-3cd96870c624
+translationKey	0a960ed4-d726-4351-a852-99407122e4f9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/78880079-20e2-4751-b6aa-3cd96870c624/0a960ed4-d726-4351-a852-99407122e4f9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/78880079-20e2-4751-b6aa-3cd96870c624/0a960ed4-d726-4351-a852-99407122e4f9
+md5	5a0583d395087d3f6e94a90c8e00f53b

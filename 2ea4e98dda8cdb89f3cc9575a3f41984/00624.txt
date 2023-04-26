@@ -1,0 +1,7 @@
+signId	624
+text	hård
+imageUuid	bca5efb1-e7b4-42fe-9e23-d6ddd5015a37
+translationKey	1898447c-21a8-4355-9c4c-22b0f4d99523
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bca5efb1-e7b4-42fe-9e23-d6ddd5015a37/1898447c-21a8-4355-9c4c-22b0f4d99523/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bca5efb1-e7b4-42fe-9e23-d6ddd5015a37/1898447c-21a8-4355-9c4c-22b0f4d99523
+md5	2ea4e98dda8cdb89f3cc9575a3f41984

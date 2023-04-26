@@ -1,0 +1,7 @@
+signId	3204
+text	ekvation (matematik)
+imageUuid	54929cbf-a81d-40af-a349-2dde41d0e5f0
+translationKey	b6ac6705-edea-4897-9e5c-977f358e01af
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/54929cbf-a81d-40af-a349-2dde41d0e5f0/b6ac6705-edea-4897-9e5c-977f358e01af/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/54929cbf-a81d-40af-a349-2dde41d0e5f0/b6ac6705-edea-4897-9e5c-977f358e01af
+md5	d0ec8f97274e75c26fe94a7e826a7a32

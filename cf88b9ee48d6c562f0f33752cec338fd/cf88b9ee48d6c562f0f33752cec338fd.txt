@@ -1,0 +1,8 @@
+
+signId	2293
+text	pilot
+imageUuid	3cd36a80-cb17-4b3a-8ac0-0cb482d8ed67
+translationKey	6ac10a4f-64ab-411c-8fda-0b31f260f9c1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3cd36a80-cb17-4b3a-8ac0-0cb482d8ed67/6ac10a4f-64ab-411c-8fda-0b31f260f9c1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3cd36a80-cb17-4b3a-8ac0-0cb482d8ed67/6ac10a4f-64ab-411c-8fda-0b31f260f9c1
+md5	cf88b9ee48d6c562f0f33752cec338fd

@@ -1,0 +1,8 @@
+
+signId	3139
+text	tala 2
+imageUuid	ea990728-7c11-44b6-a283-41e4e25fd2b5
+translationKey	1f939f66-3078-40dd-bbdb-9ef53fc5188c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea990728-7c11-44b6-a283-41e4e25fd2b5/1f939f66-3078-40dd-bbdb-9ef53fc5188c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea990728-7c11-44b6-a283-41e4e25fd2b5/1f939f66-3078-40dd-bbdb-9ef53fc5188c
+md5	7faeab7dd52f88246d404d3e75041b0e

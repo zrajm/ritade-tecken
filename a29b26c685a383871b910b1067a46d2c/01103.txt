@@ -1,0 +1,7 @@
+signId	1103
+text	oktober
+imageUuid	d1f74cef-516f-4045-abf7-e7d7d51d0729
+translationKey	bac595b2-84fe-47e8-b760-1a991d18bbe7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d1f74cef-516f-4045-abf7-e7d7d51d0729/bac595b2-84fe-47e8-b760-1a991d18bbe7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d1f74cef-516f-4045-abf7-e7d7d51d0729/bac595b2-84fe-47e8-b760-1a991d18bbe7
+md5	a29b26c685a383871b910b1067a46d2c

@@ -1,0 +1,7 @@
+signId	2182
+text	hett
+imageUuid	6651a7d7-085e-4cd6-b3f5-5892cfb3cbf7
+translationKey	80e55ff4-a71e-40dc-b850-faa964edf7da
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6651a7d7-085e-4cd6-b3f5-5892cfb3cbf7/80e55ff4-a71e-40dc-b850-faa964edf7da/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6651a7d7-085e-4cd6-b3f5-5892cfb3cbf7/80e55ff4-a71e-40dc-b850-faa964edf7da
+md5	2894e75c5dd183001274aa62d4ae80f8

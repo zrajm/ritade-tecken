@@ -1,0 +1,7 @@
+signId	193
+text	bruka (ha för vana)
+imageUuid	6b142389-97b9-47f2-8c67-dabd2dcc2c38
+translationKey	6d418e9a-500c-49c7-94eb-5ce69d60d9fd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b142389-97b9-47f2-8c67-dabd2dcc2c38/6d418e9a-500c-49c7-94eb-5ce69d60d9fd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b142389-97b9-47f2-8c67-dabd2dcc2c38/6d418e9a-500c-49c7-94eb-5ce69d60d9fd
+md5	f3cab445b87dd9f88e2525afba2f2efe

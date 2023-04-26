@@ -1,0 +1,7 @@
+signId	1921
+text	planera
+imageUuid	eae19834-cd56-4987-8d73-8e7682b3cdac
+translationKey	911d6f23-edf6-4f65-9f9e-328473fd235a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eae19834-cd56-4987-8d73-8e7682b3cdac/911d6f23-edf6-4f65-9f9e-328473fd235a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eae19834-cd56-4987-8d73-8e7682b3cdac/911d6f23-edf6-4f65-9f9e-328473fd235a
+md5	e720fda6d6e4745968370e3e5a17c2ce

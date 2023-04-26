@@ -1,0 +1,7 @@
+signId	1475
+text	stiga upp
+imageUuid	a96e1379-ce4d-479b-ba13-bdfcddf2bc8d
+translationKey	91f2c439-f9dc-491c-b310-a052d75c729e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a96e1379-ce4d-479b-ba13-bdfcddf2bc8d/91f2c439-f9dc-491c-b310-a052d75c729e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a96e1379-ce4d-479b-ba13-bdfcddf2bc8d/91f2c439-f9dc-491c-b310-a052d75c729e
+md5	f9967b612d4ea3b5137f29e982fef6cd

@@ -1,0 +1,16 @@
+
+signId	573
+text	hare
+imageUuid	e0514b02-c2fc-4c39-aae1-ec89ee1e53ba
+translationKey	2e9e5eea-d6e0-4aa3-9d45-765580119fac
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e0514b02-c2fc-4c39-aae1-ec89ee1e53ba/2e9e5eea-d6e0-4aa3-9d45-765580119fac/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e0514b02-c2fc-4c39-aae1-ec89ee1e53ba/2e9e5eea-d6e0-4aa3-9d45-765580119fac
+md5	d1b49a9d2e14407bc2fd6e70558a6576
+
+signId	723
+text	kanin
+imageUuid	2fb6f8d3-926d-42e8-832d-3ba77ba20e6a
+translationKey	3291d13a-78f7-4ac9-9158-b6d202d4f204
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2fb6f8d3-926d-42e8-832d-3ba77ba20e6a/3291d13a-78f7-4ac9-9158-b6d202d4f204/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2fb6f8d3-926d-42e8-832d-3ba77ba20e6a/3291d13a-78f7-4ac9-9158-b6d202d4f204
+md5	d1b49a9d2e14407bc2fd6e70558a6576

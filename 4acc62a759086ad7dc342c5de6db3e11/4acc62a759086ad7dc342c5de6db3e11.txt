@@ -1,0 +1,8 @@
+
+signId	108
+text	barr
+imageUuid	cb894abf-9a47-4687-87fd-1826b92b52c8
+translationKey	5a21cfe9-f07a-40de-bb54-0f2a0e3d09e2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cb894abf-9a47-4687-87fd-1826b92b52c8/5a21cfe9-f07a-40de-bb54-0f2a0e3d09e2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cb894abf-9a47-4687-87fd-1826b92b52c8/5a21cfe9-f07a-40de-bb54-0f2a0e3d09e2
+md5	4acc62a759086ad7dc342c5de6db3e11

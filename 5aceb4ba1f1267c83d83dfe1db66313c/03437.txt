@@ -1,0 +1,7 @@
+signId	3437
+text	reklam
+imageUuid	d21a6caa-9443-4e86-8d9f-b0c2654e59a2
+translationKey	21317c5a-fede-4b7e-942b-2e69f33c5296
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d21a6caa-9443-4e86-8d9f-b0c2654e59a2/21317c5a-fede-4b7e-942b-2e69f33c5296/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d21a6caa-9443-4e86-8d9f-b0c2654e59a2/21317c5a-fede-4b7e-942b-2e69f33c5296
+md5	5aceb4ba1f1267c83d83dfe1db66313c

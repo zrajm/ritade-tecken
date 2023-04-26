@@ -1,0 +1,24 @@
+
+signId	1722
+text	veta
+imageUuid	521659fc-2a32-4821-8b9e-a02f2c24cea3
+translationKey	c6adffa0-67c3-4cbc-ae07-9eb8724fa417
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/521659fc-2a32-4821-8b9e-a02f2c24cea3/c6adffa0-67c3-4cbc-ae07-9eb8724fa417/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/521659fc-2a32-4821-8b9e-a02f2c24cea3/c6adffa0-67c3-4cbc-ae07-9eb8724fa417
+md5	edbcdf96f74a5dfaefcdc39f5c3cbfd4
+
+signId	1723
+text	vetenskap
+imageUuid	3e21ba75-1fd2-4f3c-b436-1144ca7781bc
+translationKey	3902da9d-4ff3-4bc8-87dc-c91fba8fcafb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3e21ba75-1fd2-4f3c-b436-1144ca7781bc/3902da9d-4ff3-4bc8-87dc-c91fba8fcafb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3e21ba75-1fd2-4f3c-b436-1144ca7781bc/3902da9d-4ff3-4bc8-87dc-c91fba8fcafb
+md5	edbcdf96f74a5dfaefcdc39f5c3cbfd4
+
+signId	3180
+text	kunskap
+imageUuid	c5c8518f-5c8f-4ea8-a61e-eb9967c1f82e
+translationKey	a4e86fe9-451f-4555-9703-85545d3345fd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c5c8518f-5c8f-4ea8-a61e-eb9967c1f82e/a4e86fe9-451f-4555-9703-85545d3345fd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c5c8518f-5c8f-4ea8-a61e-eb9967c1f82e/a4e86fe9-451f-4555-9703-85545d3345fd
+md5	edbcdf96f74a5dfaefcdc39f5c3cbfd4

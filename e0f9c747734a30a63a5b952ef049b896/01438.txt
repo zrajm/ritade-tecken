@@ -1,0 +1,7 @@
+signId	1438
+text	spade (kort skaft)
+imageUuid	60dee581-f400-4160-8a49-d2ecc4968080
+translationKey	dceacf51-0697-406c-ae3b-a32956b5e282
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/60dee581-f400-4160-8a49-d2ecc4968080/dceacf51-0697-406c-ae3b-a32956b5e282/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/60dee581-f400-4160-8a49-d2ecc4968080/dceacf51-0697-406c-ae3b-a32956b5e282
+md5	e0f9c747734a30a63a5b952ef049b896

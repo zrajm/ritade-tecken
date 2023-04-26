@@ -1,0 +1,7 @@
+signId	381
+text	flingor 2
+imageUuid	8752d382-25cd-49c6-9b0d-d1ce416c99f0
+translationKey	711375de-d964-4098-8db9-76c2c02155f2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8752d382-25cd-49c6-9b0d-d1ce416c99f0/711375de-d964-4098-8db9-76c2c02155f2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8752d382-25cd-49c6-9b0d-d1ce416c99f0/711375de-d964-4098-8db9-76c2c02155f2
+md5	67ea5cd1b91925a2955388ef1ee2c276

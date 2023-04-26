@@ -1,0 +1,7 @@
+signId	2738
+text	boxning
+imageUuid	516a533d-dce7-4306-9421-c47406c294eb
+translationKey	26dd8b69-51f5-40bf-87c3-3ae3d3e148bd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/516a533d-dce7-4306-9421-c47406c294eb/26dd8b69-51f5-40bf-87c3-3ae3d3e148bd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/516a533d-dce7-4306-9421-c47406c294eb/26dd8b69-51f5-40bf-87c3-3ae3d3e148bd
+md5	c3990bbd5163949747500cd5c4dbdd4d

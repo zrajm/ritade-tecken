@@ -1,0 +1,7 @@
+signId	3014
+text	samarbeta
+imageUuid	2d11b24b-8f72-4c4b-a4c7-0de3060cfa45
+translationKey	0ee2754d-ca17-4d42-ad7e-21fd672c9e6c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d11b24b-8f72-4c4b-a4c7-0de3060cfa45/0ee2754d-ca17-4d42-ad7e-21fd672c9e6c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d11b24b-8f72-4c4b-a4c7-0de3060cfa45/0ee2754d-ca17-4d42-ad7e-21fd672c9e6c
+md5	90c147bca56d6c416e6b6ec5c3b6a18b

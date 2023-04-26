@@ -1,0 +1,7 @@
+signId	2026
+text	maskros
+imageUuid	34a1fc1b-1582-400a-b21e-413bceaed9d1
+translationKey	ad6a0835-279a-46e8-9d87-4c119d7a7615
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/34a1fc1b-1582-400a-b21e-413bceaed9d1/ad6a0835-279a-46e8-9d87-4c119d7a7615/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/34a1fc1b-1582-400a-b21e-413bceaed9d1/ad6a0835-279a-46e8-9d87-4c119d7a7615
+md5	c6af6b88df66f9d6276d89a0e2568514

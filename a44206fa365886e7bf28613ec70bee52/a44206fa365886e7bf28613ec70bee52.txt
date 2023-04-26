@@ -1,0 +1,8 @@
+
+signId	3099
+text	ekonomi
+imageUuid	76901d3d-5721-4a66-881b-30c5e6c7b1db
+translationKey	a49c8dc4-0be5-4e28-b5ef-b7020b1f8430
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/76901d3d-5721-4a66-881b-30c5e6c7b1db/a49c8dc4-0be5-4e28-b5ef-b7020b1f8430/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/76901d3d-5721-4a66-881b-30c5e6c7b1db/a49c8dc4-0be5-4e28-b5ef-b7020b1f8430
+md5	a44206fa365886e7bf28613ec70bee52

@@ -1,0 +1,7 @@
+signId	1572
+text	telefon
+imageUuid	88d47e92-4e84-489c-8d7b-f8f544657a51
+translationKey	00240bea-7064-43bf-a446-16fdf80b697b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/88d47e92-4e84-489c-8d7b-f8f544657a51/00240bea-7064-43bf-a446-16fdf80b697b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/88d47e92-4e84-489c-8d7b-f8f544657a51/00240bea-7064-43bf-a446-16fdf80b697b
+md5	561dc6e0c139350d40fb4a9880b95257

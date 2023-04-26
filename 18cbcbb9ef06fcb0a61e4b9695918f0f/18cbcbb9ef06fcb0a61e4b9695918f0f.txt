@@ -1,0 +1,8 @@
+
+signId	2582
+text	havregryn
+imageUuid	93aedbf7-b5ff-482f-a880-89c48069ddfe
+translationKey	c28317e6-479b-4623-9f71-d0788e965b4c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/93aedbf7-b5ff-482f-a880-89c48069ddfe/c28317e6-479b-4623-9f71-d0788e965b4c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/93aedbf7-b5ff-482f-a880-89c48069ddfe/c28317e6-479b-4623-9f71-d0788e965b4c
+md5	18cbcbb9ef06fcb0a61e4b9695918f0f

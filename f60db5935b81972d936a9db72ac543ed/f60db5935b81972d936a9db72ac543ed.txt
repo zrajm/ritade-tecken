@@ -1,0 +1,8 @@
+
+signId	3056
+text	bubbla (verb)
+imageUuid	1fe92042-5c94-44a9-95d7-0fcd14663d16
+translationKey	f05b669f-eecf-4bfb-98a1-70171d16a8ae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1fe92042-5c94-44a9-95d7-0fcd14663d16/f05b669f-eecf-4bfb-98a1-70171d16a8ae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1fe92042-5c94-44a9-95d7-0fcd14663d16/f05b669f-eecf-4bfb-98a1-70171d16a8ae
+md5	f60db5935b81972d936a9db72ac543ed

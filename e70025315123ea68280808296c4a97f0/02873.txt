@@ -1,0 +1,7 @@
+signId	2873
+text	ananas
+imageUuid	0d601cba-be44-4603-9a6d-4c21c37dcf2f
+translationKey	8ccb4fdd-b8a8-43d1-983a-116d5719ef0b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0d601cba-be44-4603-9a6d-4c21c37dcf2f/8ccb4fdd-b8a8-43d1-983a-116d5719ef0b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0d601cba-be44-4603-9a6d-4c21c37dcf2f/8ccb4fdd-b8a8-43d1-983a-116d5719ef0b
+md5	e70025315123ea68280808296c4a97f0

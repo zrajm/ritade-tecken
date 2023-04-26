@@ -1,0 +1,7 @@
+signId	2895
+text	metall
+imageUuid	c063b2ec-6ee5-4611-96b4-746474fc3324
+translationKey	bbe76bbd-f4f8-4ea5-bd61-a723872ecff2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c063b2ec-6ee5-4611-96b4-746474fc3324/bbe76bbd-f4f8-4ea5-bd61-a723872ecff2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c063b2ec-6ee5-4611-96b4-746474fc3324/bbe76bbd-f4f8-4ea5-bd61-a723872ecff2
+md5	dc639cd47a1a85052a6bf834e436589c

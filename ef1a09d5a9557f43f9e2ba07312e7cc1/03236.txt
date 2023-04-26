@@ -1,0 +1,7 @@
+signId	3236
+text	väcka
+imageUuid	bda1de3d-cfc2-494f-bfde-9f081f41bd99
+translationKey	ef3dd050-0b70-49da-8197-822f219cd13a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bda1de3d-cfc2-494f-bfde-9f081f41bd99/ef3dd050-0b70-49da-8197-822f219cd13a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bda1de3d-cfc2-494f-bfde-9f081f41bd99/ef3dd050-0b70-49da-8197-822f219cd13a
+md5	ef1a09d5a9557f43f9e2ba07312e7cc1

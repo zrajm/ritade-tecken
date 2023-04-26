@@ -1,0 +1,24 @@
+
+signId	1882
+text	bevisa
+imageUuid	26eb345a-60b6-476f-92a1-e80883059875
+translationKey	72047510-ce9a-43ad-9de0-cc4f55d60f5b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/26eb345a-60b6-476f-92a1-e80883059875/72047510-ce9a-43ad-9de0-cc4f55d60f5b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/26eb345a-60b6-476f-92a1-e80883059875/72047510-ce9a-43ad-9de0-cc4f55d60f5b
+md5	5a97f576ff182dff8cf9b36e876f6dd0
+
+signId	1886
+text	bevis
+imageUuid	20c689c4-2a38-4f8e-882d-799a725b1a33
+translationKey	2d9e028c-f4a6-4ea1-98ed-09fbb66de9d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/20c689c4-2a38-4f8e-882d-799a725b1a33/2d9e028c-f4a6-4ea1-98ed-09fbb66de9d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/20c689c4-2a38-4f8e-882d-799a725b1a33/2d9e028c-f4a6-4ea1-98ed-09fbb66de9d3
+md5	5a97f576ff182dff8cf9b36e876f6dd0
+
+signId	2011
+text	ärlig
+imageUuid	38041a55-4f93-4fd9-8a6d-7286705a767d
+translationKey	862c3368-0f85-4404-8643-2dbc686badf1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/38041a55-4f93-4fd9-8a6d-7286705a767d/862c3368-0f85-4404-8643-2dbc686badf1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/38041a55-4f93-4fd9-8a6d-7286705a767d/862c3368-0f85-4404-8643-2dbc686badf1
+md5	5a97f576ff182dff8cf9b36e876f6dd0

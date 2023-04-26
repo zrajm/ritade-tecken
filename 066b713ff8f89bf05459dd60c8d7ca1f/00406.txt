@@ -1,0 +1,7 @@
+signId	406
+text	frisör
+imageUuid	9113fce2-cb7c-4ae6-89ed-c2245d9cd42c
+translationKey	5a7df680-5dc9-4c9c-88d5-2a3c72958663
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9113fce2-cb7c-4ae6-89ed-c2245d9cd42c/5a7df680-5dc9-4c9c-88d5-2a3c72958663/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9113fce2-cb7c-4ae6-89ed-c2245d9cd42c/5a7df680-5dc9-4c9c-88d5-2a3c72958663
+md5	066b713ff8f89bf05459dd60c8d7ca1f

@@ -1,0 +1,8 @@
+
+signId	774
+text	knän
+imageUuid	6ec659a1-0eec-4db7-b102-6532c1319d93
+translationKey	8945f302-9adb-43a8-bda8-e27a06ecc559
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6ec659a1-0eec-4db7-b102-6532c1319d93/8945f302-9adb-43a8-bda8-e27a06ecc559/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6ec659a1-0eec-4db7-b102-6532c1319d93/8945f302-9adb-43a8-bda8-e27a06ecc559
+md5	86ae2fa145ac00efed675f83d67552df

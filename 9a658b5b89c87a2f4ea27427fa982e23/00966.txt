@@ -1,0 +1,7 @@
+signId	966
+text	maskin
+imageUuid	461ef222-d1e4-4351-9e55-e510ec4edfc8
+translationKey	b3f7708a-2495-4e80-9024-6a30b10d8cbe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/461ef222-d1e4-4351-9e55-e510ec4edfc8/b3f7708a-2495-4e80-9024-6a30b10d8cbe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/461ef222-d1e4-4351-9e55-e510ec4edfc8/b3f7708a-2495-4e80-9024-6a30b10d8cbe
+md5	ea259a7948cdac8dd8626d49d8b0ae58

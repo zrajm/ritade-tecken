@@ -1,0 +1,8 @@
+
+signId	947
+text	lätt
+imageUuid	d40ff673-f8f7-49ad-b171-b9844b95e779
+translationKey	44361f05-fbf5-4a79-a873-157b486586a9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d40ff673-f8f7-49ad-b171-b9844b95e779/44361f05-fbf5-4a79-a873-157b486586a9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d40ff673-f8f7-49ad-b171-b9844b95e779/44361f05-fbf5-4a79-a873-157b486586a9
+md5	076bb52f247821750c4939da359e5bf0

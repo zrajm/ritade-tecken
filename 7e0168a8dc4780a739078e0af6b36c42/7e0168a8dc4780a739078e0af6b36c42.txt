@@ -1,0 +1,16 @@
+
+signId	1867
+text	grilla
+imageUuid	841b569b-b0a8-45b4-b124-6d315958ce9a
+translationKey	f65549ba-76b3-4272-bfb9-ade2d42acaae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/841b569b-b0a8-45b4-b124-6d315958ce9a/f65549ba-76b3-4272-bfb9-ade2d42acaae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/841b569b-b0a8-45b4-b124-6d315958ce9a/f65549ba-76b3-4272-bfb9-ade2d42acaae
+md5	7e0168a8dc4780a739078e0af6b36c42
+
+signId	2888
+text	grill
+imageUuid	24d974b6-b1f0-41b7-886a-3b29969c5abd
+translationKey	64772860-7d6a-4087-846e-4f5f60505e27
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/24d974b6-b1f0-41b7-886a-3b29969c5abd/64772860-7d6a-4087-846e-4f5f60505e27/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/24d974b6-b1f0-41b7-886a-3b29969c5abd/64772860-7d6a-4087-846e-4f5f60505e27
+md5	7e0168a8dc4780a739078e0af6b36c42

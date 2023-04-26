@@ -1,0 +1,7 @@
+signId	357
+text	femtio (tal)
+imageUuid	c2c3b3a4-dad0-4ad6-a215-123533047fb0
+translationKey	0e95e109-be57-48e9-8f5f-f33668015c52
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c2c3b3a4-dad0-4ad6-a215-123533047fb0/0e95e109-be57-48e9-8f5f-f33668015c52/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c2c3b3a4-dad0-4ad6-a215-123533047fb0/0e95e109-be57-48e9-8f5f-f33668015c52
+md5	9ccb3c1c089d1d4c03240323f65c381a

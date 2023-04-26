@@ -1,0 +1,7 @@
+signId	1453
+text	sport
+imageUuid	f4c73609-1953-4fc1-91c6-1ba74f02f4c4
+translationKey	d16c7ae9-012d-43af-80ce-c29531774467
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f4c73609-1953-4fc1-91c6-1ba74f02f4c4/d16c7ae9-012d-43af-80ce-c29531774467/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f4c73609-1953-4fc1-91c6-1ba74f02f4c4/d16c7ae9-012d-43af-80ce-c29531774467
+md5	84dc91dfe1da56749ee9e361afa70d40

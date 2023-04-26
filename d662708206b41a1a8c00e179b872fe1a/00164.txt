@@ -1,0 +1,7 @@
+signId	164
+text	bock
+imageUuid	7a6df913-87c0-420a-bddf-9c7d4c4959be
+translationKey	3a1f217e-52a5-49a7-a6ec-4faacb07eb7f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7a6df913-87c0-420a-bddf-9c7d4c4959be/3a1f217e-52a5-49a7-a6ec-4faacb07eb7f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7a6df913-87c0-420a-bddf-9c7d4c4959be/3a1f217e-52a5-49a7-a6ec-4faacb07eb7f
+md5	d662708206b41a1a8c00e179b872fe1a

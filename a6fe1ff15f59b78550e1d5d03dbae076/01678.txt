@@ -1,0 +1,7 @@
+signId	1678
+text	unge 1
+imageUuid	9b24d31c-6463-4b16-a1dc-1d6c94d9e2df
+translationKey	50816b99-637c-4a78-8576-a97587d1cf45
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9b24d31c-6463-4b16-a1dc-1d6c94d9e2df/50816b99-637c-4a78-8576-a97587d1cf45/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9b24d31c-6463-4b16-a1dc-1d6c94d9e2df/50816b99-637c-4a78-8576-a97587d1cf45
+md5	b11f8834b04ae37fd8725644338aec26

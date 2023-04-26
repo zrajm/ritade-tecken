@@ -1,0 +1,7 @@
+signId	127
+text	besvärlig
+imageUuid	acf72679-4559-4e30-9608-b64d21277249
+translationKey	183f221a-45e7-4ddd-b9a6-199a89aedbdc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/acf72679-4559-4e30-9608-b64d21277249/183f221a-45e7-4ddd-b9a6-199a89aedbdc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/acf72679-4559-4e30-9608-b64d21277249/183f221a-45e7-4ddd-b9a6-199a89aedbdc
+md5	c18ccd48e6b396c414517f5a5f1140bb

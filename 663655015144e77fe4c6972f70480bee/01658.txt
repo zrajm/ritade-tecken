@@ -1,0 +1,7 @@
+signId	1658
+text	tyvärr
+imageUuid	25f2703d-6fe8-4179-9a20-6f670bdd2d7b
+translationKey	fc7bc68b-e1f7-4ec3-b2c6-6ff21ee5eb1f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/25f2703d-6fe8-4179-9a20-6f670bdd2d7b/fc7bc68b-e1f7-4ec3-b2c6-6ff21ee5eb1f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/25f2703d-6fe8-4179-9a20-6f670bdd2d7b/fc7bc68b-e1f7-4ec3-b2c6-6ff21ee5eb1f
+md5	ab89618e3f7693b92900abd97ecf0791

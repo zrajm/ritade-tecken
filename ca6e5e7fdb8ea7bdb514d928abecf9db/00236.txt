@@ -1,0 +1,7 @@
+signId	236
+text	cirkus
+imageUuid	f563ce5f-6feb-43b8-82ac-9d15bd7fe2a2
+translationKey	a2cfeda2-22e8-4253-8735-739cc25aae46
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f563ce5f-6feb-43b8-82ac-9d15bd7fe2a2/a2cfeda2-22e8-4253-8735-739cc25aae46/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f563ce5f-6feb-43b8-82ac-9d15bd7fe2a2/a2cfeda2-22e8-4253-8735-739cc25aae46
+md5	ca6e5e7fdb8ea7bdb514d928abecf9db

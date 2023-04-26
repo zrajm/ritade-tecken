@@ -1,0 +1,7 @@
+signId	775
+text	knäppa (jacka, kofta etc)
+imageUuid	ade8616d-f7ab-49f4-8405-8300802584b2
+translationKey	c361014f-8b4c-4311-a4c1-42b1b2a7fa78
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ade8616d-f7ab-49f4-8405-8300802584b2/c361014f-8b4c-4311-a4c1-42b1b2a7fa78/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ade8616d-f7ab-49f4-8405-8300802584b2/c361014f-8b4c-4311-a4c1-42b1b2a7fa78
+md5	583d4e749cfe8ec8bf95b268d4f9c645

@@ -1,0 +1,7 @@
+signId	2674
+text	allmänhet
+imageUuid	38739264-6726-4b50-ad46-092e73062792
+translationKey	4cff32af-e8dc-4f20-b444-ff9f8255d370
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/38739264-6726-4b50-ad46-092e73062792/4cff32af-e8dc-4f20-b444-ff9f8255d370/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/38739264-6726-4b50-ad46-092e73062792/4cff32af-e8dc-4f20-b444-ff9f8255d370
+md5	96ca9c6d0f713272a45804d0b3dd5701

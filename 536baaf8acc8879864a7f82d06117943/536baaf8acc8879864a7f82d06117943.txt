@@ -1,0 +1,8 @@
+
+signId	2610
+text	tumstock
+imageUuid	6ef41323-e52f-4d02-8c2f-1cd67f9ce160
+translationKey	216ac6c6-54cd-4263-8cce-424db2b7c6ed
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6ef41323-e52f-4d02-8c2f-1cd67f9ce160/216ac6c6-54cd-4263-8cce-424db2b7c6ed/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6ef41323-e52f-4d02-8c2f-1cd67f9ce160/216ac6c6-54cd-4263-8cce-424db2b7c6ed
+md5	536baaf8acc8879864a7f82d06117943

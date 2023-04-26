@@ -1,0 +1,7 @@
+signId	1480
+text	stol
+imageUuid	ff4e8cdb-e3e6-43c3-bd6a-ee46e74131fb
+translationKey	8a1ef2be-cb63-463e-8b9e-f14f8faf0079
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ff4e8cdb-e3e6-43c3-bd6a-ee46e74131fb/8a1ef2be-cb63-463e-8b9e-f14f8faf0079/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ff4e8cdb-e3e6-43c3-bd6a-ee46e74131fb/8a1ef2be-cb63-463e-8b9e-f14f8faf0079
+md5	7200da354371870010a609f148dde54f

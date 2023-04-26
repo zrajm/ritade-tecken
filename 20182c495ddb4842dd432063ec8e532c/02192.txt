@@ -1,0 +1,7 @@
+signId	2192
+text	orange 2
+imageUuid	c9b51f08-5230-4474-b7f3-6226c895e8e3
+translationKey	f1dfae73-457a-471a-a71e-e4860966226d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c9b51f08-5230-4474-b7f3-6226c895e8e3/f1dfae73-457a-471a-a71e-e4860966226d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c9b51f08-5230-4474-b7f3-6226c895e8e3/f1dfae73-457a-471a-a71e-e4860966226d
+md5	20182c495ddb4842dd432063ec8e532c

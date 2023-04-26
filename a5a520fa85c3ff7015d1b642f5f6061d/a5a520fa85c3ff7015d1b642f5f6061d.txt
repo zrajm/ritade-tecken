@@ -1,0 +1,16 @@
+
+signId	790
+text	konstig 1
+imageUuid	d223d84f-e672-423f-909a-f86131cf2427
+translationKey	1a565d4a-e59a-47b0-af33-3d81241826eb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d223d84f-e672-423f-909a-f86131cf2427/1a565d4a-e59a-47b0-af33-3d81241826eb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d223d84f-e672-423f-909a-f86131cf2427/1a565d4a-e59a-47b0-af33-3d81241826eb
+md5	a5a520fa85c3ff7015d1b642f5f6061d
+
+signId	1675
+text	underlig 1
+imageUuid	ead96854-0c09-404d-a11c-891f323561ac
+translationKey	26b99f94-a1fc-4173-90ad-b13d99db515b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ead96854-0c09-404d-a11c-891f323561ac/26b99f94-a1fc-4173-90ad-b13d99db515b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ead96854-0c09-404d-a11c-891f323561ac/26b99f94-a1fc-4173-90ad-b13d99db515b
+md5	a5a520fa85c3ff7015d1b642f5f6061d

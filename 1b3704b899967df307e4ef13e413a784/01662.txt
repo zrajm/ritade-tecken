@@ -1,0 +1,7 @@
+signId	1662
+text	tält
+imageUuid	91c77c63-da97-41b0-80f6-03548452a6ac
+translationKey	98156361-994b-4683-8856-c514ae174994
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/91c77c63-da97-41b0-80f6-03548452a6ac/98156361-994b-4683-8856-c514ae174994/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/91c77c63-da97-41b0-80f6-03548452a6ac/98156361-994b-4683-8856-c514ae174994
+md5	1b3704b899967df307e4ef13e413a784

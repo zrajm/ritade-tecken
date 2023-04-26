@@ -1,0 +1,7 @@
+signId	376
+text	fjäder
+imageUuid	eeda3353-bb7f-4813-a054-9e67d2b7dd05
+translationKey	4408df79-9eec-4c36-9dcd-c11aa7e61406
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eeda3353-bb7f-4813-a054-9e67d2b7dd05/4408df79-9eec-4c36-9dcd-c11aa7e61406/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eeda3353-bb7f-4813-a054-9e67d2b7dd05/4408df79-9eec-4c36-9dcd-c11aa7e61406
+md5	9cd90293e6a5c0317a8eee1c8ce9e347

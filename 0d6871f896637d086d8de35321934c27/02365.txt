@@ -1,0 +1,7 @@
+signId	2365
+text	moderaterna
+imageUuid	99c3ae80-3dc1-4799-b972-d79f24022e1c
+translationKey	5b7803e5-ecc2-4727-b9ce-7a627f4fa9ef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/99c3ae80-3dc1-4799-b972-d79f24022e1c/5b7803e5-ecc2-4727-b9ce-7a627f4fa9ef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/99c3ae80-3dc1-4799-b972-d79f24022e1c/5b7803e5-ecc2-4727-b9ce-7a627f4fa9ef
+md5	0d6871f896637d086d8de35321934c27

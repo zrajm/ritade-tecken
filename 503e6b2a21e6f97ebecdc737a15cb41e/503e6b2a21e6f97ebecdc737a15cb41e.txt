@@ -1,0 +1,8 @@
+
+signId	303
+text	dyka
+imageUuid	1069d3e0-d592-448c-901b-a511daf074fe
+translationKey	b2cc36da-1978-4ade-af75-4a72a1b24edb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1069d3e0-d592-448c-901b-a511daf074fe/b2cc36da-1978-4ade-af75-4a72a1b24edb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1069d3e0-d592-448c-901b-a511daf074fe/b2cc36da-1978-4ade-af75-4a72a1b24edb
+md5	503e6b2a21e6f97ebecdc737a15cb41e

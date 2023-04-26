@@ -1,0 +1,7 @@
+signId	1348
+text	skola
+imageUuid	71b96f61-07bd-479a-a476-bf3ddfaae401
+translationKey	902ad54c-8f69-4e15-aa6d-64d7ddbf09a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/71b96f61-07bd-479a-a476-bf3ddfaae401/902ad54c-8f69-4e15-aa6d-64d7ddbf09a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/71b96f61-07bd-479a-a476-bf3ddfaae401/902ad54c-8f69-4e15-aa6d-64d7ddbf09a4
+md5	03d09f68d5cf268adc8428d9c2f853c0

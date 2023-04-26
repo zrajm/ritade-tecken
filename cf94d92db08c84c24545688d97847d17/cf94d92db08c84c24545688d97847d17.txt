@@ -1,0 +1,8 @@
+
+signId	2265
+text	dyr
+imageUuid	61d789ab-7b45-4828-b6e6-8282b46db4d2
+translationKey	d66093e0-9c77-4361-8772-33c7fe175048
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/61d789ab-7b45-4828-b6e6-8282b46db4d2/d66093e0-9c77-4361-8772-33c7fe175048/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/61d789ab-7b45-4828-b6e6-8282b46db4d2/d66093e0-9c77-4361-8772-33c7fe175048
+md5	cf94d92db08c84c24545688d97847d17

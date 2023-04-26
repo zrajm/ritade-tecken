@@ -1,0 +1,8 @@
+
+signId	2756
+text	snusa
+imageUuid	aefda991-2676-489f-8cbd-26b2ca8c6de4
+translationKey	924fb67f-b961-4f13-85ce-4ac16003278f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aefda991-2676-489f-8cbd-26b2ca8c6de4/924fb67f-b961-4f13-85ce-4ac16003278f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aefda991-2676-489f-8cbd-26b2ca8c6de4/924fb67f-b961-4f13-85ce-4ac16003278f
+md5	8c8296d2036b063edd8ee64708429a15

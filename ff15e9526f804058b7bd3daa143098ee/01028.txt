@@ -1,0 +1,7 @@
+signId	1028
+text	musik
+imageUuid	50468e41-0c19-4184-8f41-71e5714e5ef1
+translationKey	fa7d79e8-e487-4729-a3da-3c5f9d9154d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/50468e41-0c19-4184-8f41-71e5714e5ef1/fa7d79e8-e487-4729-a3da-3c5f9d9154d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/50468e41-0c19-4184-8f41-71e5714e5ef1/fa7d79e8-e487-4729-a3da-3c5f9d9154d3
+md5	ff15e9526f804058b7bd3daa143098ee

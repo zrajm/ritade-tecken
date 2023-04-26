@@ -1,0 +1,7 @@
+signId	2197
+text	stackars
+imageUuid	765ebf59-4852-4fb9-a5d8-815d11bb4860
+translationKey	152d4d75-3394-4774-a581-f2f6dcf495e5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/765ebf59-4852-4fb9-a5d8-815d11bb4860/152d4d75-3394-4774-a581-f2f6dcf495e5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/765ebf59-4852-4fb9-a5d8-815d11bb4860/152d4d75-3394-4774-a581-f2f6dcf495e5
+md5	582279dfe1eceb31e6f1db28d21c95a5

@@ -1,0 +1,7 @@
+signId	3344
+text	samarbete
+imageUuid	5cca4646-dfa3-4d2d-9a22-184df5b927dc
+translationKey	1c3cf20e-bc34-4106-8bb7-a832ab1bccd6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5cca4646-dfa3-4d2d-9a22-184df5b927dc/1c3cf20e-bc34-4106-8bb7-a832ab1bccd6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5cca4646-dfa3-4d2d-9a22-184df5b927dc/1c3cf20e-bc34-4106-8bb7-a832ab1bccd6
+md5	c9400aee540f34d51cba64848d6589a7

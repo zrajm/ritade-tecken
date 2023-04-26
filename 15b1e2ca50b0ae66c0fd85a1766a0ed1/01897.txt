@@ -1,0 +1,7 @@
+signId	1897
+text	mästerskap
+imageUuid	a788c6c6-4f31-42f7-b14d-26b86fb4e914
+translationKey	ea3e17f5-215a-4de3-9413-2699040ae021
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a788c6c6-4f31-42f7-b14d-26b86fb4e914/ea3e17f5-215a-4de3-9413-2699040ae021/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a788c6c6-4f31-42f7-b14d-26b86fb4e914/ea3e17f5-215a-4de3-9413-2699040ae021
+md5	15b1e2ca50b0ae66c0fd85a1766a0ed1

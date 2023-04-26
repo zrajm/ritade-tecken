@@ -1,0 +1,7 @@
+signId	2236
+text	paj
+imageUuid	80965917-24b6-45fe-945b-220b2b023a33
+translationKey	d02e00cb-5576-40a2-b33a-e7e20fedb7a9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/80965917-24b6-45fe-945b-220b2b023a33/d02e00cb-5576-40a2-b33a-e7e20fedb7a9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/80965917-24b6-45fe-945b-220b2b023a33/d02e00cb-5576-40a2-b33a-e7e20fedb7a9
+md5	7b005aa1609db7b32b6addc6f0089eef

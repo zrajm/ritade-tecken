@@ -1,0 +1,8 @@
+
+signId	2162
+text	alla helgons dag
+imageUuid	320ba51e-8aae-403a-9b35-6b2f308a8bde
+translationKey	639446b4-16c3-442f-bc8b-99dcabd07b75
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/320ba51e-8aae-403a-9b35-6b2f308a8bde/639446b4-16c3-442f-bc8b-99dcabd07b75/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/320ba51e-8aae-403a-9b35-6b2f308a8bde/639446b4-16c3-442f-bc8b-99dcabd07b75
+md5	38a6f2bb117b7c7fab1e072c70f3b08b

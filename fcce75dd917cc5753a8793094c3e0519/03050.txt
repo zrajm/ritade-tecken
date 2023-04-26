@@ -1,0 +1,7 @@
+signId	3050
+text	samling 2
+imageUuid	3b9a3069-8def-4112-ac0f-5b047c28213e
+translationKey	f64793ca-2ba6-4252-8dc7-35393c5437e4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b9a3069-8def-4112-ac0f-5b047c28213e/f64793ca-2ba6-4252-8dc7-35393c5437e4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b9a3069-8def-4112-ac0f-5b047c28213e/f64793ca-2ba6-4252-8dc7-35393c5437e4
+md5	fcce75dd917cc5753a8793094c3e0519

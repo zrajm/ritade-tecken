@@ -1,0 +1,7 @@
+signId	2033
+text	motionera
+imageUuid	7512f64c-cf89-42dd-990d-60f3c5562b56
+translationKey	355f5558-c487-44e4-b493-538ffb815aad
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7512f64c-cf89-42dd-990d-60f3c5562b56/355f5558-c487-44e4-b493-538ffb815aad/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7512f64c-cf89-42dd-990d-60f3c5562b56/355f5558-c487-44e4-b493-538ffb815aad
+md5	e8f0e059048ca781e9cdbbf8b48c58a3

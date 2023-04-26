@@ -1,0 +1,8 @@
+
+signId	2508
+text	lat
+imageUuid	8cc1c3b7-dcc9-4fb6-a8dc-253dc82b709c
+translationKey	4f76bc09-eedf-4dc7-8a77-d0331b6e5fa9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8cc1c3b7-dcc9-4fb6-a8dc-253dc82b709c/4f76bc09-eedf-4dc7-8a77-d0331b6e5fa9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8cc1c3b7-dcc9-4fb6-a8dc-253dc82b709c/4f76bc09-eedf-4dc7-8a77-d0331b6e5fa9
+md5	d8cd785244cd392a126d6f3949b93cf5

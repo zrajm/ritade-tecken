@@ -1,0 +1,7 @@
+signId	1380
+text	slalom
+imageUuid	94848cf4-8c03-4dea-8984-3b65d366f2a3
+translationKey	19be0a1a-b569-4702-9ebf-4fc74da57703
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/94848cf4-8c03-4dea-8984-3b65d366f2a3/19be0a1a-b569-4702-9ebf-4fc74da57703/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/94848cf4-8c03-4dea-8984-3b65d366f2a3/19be0a1a-b569-4702-9ebf-4fc74da57703
+md5	9f35cbadda1c9d7e69b8ab6693ce55f3

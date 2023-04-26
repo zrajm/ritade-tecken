@@ -1,0 +1,8 @@
+
+signId	3048
+text	magnet
+imageUuid	4fbd2922-d800-40bb-9b99-8c78223ba861
+translationKey	e301b346-9317-4cb1-a2d8-c00771444c27
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4fbd2922-d800-40bb-9b99-8c78223ba861/e301b346-9317-4cb1-a2d8-c00771444c27/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4fbd2922-d800-40bb-9b99-8c78223ba861/e301b346-9317-4cb1-a2d8-c00771444c27
+md5	3d2cb6da7c0bf3b922e7ec6c71f27049

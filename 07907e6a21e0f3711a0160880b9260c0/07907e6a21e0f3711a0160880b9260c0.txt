@@ -1,0 +1,8 @@
+
+signId	1246
+text	rita
+imageUuid	c2aa606f-8478-42b7-8632-5b20d9c41366
+translationKey	7faee6f5-a2e8-4bca-8d7f-cfda7706eba1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c2aa606f-8478-42b7-8632-5b20d9c41366/7faee6f5-a2e8-4bca-8d7f-cfda7706eba1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c2aa606f-8478-42b7-8632-5b20d9c41366/7faee6f5-a2e8-4bca-8d7f-cfda7706eba1
+md5	07907e6a21e0f3711a0160880b9260c0

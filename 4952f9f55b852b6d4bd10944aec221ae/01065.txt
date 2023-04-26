@@ -1,0 +1,7 @@
+signId	1065
+text	nappflaska
+imageUuid	f24d81b0-e2e9-4ab5-9bca-1136abda84ec
+translationKey	16e9337f-ec1f-411a-b205-d6818090fb34
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f24d81b0-e2e9-4ab5-9bca-1136abda84ec/16e9337f-ec1f-411a-b205-d6818090fb34/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f24d81b0-e2e9-4ab5-9bca-1136abda84ec/16e9337f-ec1f-411a-b205-d6818090fb34
+md5	4952f9f55b852b6d4bd10944aec221ae

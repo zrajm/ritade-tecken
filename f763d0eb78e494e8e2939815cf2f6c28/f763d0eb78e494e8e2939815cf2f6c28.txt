@@ -1,0 +1,8 @@
+
+signId	2890
+text	hårspänne
+imageUuid	1962ffe7-d371-4763-bf77-d3d3c2ddb0b4
+translationKey	3c758f48-bec6-4afd-9713-7e3008231b91
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1962ffe7-d371-4763-bf77-d3d3c2ddb0b4/3c758f48-bec6-4afd-9713-7e3008231b91/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1962ffe7-d371-4763-bf77-d3d3c2ddb0b4/3c758f48-bec6-4afd-9713-7e3008231b91
+md5	f763d0eb78e494e8e2939815cf2f6c28

@@ -1,0 +1,7 @@
+signId	410
+text	frukt
+imageUuid	5a5477b5-42ef-4414-b2cc-f22c4ea6791f
+translationKey	e0f5e4d3-86e6-4da8-b0e2-0b9065e8a761
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5a5477b5-42ef-4414-b2cc-f22c4ea6791f/e0f5e4d3-86e6-4da8-b0e2-0b9065e8a761/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5a5477b5-42ef-4414-b2cc-f22c4ea6791f/e0f5e4d3-86e6-4da8-b0e2-0b9065e8a761
+md5	cb92d51a3cd71e1e06236d5b86636d8d

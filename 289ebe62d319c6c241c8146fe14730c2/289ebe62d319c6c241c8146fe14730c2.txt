@@ -1,0 +1,8 @@
+
+signId	2664
+text	statsminister
+imageUuid	72cefc62-055e-4e31-8cc9-b54f039bf1f0
+translationKey	353fb69d-72f2-410c-bdf8-f27108f2a47f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72cefc62-055e-4e31-8cc9-b54f039bf1f0/353fb69d-72f2-410c-bdf8-f27108f2a47f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72cefc62-055e-4e31-8cc9-b54f039bf1f0/353fb69d-72f2-410c-bdf8-f27108f2a47f
+md5	289ebe62d319c6c241c8146fe14730c2

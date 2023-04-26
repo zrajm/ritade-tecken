@@ -1,0 +1,7 @@
+signId	856
+text	kött
+imageUuid	c237d409-afa5-472e-a395-40159d52c7d9
+translationKey	01175711-e6a3-4dc4-b347-831f951f6aff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c237d409-afa5-472e-a395-40159d52c7d9/01175711-e6a3-4dc4-b347-831f951f6aff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c237d409-afa5-472e-a395-40159d52c7d9/01175711-e6a3-4dc4-b347-831f951f6aff
+md5	ea8a16e4e8a30ab5585bb2377634d292

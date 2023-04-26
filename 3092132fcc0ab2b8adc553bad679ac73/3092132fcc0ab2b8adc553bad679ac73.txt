@@ -1,0 +1,8 @@
+
+signId	1320
+text	sjuksköterska
+imageUuid	38c9d74f-54e5-4e5e-8c50-00d23ea974a7
+translationKey	be1b275a-5407-4a3f-bc68-7bc56cf3a582
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/38c9d74f-54e5-4e5e-8c50-00d23ea974a7/be1b275a-5407-4a3f-bc68-7bc56cf3a582/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/38c9d74f-54e5-4e5e-8c50-00d23ea974a7/be1b275a-5407-4a3f-bc68-7bc56cf3a582
+md5	3092132fcc0ab2b8adc553bad679ac73

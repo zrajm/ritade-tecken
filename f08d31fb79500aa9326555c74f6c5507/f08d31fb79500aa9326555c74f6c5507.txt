@@ -1,0 +1,8 @@
+
+signId	3101
+text	gas
+imageUuid	295bd063-4b10-41c8-ad23-08de854c5d0e
+translationKey	81d063e7-c5a5-4acb-b017-7a3a3fcf7e98
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/295bd063-4b10-41c8-ad23-08de854c5d0e/81d063e7-c5a5-4acb-b017-7a3a3fcf7e98/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/295bd063-4b10-41c8-ad23-08de854c5d0e/81d063e7-c5a5-4acb-b017-7a3a3fcf7e98
+md5	f08d31fb79500aa9326555c74f6c5507

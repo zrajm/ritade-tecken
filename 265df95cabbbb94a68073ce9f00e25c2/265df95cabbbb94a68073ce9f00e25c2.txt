@@ -1,0 +1,8 @@
+
+signId	2578
+text	gapa
+imageUuid	1ae151f0-f963-466b-a4c0-9b684264e43c
+translationKey	eb3c718e-4768-4231-9d10-831eb6b613c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1ae151f0-f963-466b-a4c0-9b684264e43c/eb3c718e-4768-4231-9d10-831eb6b613c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1ae151f0-f963-466b-a4c0-9b684264e43c/eb3c718e-4768-4231-9d10-831eb6b613c4
+md5	265df95cabbbb94a68073ce9f00e25c2

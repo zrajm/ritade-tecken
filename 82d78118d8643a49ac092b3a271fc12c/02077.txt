@@ -1,0 +1,7 @@
+signId	2077
+text	rund
+imageUuid	382c9cc1-8d79-4257-89fc-40ff1fb7aae7
+translationKey	479b78e4-249d-44f8-8389-4f525557523a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/382c9cc1-8d79-4257-89fc-40ff1fb7aae7/479b78e4-249d-44f8-8389-4f525557523a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/382c9cc1-8d79-4257-89fc-40ff1fb7aae7/479b78e4-249d-44f8-8389-4f525557523a
+md5	84cec28b20aceeb561f76e31c699aeb1

@@ -1,0 +1,7 @@
+signId	1697
+text	valp
+imageUuid	14080310-186e-4cee-b4f5-97dabe2e816d
+translationKey	1a13d7ee-3562-4515-9c5e-93d9ab3857d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/14080310-186e-4cee-b4f5-97dabe2e816d/1a13d7ee-3562-4515-9c5e-93d9ab3857d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/14080310-186e-4cee-b4f5-97dabe2e816d/1a13d7ee-3562-4515-9c5e-93d9ab3857d1
+md5	a6fe1ff15f59b78550e1d5d03dbae076

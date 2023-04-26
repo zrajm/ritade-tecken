@@ -1,0 +1,7 @@
+signId	2702
+text	sköljmedel
+imageUuid	2842d4a5-ed48-4db4-b5e9-82fff1083bb2
+translationKey	f5d368c7-ff6d-4983-8ad9-1b84089cc6b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2842d4a5-ed48-4db4-b5e9-82fff1083bb2/f5d368c7-ff6d-4983-8ad9-1b84089cc6b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2842d4a5-ed48-4db4-b5e9-82fff1083bb2/f5d368c7-ff6d-4983-8ad9-1b84089cc6b4
+md5	1a025afcb76b1b4bf6b8651a21b35b3a

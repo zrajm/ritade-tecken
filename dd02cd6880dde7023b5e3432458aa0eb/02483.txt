@@ -1,0 +1,7 @@
+signId	2483
+text	termometer
+imageUuid	2086e0c4-8d39-4d69-98fd-c631a7abb525
+translationKey	c1690e99-7109-41ea-91fb-9816efd77443
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2086e0c4-8d39-4d69-98fd-c631a7abb525/c1690e99-7109-41ea-91fb-9816efd77443/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2086e0c4-8d39-4d69-98fd-c631a7abb525/c1690e99-7109-41ea-91fb-9816efd77443
+md5	dd02cd6880dde7023b5e3432458aa0eb

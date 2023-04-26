@@ -1,0 +1,7 @@
+signId	3152
+text	tolv 2
+imageUuid	37215345-cfcd-473a-bf98-2a8313851815
+translationKey	23ed524f-ba18-4ceb-97ee-7e84a5450b77
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/37215345-cfcd-473a-bf98-2a8313851815/23ed524f-ba18-4ceb-97ee-7e84a5450b77/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/37215345-cfcd-473a-bf98-2a8313851815/23ed524f-ba18-4ceb-97ee-7e84a5450b77
+md5	c6a6d8381854417113744d4029fc5d6c

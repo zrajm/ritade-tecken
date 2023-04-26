@@ -1,0 +1,7 @@
+signId	3105
+text	missil
+imageUuid	f0b86f06-e229-45bb-a9d1-96635660355d
+translationKey	8b0d5ff0-48af-4ab5-9d4d-142c147dc270
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f0b86f06-e229-45bb-a9d1-96635660355d/8b0d5ff0-48af-4ab5-9d4d-142c147dc270/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f0b86f06-e229-45bb-a9d1-96635660355d/8b0d5ff0-48af-4ab5-9d4d-142c147dc270
+md5	5120ca7a7620a0b9f0c16c6fa401bd48

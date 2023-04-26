@@ -1,0 +1,8 @@
+
+signId	144
+text	björnunge 2
+imageUuid	5161b5cb-bc5d-4281-b061-6dbbadbeeaf7
+translationKey	6caa5d79-2e54-47dc-ab18-2c01b8ae9be6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5161b5cb-bc5d-4281-b061-6dbbadbeeaf7/6caa5d79-2e54-47dc-ab18-2c01b8ae9be6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5161b5cb-bc5d-4281-b061-6dbbadbeeaf7/6caa5d79-2e54-47dc-ab18-2c01b8ae9be6
+md5	909bc068f19c3cf121ac15884b530f4e

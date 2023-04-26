@@ -1,0 +1,7 @@
+signId	1832
+text	boka
+imageUuid	d629930a-96d5-4b72-b19d-b3d5d0fc3420
+translationKey	6420ff02-ea56-454b-b115-b4a33b4c8d51
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d629930a-96d5-4b72-b19d-b3d5d0fc3420/6420ff02-ea56-454b-b115-b4a33b4c8d51/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d629930a-96d5-4b72-b19d-b3d5d0fc3420/6420ff02-ea56-454b-b115-b4a33b4c8d51
+md5	fecb39eac8f61ea377b6abd66691bd3f

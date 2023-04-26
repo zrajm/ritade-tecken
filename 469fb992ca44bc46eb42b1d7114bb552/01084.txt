@@ -1,0 +1,7 @@
+signId	1084
+text	nyckelpiga
+imageUuid	c153b21d-db72-439c-8d3e-d1eae21821a6
+translationKey	e5e8d5f3-5dc1-42cd-9537-2d53a6bc6641
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c153b21d-db72-439c-8d3e-d1eae21821a6/e5e8d5f3-5dc1-42cd-9537-2d53a6bc6641/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c153b21d-db72-439c-8d3e-d1eae21821a6/e5e8d5f3-5dc1-42cd-9537-2d53a6bc6641
+md5	469fb992ca44bc46eb42b1d7114bb552

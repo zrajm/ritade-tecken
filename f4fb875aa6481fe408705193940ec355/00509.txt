@@ -1,0 +1,7 @@
+signId	509
+text	gris 2
+imageUuid	bb8c36e3-93dd-4a03-87d0-13176a68f622
+translationKey	b8a25ad6-7798-47bd-a24b-c4205aedd1b1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bb8c36e3-93dd-4a03-87d0-13176a68f622/b8a25ad6-7798-47bd-a24b-c4205aedd1b1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bb8c36e3-93dd-4a03-87d0-13176a68f622/b8a25ad6-7798-47bd-a24b-c4205aedd1b1
+md5	f4fb875aa6481fe408705193940ec355

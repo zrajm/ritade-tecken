@@ -1,0 +1,8 @@
+
+signId	2603
+text	studenten
+imageUuid	29396bff-6060-4f80-92eb-a3e0b4867e4d
+translationKey	e9587d81-2d02-4ef5-844f-b480c5621062
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/29396bff-6060-4f80-92eb-a3e0b4867e4d/e9587d81-2d02-4ef5-844f-b480c5621062/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/29396bff-6060-4f80-92eb-a3e0b4867e4d/e9587d81-2d02-4ef5-844f-b480c5621062
+md5	082aa398d39100448e6d49481550ce0a

@@ -1,0 +1,7 @@
+signId	2597
+text	rollator
+imageUuid	14565093-a896-4d64-83ff-b76c9dffe374
+translationKey	37270850-022c-4514-bb49-375a2a0f44b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/14565093-a896-4d64-83ff-b76c9dffe374/37270850-022c-4514-bb49-375a2a0f44b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/14565093-a896-4d64-83ff-b76c9dffe374/37270850-022c-4514-bb49-375a2a0f44b8
+md5	f000936d35e93418b0fb451fcb279b4b

@@ -1,0 +1,8 @@
+
+signId	3023
+text	visir
+imageUuid	cf9f36c5-d13e-472a-81e0-add19d0af021
+translationKey	867b1935-1ce4-4e20-96d5-9da7209efcb7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cf9f36c5-d13e-472a-81e0-add19d0af021/867b1935-1ce4-4e20-96d5-9da7209efcb7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cf9f36c5-d13e-472a-81e0-add19d0af021/867b1935-1ce4-4e20-96d5-9da7209efcb7
+md5	1c1c649b82c8a685b664e35e3925f4de

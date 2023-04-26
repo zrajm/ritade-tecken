@@ -1,0 +1,7 @@
+signId	2905
+text	skalbagge
+imageUuid	438b8176-d480-4fa1-b155-385dc1151750
+translationKey	e3b0ee53-5a3d-495e-9937-80e66904d52b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/438b8176-d480-4fa1-b155-385dc1151750/e3b0ee53-5a3d-495e-9937-80e66904d52b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/438b8176-d480-4fa1-b155-385dc1151750/e3b0ee53-5a3d-495e-9937-80e66904d52b
+md5	2940871986431794f39233398a5d7fa3

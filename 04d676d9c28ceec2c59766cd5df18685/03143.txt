@@ -1,0 +1,7 @@
+signId	3143
+text	tät
+imageUuid	371facaa-66b5-4b4f-8abd-00546b6d2c42
+translationKey	4964e1be-4ea4-473f-8755-2fc5af8bccb0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/371facaa-66b5-4b4f-8abd-00546b6d2c42/4964e1be-4ea4-473f-8755-2fc5af8bccb0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/371facaa-66b5-4b4f-8abd-00546b6d2c42/4964e1be-4ea4-473f-8755-2fc5af8bccb0
+md5	04d676d9c28ceec2c59766cd5df18685

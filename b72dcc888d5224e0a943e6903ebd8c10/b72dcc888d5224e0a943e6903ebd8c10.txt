@@ -1,0 +1,8 @@
+
+signId	2701
+text	bikupa
+imageUuid	0ac4c2e0-c380-4c54-89b3-3cd80bb8d871
+translationKey	d8f66149-6670-472f-bd84-6ce1132ee1d7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0ac4c2e0-c380-4c54-89b3-3cd80bb8d871/d8f66149-6670-472f-bd84-6ce1132ee1d7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0ac4c2e0-c380-4c54-89b3-3cd80bb8d871/d8f66149-6670-472f-bd84-6ce1132ee1d7
+md5	b72dcc888d5224e0a943e6903ebd8c10

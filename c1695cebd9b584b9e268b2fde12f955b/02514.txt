@@ -1,0 +1,7 @@
+signId	2514
+text	Leksand
+imageUuid	05287718-f03e-4ad1-ad02-d09d4219a197
+translationKey	ee0c707f-8131-46a8-be93-750de0b8d63b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/05287718-f03e-4ad1-ad02-d09d4219a197/ee0c707f-8131-46a8-be93-750de0b8d63b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/05287718-f03e-4ad1-ad02-d09d4219a197/ee0c707f-8131-46a8-be93-750de0b8d63b
+md5	c1695cebd9b584b9e268b2fde12f955b

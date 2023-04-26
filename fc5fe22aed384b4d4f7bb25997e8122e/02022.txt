@@ -1,0 +1,7 @@
+signId	2022
+text	skägg
+imageUuid	197991e0-8083-449f-88f1-6f9a6bc6d85a
+translationKey	9cca2f0a-d694-4bf6-ad11-6dfd29777d3b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/197991e0-8083-449f-88f1-6f9a6bc6d85a/9cca2f0a-d694-4bf6-ad11-6dfd29777d3b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/197991e0-8083-449f-88f1-6f9a6bc6d85a/9cca2f0a-d694-4bf6-ad11-6dfd29777d3b
+md5	fc5fe22aed384b4d4f7bb25997e8122e

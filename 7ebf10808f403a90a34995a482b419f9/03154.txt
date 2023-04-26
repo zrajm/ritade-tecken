@@ -1,0 +1,7 @@
+signId	3154
+text	tretton 2
+imageUuid	f18b2dbe-35ec-4d15-aea1-4ce675c45324
+translationKey	3b91556b-e3c9-4ab3-b81c-df4a824f1cd3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f18b2dbe-35ec-4d15-aea1-4ce675c45324/3b91556b-e3c9-4ab3-b81c-df4a824f1cd3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f18b2dbe-35ec-4d15-aea1-4ce675c45324/3b91556b-e3c9-4ab3-b81c-df4a824f1cd3
+md5	7ebf10808f403a90a34995a482b419f9

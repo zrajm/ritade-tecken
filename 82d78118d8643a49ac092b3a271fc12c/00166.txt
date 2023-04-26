@@ -1,0 +1,7 @@
+signId	166
+text	boll
+imageUuid	7b21408d-e0de-4207-a74d-95f1f902a76b
+translationKey	b62e450a-1cc2-4535-9aaa-44b884585efe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7b21408d-e0de-4207-a74d-95f1f902a76b/b62e450a-1cc2-4535-9aaa-44b884585efe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7b21408d-e0de-4207-a74d-95f1f902a76b/b62e450a-1cc2-4535-9aaa-44b884585efe
+md5	84cec28b20aceeb561f76e31c699aeb1

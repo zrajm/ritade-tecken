@@ -1,0 +1,7 @@
+signId	3297
+text	näring
+imageUuid	a42dce20-0ef5-47fd-8a4e-23124d0a8949
+translationKey	2959bc62-8cca-4e16-89b3-5a8e7044cf74
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a42dce20-0ef5-47fd-8a4e-23124d0a8949/2959bc62-8cca-4e16-89b3-5a8e7044cf74/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a42dce20-0ef5-47fd-8a4e-23124d0a8949/2959bc62-8cca-4e16-89b3-5a8e7044cf74
+md5	4e46ea1d4385735af370f25dd6e421e1

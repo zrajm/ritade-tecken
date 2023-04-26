@@ -1,0 +1,8 @@
+
+signId	2958
+text	grytlapp
+imageUuid	6e9827b5-cac7-4c4c-8089-3d33b9379daa
+translationKey	be77307e-5732-4aaa-b64f-36414c812992
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6e9827b5-cac7-4c4c-8089-3d33b9379daa/be77307e-5732-4aaa-b64f-36414c812992/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6e9827b5-cac7-4c4c-8089-3d33b9379daa/be77307e-5732-4aaa-b64f-36414c812992
+md5	921e7084af62a1f2d998092063ef5f1d

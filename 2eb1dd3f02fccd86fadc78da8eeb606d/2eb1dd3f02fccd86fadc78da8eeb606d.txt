@@ -1,0 +1,8 @@
+
+signId	2512
+text	Shakespeare
+imageUuid	9781ed29-2188-4a2d-ac79-f52c2925c235
+translationKey	adba3789-5e11-4cdd-a7ed-212bd044458a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9781ed29-2188-4a2d-ac79-f52c2925c235/adba3789-5e11-4cdd-a7ed-212bd044458a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9781ed29-2188-4a2d-ac79-f52c2925c235/adba3789-5e11-4cdd-a7ed-212bd044458a
+md5	2eb1dd3f02fccd86fadc78da8eeb606d

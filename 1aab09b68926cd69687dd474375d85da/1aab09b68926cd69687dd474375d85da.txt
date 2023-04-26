@@ -1,0 +1,8 @@
+
+signId	3140
+text	tall
+imageUuid	265035ae-b892-4f02-9866-49638a7dc5c6
+translationKey	b66afbe7-4ed1-4a57-b3cb-3569576a0fdd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/265035ae-b892-4f02-9866-49638a7dc5c6/b66afbe7-4ed1-4a57-b3cb-3569576a0fdd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/265035ae-b892-4f02-9866-49638a7dc5c6/b66afbe7-4ed1-4a57-b3cb-3569576a0fdd
+md5	1aab09b68926cd69687dd474375d85da

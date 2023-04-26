@@ -1,0 +1,7 @@
+signId	1667
+text	tänka
+imageUuid	108228cd-ad47-430c-ba49-bf30a2f58292
+translationKey	ebd79040-2865-4843-93a8-a95b6bd48e1b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/108228cd-ad47-430c-ba49-bf30a2f58292/ebd79040-2865-4843-93a8-a95b6bd48e1b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/108228cd-ad47-430c-ba49-bf30a2f58292/ebd79040-2865-4843-93a8-a95b6bd48e1b
+md5	4c37e63ed09ada9b304bcc48234b9012

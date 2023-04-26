@@ -1,0 +1,8 @@
+
+signId	3219
+text	isbjörn
+imageUuid	3fb734d1-6d5d-4d26-9994-0c6e39066067
+translationKey	17c77452-2777-4ac7-9648-79c677c45989
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3fb734d1-6d5d-4d26-9994-0c6e39066067/17c77452-2777-4ac7-9648-79c677c45989/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3fb734d1-6d5d-4d26-9994-0c6e39066067/17c77452-2777-4ac7-9648-79c677c45989
+md5	e84eb2a15cd2d6425599f4f91b8a0ed7

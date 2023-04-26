@@ -1,0 +1,8 @@
+
+signId	3018
+text	staffli
+imageUuid	74c0258a-cd37-4727-8281-86d699d0bb7e
+translationKey	e9096069-64ec-47fb-8539-e65e1b412228
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/74c0258a-cd37-4727-8281-86d699d0bb7e/e9096069-64ec-47fb-8539-e65e1b412228/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/74c0258a-cd37-4727-8281-86d699d0bb7e/e9096069-64ec-47fb-8539-e65e1b412228
+md5	d4b8a6d66ccb4e5197783d0b31d712ab

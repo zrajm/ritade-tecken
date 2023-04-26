@@ -1,0 +1,16 @@
+
+signId	2805
+text	Öland
+imageUuid	5ca7cf70-b9f5-42ef-97d3-b4c7c9f9237c
+translationKey	3035cf98-28b7-445c-880d-6de51d1f8b66
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ca7cf70-b9f5-42ef-97d3-b4c7c9f9237c/3035cf98-28b7-445c-880d-6de51d1f8b66/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ca7cf70-b9f5-42ef-97d3-b4c7c9f9237c/3035cf98-28b7-445c-880d-6de51d1f8b66
+md5	a68c964e46cf0e528d7b8f639d1ef1f7
+
+signId	2871
+text	väderkvarn
+imageUuid	0349bde8-a8da-4a23-aca8-9d1ec5dfcfb5
+translationKey	d91ffaff-1420-48c1-adb7-ab401d5632fb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0349bde8-a8da-4a23-aca8-9d1ec5dfcfb5/d91ffaff-1420-48c1-adb7-ab401d5632fb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0349bde8-a8da-4a23-aca8-9d1ec5dfcfb5/d91ffaff-1420-48c1-adb7-ab401d5632fb
+md5	a68c964e46cf0e528d7b8f639d1ef1f7

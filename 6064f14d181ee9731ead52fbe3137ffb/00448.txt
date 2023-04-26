@@ -1,0 +1,7 @@
+signId	448
+text	för länge sedan
+imageUuid	e1b4d662-72e5-40f1-a33a-5601c7213232
+translationKey	957790cc-27c4-4fc7-ab41-0829f66d7b2b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e1b4d662-72e5-40f1-a33a-5601c7213232/957790cc-27c4-4fc7-ab41-0829f66d7b2b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e1b4d662-72e5-40f1-a33a-5601c7213232/957790cc-27c4-4fc7-ab41-0829f66d7b2b
+md5	6064f14d181ee9731ead52fbe3137ffb

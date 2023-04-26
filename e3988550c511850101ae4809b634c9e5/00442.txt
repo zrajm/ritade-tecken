@@ -1,0 +1,7 @@
+signId	442
+text	färgpenna
+imageUuid	5558f89b-6e6e-457b-b9cb-a2ecdfde2732
+translationKey	5f8545f6-3948-4785-8e7f-34bc115d2974
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5558f89b-6e6e-457b-b9cb-a2ecdfde2732/5f8545f6-3948-4785-8e7f-34bc115d2974/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5558f89b-6e6e-457b-b9cb-a2ecdfde2732/5f8545f6-3948-4785-8e7f-34bc115d2974
+md5	e3988550c511850101ae4809b634c9e5

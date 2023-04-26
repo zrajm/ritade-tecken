@@ -1,0 +1,7 @@
+signId	3153
+text	tretton 1
+imageUuid	7bf13000-86d3-46ca-9214-94fb15b08078
+translationKey	c2d09333-3de7-4a18-8d7c-0a4515c3bb06
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7bf13000-86d3-46ca-9214-94fb15b08078/c2d09333-3de7-4a18-8d7c-0a4515c3bb06/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7bf13000-86d3-46ca-9214-94fb15b08078/c2d09333-3de7-4a18-8d7c-0a4515c3bb06
+md5	ff69d263a9e05ac5b5204e2b880bb3a7

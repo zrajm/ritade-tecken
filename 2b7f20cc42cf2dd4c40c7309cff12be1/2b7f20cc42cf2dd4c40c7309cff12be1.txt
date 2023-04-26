@@ -1,0 +1,8 @@
+
+signId	264
+text	dimma
+imageUuid	c36b8df1-ad86-4d2f-af58-682b976813fb
+translationKey	4c677b1a-cdcc-4331-9c08-03ee1eb662b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c36b8df1-ad86-4d2f-af58-682b976813fb/4c677b1a-cdcc-4331-9c08-03ee1eb662b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c36b8df1-ad86-4d2f-af58-682b976813fb/4c677b1a-cdcc-4331-9c08-03ee1eb662b8
+md5	2b7f20cc42cf2dd4c40c7309cff12be1

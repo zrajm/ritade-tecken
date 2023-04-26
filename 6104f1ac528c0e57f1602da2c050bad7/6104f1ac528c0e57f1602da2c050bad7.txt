@@ -1,0 +1,8 @@
+
+signId	139
+text	bio
+imageUuid	b42b7a41-94fa-4004-b652-03684245ba67
+translationKey	58cbbecc-41ff-4d50-bdac-7d036277e53b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b42b7a41-94fa-4004-b652-03684245ba67/58cbbecc-41ff-4d50-bdac-7d036277e53b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b42b7a41-94fa-4004-b652-03684245ba67/58cbbecc-41ff-4d50-bdac-7d036277e53b
+md5	6104f1ac528c0e57f1602da2c050bad7

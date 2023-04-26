@@ -1,0 +1,7 @@
+signId	1498
+text	strö på
+imageUuid	93d73397-535c-44c1-9cfb-12f4fb13cce1
+translationKey	a1b5cbe5-e540-48bb-b473-caef0e625ce4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/93d73397-535c-44c1-9cfb-12f4fb13cce1/a1b5cbe5-e540-48bb-b473-caef0e625ce4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/93d73397-535c-44c1-9cfb-12f4fb13cce1/a1b5cbe5-e540-48bb-b473-caef0e625ce4
+md5	872028de72107ea45f90d76988e7017f

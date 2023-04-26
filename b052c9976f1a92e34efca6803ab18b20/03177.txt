@@ -1,0 +1,7 @@
+signId	3177
+text	pansarvagn
+imageUuid	dd985075-bb98-4b45-91b2-e9d6feb6366b
+translationKey	8bbb2413-cf73-48db-8351-66c817309ae0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dd985075-bb98-4b45-91b2-e9d6feb6366b/8bbb2413-cf73-48db-8351-66c817309ae0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dd985075-bb98-4b45-91b2-e9d6feb6366b/8bbb2413-cf73-48db-8351-66c817309ae0
+md5	b052c9976f1a92e34efca6803ab18b20

@@ -1,0 +1,8 @@
+
+signId	1935
+text	medalj 2
+imageUuid	7c42bd3c-0727-46e4-bbbd-9f0666a4c5db
+translationKey	54d1eee4-9a60-4193-9b98-f684b33ed700
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7c42bd3c-0727-46e4-bbbd-9f0666a4c5db/54d1eee4-9a60-4193-9b98-f684b33ed700/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7c42bd3c-0727-46e4-bbbd-9f0666a4c5db/54d1eee4-9a60-4193-9b98-f684b33ed700
+md5	1cba227f674babc746118fa5a67a7864

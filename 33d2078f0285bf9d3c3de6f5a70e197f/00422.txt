@@ -1,0 +1,7 @@
+signId	422
+text	fundering
+imageUuid	5c756568-2cc1-4958-a092-11c4dfec3bf0
+translationKey	e41ae43d-62c7-4972-996c-ed2f360c941a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5c756568-2cc1-4958-a092-11c4dfec3bf0/e41ae43d-62c7-4972-996c-ed2f360c941a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5c756568-2cc1-4958-a092-11c4dfec3bf0/e41ae43d-62c7-4972-996c-ed2f360c941a
+md5	33d2078f0285bf9d3c3de6f5a70e197f

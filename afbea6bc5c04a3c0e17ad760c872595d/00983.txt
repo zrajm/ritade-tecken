@@ -1,0 +1,7 @@
+signId	983
+text	mer (för adjektivböjning t.ex. bättre, äldre)
+imageUuid	06337578-2262-4e49-ac72-a92197a8c154
+translationKey	839b796e-0e02-4791-9ea3-453dce34c2c2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/06337578-2262-4e49-ac72-a92197a8c154/839b796e-0e02-4791-9ea3-453dce34c2c2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/06337578-2262-4e49-ac72-a92197a8c154/839b796e-0e02-4791-9ea3-453dce34c2c2
+md5	afbea6bc5c04a3c0e17ad760c872595d

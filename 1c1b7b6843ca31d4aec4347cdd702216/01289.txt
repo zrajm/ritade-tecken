@@ -1,0 +1,7 @@
+signId	1289
+text	sammanträde
+imageUuid	f7f6ea09-de26-4c3e-8092-af2b87522703
+translationKey	93ec2cee-c4c4-49f5-9936-84ff9ba01b4a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f7f6ea09-de26-4c3e-8092-af2b87522703/93ec2cee-c4c4-49f5-9936-84ff9ba01b4a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f7f6ea09-de26-4c3e-8092-af2b87522703/93ec2cee-c4c4-49f5-9936-84ff9ba01b4a
+md5	1c1b7b6843ca31d4aec4347cdd702216

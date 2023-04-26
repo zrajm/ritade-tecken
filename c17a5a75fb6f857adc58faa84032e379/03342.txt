@@ -1,0 +1,7 @@
+signId	3342
+text	romare
+imageUuid	8dfdd325-0356-4233-901f-5511905dda5a
+translationKey	714da932-2a1c-47e1-8694-a485e4b69085
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8dfdd325-0356-4233-901f-5511905dda5a/714da932-2a1c-47e1-8694-a485e4b69085/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8dfdd325-0356-4233-901f-5511905dda5a/714da932-2a1c-47e1-8694-a485e4b69085
+md5	c17a5a75fb6f857adc58faa84032e379

@@ -1,0 +1,7 @@
+signId	278
+text	dofta
+imageUuid	a33a36e2-2176-42a5-9041-79afddda84aa
+translationKey	7dbaddd6-1cf6-4719-ad39-6a69f81133b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a33a36e2-2176-42a5-9041-79afddda84aa/7dbaddd6-1cf6-4719-ad39-6a69f81133b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a33a36e2-2176-42a5-9041-79afddda84aa/7dbaddd6-1cf6-4719-ad39-6a69f81133b9
+md5	5bc2798effd9bc7374196bc8da5aa2ad

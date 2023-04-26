@@ -1,0 +1,7 @@
+signId	2632
+text	euro
+imageUuid	88998568-4f9e-4c00-870a-1b43c78d9eb6
+translationKey	de03746e-82a3-47ac-b7eb-e9bae1995b98
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/88998568-4f9e-4c00-870a-1b43c78d9eb6/de03746e-82a3-47ac-b7eb-e9bae1995b98/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/88998568-4f9e-4c00-870a-1b43c78d9eb6/de03746e-82a3-47ac-b7eb-e9bae1995b98
+md5	61bc663e8fcb28798720c1d9c87ad7da

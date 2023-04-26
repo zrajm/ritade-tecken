@@ -1,0 +1,8 @@
+
+signId	1997
+text	kedja
+imageUuid	74ba0719-d209-4537-98af-d1b2e4e86858
+translationKey	5256e6e9-4998-42b0-a369-67e29ad20862
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/74ba0719-d209-4537-98af-d1b2e4e86858/5256e6e9-4998-42b0-a369-67e29ad20862/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/74ba0719-d209-4537-98af-d1b2e4e86858/5256e6e9-4998-42b0-a369-67e29ad20862
+md5	2562a094ef60e20f9451c2cfe4141b30

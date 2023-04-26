@@ -1,0 +1,8 @@
+
+signId	1566
+text	taxi
+imageUuid	a14b97de-70cd-4b0c-898f-00b7a08c0076
+translationKey	eaecd1bf-7f71-4d73-b315-f6cbad7368c5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a14b97de-70cd-4b0c-898f-00b7a08c0076/eaecd1bf-7f71-4d73-b315-f6cbad7368c5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a14b97de-70cd-4b0c-898f-00b7a08c0076/eaecd1bf-7f71-4d73-b315-f6cbad7368c5
+md5	dee7fc2c2a2f3eac904f6f3bb4e0e23b

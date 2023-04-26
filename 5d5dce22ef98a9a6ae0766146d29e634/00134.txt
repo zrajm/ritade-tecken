@@ -1,0 +1,7 @@
+signId	134
+text	bikini
+imageUuid	35084884-12e7-4232-93cd-b83d11de703a
+translationKey	04533ab5-b7bb-46a7-aae2-3ab8ffe83120
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/35084884-12e7-4232-93cd-b83d11de703a/04533ab5-b7bb-46a7-aae2-3ab8ffe83120/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/35084884-12e7-4232-93cd-b83d11de703a/04533ab5-b7bb-46a7-aae2-3ab8ffe83120
+md5	5d5dce22ef98a9a6ae0766146d29e634

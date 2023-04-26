@@ -1,0 +1,7 @@
+signId	1728
+text	vild
+imageUuid	3bc47718-6640-4402-aa8a-d0de46becc4a
+translationKey	bf940e3c-420f-43fa-9fbe-8758b10d6edc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3bc47718-6640-4402-aa8a-d0de46becc4a/bf940e3c-420f-43fa-9fbe-8758b10d6edc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3bc47718-6640-4402-aa8a-d0de46becc4a/bf940e3c-420f-43fa-9fbe-8758b10d6edc
+md5	8d972d6c6b6a2db01d24095344da3578

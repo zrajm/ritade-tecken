@@ -1,0 +1,7 @@
+signId	1411
+text	snuva
+imageUuid	654045de-cbc4-4da5-871b-ce49f9f9fb9a
+translationKey	aa65c627-d10c-496a-9718-fcceac052f48
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/654045de-cbc4-4da5-871b-ce49f9f9fb9a/aa65c627-d10c-496a-9718-fcceac052f48/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/654045de-cbc4-4da5-871b-ce49f9f9fb9a/aa65c627-d10c-496a-9718-fcceac052f48
+md5	d84e39d68e4a2ff95b101e77226e0b3d

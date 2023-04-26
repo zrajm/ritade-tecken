@@ -1,0 +1,7 @@
+signId	1626
+text	träd
+imageUuid	13a56cd7-8109-445b-b671-302e65320252
+translationKey	d302daf3-6a93-48a6-9b0c-f3148a9c6e81
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/13a56cd7-8109-445b-b671-302e65320252/d302daf3-6a93-48a6-9b0c-f3148a9c6e81/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/13a56cd7-8109-445b-b671-302e65320252/d302daf3-6a93-48a6-9b0c-f3148a9c6e81
+md5	c602353ce5a3f406be2321e6cee2b33f

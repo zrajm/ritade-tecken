@@ -1,0 +1,7 @@
+signId	1941
+text	skvallra
+imageUuid	27b26f6d-4f5b-49f2-8d9f-b88af1dedde2
+translationKey	f36f138c-bcc5-442b-9e36-acce6ee60801
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/27b26f6d-4f5b-49f2-8d9f-b88af1dedde2/f36f138c-bcc5-442b-9e36-acce6ee60801/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/27b26f6d-4f5b-49f2-8d9f-b88af1dedde2/f36f138c-bcc5-442b-9e36-acce6ee60801
+md5	177280e82493e819fc7d8c6fa1900099

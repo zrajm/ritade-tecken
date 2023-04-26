@@ -1,0 +1,7 @@
+signId	3316
+text	kongress
+imageUuid	ee3b661f-f792-40eb-b6c1-7705278de8a3
+translationKey	9fe1c2ba-673d-43ab-b288-e81bacbf03a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ee3b661f-f792-40eb-b6c1-7705278de8a3/9fe1c2ba-673d-43ab-b288-e81bacbf03a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ee3b661f-f792-40eb-b6c1-7705278de8a3/9fe1c2ba-673d-43ab-b288-e81bacbf03a7
+md5	7474ef82fcbc9276a2c4e7455d03905b

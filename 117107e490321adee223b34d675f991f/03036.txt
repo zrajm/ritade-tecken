@@ -1,0 +1,7 @@
+signId	3036
+text	lekpark
+imageUuid	48fbfa56-589c-4f98-8b23-eb2b1546beb0
+translationKey	e127cd54-2024-49b8-ab79-e46fa25712a1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/48fbfa56-589c-4f98-8b23-eb2b1546beb0/e127cd54-2024-49b8-ab79-e46fa25712a1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/48fbfa56-589c-4f98-8b23-eb2b1546beb0/e127cd54-2024-49b8-ab79-e46fa25712a1
+md5	117107e490321adee223b34d675f991f

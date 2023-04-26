@@ -1,0 +1,7 @@
+signId	1057
+text	möta 2
+imageUuid	a54d948c-7a79-4872-9f27-e63815763845
+translationKey	0d6f10a4-b68c-4c65-bfda-4bc11a3eded3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a54d948c-7a79-4872-9f27-e63815763845/0d6f10a4-b68c-4c65-bfda-4bc11a3eded3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a54d948c-7a79-4872-9f27-e63815763845/0d6f10a4-b68c-4c65-bfda-4bc11a3eded3
+md5	78d4078114c3026d24851b5a658ca5af

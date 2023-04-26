@@ -1,0 +1,7 @@
+signId	2841
+text	en (siffra)
+imageUuid	a25c989f-dc48-46b2-a8f3-47416f2c5434
+translationKey	c1408435-b88b-48fa-aeec-df56ebcdf030
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a25c989f-dc48-46b2-a8f3-47416f2c5434/c1408435-b88b-48fa-aeec-df56ebcdf030/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a25c989f-dc48-46b2-a8f3-47416f2c5434/c1408435-b88b-48fa-aeec-df56ebcdf030
+md5	b4f9cfd2e56af7214cc9dd967962cc0e

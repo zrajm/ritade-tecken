@@ -1,0 +1,8 @@
+
+signId	1190
+text	prickar
+imageUuid	00a4074c-efb0-4324-9098-cd93d44f7577
+translationKey	8b375ef7-34cf-475b-88ec-55890fd544df
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/00a4074c-efb0-4324-9098-cd93d44f7577/8b375ef7-34cf-475b-88ec-55890fd544df/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/00a4074c-efb0-4324-9098-cd93d44f7577/8b375ef7-34cf-475b-88ec-55890fd544df
+md5	e4d5ead612214634c40544a7af0a0457

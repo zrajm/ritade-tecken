@@ -1,0 +1,7 @@
+signId	647
+text	hörn
+imageUuid	2ee0bb61-32bd-492b-b128-b992f24bc50f
+translationKey	5d8f72a2-ae34-4396-ae6d-a4457a498cf8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ee0bb61-32bd-492b-b128-b992f24bc50f/5d8f72a2-ae34-4396-ae6d-a4457a498cf8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ee0bb61-32bd-492b-b128-b992f24bc50f/5d8f72a2-ae34-4396-ae6d-a4457a498cf8
+md5	b2e580c250fd4296e5fc4e70f7fa35b6

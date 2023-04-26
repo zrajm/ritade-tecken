@@ -1,0 +1,7 @@
+signId	602
+text	hjärta 1
+imageUuid	552f9385-1431-40a6-8aff-22af8ce7fe9c
+translationKey	a819560f-f9eb-4b6e-8b4e-a84f3babb42c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/552f9385-1431-40a6-8aff-22af8ce7fe9c/a819560f-f9eb-4b6e-8b4e-a84f3babb42c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/552f9385-1431-40a6-8aff-22af8ce7fe9c/a819560f-f9eb-4b6e-8b4e-a84f3babb42c
+md5	148aee09ca0cfa274dc9fa31ccf1a168

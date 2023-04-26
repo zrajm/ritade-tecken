@@ -1,0 +1,7 @@
+signId	909
+text	logoped
+imageUuid	d581c2a0-9393-4d96-949b-31772d5a08d7
+translationKey	0e17d52a-1a6f-44d4-baec-2d9a7234558e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d581c2a0-9393-4d96-949b-31772d5a08d7/0e17d52a-1a6f-44d4-baec-2d9a7234558e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d581c2a0-9393-4d96-949b-31772d5a08d7/0e17d52a-1a6f-44d4-baec-2d9a7234558e
+md5	41d9789872838b49561eb3fdda499910

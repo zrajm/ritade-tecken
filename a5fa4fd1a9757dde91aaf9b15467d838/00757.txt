@@ -1,0 +1,7 @@
+signId	757
+text	klubb
+imageUuid	389daf92-ba4b-489b-b7be-6acec658d714
+translationKey	da6b9690-8854-4be4-bbb8-6a80322f82c9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/389daf92-ba4b-489b-b7be-6acec658d714/da6b9690-8854-4be4-bbb8-6a80322f82c9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/389daf92-ba4b-489b-b7be-6acec658d714/da6b9690-8854-4be4-bbb8-6a80322f82c9
+md5	a5fa4fd1a9757dde91aaf9b15467d838

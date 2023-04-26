@@ -1,0 +1,7 @@
+signId	2631
+text	deodorant
+imageUuid	8df57a7a-6c99-4bf1-9f3b-f6133ad26316
+translationKey	52cf5317-8044-4637-a79e-d44b3f88da5f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8df57a7a-6c99-4bf1-9f3b-f6133ad26316/52cf5317-8044-4637-a79e-d44b3f88da5f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8df57a7a-6c99-4bf1-9f3b-f6133ad26316/52cf5317-8044-4637-a79e-d44b3f88da5f
+md5	5172da6ffa19c725385537090a3b33f7

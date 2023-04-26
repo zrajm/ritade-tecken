@@ -1,0 +1,8 @@
+
+signId	819
+text	kräkas
+imageUuid	65e778e6-6e0e-48f3-b7b3-2a89ec3ed31c
+translationKey	df06b8a5-250e-4ecc-97e0-e748ceca7319
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/65e778e6-6e0e-48f3-b7b3-2a89ec3ed31c/df06b8a5-250e-4ecc-97e0-e748ceca7319/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/65e778e6-6e0e-48f3-b7b3-2a89ec3ed31c/df06b8a5-250e-4ecc-97e0-e748ceca7319
+md5	071fcaf36d18b76daf89ceef04f81330

@@ -1,0 +1,7 @@
+signId	428
+text	fuska
+imageUuid	f7846ebc-d6ef-4ade-a2c5-31db5aa8e47e
+translationKey	41544673-b522-4673-b3a0-007963580005
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f7846ebc-d6ef-4ade-a2c5-31db5aa8e47e/41544673-b522-4673-b3a0-007963580005/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f7846ebc-d6ef-4ade-a2c5-31db5aa8e47e/41544673-b522-4673-b3a0-007963580005
+md5	071d66bb5938c5aab95b4eff091c4bbf

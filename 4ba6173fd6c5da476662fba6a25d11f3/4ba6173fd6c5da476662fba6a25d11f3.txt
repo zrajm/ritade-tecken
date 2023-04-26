@@ -1,0 +1,8 @@
+
+signId	1240
+text	restaurang
+imageUuid	bba5fee0-a967-4a4c-a782-815069643a01
+translationKey	00125e03-3ea6-48d7-b682-50695709501e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bba5fee0-a967-4a4c-a782-815069643a01/00125e03-3ea6-48d7-b682-50695709501e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bba5fee0-a967-4a4c-a782-815069643a01/00125e03-3ea6-48d7-b682-50695709501e
+md5	4ba6173fd6c5da476662fba6a25d11f3

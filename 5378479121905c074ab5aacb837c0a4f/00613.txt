@@ -1,0 +1,7 @@
+signId	613
+text	hund
+imageUuid	289dac07-5a93-4a41-b0b9-f34e656191a5
+translationKey	379ed751-eaec-475b-9ad0-d90244391b99
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/289dac07-5a93-4a41-b0b9-f34e656191a5/379ed751-eaec-475b-9ad0-d90244391b99/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/289dac07-5a93-4a41-b0b9-f34e656191a5/379ed751-eaec-475b-9ad0-d90244391b99
+md5	5378479121905c074ab5aacb837c0a4f

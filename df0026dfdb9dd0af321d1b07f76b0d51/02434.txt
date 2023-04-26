@@ -1,0 +1,7 @@
+signId	2434
+text	lussebulle
+imageUuid	a480361d-6c6b-47a9-8340-2dce1fcda4ee
+translationKey	b6c4b453-d915-4ab0-8094-3d94d206b7d4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a480361d-6c6b-47a9-8340-2dce1fcda4ee/b6c4b453-d915-4ab0-8094-3d94d206b7d4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a480361d-6c6b-47a9-8340-2dce1fcda4ee/b6c4b453-d915-4ab0-8094-3d94d206b7d4
+md5	df0026dfdb9dd0af321d1b07f76b0d51

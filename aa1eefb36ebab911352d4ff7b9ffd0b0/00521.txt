@@ -1,0 +1,7 @@
+signId	521
+text	grönsaker
+imageUuid	2363f817-bd4e-4cf0-a062-dcc1df44cdf0
+translationKey	c269c8a4-1a12-483e-bf55-78c2bbeaebc7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2363f817-bd4e-4cf0-a062-dcc1df44cdf0/c269c8a4-1a12-483e-bf55-78c2bbeaebc7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2363f817-bd4e-4cf0-a062-dcc1df44cdf0/c269c8a4-1a12-483e-bf55-78c2bbeaebc7
+md5	aa1eefb36ebab911352d4ff7b9ffd0b0

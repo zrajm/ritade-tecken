@@ -1,0 +1,8 @@
+
+signId	3378
+text	alkohol
+imageUuid	6a0f6d80-6a39-47bf-a584-713b8d643312
+translationKey	7005f7ea-da98-4140-982e-61acd40a44c5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6a0f6d80-6a39-47bf-a584-713b8d643312/7005f7ea-da98-4140-982e-61acd40a44c5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6a0f6d80-6a39-47bf-a584-713b8d643312/7005f7ea-da98-4140-982e-61acd40a44c5
+md5	1dde64883019c109f2fa8afa57c04603

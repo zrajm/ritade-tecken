@@ -1,0 +1,8 @@
+
+signId	858
+text	L (bokstav)
+imageUuid	cf7e98b9-f9a7-42ff-aa43-e9e36d7b99f5
+translationKey	2dda9eda-6477-496b-9632-1182a564ae83
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cf7e98b9-f9a7-42ff-aa43-e9e36d7b99f5/2dda9eda-6477-496b-9632-1182a564ae83/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cf7e98b9-f9a7-42ff-aa43-e9e36d7b99f5/2dda9eda-6477-496b-9632-1182a564ae83
+md5	99346258d0b932fa383c746cee1e6546

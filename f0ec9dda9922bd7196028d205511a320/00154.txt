@@ -1,0 +1,7 @@
+signId	154
+text	blåsa
+imageUuid	7221ff6e-d073-4109-ab02-d76b4d012449
+translationKey	221589e7-976e-447e-9253-1fc91c89a9e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7221ff6e-d073-4109-ab02-d76b4d012449/221589e7-976e-447e-9253-1fc91c89a9e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7221ff6e-d073-4109-ab02-d76b4d012449/221589e7-976e-447e-9253-1fc91c89a9e1
+md5	21ec10876c5b4f7fb60d1062504b07b0

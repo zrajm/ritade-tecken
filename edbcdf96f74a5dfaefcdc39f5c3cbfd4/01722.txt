@@ -1,0 +1,7 @@
+signId	1722
+text	veta
+imageUuid	521659fc-2a32-4821-8b9e-a02f2c24cea3
+translationKey	c6adffa0-67c3-4cbc-ae07-9eb8724fa417
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/521659fc-2a32-4821-8b9e-a02f2c24cea3/c6adffa0-67c3-4cbc-ae07-9eb8724fa417/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/521659fc-2a32-4821-8b9e-a02f2c24cea3/c6adffa0-67c3-4cbc-ae07-9eb8724fa417
+md5	edbcdf96f74a5dfaefcdc39f5c3cbfd4

@@ -1,0 +1,7 @@
+signId	3425
+text	upprepa
+imageUuid	1ce3b126-443a-452b-a9f4-28efadb14701
+translationKey	da3501a0-784f-4392-8868-bb0bc47f9fcf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1ce3b126-443a-452b-a9f4-28efadb14701/da3501a0-784f-4392-8868-bb0bc47f9fcf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1ce3b126-443a-452b-a9f4-28efadb14701/da3501a0-784f-4392-8868-bb0bc47f9fcf
+md5	43767483a9e994ce0d506c220b924075

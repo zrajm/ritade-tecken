@@ -1,0 +1,7 @@
+signId	2125
+text	klister
+imageUuid	d861e2b2-45d0-4927-96ef-09f7d9c7f55d
+translationKey	099a10d3-b01a-4ab0-a722-32c57f581c0c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d861e2b2-45d0-4927-96ef-09f7d9c7f55d/099a10d3-b01a-4ab0-a722-32c57f581c0c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d861e2b2-45d0-4927-96ef-09f7d9c7f55d/099a10d3-b01a-4ab0-a722-32c57f581c0c
+md5	cbf81c894cf6a0d47db446f7efa11502

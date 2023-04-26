@@ -1,0 +1,8 @@
+
+signId	90
+text	badkar
+imageUuid	80308a27-65d1-411f-b47c-b7136a464065
+translationKey	d9ef9ab1-743c-4240-a8fc-72ed33cced65
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/80308a27-65d1-411f-b47c-b7136a464065/d9ef9ab1-743c-4240-a8fc-72ed33cced65/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/80308a27-65d1-411f-b47c-b7136a464065/d9ef9ab1-743c-4240-a8fc-72ed33cced65
+md5	77577bda5c263919f1c931a05748d916

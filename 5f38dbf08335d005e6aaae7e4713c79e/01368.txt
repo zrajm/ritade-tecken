@@ -1,0 +1,7 @@
+signId	1368
+text	skynda
+imageUuid	0f802f63-da53-4366-9080-0002109cb4a3
+translationKey	c699f6a8-3524-4bbe-b132-966e9012c7ef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0f802f63-da53-4366-9080-0002109cb4a3/c699f6a8-3524-4bbe-b132-966e9012c7ef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0f802f63-da53-4366-9080-0002109cb4a3/c699f6a8-3524-4bbe-b132-966e9012c7ef
+md5	5f38dbf08335d005e6aaae7e4713c79e

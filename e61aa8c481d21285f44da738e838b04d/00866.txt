@@ -1,0 +1,7 @@
+signId	866
+text	lamm
+imageUuid	b1d43051-7fb4-469c-b8de-cb36060234a0
+translationKey	07477311-63f8-468a-aed8-67cfd7fd6039
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b1d43051-7fb4-469c-b8de-cb36060234a0/07477311-63f8-468a-aed8-67cfd7fd6039/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b1d43051-7fb4-469c-b8de-cb36060234a0/07477311-63f8-468a-aed8-67cfd7fd6039
+md5	e61aa8c481d21285f44da738e838b04d

@@ -1,0 +1,8 @@
+
+signId	1423
+text	soffa
+imageUuid	470755b8-f6f7-4ba4-8bfb-6d133772e029
+translationKey	72a677e5-c216-4173-8a6c-ee0bed1025c2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/470755b8-f6f7-4ba4-8bfb-6d133772e029/72a677e5-c216-4173-8a6c-ee0bed1025c2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/470755b8-f6f7-4ba4-8bfb-6d133772e029/72a677e5-c216-4173-8a6c-ee0bed1025c2
+md5	cb85ad5d4fb0ad1864b98bb8a633499e

@@ -1,0 +1,7 @@
+signId	2719
+text	kompass
+imageUuid	a056f818-c15b-432d-a024-3038ccec5556
+translationKey	caaee9a8-0544-4b15-aeab-31990b1dd2c6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a056f818-c15b-432d-a024-3038ccec5556/caaee9a8-0544-4b15-aeab-31990b1dd2c6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a056f818-c15b-432d-a024-3038ccec5556/caaee9a8-0544-4b15-aeab-31990b1dd2c6
+md5	45dbd053b6f9a4c7023e6f3b155d2a61

@@ -1,0 +1,8 @@
+
+signId	1536
+text	såg
+imageUuid	8fdd48e8-e6e2-494c-b2c8-af15469ab81f
+translationKey	894e038a-9512-4581-ace3-1f637a6cdccc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8fdd48e8-e6e2-494c-b2c8-af15469ab81f/894e038a-9512-4581-ace3-1f637a6cdccc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8fdd48e8-e6e2-494c-b2c8-af15469ab81f/894e038a-9512-4581-ace3-1f637a6cdccc
+md5	a8c6b750d0169ed3f5803f5a8ba631db

@@ -1,0 +1,7 @@
+signId	1636
+text	tuff
+imageUuid	b02bfc52-c97e-42a0-a0dd-300476509c8f
+translationKey	c94521f8-c767-46ff-8f92-33581fd5a7ef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b02bfc52-c97e-42a0-a0dd-300476509c8f/c94521f8-c767-46ff-8f92-33581fd5a7ef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b02bfc52-c97e-42a0-a0dd-300476509c8f/c94521f8-c767-46ff-8f92-33581fd5a7ef
+md5	cad88bfe42287d5f402fd2770c091d8e

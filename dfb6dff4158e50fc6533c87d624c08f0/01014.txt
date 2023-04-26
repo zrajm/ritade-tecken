@@ -1,0 +1,7 @@
+signId	1014
+text	mormor
+imageUuid	841e1902-56c8-4da1-aac5-d38adaa6b088
+translationKey	c677061d-c90e-44df-b154-d0947ac79530
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/841e1902-56c8-4da1-aac5-d38adaa6b088/c677061d-c90e-44df-b154-d0947ac79530/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/841e1902-56c8-4da1-aac5-d38adaa6b088/c677061d-c90e-44df-b154-d0947ac79530
+md5	dfb6dff4158e50fc6533c87d624c08f0

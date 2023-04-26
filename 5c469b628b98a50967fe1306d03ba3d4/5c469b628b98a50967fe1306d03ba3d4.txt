@@ -1,0 +1,16 @@
+
+signId	416
+text	fräck
+imageUuid	fdd3029f-7026-4403-ac90-3f496093142c
+translationKey	6938840f-47eb-4ebc-8d5b-84b90204dd23
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fdd3029f-7026-4403-ac90-3f496093142c/6938840f-47eb-4ebc-8d5b-84b90204dd23/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fdd3029f-7026-4403-ac90-3f496093142c/6938840f-47eb-4ebc-8d5b-84b90204dd23
+md5	5c469b628b98a50967fe1306d03ba3d4
+
+signId	2153
+text	svära
+imageUuid	c4471801-6cdc-425e-87c3-cc93456345af
+translationKey	e3fb4725-7c29-4fce-a50e-6ea9713e8f8e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c4471801-6cdc-425e-87c3-cc93456345af/e3fb4725-7c29-4fce-a50e-6ea9713e8f8e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c4471801-6cdc-425e-87c3-cc93456345af/e3fb4725-7c29-4fce-a50e-6ea9713e8f8e
+md5	5c469b628b98a50967fe1306d03ba3d4

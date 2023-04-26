@@ -1,0 +1,8 @@
+
+signId	1019
+text	motorcykel
+imageUuid	538d2b87-547d-48b0-9f0d-551e1f3e5c1f
+translationKey	e8a51756-1a0b-4a90-aa22-1b87c74b56c8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/538d2b87-547d-48b0-9f0d-551e1f3e5c1f/e8a51756-1a0b-4a90-aa22-1b87c74b56c8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/538d2b87-547d-48b0-9f0d-551e1f3e5c1f/e8a51756-1a0b-4a90-aa22-1b87c74b56c8
+md5	3a4df804c8293ea10af404282eb4a2ee

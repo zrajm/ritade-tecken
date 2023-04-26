@@ -1,0 +1,7 @@
+signId	386
+text	fluga
+imageUuid	3e1fe3d4-c8bb-457e-a5db-b9eb93c9a7d7
+translationKey	6fb562b7-0efb-44b8-a16e-2b49ea12b60a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3e1fe3d4-c8bb-457e-a5db-b9eb93c9a7d7/6fb562b7-0efb-44b8-a16e-2b49ea12b60a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3e1fe3d4-c8bb-457e-a5db-b9eb93c9a7d7/6fb562b7-0efb-44b8-a16e-2b49ea12b60a
+md5	71a1585548386cf89c5eee6a493ae0aa

@@ -1,0 +1,7 @@
+signId	1425
+text	solen går ned
+imageUuid	632ad4f7-c380-4ac1-8a6b-1115b9d08aff
+translationKey	d999ec74-2a7e-45b3-89dc-fb0212b1ce02
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/632ad4f7-c380-4ac1-8a6b-1115b9d08aff/d999ec74-2a7e-45b3-89dc-fb0212b1ce02/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/632ad4f7-c380-4ac1-8a6b-1115b9d08aff/d999ec74-2a7e-45b3-89dc-fb0212b1ce02
+md5	c5f5657ced81e654a31a16a0b01f0c72

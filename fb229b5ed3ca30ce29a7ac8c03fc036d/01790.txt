@@ -1,0 +1,7 @@
+signId	1790
+text	åsna
+imageUuid	f5277fe9-092b-4231-ab1f-82317d8994f0
+translationKey	ed27cdcb-f92b-4f7b-8e61-6069e72fe1b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f5277fe9-092b-4231-ab1f-82317d8994f0/ed27cdcb-f92b-4f7b-8e61-6069e72fe1b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f5277fe9-092b-4231-ab1f-82317d8994f0/ed27cdcb-f92b-4f7b-8e61-6069e72fe1b4
+md5	fb229b5ed3ca30ce29a7ac8c03fc036d

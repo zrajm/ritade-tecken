@@ -1,0 +1,8 @@
+
+signId	706
+text	K (bokstav)
+imageUuid	561b2f1c-0802-4e31-9e44-18d8ba0470e5
+translationKey	f8c59445-6ff7-499a-b680-2ff64d70024c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/561b2f1c-0802-4e31-9e44-18d8ba0470e5/f8c59445-6ff7-499a-b680-2ff64d70024c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/561b2f1c-0802-4e31-9e44-18d8ba0470e5/f8c59445-6ff7-499a-b680-2ff64d70024c
+md5	6a18e03c9c383696d0e1ea79ed9a32fe

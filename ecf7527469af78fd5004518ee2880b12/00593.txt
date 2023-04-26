@@ -1,0 +1,7 @@
+signId	593
+text	hinna (i tid)
+imageUuid	b31ca29b-709e-4a9e-bd9f-530ddaf89e21
+translationKey	36516f0c-9bc4-45d1-9122-703e44f18bda
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b31ca29b-709e-4a9e-bd9f-530ddaf89e21/36516f0c-9bc4-45d1-9122-703e44f18bda/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b31ca29b-709e-4a9e-bd9f-530ddaf89e21/36516f0c-9bc4-45d1-9122-703e44f18bda
+md5	ecf7527469af78fd5004518ee2880b12

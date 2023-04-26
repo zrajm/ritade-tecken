@@ -1,0 +1,8 @@
+
+signId	1959
+text	flytta 1
+imageUuid	6f7f03b8-b9a0-4e1f-b79a-4f3c97ed9e5e
+translationKey	0335dae3-5307-46fe-bfce-10f6a1f286fe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6f7f03b8-b9a0-4e1f-b79a-4f3c97ed9e5e/0335dae3-5307-46fe-bfce-10f6a1f286fe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6f7f03b8-b9a0-4e1f-b79a-4f3c97ed9e5e/0335dae3-5307-46fe-bfce-10f6a1f286fe
+md5	e884731392d0f8405cead24c91f6fc38

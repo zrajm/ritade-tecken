@@ -1,0 +1,16 @@
+
+signId	810
+text	krock
+imageUuid	48f033c4-4664-456a-8dcb-f99db479c4ca
+translationKey	99007cd4-82cc-4c4f-be80-49769dc939e3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/48f033c4-4664-456a-8dcb-f99db479c4ca/99007cd4-82cc-4c4f-be80-49769dc939e3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/48f033c4-4664-456a-8dcb-f99db479c4ca/99007cd4-82cc-4c4f-be80-49769dc939e3
+md5	be5e8bf06a03f75eeb8dc2abbf453b19
+
+signId	811
+text	krocka
+imageUuid	a01bf43e-ff54-4905-9146-2edff2830d77
+translationKey	aa76e2b8-bdef-45e4-b15a-1ea9f11d9759
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a01bf43e-ff54-4905-9146-2edff2830d77/aa76e2b8-bdef-45e4-b15a-1ea9f11d9759/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a01bf43e-ff54-4905-9146-2edff2830d77/aa76e2b8-bdef-45e4-b15a-1ea9f11d9759
+md5	be5e8bf06a03f75eeb8dc2abbf453b19

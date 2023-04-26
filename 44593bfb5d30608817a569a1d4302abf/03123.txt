@@ -1,0 +1,7 @@
+signId	3123
+text	ledamot
+imageUuid	773679ac-4c90-40fb-88d8-9486a950fbe2
+translationKey	f449e911-da92-42ef-8176-7e0213ed9dbe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/773679ac-4c90-40fb-88d8-9486a950fbe2/f449e911-da92-42ef-8176-7e0213ed9dbe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/773679ac-4c90-40fb-88d8-9486a950fbe2/f449e911-da92-42ef-8176-7e0213ed9dbe
+md5	44593bfb5d30608817a569a1d4302abf

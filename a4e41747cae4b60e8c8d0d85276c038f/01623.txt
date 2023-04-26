@@ -1,0 +1,7 @@
+signId	1623
+text	tråd
+imageUuid	bb856778-a96d-4e3c-8aa2-ea7032bbe061
+translationKey	a1fe024d-cdd1-4955-b902-edeff0622da2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bb856778-a96d-4e3c-8aa2-ea7032bbe061/a1fe024d-cdd1-4955-b902-edeff0622da2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bb856778-a96d-4e3c-8aa2-ea7032bbe061/a1fe024d-cdd1-4955-b902-edeff0622da2
+md5	a4e41747cae4b60e8c8d0d85276c038f

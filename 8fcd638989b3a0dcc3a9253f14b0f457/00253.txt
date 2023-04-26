@@ -1,0 +1,7 @@
+signId	253
+text	december
+imageUuid	e3786376-61ed-4d75-81ea-455f45a352b8
+translationKey	a0d8fa37-8b43-4510-bd56-7d6439632503
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e3786376-61ed-4d75-81ea-455f45a352b8/a0d8fa37-8b43-4510-bd56-7d6439632503/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e3786376-61ed-4d75-81ea-455f45a352b8/a0d8fa37-8b43-4510-bd56-7d6439632503
+md5	8fcd638989b3a0dcc3a9253f14b0f457

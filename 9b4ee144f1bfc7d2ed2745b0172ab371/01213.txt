@@ -1,0 +1,7 @@
+signId	1213
+text	påsk
+imageUuid	a351fc62-3714-4ef8-ae9f-9cbeda974174
+translationKey	0c5d9a1f-9ebd-4552-b609-ef3b9ffc3079
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a351fc62-3714-4ef8-ae9f-9cbeda974174/0c5d9a1f-9ebd-4552-b609-ef3b9ffc3079/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a351fc62-3714-4ef8-ae9f-9cbeda974174/0c5d9a1f-9ebd-4552-b609-ef3b9ffc3079
+md5	162d80b20cc57520832d38910ac2eedf

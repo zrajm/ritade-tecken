@@ -1,0 +1,7 @@
+signId	2276
+text	haj
+imageUuid	7091ba51-7392-4f18-a956-090c9eb37ac6
+translationKey	498504c8-16dd-43e8-af4c-87e96f528896
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7091ba51-7392-4f18-a956-090c9eb37ac6/498504c8-16dd-43e8-af4c-87e96f528896/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7091ba51-7392-4f18-a956-090c9eb37ac6/498504c8-16dd-43e8-af4c-87e96f528896
+md5	c21b91b9213686861cdd808d94e744fb

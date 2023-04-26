@@ -1,0 +1,7 @@
+signId	916
+text	lyckas
+imageUuid	5ced1349-7d00-4c1d-ae87-261118c17d82
+translationKey	72da3668-fa94-4f74-a353-0306892dcec9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5ced1349-7d00-4c1d-ae87-261118c17d82/72da3668-fa94-4f74-a353-0306892dcec9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5ced1349-7d00-4c1d-ae87-261118c17d82/72da3668-fa94-4f74-a353-0306892dcec9
+md5	ecf7527469af78fd5004518ee2880b12

@@ -1,0 +1,7 @@
+signId	646
+text	höra
+imageUuid	81fd3018-8ba5-4726-9ab6-4f09f5a31945
+translationKey	ca20cd0b-eecc-4a96-a0e8-657cd562476b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/81fd3018-8ba5-4726-9ab6-4f09f5a31945/ca20cd0b-eecc-4a96-a0e8-657cd562476b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/81fd3018-8ba5-4726-9ab6-4f09f5a31945/ca20cd0b-eecc-4a96-a0e8-657cd562476b
+md5	b6338df4b2ef977e8fac9012ab02e915

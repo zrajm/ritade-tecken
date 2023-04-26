@@ -1,0 +1,7 @@
+signId	2155
+text	undervisa 1
+imageUuid	27ab2afb-66b2-419b-a9eb-460d1016ede9
+translationKey	6605f69e-a269-427c-ba74-611ea4b5002a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/27ab2afb-66b2-419b-a9eb-460d1016ede9/6605f69e-a269-427c-ba74-611ea4b5002a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/27ab2afb-66b2-419b-a9eb-460d1016ede9/6605f69e-a269-427c-ba74-611ea4b5002a
+md5	a3d7873cdbef2c2d217715ed92e634f5

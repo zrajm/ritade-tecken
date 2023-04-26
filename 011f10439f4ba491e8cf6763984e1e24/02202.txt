@@ -1,0 +1,7 @@
+signId	2202
+text	täcke
+imageUuid	b74cdb73-9ea9-4f90-95f4-f4cfe59793a1
+translationKey	6bf8d2d5-5af1-49d7-b948-79de2642d738
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b74cdb73-9ea9-4f90-95f4-f4cfe59793a1/6bf8d2d5-5af1-49d7-b948-79de2642d738/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b74cdb73-9ea9-4f90-95f4-f4cfe59793a1/6bf8d2d5-5af1-49d7-b948-79de2642d738
+md5	011f10439f4ba491e8cf6763984e1e24

@@ -1,0 +1,7 @@
+signId	976
+text	medel 2
+imageUuid	625a4c1b-1c31-4d34-8366-a5f4a9cec75f
+translationKey	0c673889-9f9e-410e-9596-586c05d0d76b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/625a4c1b-1c31-4d34-8366-a5f4a9cec75f/0c673889-9f9e-410e-9596-586c05d0d76b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/625a4c1b-1c31-4d34-8366-a5f4a9cec75f/0c673889-9f9e-410e-9596-586c05d0d76b
+md5	d23bb324ca62d96e199d675352baea16

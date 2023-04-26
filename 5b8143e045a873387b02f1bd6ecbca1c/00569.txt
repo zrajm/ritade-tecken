@@ -1,0 +1,7 @@
+signId	569
+text	handla (köpa)
+imageUuid	9dce180b-1931-4c2e-9497-be257b786a21
+translationKey	fdb9edd0-5f4e-450e-8bbc-d70775bc8c14
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9dce180b-1931-4c2e-9497-be257b786a21/fdb9edd0-5f4e-450e-8bbc-d70775bc8c14/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9dce180b-1931-4c2e-9497-be257b786a21/fdb9edd0-5f4e-450e-8bbc-d70775bc8c14
+md5	5b8143e045a873387b02f1bd6ecbca1c

@@ -1,0 +1,7 @@
+signId	2935
+text	huvtröja
+imageUuid	df0302ee-38ae-49b8-9d52-dcc4faed6c1c
+translationKey	aa9d5a51-f723-422b-9294-b1b80152d7c6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/df0302ee-38ae-49b8-9d52-dcc4faed6c1c/aa9d5a51-f723-422b-9294-b1b80152d7c6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/df0302ee-38ae-49b8-9d52-dcc4faed6c1c/aa9d5a51-f723-422b-9294-b1b80152d7c6
+md5	ff4574f7b7e3bd10d0d8ee7bc0097bfa

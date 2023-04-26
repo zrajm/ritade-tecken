@@ -1,0 +1,7 @@
+signId	340
+text	falsk
+imageUuid	3cbcf0f7-4892-42c1-980c-3037715002e5
+translationKey	98e471ad-f671-4955-b952-7b1355eeca7f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3cbcf0f7-4892-42c1-980c-3037715002e5/98e471ad-f671-4955-b952-7b1355eeca7f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3cbcf0f7-4892-42c1-980c-3037715002e5/98e471ad-f671-4955-b952-7b1355eeca7f
+md5	071d66bb5938c5aab95b4eff091c4bbf

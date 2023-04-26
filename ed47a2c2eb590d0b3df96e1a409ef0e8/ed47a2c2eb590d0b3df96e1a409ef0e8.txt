@@ -1,0 +1,8 @@
+
+signId	3092
+text	FN
+imageUuid	3fa3da1e-c63c-4842-bc7f-84adf5c27999
+translationKey	4c987116-6c78-4a0e-be9e-e0624c8e7117
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3fa3da1e-c63c-4842-bc7f-84adf5c27999/4c987116-6c78-4a0e-be9e-e0624c8e7117/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3fa3da1e-c63c-4842-bc7f-84adf5c27999/4c987116-6c78-4a0e-be9e-e0624c8e7117
+md5	ed47a2c2eb590d0b3df96e1a409ef0e8

@@ -1,0 +1,7 @@
+signId	2569
+text	bibliotekarie
+imageUuid	6646ddcc-7733-4bfa-aa1e-8ad2fe5cdf0f
+translationKey	b461d3ca-7558-49ec-8733-cd253cf85821
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6646ddcc-7733-4bfa-aa1e-8ad2fe5cdf0f/b461d3ca-7558-49ec-8733-cd253cf85821/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6646ddcc-7733-4bfa-aa1e-8ad2fe5cdf0f/b461d3ca-7558-49ec-8733-cd253cf85821
+md5	5bcd62229bd24eb0ea5b0c55ceb03c2a

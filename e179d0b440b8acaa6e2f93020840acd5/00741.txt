@@ -1,0 +1,7 @@
+signId	741
+text	kiosk
+imageUuid	3f0b9ed7-38fa-4a3b-832a-6558c95f3d70
+translationKey	a7d7adc2-8d10-4a85-bbe3-b0a5c0d61cdb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3f0b9ed7-38fa-4a3b-832a-6558c95f3d70/a7d7adc2-8d10-4a85-bbe3-b0a5c0d61cdb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3f0b9ed7-38fa-4a3b-832a-6558c95f3d70/a7d7adc2-8d10-4a85-bbe3-b0a5c0d61cdb
+md5	e179d0b440b8acaa6e2f93020840acd5

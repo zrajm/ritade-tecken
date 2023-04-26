@@ -1,0 +1,7 @@
+signId	1141
+text	parfym
+imageUuid	eb5bcc8e-67c1-4b0e-8037-8c28af60edd2
+translationKey	453b052a-9ce1-4d0e-a0fb-be1f5f842eb6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eb5bcc8e-67c1-4b0e-8037-8c28af60edd2/453b052a-9ce1-4d0e-a0fb-be1f5f842eb6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eb5bcc8e-67c1-4b0e-8037-8c28af60edd2/453b052a-9ce1-4d0e-a0fb-be1f5f842eb6
+md5	d2dd55bd88f15082d1fde38374a68648

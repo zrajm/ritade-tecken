@@ -1,0 +1,8 @@
+
+signId	2393
+text	slingra
+imageUuid	2ad128db-5c21-4ab8-8f9d-e786bb035dbd
+translationKey	dbd3b8b3-c56e-4d5c-90f2-179b558bf508
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ad128db-5c21-4ab8-8f9d-e786bb035dbd/dbd3b8b3-c56e-4d5c-90f2-179b558bf508/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ad128db-5c21-4ab8-8f9d-e786bb035dbd/dbd3b8b3-c56e-4d5c-90f2-179b558bf508
+md5	894183ba9a27099e2528d99e8e07ac30

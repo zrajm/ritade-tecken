@@ -1,0 +1,8 @@
+
+signId	1228
+text	ramla av
+imageUuid	eb3b5f1a-998c-4272-be93-14cb36c193ad
+translationKey	9f4fc330-de73-49f5-9546-9776c574a68c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eb3b5f1a-998c-4272-be93-14cb36c193ad/9f4fc330-de73-49f5-9546-9776c574a68c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eb3b5f1a-998c-4272-be93-14cb36c193ad/9f4fc330-de73-49f5-9546-9776c574a68c
+md5	9fef6eafaffc6ddaa868d32da9ab2867

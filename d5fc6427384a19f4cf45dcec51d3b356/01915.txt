@@ -1,0 +1,7 @@
+signId	1915
+text	upptäcka 1
+imageUuid	c0f8f1e1-d424-4836-9224-b4587956ff6c
+translationKey	0798c93a-f4e3-495c-b1f9-e3db58b38423
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c0f8f1e1-d424-4836-9224-b4587956ff6c/0798c93a-f4e3-495c-b1f9-e3db58b38423/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c0f8f1e1-d424-4836-9224-b4587956ff6c/0798c93a-f4e3-495c-b1f9-e3db58b38423
+md5	d5fc6427384a19f4cf45dcec51d3b356

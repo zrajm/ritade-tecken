@@ -1,0 +1,7 @@
+signId	1465
+text	stanna
+imageUuid	0ba44b4a-8c4c-40db-b8c5-0cdead1e5285
+translationKey	61e42740-59aa-49b3-8e7b-5d2a1a497ece
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0ba44b4a-8c4c-40db-b8c5-0cdead1e5285/61e42740-59aa-49b3-8e7b-5d2a1a497ece/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0ba44b4a-8c4c-40db-b8c5-0cdead1e5285/61e42740-59aa-49b3-8e7b-5d2a1a497ece
+md5	eca2da20e618c493a3718daad2b7631d

@@ -1,0 +1,7 @@
+signId	2765
+text	badminton
+imageUuid	6f04e383-d76a-4670-beef-21709223771d
+translationKey	ef22d0a0-1fb7-4f09-8c6c-3b78f2d8a5d4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6f04e383-d76a-4670-beef-21709223771d/ef22d0a0-1fb7-4f09-8c6c-3b78f2d8a5d4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6f04e383-d76a-4670-beef-21709223771d/ef22d0a0-1fb7-4f09-8c6c-3b78f2d8a5d4
+md5	8d69cebfaf24f773a18e89d3d5a0618a

@@ -1,0 +1,7 @@
+signId	1369
+text	skådespelare 1
+imageUuid	86d66ce1-63d1-4cce-957b-41ee98f02234
+translationKey	0f20bfdf-eb46-4c42-ae52-dce355dc2d24
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86d66ce1-63d1-4cce-957b-41ee98f02234/0f20bfdf-eb46-4c42-ae52-dce355dc2d24/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86d66ce1-63d1-4cce-957b-41ee98f02234/0f20bfdf-eb46-4c42-ae52-dce355dc2d24
+md5	27715d7d4bf4f5152d6fc9894714d67b

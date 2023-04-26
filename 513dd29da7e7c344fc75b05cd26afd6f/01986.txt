@@ -1,0 +1,7 @@
+signId	1986
+text	kortspel
+imageUuid	b2d1cfdb-3deb-438e-84b6-2ff7e05eb7dd
+translationKey	14d0f63b-4f94-4d31-87cf-f4024ee94851
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b2d1cfdb-3deb-438e-84b6-2ff7e05eb7dd/14d0f63b-4f94-4d31-87cf-f4024ee94851/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b2d1cfdb-3deb-438e-84b6-2ff7e05eb7dd/14d0f63b-4f94-4d31-87cf-f4024ee94851
+md5	513dd29da7e7c344fc75b05cd26afd6f

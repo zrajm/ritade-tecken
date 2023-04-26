@@ -1,0 +1,7 @@
+signId	1520
+text	suddgummi
+imageUuid	9f8c61d5-07c5-4289-96a8-c3e204b6256f
+translationKey	27e21d8b-6d58-4aa5-ab68-a7f1c6d7bfb3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9f8c61d5-07c5-4289-96a8-c3e204b6256f/27e21d8b-6d58-4aa5-ab68-a7f1c6d7bfb3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9f8c61d5-07c5-4289-96a8-c3e204b6256f/27e21d8b-6d58-4aa5-ab68-a7f1c6d7bfb3
+md5	a66eb6a199c434d412e3cd6ae936b471

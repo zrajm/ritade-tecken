@@ -1,0 +1,8 @@
+
+signId	167
+text	bolla
+imageUuid	5fd90080-2163-4ab9-be0d-86d105851ef0
+translationKey	280c7fa4-da7c-40e3-8506-7d514eec2135
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5fd90080-2163-4ab9-be0d-86d105851ef0/280c7fa4-da7c-40e3-8506-7d514eec2135/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5fd90080-2163-4ab9-be0d-86d105851ef0/280c7fa4-da7c-40e3-8506-7d514eec2135
+md5	d0370569436af4cae077d3efddb59c94

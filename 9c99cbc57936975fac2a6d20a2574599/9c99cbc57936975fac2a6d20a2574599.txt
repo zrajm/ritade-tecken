@@ -1,0 +1,8 @@
+
+signId	2554
+text	ledsaga
+imageUuid	61759216-ddf7-4946-8c98-98eb16e77283
+translationKey	e1e1f897-f128-42d9-9200-28777043a75a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/61759216-ddf7-4946-8c98-98eb16e77283/e1e1f897-f128-42d9-9200-28777043a75a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/61759216-ddf7-4946-8c98-98eb16e77283/e1e1f897-f128-42d9-9200-28777043a75a
+md5	9c99cbc57936975fac2a6d20a2574599

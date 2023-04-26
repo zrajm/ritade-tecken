@@ -1,0 +1,8 @@
+
+signId	2993
+text	fräknar
+imageUuid	1d8d7891-7b33-480f-b49a-2afab6b75edc
+translationKey	1e436319-023b-43c8-ab0e-72324d4b5587
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1d8d7891-7b33-480f-b49a-2afab6b75edc/1e436319-023b-43c8-ab0e-72324d4b5587/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1d8d7891-7b33-480f-b49a-2afab6b75edc/1e436319-023b-43c8-ab0e-72324d4b5587
+md5	6ec708ec4f9ae0b007365e0f78214a10

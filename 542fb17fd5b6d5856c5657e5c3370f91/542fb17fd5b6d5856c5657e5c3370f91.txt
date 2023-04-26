@@ -1,0 +1,8 @@
+
+signId	1312
+text	simma
+imageUuid	1897b851-560c-4298-b48f-698715fbd20d
+translationKey	fb2f3249-06e1-4245-a2ca-8c7f2c1eb52e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1897b851-560c-4298-b48f-698715fbd20d/fb2f3249-06e1-4245-a2ca-8c7f2c1eb52e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1897b851-560c-4298-b48f-698715fbd20d/fb2f3249-06e1-4245-a2ca-8c7f2c1eb52e
+md5	542fb17fd5b6d5856c5657e5c3370f91

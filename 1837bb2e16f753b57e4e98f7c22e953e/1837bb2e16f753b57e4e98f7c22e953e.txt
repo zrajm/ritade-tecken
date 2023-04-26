@@ -1,0 +1,8 @@
+
+signId	2792
+text	onanera (kvinnna)
+imageUuid	17fe7e8a-8b79-4e0a-9936-bc9fc0dbef52
+translationKey	0923e325-883c-4097-ac10-4e481f39284f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/17fe7e8a-8b79-4e0a-9936-bc9fc0dbef52/0923e325-883c-4097-ac10-4e481f39284f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/17fe7e8a-8b79-4e0a-9936-bc9fc0dbef52/0923e325-883c-4097-ac10-4e481f39284f
+md5	1837bb2e16f753b57e4e98f7c22e953e

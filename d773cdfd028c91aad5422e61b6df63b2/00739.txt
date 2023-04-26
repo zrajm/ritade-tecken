@@ -1,0 +1,7 @@
+signId	739
+text	kex
+imageUuid	93b9a65c-3459-4c61-a519-bf8080c25637
+translationKey	35d84120-269e-4c72-ba44-1124fc379818
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/93b9a65c-3459-4c61-a519-bf8080c25637/35d84120-269e-4c72-ba44-1124fc379818/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/93b9a65c-3459-4c61-a519-bf8080c25637/35d84120-269e-4c72-ba44-1124fc379818
+md5	d773cdfd028c91aad5422e61b6df63b2

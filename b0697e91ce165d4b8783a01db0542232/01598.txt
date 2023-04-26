@@ -1,0 +1,7 @@
+signId	1598
+text	tomte
+imageUuid	83aa542e-8ab9-46a4-93f1-3a926590d0ee
+translationKey	c7fa22db-34f4-4b08-91ee-486d7690ff6b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/83aa542e-8ab9-46a4-93f1-3a926590d0ee/c7fa22db-34f4-4b08-91ee-486d7690ff6b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/83aa542e-8ab9-46a4-93f1-3a926590d0ee/c7fa22db-34f4-4b08-91ee-486d7690ff6b
+md5	b0697e91ce165d4b8783a01db0542232

@@ -1,0 +1,16 @@
+
+signId	13
+text	15_1 (tal)
+imageUuid	1cf8aed3-b977-4753-87f9-f928e8d5f973
+translationKey	0152e51c-c432-440c-a764-dc3e2c2a956b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1cf8aed3-b977-4753-87f9-f928e8d5f973/0152e51c-c432-440c-a764-dc3e2c2a956b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1cf8aed3-b977-4753-87f9-f928e8d5f973/0152e51c-c432-440c-a764-dc3e2c2a956b
+md5	ac7ce24301c6eb287a6f58f5f23f5a8c
+
+signId	3157
+text	femton 1
+imageUuid	712e0f1c-3fcd-4a19-8160-f6fe18e220fe
+translationKey	3681d82f-f08e-4b46-8603-bfa1ae0bb63c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/712e0f1c-3fcd-4a19-8160-f6fe18e220fe/3681d82f-f08e-4b46-8603-bfa1ae0bb63c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/712e0f1c-3fcd-4a19-8160-f6fe18e220fe/3681d82f-f08e-4b46-8603-bfa1ae0bb63c
+md5	ac7ce24301c6eb287a6f58f5f23f5a8c

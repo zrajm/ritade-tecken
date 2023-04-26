@@ -1,0 +1,7 @@
+signId	1649
+text	tvätt
+imageUuid	34a6b457-20d0-4808-8fda-f23b7509d6d2
+translationKey	9f1ef59d-52ab-4ff6-81de-3930fc78b6d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/34a6b457-20d0-4808-8fda-f23b7509d6d2/9f1ef59d-52ab-4ff6-81de-3930fc78b6d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/34a6b457-20d0-4808-8fda-f23b7509d6d2/9f1ef59d-52ab-4ff6-81de-3930fc78b6d3
+md5	d2a47ab76ff84444e471150f50dff675

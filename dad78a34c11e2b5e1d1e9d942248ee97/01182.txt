@@ -1,0 +1,7 @@
+signId	1182
+text	positiv
+imageUuid	e22549ad-4d7b-4660-b169-c8430e0505ac
+translationKey	babd44b4-a46b-401c-8b76-29f7455a6cbe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e22549ad-4d7b-4660-b169-c8430e0505ac/babd44b4-a46b-401c-8b76-29f7455a6cbe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e22549ad-4d7b-4660-b169-c8430e0505ac/babd44b4-a46b-401c-8b76-29f7455a6cbe
+md5	dad78a34c11e2b5e1d1e9d942248ee97

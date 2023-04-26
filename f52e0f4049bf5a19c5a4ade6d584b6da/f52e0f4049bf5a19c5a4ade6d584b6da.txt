@@ -1,0 +1,8 @@
+
+signId	1865
+text	blod 1
+imageUuid	5472bc21-e9df-4043-ad02-a84cb0d54b25
+translationKey	e346d5be-973c-47cb-a606-989cd1232f7a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5472bc21-e9df-4043-ad02-a84cb0d54b25/e346d5be-973c-47cb-a606-989cd1232f7a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5472bc21-e9df-4043-ad02-a84cb0d54b25/e346d5be-973c-47cb-a606-989cd1232f7a
+md5	f52e0f4049bf5a19c5a4ade6d584b6da

@@ -1,0 +1,8 @@
+
+signId	2209
+text	ångra
+imageUuid	c712ee27-98be-4715-b4c8-0e54f4a884b3
+translationKey	dead1e15-8f73-4036-b724-540250cda839
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c712ee27-98be-4715-b4c8-0e54f4a884b3/dead1e15-8f73-4036-b724-540250cda839/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c712ee27-98be-4715-b4c8-0e54f4a884b3/dead1e15-8f73-4036-b724-540250cda839
+md5	cc04d8ab488e9f4a7de1e75ac3837796

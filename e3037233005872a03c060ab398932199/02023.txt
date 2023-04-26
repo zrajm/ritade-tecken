@@ -1,0 +1,7 @@
+signId	2023
+text	rösta
+imageUuid	44db9f53-f68d-4298-9920-ada6a359f83a
+translationKey	21486a45-9485-413d-8a46-0bfaa952491e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/44db9f53-f68d-4298-9920-ada6a359f83a/21486a45-9485-413d-8a46-0bfaa952491e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/44db9f53-f68d-4298-9920-ada6a359f83a/21486a45-9485-413d-8a46-0bfaa952491e
+md5	e3037233005872a03c060ab398932199

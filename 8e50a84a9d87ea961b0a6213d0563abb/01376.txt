@@ -1,0 +1,7 @@
+signId	1376
+text	skära
+imageUuid	ab44344c-d116-40ce-a0b8-687f20b7704d
+translationKey	42fcbbfd-e9ac-494e-9c6e-e0d2db0a6671
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ab44344c-d116-40ce-a0b8-687f20b7704d/42fcbbfd-e9ac-494e-9c6e-e0d2db0a6671/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ab44344c-d116-40ce-a0b8-687f20b7704d/42fcbbfd-e9ac-494e-9c6e-e0d2db0a6671
+md5	8e50a84a9d87ea961b0a6213d0563abb

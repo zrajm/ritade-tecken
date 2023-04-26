@@ -1,0 +1,7 @@
+signId	2433
+text	ljusstake
+imageUuid	10e8221d-7938-4687-8380-359591f49d83
+translationKey	b508cebc-ee25-4ef0-bea4-c8f9cd425a90
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/10e8221d-7938-4687-8380-359591f49d83/b508cebc-ee25-4ef0-bea4-c8f9cd425a90/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/10e8221d-7938-4687-8380-359591f49d83/b508cebc-ee25-4ef0-bea4-c8f9cd425a90
+md5	2397fc82b514928eea6e8365d4de0170

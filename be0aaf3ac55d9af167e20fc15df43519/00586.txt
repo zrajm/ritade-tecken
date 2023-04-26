@@ -1,0 +1,7 @@
+signId	586
+text	hennes
+imageUuid	11105ebf-fb39-4064-ad95-3ee0728ca275
+translationKey	cc8d8275-2cf3-4d1d-9135-b6dcd064d24d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/11105ebf-fb39-4064-ad95-3ee0728ca275/cc8d8275-2cf3-4d1d-9135-b6dcd064d24d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/11105ebf-fb39-4064-ad95-3ee0728ca275/cc8d8275-2cf3-4d1d-9135-b6dcd064d24d
+md5	be0aaf3ac55d9af167e20fc15df43519

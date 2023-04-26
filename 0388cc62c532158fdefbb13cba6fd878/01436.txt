@@ -1,0 +1,7 @@
+signId	1436
+text	sova
+imageUuid	f17d7f74-d2ec-4029-9c31-bde39cb3190f
+translationKey	11c5efc9-f96f-4082-9399-44dfac443594
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f17d7f74-d2ec-4029-9c31-bde39cb3190f/11c5efc9-f96f-4082-9399-44dfac443594/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f17d7f74-d2ec-4029-9c31-bde39cb3190f/11c5efc9-f96f-4082-9399-44dfac443594
+md5	0388cc62c532158fdefbb13cba6fd878

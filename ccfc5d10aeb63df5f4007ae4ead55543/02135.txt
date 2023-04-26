@@ -1,0 +1,7 @@
+signId	2135
+text	Mumintrollet
+imageUuid	5b3eb85c-ab70-4b43-ba77-85c05db61d4f
+translationKey	45b3b8bd-05be-4dd0-94e4-feef0b3034bc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5b3eb85c-ab70-4b43-ba77-85c05db61d4f/45b3b8bd-05be-4dd0-94e4-feef0b3034bc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5b3eb85c-ab70-4b43-ba77-85c05db61d4f/45b3b8bd-05be-4dd0-94e4-feef0b3034bc
+md5	ccfc5d10aeb63df5f4007ae4ead55543

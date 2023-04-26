@@ -1,0 +1,8 @@
+
+signId	1053
+text	mätt
+imageUuid	59bc0057-5a7e-4e0b-a4c8-f86a52123bfe
+translationKey	de5b88f8-cb2f-4d6d-9f3c-9f97b78abf12
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/59bc0057-5a7e-4e0b-a4c8-f86a52123bfe/de5b88f8-cb2f-4d6d-9f3c-9f97b78abf12/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/59bc0057-5a7e-4e0b-a4c8-f86a52123bfe/de5b88f8-cb2f-4d6d-9f3c-9f97b78abf12
+md5	a9332207618e6d0008a0cd31446444dd

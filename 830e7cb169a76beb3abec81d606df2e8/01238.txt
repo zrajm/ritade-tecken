@@ -1,0 +1,7 @@
+signId	1238
+text	ren (adjektiv)
+imageUuid	1cb4aabe-7aec-4b2b-a875-ad80a9f8dfe2
+translationKey	59013a0d-74d9-4c78-b946-5b0adb26de6b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1cb4aabe-7aec-4b2b-a875-ad80a9f8dfe2/59013a0d-74d9-4c78-b946-5b0adb26de6b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1cb4aabe-7aec-4b2b-a875-ad80a9f8dfe2/59013a0d-74d9-4c78-b946-5b0adb26de6b
+md5	830e7cb169a76beb3abec81d606df2e8

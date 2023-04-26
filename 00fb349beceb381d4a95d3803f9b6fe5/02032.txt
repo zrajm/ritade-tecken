@@ -1,0 +1,7 @@
+signId	2032
+text	radio
+imageUuid	e245bc48-aae3-4a04-8ec6-c893a9702d62
+translationKey	9faeeba9-30d7-4f91-b61a-9dd294a67b58
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e245bc48-aae3-4a04-8ec6-c893a9702d62/9faeeba9-30d7-4f91-b61a-9dd294a67b58/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e245bc48-aae3-4a04-8ec6-c893a9702d62/9faeeba9-30d7-4f91-b61a-9dd294a67b58
+md5	00fb349beceb381d4a95d3803f9b6fe5

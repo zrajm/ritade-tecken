@@ -1,0 +1,7 @@
+signId	3382
+text	avboka
+imageUuid	ff8be3b7-5d76-48dc-a34f-369882f949cb
+translationKey	57d05f04-cb2f-4272-bf8e-e69975a246a3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ff8be3b7-5d76-48dc-a34f-369882f949cb/57d05f04-cb2f-4272-bf8e-e69975a246a3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ff8be3b7-5d76-48dc-a34f-369882f949cb/57d05f04-cb2f-4272-bf8e-e69975a246a3
+md5	5a9ffb6178f1db70ce0b1bd6cd428122

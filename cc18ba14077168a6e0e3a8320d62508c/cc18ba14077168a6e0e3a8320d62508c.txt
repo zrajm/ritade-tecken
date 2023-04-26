@@ -1,0 +1,16 @@
+
+signId	1340
+text	skjorta
+imageUuid	fad826c8-c10f-4bbe-b340-773bf3e62529
+translationKey	b5345b05-9ec7-49b3-92ad-b99453641255
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fad826c8-c10f-4bbe-b340-773bf3e62529/b5345b05-9ec7-49b3-92ad-b99453641255/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fad826c8-c10f-4bbe-b340-773bf3e62529/b5345b05-9ec7-49b3-92ad-b99453641255
+md5	cc18ba14077168a6e0e3a8320d62508c
+
+signId	2978
+text	blus
+imageUuid	85824a9b-b266-4155-a8db-738f0d5b0573
+translationKey	2aa5dab0-cdd3-4a71-93af-500b9c2c7714
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/85824a9b-b266-4155-a8db-738f0d5b0573/2aa5dab0-cdd3-4a71-93af-500b9c2c7714/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/85824a9b-b266-4155-a8db-738f0d5b0573/2aa5dab0-cdd3-4a71-93af-500b9c2c7714
+md5	cc18ba14077168a6e0e3a8320d62508c

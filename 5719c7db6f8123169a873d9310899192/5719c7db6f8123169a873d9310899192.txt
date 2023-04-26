@@ -1,0 +1,8 @@
+
+signId	1309
+text	siffra
+imageUuid	e0e1495e-ca66-434f-a2af-3818989e633f
+translationKey	d7b042f1-896d-453e-8079-a8ee05cfa30a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e0e1495e-ca66-434f-a2af-3818989e633f/d7b042f1-896d-453e-8079-a8ee05cfa30a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e0e1495e-ca66-434f-a2af-3818989e633f/d7b042f1-896d-453e-8079-a8ee05cfa30a
+md5	5719c7db6f8123169a873d9310899192

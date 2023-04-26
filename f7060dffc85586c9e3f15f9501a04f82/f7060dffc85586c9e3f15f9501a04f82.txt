@@ -1,0 +1,8 @@
+
+signId	1399
+text	smink 2
+imageUuid	1e29b783-4c8f-41cf-8882-2cbf133c7ed9
+translationKey	a7119afe-447f-410c-9840-402011e09ca6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1e29b783-4c8f-41cf-8882-2cbf133c7ed9/a7119afe-447f-410c-9840-402011e09ca6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1e29b783-4c8f-41cf-8882-2cbf133c7ed9/a7119afe-447f-410c-9840-402011e09ca6
+md5	f7060dffc85586c9e3f15f9501a04f82

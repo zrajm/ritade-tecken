@@ -1,0 +1,7 @@
+signId	3299
+text	grammatik
+imageUuid	92b0d266-4046-4fe9-b255-0cc4ec60d869
+translationKey	53fe44fc-bfec-4928-84db-0b534f5e21e6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/92b0d266-4046-4fe9-b255-0cc4ec60d869/53fe44fc-bfec-4928-84db-0b534f5e21e6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/92b0d266-4046-4fe9-b255-0cc4ec60d869/53fe44fc-bfec-4928-84db-0b534f5e21e6
+md5	5f3ec8dd43e5faea8e7ad03bd2493280

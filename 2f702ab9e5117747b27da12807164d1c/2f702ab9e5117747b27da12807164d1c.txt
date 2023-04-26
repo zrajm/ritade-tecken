@@ -1,0 +1,8 @@
+
+signId	2438
+text	Nordamerika
+imageUuid	e68dd29c-fa42-464d-b6a6-b5f7ec965a7c
+translationKey	a8a06d9a-2a63-468c-a4eb-5a7650e981bd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e68dd29c-fa42-464d-b6a6-b5f7ec965a7c/a8a06d9a-2a63-468c-a4eb-5a7650e981bd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e68dd29c-fa42-464d-b6a6-b5f7ec965a7c/a8a06d9a-2a63-468c-a4eb-5a7650e981bd
+md5	2f702ab9e5117747b27da12807164d1c

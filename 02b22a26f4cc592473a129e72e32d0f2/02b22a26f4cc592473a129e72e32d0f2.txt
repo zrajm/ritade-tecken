@@ -1,0 +1,8 @@
+
+signId	1045
+text	måndag
+imageUuid	c69879e0-9d58-4ca7-95c2-61c385ffd106
+translationKey	b92d16c0-2b2e-4db3-bcf1-8066a4c8ae7d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c69879e0-9d58-4ca7-95c2-61c385ffd106/b92d16c0-2b2e-4db3-bcf1-8066a4c8ae7d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c69879e0-9d58-4ca7-95c2-61c385ffd106/b92d16c0-2b2e-4db3-bcf1-8066a4c8ae7d
+md5	02b22a26f4cc592473a129e72e32d0f2

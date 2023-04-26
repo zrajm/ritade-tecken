@@ -1,0 +1,7 @@
+signId	1467
+text	starta
+imageUuid	892f9a7a-0618-474b-ba0c-919d096abf48
+translationKey	5f00109a-c15b-4497-af8a-3c18186688eb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/892f9a7a-0618-474b-ba0c-919d096abf48/5f00109a-c15b-4497-af8a-3c18186688eb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/892f9a7a-0618-474b-ba0c-919d096abf48/5f00109a-c15b-4497-af8a-3c18186688eb
+md5	e14b161f8b1edff4a5fbb61c6ee1a2b1

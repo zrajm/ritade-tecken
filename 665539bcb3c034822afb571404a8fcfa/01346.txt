@@ -1,0 +1,7 @@
+signId	1346
+text	skoj
+imageUuid	85211739-fd71-4886-b74e-e3d5b6497463
+translationKey	c89cf0c0-8744-45cb-a202-a211e6f4bc3f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/85211739-fd71-4886-b74e-e3d5b6497463/c89cf0c0-8744-45cb-a202-a211e6f4bc3f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/85211739-fd71-4886-b74e-e3d5b6497463/c89cf0c0-8744-45cb-a202-a211e6f4bc3f
+md5	665539bcb3c034822afb571404a8fcfa

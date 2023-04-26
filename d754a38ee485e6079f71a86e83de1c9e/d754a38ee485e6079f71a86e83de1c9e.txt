@@ -1,0 +1,8 @@
+
+signId	2630
+text	bibel
+imageUuid	f5ba601f-1e12-4ea7-8ede-26ea125a87a0
+translationKey	0ba59b03-9af1-4abc-85ac-307c06117815
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f5ba601f-1e12-4ea7-8ede-26ea125a87a0/0ba59b03-9af1-4abc-85ac-307c06117815/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f5ba601f-1e12-4ea7-8ede-26ea125a87a0/0ba59b03-9af1-4abc-85ac-307c06117815
+md5	d754a38ee485e6079f71a86e83de1c9e

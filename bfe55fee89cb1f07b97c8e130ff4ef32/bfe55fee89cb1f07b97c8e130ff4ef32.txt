@@ -1,0 +1,8 @@
+
+signId	2024
+text	annan 2
+imageUuid	fb8dadd1-307a-4d2f-9097-70a130403375
+translationKey	7014bfe4-6401-461c-ae11-f96875b6933b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fb8dadd1-307a-4d2f-9097-70a130403375/7014bfe4-6401-461c-ae11-f96875b6933b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fb8dadd1-307a-4d2f-9097-70a130403375/7014bfe4-6401-461c-ae11-f96875b6933b
+md5	bfe55fee89cb1f07b97c8e130ff4ef32

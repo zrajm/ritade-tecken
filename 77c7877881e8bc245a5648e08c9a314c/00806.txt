@@ -1,0 +1,7 @@
+signId	806
+text	krafsa
+imageUuid	1d0e2711-f2d6-4844-8d88-36006db566fb
+translationKey	b6d1b6b4-2ebd-4597-bdf3-e3466aacd40b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1d0e2711-f2d6-4844-8d88-36006db566fb/b6d1b6b4-2ebd-4597-bdf3-e3466aacd40b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1d0e2711-f2d6-4844-8d88-36006db566fb/b6d1b6b4-2ebd-4597-bdf3-e3466aacd40b
+md5	77c7877881e8bc245a5648e08c9a314c

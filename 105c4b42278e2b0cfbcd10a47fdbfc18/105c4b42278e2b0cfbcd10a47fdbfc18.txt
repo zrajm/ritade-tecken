@@ -1,0 +1,24 @@
+
+signId	52
+text	ansikte 1
+imageUuid	8edb9551-6b65-41bb-aafb-cba8fa205bd1
+translationKey	c2f1e0f7-cbac-4121-9425-c48d03db569d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8edb9551-6b65-41bb-aafb-cba8fa205bd1/c2f1e0f7-cbac-4121-9425-c48d03db569d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8edb9551-6b65-41bb-aafb-cba8fa205bd1/c2f1e0f7-cbac-4121-9425-c48d03db569d
+md5	105c4b42278e2b0cfbcd10a47fdbfc18
+
+signId	619
+text	huvud
+imageUuid	ae8175f5-f870-4d16-9dbc-459385c8ef49
+translationKey	8444d904-e7bc-4878-9f27-404dc6404bdb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ae8175f5-f870-4d16-9dbc-459385c8ef49/8444d904-e7bc-4878-9f27-404dc6404bdb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ae8175f5-f870-4d16-9dbc-459385c8ef49/8444d904-e7bc-4878-9f27-404dc6404bdb
+md5	105c4b42278e2b0cfbcd10a47fdbfc18
+
+signId	1424
+text	sol
+imageUuid	f75aea70-3640-4737-98a0-6f8a7a0defe6
+translationKey	d7071f33-038f-447f-9a64-b84f73599839
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f75aea70-3640-4737-98a0-6f8a7a0defe6/d7071f33-038f-447f-9a64-b84f73599839/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f75aea70-3640-4737-98a0-6f8a7a0defe6/d7071f33-038f-447f-9a64-b84f73599839
+md5	105c4b42278e2b0cfbcd10a47fdbfc18

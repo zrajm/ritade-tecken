@@ -1,0 +1,8 @@
+
+signId	1531
+text	syns
+imageUuid	acd273a3-0bdd-4514-8317-dea13367a426
+translationKey	8cd1af89-31d1-4eb2-be1b-255df9f6c6bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/acd273a3-0bdd-4514-8317-dea13367a426/8cd1af89-31d1-4eb2-be1b-255df9f6c6bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/acd273a3-0bdd-4514-8317-dea13367a426/8cd1af89-31d1-4eb2-be1b-255df9f6c6bf
+md5	7df8956c2b137cb313469b4e528136cb

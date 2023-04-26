@@ -1,0 +1,8 @@
+
+signId	2085
+text	tidning
+imageUuid	9f84db32-3d7e-4f4b-95da-5bee5147b3d7
+translationKey	938da228-344d-4513-9118-cfdef72c6b3d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9f84db32-3d7e-4f4b-95da-5bee5147b3d7/938da228-344d-4513-9118-cfdef72c6b3d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9f84db32-3d7e-4f4b-95da-5bee5147b3d7/938da228-344d-4513-9118-cfdef72c6b3d
+md5	4f3f3b21ee3f92eed6b8744a47bbdd92

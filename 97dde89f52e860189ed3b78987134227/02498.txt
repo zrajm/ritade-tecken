@@ -1,0 +1,7 @@
+signId	2498
+text	bjuda (variant)
+imageUuid	4c862eba-d0f8-4ba4-b6e8-ba46ef034985
+translationKey	cbafe387-e36c-4c9a-a857-25a952cf7486
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4c862eba-d0f8-4ba4-b6e8-ba46ef034985/cbafe387-e36c-4c9a-a857-25a952cf7486/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4c862eba-d0f8-4ba4-b6e8-ba46ef034985/cbafe387-e36c-4c9a-a857-25a952cf7486
+md5	97dde89f52e860189ed3b78987134227

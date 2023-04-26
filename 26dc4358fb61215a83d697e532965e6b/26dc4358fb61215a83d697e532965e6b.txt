@@ -1,0 +1,24 @@
+
+signId	978
+text	meka
+imageUuid	ffdbe5f4-ee6f-4cd7-a3f4-bb59bfacdd01
+translationKey	22ff2e38-c2cf-42d3-b7a6-4ab70d68ba54
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ffdbe5f4-ee6f-4cd7-a3f4-bb59bfacdd01/22ff2e38-c2cf-42d3-b7a6-4ab70d68ba54/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ffdbe5f4-ee6f-4cd7-a3f4-bb59bfacdd01/22ff2e38-c2cf-42d3-b7a6-4ab70d68ba54
+md5	26dc4358fb61215a83d697e532965e6b
+
+signId	1721
+text	verktyg
+imageUuid	fb84ea3e-018e-4e69-88ca-7ac495d396b3
+translationKey	d341fa58-c099-4844-aa00-27107d966eda
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fb84ea3e-018e-4e69-88ca-7ac495d396b3/d341fa58-c099-4844-aa00-27107d966eda/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fb84ea3e-018e-4e69-88ca-7ac495d396b3/d341fa58-c099-4844-aa00-27107d966eda
+md5	26dc4358fb61215a83d697e532965e6b
+
+signId	3377
+text	mekaniker
+imageUuid	4ae40c18-94dc-4057-8a4d-ed0e9a94964c
+translationKey	aa4cf3e0-f20d-424c-84f4-853ee2eef3f6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4ae40c18-94dc-4057-8a4d-ed0e9a94964c/aa4cf3e0-f20d-424c-84f4-853ee2eef3f6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4ae40c18-94dc-4057-8a4d-ed0e9a94964c/aa4cf3e0-f20d-424c-84f4-853ee2eef3f6
+md5	26dc4358fb61215a83d697e532965e6b

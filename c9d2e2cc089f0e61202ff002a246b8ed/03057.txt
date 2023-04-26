@@ -1,0 +1,7 @@
+signId	3057
+text	dadel
+imageUuid	1b9ef99f-0c1f-48a6-92d4-e911255ff538
+translationKey	312ef22b-a000-4a3d-aef7-3857be5eca22
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1b9ef99f-0c1f-48a6-92d4-e911255ff538/312ef22b-a000-4a3d-aef7-3857be5eca22/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1b9ef99f-0c1f-48a6-92d4-e911255ff538/312ef22b-a000-4a3d-aef7-3857be5eca22
+md5	c9d2e2cc089f0e61202ff002a246b8ed

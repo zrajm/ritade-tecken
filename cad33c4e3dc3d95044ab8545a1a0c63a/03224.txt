@@ -1,0 +1,7 @@
+signId	3224
+text	lugg
+imageUuid	852839ab-2f44-4ee7-8c0b-35b0bdf32edb
+translationKey	cd2577f8-fbaa-4efd-9684-174fb744ed12
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/852839ab-2f44-4ee7-8c0b-35b0bdf32edb/cd2577f8-fbaa-4efd-9684-174fb744ed12/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/852839ab-2f44-4ee7-8c0b-35b0bdf32edb/cd2577f8-fbaa-4efd-9684-174fb744ed12
+md5	cad33c4e3dc3d95044ab8545a1a0c63a

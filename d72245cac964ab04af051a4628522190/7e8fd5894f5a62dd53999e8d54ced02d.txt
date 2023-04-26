@@ -1,0 +1,8 @@
+
+signId	3216
+text	företag
+imageUuid	3b7fd614-3588-4be7-a82c-b897185adf42
+translationKey	7bb7d420-3c51-4c6e-a943-29938ee096f6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b7fd614-3588-4be7-a82c-b897185adf42/7bb7d420-3c51-4c6e-a943-29938ee096f6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b7fd614-3588-4be7-a82c-b897185adf42/7bb7d420-3c51-4c6e-a943-29938ee096f6
+md5	7e8fd5894f5a62dd53999e8d54ced02d

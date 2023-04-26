@@ -1,0 +1,8 @@
+
+signId	625
+text	hälla
+imageUuid	aed7ab48-0a79-4668-a554-7aa8366c23b1
+translationKey	84c64286-a528-4aad-83a5-241b8ef19732
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aed7ab48-0a79-4668-a554-7aa8366c23b1/84c64286-a528-4aad-83a5-241b8ef19732/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aed7ab48-0a79-4668-a554-7aa8366c23b1/84c64286-a528-4aad-83a5-241b8ef19732
+md5	b7362e851bc12518cd7186c070d9ef56

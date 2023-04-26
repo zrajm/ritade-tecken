@@ -1,0 +1,8 @@
+
+signId	979
+text	mellan
+imageUuid	370a426b-119d-4cf6-b725-3373d5ab9467
+translationKey	c7f6f6a3-a943-49f0-9140-109e0a21e9a4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/370a426b-119d-4cf6-b725-3373d5ab9467/c7f6f6a3-a943-49f0-9140-109e0a21e9a4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/370a426b-119d-4cf6-b725-3373d5ab9467/c7f6f6a3-a943-49f0-9140-109e0a21e9a4
+md5	f0020849a38ce3a6d9142b68740715cb

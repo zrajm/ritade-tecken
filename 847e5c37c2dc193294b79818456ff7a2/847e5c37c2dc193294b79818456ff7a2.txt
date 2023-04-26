@@ -1,0 +1,8 @@
+
+signId	1281
+text	sak
+imageUuid	ccc32fa4-14d6-40b6-976a-740ce38c6be9
+translationKey	264c15ac-55d9-418c-835b-4f53c100d667
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ccc32fa4-14d6-40b6-976a-740ce38c6be9/264c15ac-55d9-418c-835b-4f53c100d667/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ccc32fa4-14d6-40b6-976a-740ce38c6be9/264c15ac-55d9-418c-835b-4f53c100d667
+md5	847e5c37c2dc193294b79818456ff7a2

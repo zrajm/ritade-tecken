@@ -1,0 +1,32 @@
+
+signId	617
+text	hus
+imageUuid	2f76db4f-aade-44e2-8878-05988017e41d
+translationKey	2149f649-3031-43fd-9d5f-bd34251f9e44
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2f76db4f-aade-44e2-8878-05988017e41d/2149f649-3031-43fd-9d5f-bd34251f9e44/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2f76db4f-aade-44e2-8878-05988017e41d/2149f649-3031-43fd-9d5f-bd34251f9e44
+md5	3d7e7f9645a7e1ad646c0231166adc08
+
+signId	780
+text	koja
+imageUuid	41f918cf-bb42-4ac6-b066-41efdea0bfb7
+translationKey	ec591bcb-6edc-4d86-9d43-7a78ecad9b95
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/41f918cf-bb42-4ac6-b066-41efdea0bfb7/ec591bcb-6edc-4d86-9d43-7a78ecad9b95/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/41f918cf-bb42-4ac6-b066-41efdea0bfb7/ec591bcb-6edc-4d86-9d43-7a78ecad9b95
+md5	3d7e7f9645a7e1ad646c0231166adc08
+
+signId	1503
+text	stuga
+imageUuid	570e015f-884e-4460-af1c-c18da8eb76bc
+translationKey	4c60200c-6e3b-427d-b7b3-6c8b1353c3e6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/570e015f-884e-4460-af1c-c18da8eb76bc/4c60200c-6e3b-427d-b7b3-6c8b1353c3e6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/570e015f-884e-4460-af1c-c18da8eb76bc/4c60200c-6e3b-427d-b7b3-6c8b1353c3e6
+md5	3d7e7f9645a7e1ad646c0231166adc08
+
+signId	1735
+text	villa
+imageUuid	01a6446b-08de-4a37-83d0-f95410e56d86
+translationKey	37d3fe1e-9399-4df4-aa58-14aaa41283cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/01a6446b-08de-4a37-83d0-f95410e56d86/37d3fe1e-9399-4df4-aa58-14aaa41283cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/01a6446b-08de-4a37-83d0-f95410e56d86/37d3fe1e-9399-4df4-aa58-14aaa41283cd
+md5	3d7e7f9645a7e1ad646c0231166adc08

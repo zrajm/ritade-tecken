@@ -1,0 +1,7 @@
+signId	2371
+text	panik
+imageUuid	d54d02a6-ae93-48af-a174-5dcd62d4c4cc
+translationKey	5958935a-3be5-4ab8-a970-c81730e2ea59
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d54d02a6-ae93-48af-a174-5dcd62d4c4cc/5958935a-3be5-4ab8-a970-c81730e2ea59/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d54d02a6-ae93-48af-a174-5dcd62d4c4cc/5958935a-3be5-4ab8-a970-c81730e2ea59
+md5	1c53777d507f0321357878120e2e3569

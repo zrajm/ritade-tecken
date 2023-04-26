@@ -1,0 +1,16 @@
+
+signId	2771
+text	styrketräning
+imageUuid	546401be-97b4-4b9a-bd49-b1edc33e3b60
+translationKey	37062ee3-1e8f-465c-89b6-2d448f58b8be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/546401be-97b4-4b9a-bd49-b1edc33e3b60/37062ee3-1e8f-465c-89b6-2d448f58b8be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/546401be-97b4-4b9a-bd49-b1edc33e3b60/37062ee3-1e8f-465c-89b6-2d448f58b8be
+md5	dd37d11deda1ffbacb733453f62d2d90
+
+signId	2912
+text	gym
+imageUuid	284de59d-1b47-4c6b-9a7c-8618b019e119
+translationKey	856958b1-d518-4f73-85f1-4a4c29d52a76
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/284de59d-1b47-4c6b-9a7c-8618b019e119/856958b1-d518-4f73-85f1-4a4c29d52a76/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/284de59d-1b47-4c6b-9a7c-8618b019e119/856958b1-d518-4f73-85f1-4a4c29d52a76
+md5	dd37d11deda1ffbacb733453f62d2d90

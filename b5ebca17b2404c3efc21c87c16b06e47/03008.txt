@@ -1,0 +1,7 @@
+signId	3008
+text	mango
+imageUuid	b87ca286-c118-4c8a-8d80-82071e946066
+translationKey	319a4c6c-906d-480d-a75a-a904dc818ce1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b87ca286-c118-4c8a-8d80-82071e946066/319a4c6c-906d-480d-a75a-a904dc818ce1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b87ca286-c118-4c8a-8d80-82071e946066/319a4c6c-906d-480d-a75a-a904dc818ce1
+md5	b5ebca17b2404c3efc21c87c16b06e47

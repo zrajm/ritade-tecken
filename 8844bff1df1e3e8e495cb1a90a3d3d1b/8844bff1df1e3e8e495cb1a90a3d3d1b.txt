@@ -1,0 +1,24 @@
+
+signId	1794
+text	åt upp allt
+imageUuid	8312bcb5-5ed1-4852-a5e4-d787eb61a490
+translationKey	684f3247-3f0b-4ebe-bc3a-cef9a3a9d8de
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8312bcb5-5ed1-4852-a5e4-d787eb61a490/684f3247-3f0b-4ebe-bc3a-cef9a3a9d8de/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8312bcb5-5ed1-4852-a5e4-d787eb61a490/684f3247-3f0b-4ebe-bc3a-cef9a3a9d8de
+md5	8844bff1df1e3e8e495cb1a90a3d3d1b
+
+signId	1813
+text	äta upp allt
+imageUuid	46582c40-67d6-4f8b-8691-c39ddd2df2dd
+translationKey	2bc680b8-c8be-4785-8dcd-82f4fe8d28e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/46582c40-67d6-4f8b-8691-c39ddd2df2dd/2bc680b8-c8be-4785-8dcd-82f4fe8d28e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/46582c40-67d6-4f8b-8691-c39ddd2df2dd/2bc680b8-c8be-4785-8dcd-82f4fe8d28e8
+md5	8844bff1df1e3e8e495cb1a90a3d3d1b
+
+signId	1814
+text	ätit upp allt
+imageUuid	ce813ada-d108-4db9-bb9f-2a48264dd35b
+translationKey	55d56efd-b9d5-49e6-9301-ac07a6fb2f77
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ce813ada-d108-4db9-bb9f-2a48264dd35b/55d56efd-b9d5-49e6-9301-ac07a6fb2f77/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ce813ada-d108-4db9-bb9f-2a48264dd35b/55d56efd-b9d5-49e6-9301-ac07a6fb2f77
+md5	8844bff1df1e3e8e495cb1a90a3d3d1b

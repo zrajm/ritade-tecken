@@ -1,0 +1,7 @@
+signId	864
+text	lager
+imageUuid	ba814ab8-670c-426b-8467-bf161173a35e
+translationKey	27fc8826-ea07-4473-bfef-d5537c9d8387
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ba814ab8-670c-426b-8467-bf161173a35e/27fc8826-ea07-4473-bfef-d5537c9d8387/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ba814ab8-670c-426b-8467-bf161173a35e/27fc8826-ea07-4473-bfef-d5537c9d8387
+md5	79b8cdd6ad6e76c5c8a61245fb955508

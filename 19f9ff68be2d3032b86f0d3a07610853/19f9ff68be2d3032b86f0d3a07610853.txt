@@ -1,0 +1,8 @@
+
+signId	1991
+text	kämpa
+imageUuid	bf6eb902-1cec-40f0-b226-e0574115b362
+translationKey	a7c9a93b-537a-4a99-9c74-195cae171174
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bf6eb902-1cec-40f0-b226-e0574115b362/a7c9a93b-537a-4a99-9c74-195cae171174/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bf6eb902-1cec-40f0-b226-e0574115b362/a7c9a93b-537a-4a99-9c74-195cae171174
+md5	19f9ff68be2d3032b86f0d3a07610853

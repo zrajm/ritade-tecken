@@ -1,0 +1,7 @@
+signId	1893
+text	stava
+imageUuid	2965a246-6cf2-48cb-91d3-a41c466f0dfd
+translationKey	c6f5375d-5717-4abe-b5b7-a57be96b574a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2965a246-6cf2-48cb-91d3-a41c466f0dfd/c6f5375d-5717-4abe-b5b7-a57be96b574a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2965a246-6cf2-48cb-91d3-a41c466f0dfd/c6f5375d-5717-4abe-b5b7-a57be96b574a
+md5	03bc33de81a8fa48da54e66de83f2821

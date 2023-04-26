@@ -1,0 +1,7 @@
+signId	1204
+text	puss
+imageUuid	cc0bc092-aba3-4772-ac8f-34be7d303034
+translationKey	e077deab-9862-4c46-b6c7-e5dcb20999cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cc0bc092-aba3-4772-ac8f-34be7d303034/e077deab-9862-4c46-b6c7-e5dcb20999cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cc0bc092-aba3-4772-ac8f-34be7d303034/e077deab-9862-4c46-b6c7-e5dcb20999cd
+md5	786849d81aa11f0afeaa5e6b08a787ca

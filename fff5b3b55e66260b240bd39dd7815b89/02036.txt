@@ -1,0 +1,7 @@
+signId	2036
+text	Barbapapa
+imageUuid	21d1591f-8165-4fbf-8f07-827b0503966a
+translationKey	94fa3a92-cc08-498d-9218-a53fd25694e5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/21d1591f-8165-4fbf-8f07-827b0503966a/94fa3a92-cc08-498d-9218-a53fd25694e5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/21d1591f-8165-4fbf-8f07-827b0503966a/94fa3a92-cc08-498d-9218-a53fd25694e5
+md5	fff5b3b55e66260b240bd39dd7815b89

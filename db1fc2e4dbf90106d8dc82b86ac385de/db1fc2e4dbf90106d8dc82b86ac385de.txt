@@ -1,0 +1,8 @@
+
+signId	3333
+text	predikat (grammatik)
+imageUuid	3c43e4d2-67b3-4d28-97de-157056e8e283
+translationKey	863e10ff-2eb5-4c9f-b860-a6a16aa19346
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3c43e4d2-67b3-4d28-97de-157056e8e283/863e10ff-2eb5-4c9f-b860-a6a16aa19346/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3c43e4d2-67b3-4d28-97de-157056e8e283/863e10ff-2eb5-4c9f-b860-a6a16aa19346
+md5	db1fc2e4dbf90106d8dc82b86ac385de

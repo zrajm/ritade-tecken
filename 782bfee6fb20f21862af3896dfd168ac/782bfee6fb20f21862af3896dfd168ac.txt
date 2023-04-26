@@ -1,0 +1,8 @@
+
+signId	500
+text	gorilla
+imageUuid	4a977c26-1c4f-404c-ac50-7766c920b484
+translationKey	f07f0401-74b6-4db2-90c9-68ab8dcfab76
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4a977c26-1c4f-404c-ac50-7766c920b484/f07f0401-74b6-4db2-90c9-68ab8dcfab76/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4a977c26-1c4f-404c-ac50-7766c920b484/f07f0401-74b6-4db2-90c9-68ab8dcfab76
+md5	782bfee6fb20f21862af3896dfd168ac

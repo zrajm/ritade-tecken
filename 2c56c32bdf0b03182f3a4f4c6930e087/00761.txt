@@ -1,0 +1,7 @@
+signId	761
+text	klä på 2
+imageUuid	8a76b63a-717e-4069-8296-a8b36785ffa6
+translationKey	c2960fe2-fef4-4d1a-b2f6-c79d4f939735
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8a76b63a-717e-4069-8296-a8b36785ffa6/c2960fe2-fef4-4d1a-b2f6-c79d4f939735/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8a76b63a-717e-4069-8296-a8b36785ffa6/c2960fe2-fef4-4d1a-b2f6-c79d4f939735
+md5	2c56c32bdf0b03182f3a4f4c6930e087

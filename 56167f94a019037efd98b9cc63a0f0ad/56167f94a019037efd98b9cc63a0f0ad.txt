@@ -1,0 +1,8 @@
+
+signId	313
+text	E (bokstav)
+imageUuid	b750c08b-a6fd-444a-b4f7-973777d69b5d
+translationKey	6da27f03-f060-4f9c-b48d-7cca04d2a22a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b750c08b-a6fd-444a-b4f7-973777d69b5d/6da27f03-f060-4f9c-b48d-7cca04d2a22a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b750c08b-a6fd-444a-b4f7-973777d69b5d/6da27f03-f060-4f9c-b48d-7cca04d2a22a
+md5	56167f94a019037efd98b9cc63a0f0ad

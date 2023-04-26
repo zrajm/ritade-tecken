@@ -1,0 +1,7 @@
+signId	691
+text	Jesus
+imageUuid	322cea34-7586-47c7-8eb2-807d3c1665a3
+translationKey	fbacc307-140f-49f6-ba0c-4bf40e8c8ecc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/322cea34-7586-47c7-8eb2-807d3c1665a3/fbacc307-140f-49f6-ba0c-4bf40e8c8ecc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/322cea34-7586-47c7-8eb2-807d3c1665a3/fbacc307-140f-49f6-ba0c-4bf40e8c8ecc
+md5	4b048c58011c5fc3d7f4bb517a5799fd

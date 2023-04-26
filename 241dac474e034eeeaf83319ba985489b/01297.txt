@@ -1,0 +1,7 @@
+signId	1297
+text	sedan
+imageUuid	55cb8893-dbf3-4075-bc36-e177912da988
+translationKey	5e2da9bb-9e77-4747-a1ae-681acacb5322
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/55cb8893-dbf3-4075-bc36-e177912da988/5e2da9bb-9e77-4747-a1ae-681acacb5322/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/55cb8893-dbf3-4075-bc36-e177912da988/5e2da9bb-9e77-4747-a1ae-681acacb5322
+md5	241dac474e034eeeaf83319ba985489b

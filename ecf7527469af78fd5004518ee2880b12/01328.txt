@@ -1,0 +1,7 @@
+signId	1328
+text	skaffa
+imageUuid	f8d6a191-dd00-4b2e-a36f-97d259fd726b
+translationKey	0641dc40-45d1-4482-a1d6-26f2258cd8ce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f8d6a191-dd00-4b2e-a36f-97d259fd726b/0641dc40-45d1-4482-a1d6-26f2258cd8ce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f8d6a191-dd00-4b2e-a36f-97d259fd726b/0641dc40-45d1-4482-a1d6-26f2258cd8ce
+md5	ecf7527469af78fd5004518ee2880b12

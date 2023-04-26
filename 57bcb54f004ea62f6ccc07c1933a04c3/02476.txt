@@ -1,0 +1,7 @@
+signId	2476
+text	rektor
+imageUuid	5e2ec235-5bd4-4bf7-be6b-d1aa8380d331
+translationKey	a5655a56-c790-466e-ab49-07f9ba122924
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e2ec235-5bd4-4bf7-be6b-d1aa8380d331/a5655a56-c790-466e-ab49-07f9ba122924/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e2ec235-5bd4-4bf7-be6b-d1aa8380d331/a5655a56-c790-466e-ab49-07f9ba122924
+md5	57bcb54f004ea62f6ccc07c1933a04c3

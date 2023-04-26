@@ -1,0 +1,7 @@
+signId	2186
+text	klaga
+imageUuid	1f735d14-8a6c-4ec4-87f6-bcc70b084733
+translationKey	e0f08c5b-b708-4ea6-ab4e-d4b08a66dd22
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1f735d14-8a6c-4ec4-87f6-bcc70b084733/e0f08c5b-b708-4ea6-ab4e-d4b08a66dd22/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1f735d14-8a6c-4ec4-87f6-bcc70b084733/e0f08c5b-b708-4ea6-ab4e-d4b08a66dd22
+md5	4b7e87fe6a217d7e5ae4f073872a4a00

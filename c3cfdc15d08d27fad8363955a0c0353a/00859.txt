@@ -1,0 +1,7 @@
+signId	859
+text	ladugård
+imageUuid	66472ff0-4f77-4b4a-8190-06e80ce24ee1
+translationKey	03b56ef8-04b2-416b-8298-fb4ddba95c9f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/66472ff0-4f77-4b4a-8190-06e80ce24ee1/03b56ef8-04b2-416b-8298-fb4ddba95c9f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/66472ff0-4f77-4b4a-8190-06e80ce24ee1/03b56ef8-04b2-416b-8298-fb4ddba95c9f
+md5	c3cfdc15d08d27fad8363955a0c0353a

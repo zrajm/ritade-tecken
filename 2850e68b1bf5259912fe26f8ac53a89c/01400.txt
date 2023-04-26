@@ -1,0 +1,7 @@
+signId	1400
+text	smita
+imageUuid	23ea7d8a-a25d-4a12-aa56-4de3fad9f84f
+translationKey	0c9b719c-59a6-4bc1-b817-3100359e71ab
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/23ea7d8a-a25d-4a12-aa56-4de3fad9f84f/0c9b719c-59a6-4bc1-b817-3100359e71ab/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/23ea7d8a-a25d-4a12-aa56-4de3fad9f84f/0c9b719c-59a6-4bc1-b817-3100359e71ab
+md5	2850e68b1bf5259912fe26f8ac53a89c

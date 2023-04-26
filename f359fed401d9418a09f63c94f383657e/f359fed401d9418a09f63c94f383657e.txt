@@ -1,0 +1,8 @@
+
+signId	2601
+text	snickra
+imageUuid	065ed51f-1cfb-48a8-8d39-7b65dbfef5aa
+translationKey	b33d6a74-707b-4d93-8f44-07d4a23506cb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/065ed51f-1cfb-48a8-8d39-7b65dbfef5aa/b33d6a74-707b-4d93-8f44-07d4a23506cb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/065ed51f-1cfb-48a8-8d39-7b65dbfef5aa/b33d6a74-707b-4d93-8f44-07d4a23506cb
+md5	f359fed401d9418a09f63c94f383657e

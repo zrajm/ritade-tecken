@@ -1,0 +1,7 @@
+signId	1038
+text	må illa
+imageUuid	b90b45f7-cfdf-4eb5-b87a-7e550175c2e4
+translationKey	118daf85-620e-404a-ae4c-23f64ac3cbe7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b90b45f7-cfdf-4eb5-b87a-7e550175c2e4/118daf85-620e-404a-ae4c-23f64ac3cbe7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b90b45f7-cfdf-4eb5-b87a-7e550175c2e4/118daf85-620e-404a-ae4c-23f64ac3cbe7
+md5	4474d69eeaed11242d568db645d4623a

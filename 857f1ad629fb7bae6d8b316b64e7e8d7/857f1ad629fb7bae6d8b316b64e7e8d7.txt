@@ -1,0 +1,8 @@
+
+signId	2400
+text	sverigedemokraterna
+imageUuid	b4b75b71-b862-461e-a51a-3421ac16cf51
+translationKey	5ad7a397-d6d4-4108-99eb-21033338107c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b4b75b71-b862-461e-a51a-3421ac16cf51/5ad7a397-d6d4-4108-99eb-21033338107c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b4b75b71-b862-461e-a51a-3421ac16cf51/5ad7a397-d6d4-4108-99eb-21033338107c
+md5	857f1ad629fb7bae6d8b316b64e7e8d7

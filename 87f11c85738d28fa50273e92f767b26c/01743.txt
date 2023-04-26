@@ -1,0 +1,7 @@
+signId	1743
+text	vis
+imageUuid	14406ead-c321-4975-8921-66d1c0c36858
+translationKey	ec0a6672-3e33-4968-bf46-010f3d098590
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/14406ead-c321-4975-8921-66d1c0c36858/ec0a6672-3e33-4968-bf46-010f3d098590/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/14406ead-c321-4975-8921-66d1c0c36858/ec0a6672-3e33-4968-bf46-010f3d098590
+md5	87f11c85738d28fa50273e92f767b26c

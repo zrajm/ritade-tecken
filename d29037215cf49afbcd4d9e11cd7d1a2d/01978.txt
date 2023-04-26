@@ -1,0 +1,7 @@
+signId	1978
+text	granska
+imageUuid	b7455b76-b828-4b74-819b-37318e87b3ee
+translationKey	acf6cd4a-9452-40bd-af12-c65859be1c61
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b7455b76-b828-4b74-819b-37318e87b3ee/acf6cd4a-9452-40bd-af12-c65859be1c61/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b7455b76-b828-4b74-819b-37318e87b3ee/acf6cd4a-9452-40bd-af12-c65859be1c61
+md5	d29037215cf49afbcd4d9e11cd7d1a2d

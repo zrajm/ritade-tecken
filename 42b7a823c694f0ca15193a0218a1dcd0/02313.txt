@@ -1,0 +1,7 @@
+signId	2313
+text	äta upp
+imageUuid	f84d9d4c-7dbc-4c88-9286-03b68e73ebae
+translationKey	049c53f0-6b3c-4800-b62e-f0325b074802
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f84d9d4c-7dbc-4c88-9286-03b68e73ebae/049c53f0-6b3c-4800-b62e-f0325b074802/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f84d9d4c-7dbc-4c88-9286-03b68e73ebae/049c53f0-6b3c-4800-b62e-f0325b074802
+md5	42b7a823c694f0ca15193a0218a1dcd0

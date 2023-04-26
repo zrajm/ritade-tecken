@@ -1,0 +1,8 @@
+
+signId	2941
+text	regnkläder
+imageUuid	8cb78cff-7ae2-4907-a30b-08ef204c1295
+translationKey	1612fa15-19ad-4aca-ad99-8e5199978aec
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8cb78cff-7ae2-4907-a30b-08ef204c1295/1612fa15-19ad-4aca-ad99-8e5199978aec/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8cb78cff-7ae2-4907-a30b-08ef204c1295/1612fa15-19ad-4aca-ad99-8e5199978aec
+md5	f092ca5a042a16614d1c6e71d7c73d79

@@ -1,0 +1,7 @@
+signId	1162
+text	pigg
+imageUuid	355700a2-dcf7-4619-b171-cd6d8817af28
+translationKey	8551d883-80b4-4a98-a74e-a88f5fa869f3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/355700a2-dcf7-4619-b171-cd6d8817af28/8551d883-80b4-4a98-a74e-a88f5fa869f3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/355700a2-dcf7-4619-b171-cd6d8817af28/8551d883-80b4-4a98-a74e-a88f5fa869f3
+md5	89b22cd11c59f4c75b3576892a9118c2

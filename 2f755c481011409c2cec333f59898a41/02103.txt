@@ -1,0 +1,7 @@
+signId	2103
+text	dansa 2
+imageUuid	80e31a9b-c032-4b12-b4c7-b4f61896ca51
+translationKey	6242a74f-0086-4718-b177-9285861e7074
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/80e31a9b-c032-4b12-b4c7-b4f61896ca51/6242a74f-0086-4718-b177-9285861e7074/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/80e31a9b-c032-4b12-b4c7-b4f61896ca51/6242a74f-0086-4718-b177-9285861e7074
+md5	2f755c481011409c2cec333f59898a41

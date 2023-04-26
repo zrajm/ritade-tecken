@@ -1,0 +1,7 @@
+signId	2073
+text	otäck
+imageUuid	951de610-87b7-4666-af58-8cbafac8f610
+translationKey	99d6fa76-5f9a-4ae5-9c5d-6f301149834d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/951de610-87b7-4666-af58-8cbafac8f610/99d6fa76-5f9a-4ae5-9c5d-6f301149834d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/951de610-87b7-4666-af58-8cbafac8f610/99d6fa76-5f9a-4ae5-9c5d-6f301149834d
+md5	f68e0d99636b2d08e2d191646ebc5157

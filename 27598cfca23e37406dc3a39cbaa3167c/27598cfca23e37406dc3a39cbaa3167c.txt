@@ -1,0 +1,8 @@
+
+signId	2668
+text	umgås
+imageUuid	0d54bb15-cb15-4891-9622-b8fd0bfd879e
+translationKey	b63122b1-0298-4d60-8174-c181bb67b9ec
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0d54bb15-cb15-4891-9622-b8fd0bfd879e/b63122b1-0298-4d60-8174-c181bb67b9ec/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0d54bb15-cb15-4891-9622-b8fd0bfd879e/b63122b1-0298-4d60-8174-c181bb67b9ec
+md5	27598cfca23e37406dc3a39cbaa3167c

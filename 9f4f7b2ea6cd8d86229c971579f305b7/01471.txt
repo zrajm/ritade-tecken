@@ -1,0 +1,7 @@
+signId	1471
+text	steka
+imageUuid	c662589d-8ee6-40d5-83f0-2242be329933
+translationKey	f6ba9037-6ba9-4caa-9d6b-79d698f6bcd5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c662589d-8ee6-40d5-83f0-2242be329933/f6ba9037-6ba9-4caa-9d6b-79d698f6bcd5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c662589d-8ee6-40d5-83f0-2242be329933/f6ba9037-6ba9-4caa-9d6b-79d698f6bcd5
+md5	9f4f7b2ea6cd8d86229c971579f305b7

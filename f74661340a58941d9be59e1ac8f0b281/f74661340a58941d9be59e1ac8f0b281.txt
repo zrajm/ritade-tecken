@@ -1,0 +1,8 @@
+
+signId	2124
+text	kittla
+imageUuid	60466d17-7bb8-47d8-b864-56c71a57afd2
+translationKey	62e57a66-baf1-446f-8eb0-175e7d5dafa8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/60466d17-7bb8-47d8-b864-56c71a57afd2/62e57a66-baf1-446f-8eb0-175e7d5dafa8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/60466d17-7bb8-47d8-b864-56c71a57afd2/62e57a66-baf1-446f-8eb0-175e7d5dafa8
+md5	f74661340a58941d9be59e1ac8f0b281

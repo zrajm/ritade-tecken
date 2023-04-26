@@ -1,0 +1,7 @@
+signId	2882
+text	brandvarnare
+imageUuid	a78913b5-3b99-4608-9020-77e36f26c7b9
+translationKey	384e6dba-f971-41ec-be12-891f28cf9ff3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a78913b5-3b99-4608-9020-77e36f26c7b9/384e6dba-f971-41ec-be12-891f28cf9ff3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a78913b5-3b99-4608-9020-77e36f26c7b9/384e6dba-f971-41ec-be12-891f28cf9ff3
+md5	f9f11a64ca9bb326f00fc612a5e5a21c

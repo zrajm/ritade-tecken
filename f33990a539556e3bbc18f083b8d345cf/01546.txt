@@ -1,0 +1,7 @@
+signId	1546
+text	säng
+imageUuid	44bb31ba-99ba-4155-8b7f-739720a7a2d6
+translationKey	fe103721-01ac-4316-a549-25d006423083
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/44bb31ba-99ba-4155-8b7f-739720a7a2d6/fe103721-01ac-4316-a549-25d006423083/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/44bb31ba-99ba-4155-8b7f-739720a7a2d6/fe103721-01ac-4316-a549-25d006423083
+md5	f33990a539556e3bbc18f083b8d345cf

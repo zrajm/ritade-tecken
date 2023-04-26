@@ -1,0 +1,7 @@
+signId	809
+text	kran
+imageUuid	4d71bf99-563a-4b90-a9cf-2e15a29b36b5
+translationKey	53411f12-8174-45cf-b21c-c9e5bae2aeef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4d71bf99-563a-4b90-a9cf-2e15a29b36b5/53411f12-8174-45cf-b21c-c9e5bae2aeef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4d71bf99-563a-4b90-a9cf-2e15a29b36b5/53411f12-8174-45cf-b21c-c9e5bae2aeef
+md5	1710b627602612cbc86f14ccaf7e7a69

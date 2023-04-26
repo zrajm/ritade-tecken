@@ -1,0 +1,7 @@
+signId	2695
+text	moppa
+imageUuid	5b621ba6-2123-4b2d-bb0a-ddf6f8c83afe
+translationKey	41f12fa1-b102-4686-ab73-17dbdc56e1cc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5b621ba6-2123-4b2d-bb0a-ddf6f8c83afe/41f12fa1-b102-4686-ab73-17dbdc56e1cc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5b621ba6-2123-4b2d-bb0a-ddf6f8c83afe/41f12fa1-b102-4686-ab73-17dbdc56e1cc
+md5	b48829e69acb24d73aaad787b260fc95

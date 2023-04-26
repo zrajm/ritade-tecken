@@ -1,0 +1,16 @@
+
+signId	870
+text	larv
+imageUuid	95429cc8-3dfc-4b45-b426-697f31f96cda
+translationKey	7c918b76-9b09-44e2-8282-4b991b51f65b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/95429cc8-3dfc-4b45-b426-697f31f96cda/7c918b76-9b09-44e2-8282-4b991b51f65b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/95429cc8-3dfc-4b45-b426-697f31f96cda/7c918b76-9b09-44e2-8282-4b991b51f65b
+md5	00a548a6a3c1a74a5b47eed86e697b41
+
+signId	965
+text	mask (djur)
+imageUuid	bb7d2b0c-3cb1-4a28-ab19-9d282818c246
+translationKey	84bc888e-2a49-480c-aa08-bad9fd061031
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bb7d2b0c-3cb1-4a28-ab19-9d282818c246/84bc888e-2a49-480c-aa08-bad9fd061031/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bb7d2b0c-3cb1-4a28-ab19-9d282818c246/84bc888e-2a49-480c-aa08-bad9fd061031
+md5	00a548a6a3c1a74a5b47eed86e697b41

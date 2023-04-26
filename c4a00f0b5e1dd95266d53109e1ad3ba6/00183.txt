@@ -1,0 +1,7 @@
+signId	183
+text	bredvid 1
+imageUuid	6755e838-0559-459d-8f1f-f27bca13994f
+translationKey	2fd39704-fcef-43ee-a81f-2830ef7f939c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6755e838-0559-459d-8f1f-f27bca13994f/2fd39704-fcef-43ee-a81f-2830ef7f939c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6755e838-0559-459d-8f1f-f27bca13994f/2fd39704-fcef-43ee-a81f-2830ef7f939c
+md5	c4a00f0b5e1dd95266d53109e1ad3ba6

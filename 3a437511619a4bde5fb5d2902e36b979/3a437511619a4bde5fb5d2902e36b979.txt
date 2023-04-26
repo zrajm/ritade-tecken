@@ -1,0 +1,8 @@
+
+signId	3212
+text	framefotboll
+imageUuid	7972eecc-c3c4-4562-8a1e-419075e3d98b
+translationKey	09926e12-c283-4413-81f0-576a9c1d26b0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7972eecc-c3c4-4562-8a1e-419075e3d98b/09926e12-c283-4413-81f0-576a9c1d26b0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7972eecc-c3c4-4562-8a1e-419075e3d98b/09926e12-c283-4413-81f0-576a9c1d26b0
+md5	3a437511619a4bde5fb5d2902e36b979

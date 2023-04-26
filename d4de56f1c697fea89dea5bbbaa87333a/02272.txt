@@ -1,0 +1,7 @@
+signId	2272
+text	genast
+imageUuid	9ff0761d-16b4-4238-8229-0d89bd76a83f
+translationKey	b762422b-9e2e-4195-81d4-4298360fd059
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9ff0761d-16b4-4238-8229-0d89bd76a83f/b762422b-9e2e-4195-81d4-4298360fd059/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9ff0761d-16b4-4238-8229-0d89bd76a83f/b762422b-9e2e-4195-81d4-4298360fd059
+md5	edc8e1fc37db9f7fc128dfaa7360ea0c

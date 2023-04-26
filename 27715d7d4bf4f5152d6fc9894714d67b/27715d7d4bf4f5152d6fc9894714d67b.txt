@@ -1,0 +1,48 @@
+
+signId	287
+text	drama
+imageUuid	22fe3a30-c188-43d7-91ce-9c396b83281a
+translationKey	e0b5dce1-7891-493f-be40-18552afcbaf8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/22fe3a30-c188-43d7-91ce-9c396b83281a/e0b5dce1-7891-493f-be40-18552afcbaf8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/22fe3a30-c188-43d7-91ce-9c396b83281a/e0b5dce1-7891-493f-be40-18552afcbaf8
+md5	27715d7d4bf4f5152d6fc9894714d67b
+
+signId	451
+text	föreställning
+imageUuid	44b57dd3-03ea-450e-9795-e683b43a18e8
+translationKey	a7edc911-fa41-4179-96e4-ab0342776bda
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/44b57dd3-03ea-450e-9795-e683b43a18e8/a7edc911-fa41-4179-96e4-ab0342776bda/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/44b57dd3-03ea-450e-9795-e683b43a18e8/a7edc911-fa41-4179-96e4-ab0342776bda
+md5	27715d7d4bf4f5152d6fc9894714d67b
+
+signId	1251
+text	roll
+imageUuid	6830b553-dc8c-47af-987f-016c8dd57c57
+translationKey	c08ce6fc-5502-478e-bf66-42484c95cdac
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6830b553-dc8c-47af-987f-016c8dd57c57/c08ce6fc-5502-478e-bf66-42484c95cdac/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6830b553-dc8c-47af-987f-016c8dd57c57/c08ce6fc-5502-478e-bf66-42484c95cdac
+md5	27715d7d4bf4f5152d6fc9894714d67b
+
+signId	1369
+text	skådespelare 1
+imageUuid	86d66ce1-63d1-4cce-957b-41ee98f02234
+translationKey	0f20bfdf-eb46-4c42-ae52-dce355dc2d24
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86d66ce1-63d1-4cce-957b-41ee98f02234/0f20bfdf-eb46-4c42-ae52-dce355dc2d24/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86d66ce1-63d1-4cce-957b-41ee98f02234/0f20bfdf-eb46-4c42-ae52-dce355dc2d24
+md5	27715d7d4bf4f5152d6fc9894714d67b
+
+signId	1448
+text	spela teater
+imageUuid	8cc88e64-8ed2-415d-8269-a29793783999
+translationKey	8eab3f0c-5027-44da-bb2e-09648a329fde
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8cc88e64-8ed2-415d-8269-a29793783999/8eab3f0c-5027-44da-bb2e-09648a329fde/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8cc88e64-8ed2-415d-8269-a29793783999/8eab3f0c-5027-44da-bb2e-09648a329fde
+md5	27715d7d4bf4f5152d6fc9894714d67b
+
+signId	1568
+text	teater
+imageUuid	6314f3b4-a573-4403-bceb-845a90152f49
+translationKey	ad744fa7-cf85-47b9-8b5c-019303863303
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6314f3b4-a573-4403-bceb-845a90152f49/ad744fa7-cf85-47b9-8b5c-019303863303/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6314f3b4-a573-4403-bceb-845a90152f49/ad744fa7-cf85-47b9-8b5c-019303863303
+md5	27715d7d4bf4f5152d6fc9894714d67b

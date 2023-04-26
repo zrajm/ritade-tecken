@@ -1,0 +1,8 @@
+
+signId	324
+text	elvisp
+imageUuid	48e99763-a11a-4cc7-a636-7d05599cb225
+translationKey	40ef68ad-039e-4c27-b44a-5dfb770c78e6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/48e99763-a11a-4cc7-a636-7d05599cb225/40ef68ad-039e-4c27-b44a-5dfb770c78e6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/48e99763-a11a-4cc7-a636-7d05599cb225/40ef68ad-039e-4c27-b44a-5dfb770c78e6
+md5	1c423acba3b2d7d8901a97e0474b623c

@@ -1,0 +1,8 @@
+
+signId	1952
+text	tass
+imageUuid	45a8c6a8-78d5-4f28-b9f1-2ab3acdca04c
+translationKey	15cd386d-2c8e-472e-95fe-6cc53d8d9a7f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/45a8c6a8-78d5-4f28-b9f1-2ab3acdca04c/15cd386d-2c8e-472e-95fe-6cc53d8d9a7f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/45a8c6a8-78d5-4f28-b9f1-2ab3acdca04c/15cd386d-2c8e-472e-95fe-6cc53d8d9a7f
+md5	39bb4b7586941b52962c585610715eea

@@ -1,0 +1,7 @@
+signId	268
+text	diska 1
+imageUuid	12af959f-1561-4af4-a3b4-fd476a6efeec
+translationKey	3ed4a4a7-c445-4243-af3a-92ae0ad8ff21
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/12af959f-1561-4af4-a3b4-fd476a6efeec/3ed4a4a7-c445-4243-af3a-92ae0ad8ff21/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/12af959f-1561-4af4-a3b4-fd476a6efeec/3ed4a4a7-c445-4243-af3a-92ae0ad8ff21
+md5	7db5e0518d8f5026be4695aff6396425

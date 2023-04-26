@@ -1,0 +1,7 @@
+signId	1272
+text	rätt
+imageUuid	aa6dddef-363e-42fb-92c0-8a22ccdb99e3
+translationKey	72fb82b8-1fee-4182-b90f-d5337e827eac
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aa6dddef-363e-42fb-92c0-8a22ccdb99e3/72fb82b8-1fee-4182-b90f-d5337e827eac/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aa6dddef-363e-42fb-92c0-8a22ccdb99e3/72fb82b8-1fee-4182-b90f-d5337e827eac
+md5	a948288813d46fd695c9707f11716f13

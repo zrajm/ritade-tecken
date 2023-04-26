@@ -1,0 +1,7 @@
+signId	1988
+text	söder
+imageUuid	263e4858-2068-45d3-8939-cd43b974c123
+translationKey	616b849b-f629-4e6e-932c-e86c7e7d7159
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/263e4858-2068-45d3-8939-cd43b974c123/616b849b-f629-4e6e-932c-e86c7e7d7159/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/263e4858-2068-45d3-8939-cd43b974c123/616b849b-f629-4e6e-932c-e86c7e7d7159
+md5	6ccd43180a2b6409efde1fb024a5e233

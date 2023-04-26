@@ -1,0 +1,8 @@
+
+signId	2711
+text	chatta
+imageUuid	fa194727-698e-466b-9df8-68e5fac65d65
+translationKey	db9dccd7-5d20-414b-a319-28a2d46289bc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fa194727-698e-466b-9df8-68e5fac65d65/db9dccd7-5d20-414b-a319-28a2d46289bc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fa194727-698e-466b-9df8-68e5fac65d65/db9dccd7-5d20-414b-a319-28a2d46289bc
+md5	fb57feee93b3d78115d85ae1333f0180

@@ -1,0 +1,8 @@
+
+signId	2239
+text	pommes frites
+imageUuid	2ed3ab60-81c7-4128-8496-d7e94b519678
+translationKey	8792fd2c-8241-4139-a269-6e92cd8cbc68
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2ed3ab60-81c7-4128-8496-d7e94b519678/8792fd2c-8241-4139-a269-6e92cd8cbc68/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2ed3ab60-81c7-4128-8496-d7e94b519678/8792fd2c-8241-4139-a269-6e92cd8cbc68
+md5	1a78776b78ff29146af5eb9cb5c3223d

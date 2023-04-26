@@ -1,0 +1,8 @@
+
+signId	1386
+text	slå sig
+imageUuid	274b49bb-b3ee-4ebc-8916-6836fba2a41f
+translationKey	59e9dd77-59dd-4979-834f-9d5b89448dea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/274b49bb-b3ee-4ebc-8916-6836fba2a41f/59e9dd77-59dd-4979-834f-9d5b89448dea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/274b49bb-b3ee-4ebc-8916-6836fba2a41f/59e9dd77-59dd-4979-834f-9d5b89448dea
+md5	f56ffee139aabaebd76769485135ddae

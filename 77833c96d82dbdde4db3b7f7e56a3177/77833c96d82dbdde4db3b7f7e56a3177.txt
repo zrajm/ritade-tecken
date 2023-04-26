@@ -1,0 +1,8 @@
+
+signId	2557
+text	samlag
+imageUuid	c1dccf9f-395c-41f7-9aeb-568194d46862
+translationKey	436bee97-a86d-4082-9bde-e956470521c5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c1dccf9f-395c-41f7-9aeb-568194d46862/436bee97-a86d-4082-9bde-e956470521c5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c1dccf9f-395c-41f7-9aeb-568194d46862/436bee97-a86d-4082-9bde-e956470521c5
+md5	77833c96d82dbdde4db3b7f7e56a3177

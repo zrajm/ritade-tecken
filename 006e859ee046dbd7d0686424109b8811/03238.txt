@@ -1,0 +1,7 @@
+signId	3238
+text	äldre
+imageUuid	20824e69-e3b5-4415-b588-4522f82f9bfe
+translationKey	9eb156a9-80e3-4e17-92c1-135bd96bd591
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/20824e69-e3b5-4415-b588-4522f82f9bfe/9eb156a9-80e3-4e17-92c1-135bd96bd591/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/20824e69-e3b5-4415-b588-4522f82f9bfe/9eb156a9-80e3-4e17-92c1-135bd96bd591
+md5	006e859ee046dbd7d0686424109b8811

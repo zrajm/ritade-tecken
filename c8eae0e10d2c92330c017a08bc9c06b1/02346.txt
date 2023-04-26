@@ -1,0 +1,7 @@
+signId	2346
+text	Kalle Anka
+imageUuid	e50f0b13-a6b2-4872-8286-b8bdce177ddc
+translationKey	0efe1abc-40d8-4a4b-8a96-3a756ac271bd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e50f0b13-a6b2-4872-8286-b8bdce177ddc/0efe1abc-40d8-4a4b-8a96-3a756ac271bd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e50f0b13-a6b2-4872-8286-b8bdce177ddc/0efe1abc-40d8-4a4b-8a96-3a756ac271bd
+md5	c8eae0e10d2c92330c017a08bc9c06b1

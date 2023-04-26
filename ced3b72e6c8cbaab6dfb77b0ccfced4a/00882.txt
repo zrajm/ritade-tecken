@@ -1,0 +1,7 @@
+signId	882
+text	leksaker
+imageUuid	29c81b94-a559-40db-8334-e9840c03292a
+translationKey	8fe65058-d85d-48f9-bed4-d11a991c679b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/29c81b94-a559-40db-8334-e9840c03292a/8fe65058-d85d-48f9-bed4-d11a991c679b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/29c81b94-a559-40db-8334-e9840c03292a/8fe65058-d85d-48f9-bed4-d11a991c679b
+md5	ced3b72e6c8cbaab6dfb77b0ccfced4a

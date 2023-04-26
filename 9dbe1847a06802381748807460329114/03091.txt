@@ -1,0 +1,7 @@
+signId	3091
+text	EU
+imageUuid	8aa0a322-e00b-48df-87ff-40be7250d114
+translationKey	42b3234a-610f-4001-a551-cb996ebb3405
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8aa0a322-e00b-48df-87ff-40be7250d114/42b3234a-610f-4001-a551-cb996ebb3405/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8aa0a322-e00b-48df-87ff-40be7250d114/42b3234a-610f-4001-a551-cb996ebb3405
+md5	9dbe1847a06802381748807460329114

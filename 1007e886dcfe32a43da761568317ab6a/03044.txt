@@ -1,0 +1,7 @@
+signId	3044
+text	biologi
+imageUuid	4405afb5-675c-4f67-b024-0f75d496a9f4
+translationKey	ec0a7be4-7154-48f2-94d7-a7c5092ce549
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4405afb5-675c-4f67-b024-0f75d496a9f4/ec0a7be4-7154-48f2-94d7-a7c5092ce549/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4405afb5-675c-4f67-b024-0f75d496a9f4/ec0a7be4-7154-48f2-94d7-a7c5092ce549
+md5	76bb3a5f599eaf4366f88f0ba7e6b1d1

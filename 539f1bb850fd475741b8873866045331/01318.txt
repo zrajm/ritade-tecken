@@ -1,0 +1,7 @@
+signId	1318
+text	sjukgymnast
+imageUuid	ea607a9a-1427-43fb-8b0e-c080019ae456
+translationKey	385527a8-8b9b-4bec-99d7-2a20a17a67c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ea607a9a-1427-43fb-8b0e-c080019ae456/385527a8-8b9b-4bec-99d7-2a20a17a67c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ea607a9a-1427-43fb-8b0e-c080019ae456/385527a8-8b9b-4bec-99d7-2a20a17a67c4
+md5	539f1bb850fd475741b8873866045331

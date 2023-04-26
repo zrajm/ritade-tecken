@@ -1,0 +1,8 @@
+signId	1827
+text	öron
+imageUuid	02134a1c-9429-473e-87c3-00d563ebdf65
+translationKey	5f343ba1-8dce-49ee-876b-99eff005c5f2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/02134a1c-9429-473e-87c3-00d563ebdf65/5f343ba1-8dce-49ee-876b-99eff005c5f2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/02134a1c-9429-473e-87c3-00d563ebdf65/5f343ba1-8dce-49ee-876b-99eff005c5f2
+md5	739c356878ee5726cd13d714ed803de1
+note	Swapped image with 739c356878ee5726cd13d714ed803de1 because of error in Ritade tecken

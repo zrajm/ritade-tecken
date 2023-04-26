@@ -1,0 +1,7 @@
+signId	730
+text	kassörska
+imageUuid	1118ba98-73ac-4997-bcd9-c8c331275aad
+translationKey	e13f56aa-668d-419d-9d31-40a25a6b3ad8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1118ba98-73ac-4997-bcd9-c8c331275aad/e13f56aa-668d-419d-9d31-40a25a6b3ad8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1118ba98-73ac-4997-bcd9-c8c331275aad/e13f56aa-668d-419d-9d31-40a25a6b3ad8
+md5	b38abcc13fd8d13eccaa5ed432e97814

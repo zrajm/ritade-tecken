@@ -1,0 +1,8 @@
+
+signId	2961
+text	kryckor
+imageUuid	1ac6745f-a5f9-427f-9982-083b79c539a6
+translationKey	3e1379fd-c9d5-44ab-b120-e53f9bb2a6b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1ac6745f-a5f9-427f-9982-083b79c539a6/3e1379fd-c9d5-44ab-b120-e53f9bb2a6b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1ac6745f-a5f9-427f-9982-083b79c539a6/3e1379fd-c9d5-44ab-b120-e53f9bb2a6b6
+md5	73e61fbf4897387fd6880aa2d2e3193c

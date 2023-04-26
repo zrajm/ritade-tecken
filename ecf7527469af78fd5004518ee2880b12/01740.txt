@@ -1,0 +1,7 @@
+signId	1740
+text	vinna
+imageUuid	4276b806-e96e-4d22-a22c-eee2a9eec033
+translationKey	1d28b09f-ae40-40c9-bcff-5284a03bcc11
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4276b806-e96e-4d22-a22c-eee2a9eec033/1d28b09f-ae40-40c9-bcff-5284a03bcc11/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4276b806-e96e-4d22-a22c-eee2a9eec033/1d28b09f-ae40-40c9-bcff-5284a03bcc11
+md5	ecf7527469af78fd5004518ee2880b12

@@ -1,0 +1,7 @@
+signId	793
+text	kopp
+imageUuid	42558af9-428a-42bc-80fa-30bc4bf7f760
+translationKey	8146f4dd-8ec4-45ee-a49d-0833275907b1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/42558af9-428a-42bc-80fa-30bc4bf7f760/8146f4dd-8ec4-45ee-a49d-0833275907b1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/42558af9-428a-42bc-80fa-30bc4bf7f760/8146f4dd-8ec4-45ee-a49d-0833275907b1
+md5	454ba3d24ef0bd06a423dedd85b48e59

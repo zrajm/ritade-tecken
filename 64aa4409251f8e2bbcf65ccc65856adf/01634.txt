@@ -1,0 +1,7 @@
+signId	1634
+text	t-shirt
+imageUuid	094839fe-8759-42b5-b90d-713411dec70f
+translationKey	321a419c-84c8-4de8-95cd-be644898e135
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/094839fe-8759-42b5-b90d-713411dec70f/321a419c-84c8-4de8-95cd-be644898e135/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/094839fe-8759-42b5-b90d-713411dec70f/321a419c-84c8-4de8-95cd-be644898e135
+md5	64aa4409251f8e2bbcf65ccc65856adf

@@ -1,0 +1,7 @@
+signId	1031
+text	mycket
+imageUuid	af829ca1-5ed2-43c5-b84e-e21210ce1692
+translationKey	87cbfa3b-980c-442c-87be-e6a16d3032a1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/af829ca1-5ed2-43c5-b84e-e21210ce1692/87cbfa3b-980c-442c-87be-e6a16d3032a1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/af829ca1-5ed2-43c5-b84e-e21210ce1692/87cbfa3b-980c-442c-87be-e6a16d3032a1
+md5	a2bff78d9f08d32284245bb6e4e5f030

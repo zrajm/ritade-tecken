@@ -1,0 +1,8 @@
+
+signId	2902
+text	påfågel
+imageUuid	8d7d73eb-884b-492b-8da6-d8e04305a2fe
+translationKey	9baa83bc-ae55-4b71-bdf7-a3953f69e271
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8d7d73eb-884b-492b-8da6-d8e04305a2fe/9baa83bc-ae55-4b71-bdf7-a3953f69e271/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8d7d73eb-884b-492b-8da6-d8e04305a2fe/9baa83bc-ae55-4b71-bdf7-a3953f69e271
+md5	76d60046b70cd9b2f7a63764261bd2b5

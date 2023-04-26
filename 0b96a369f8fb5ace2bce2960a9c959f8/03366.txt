@@ -1,0 +1,7 @@
+signId	3366
+text	champagne
+imageUuid	bff4ffa3-f612-4335-88d9-a10a350f406c
+translationKey	bf53b3b9-f377-4c99-8eb3-4c2d3b360d8b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bff4ffa3-f612-4335-88d9-a10a350f406c/bf53b3b9-f377-4c99-8eb3-4c2d3b360d8b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bff4ffa3-f612-4335-88d9-a10a350f406c/bf53b3b9-f377-4c99-8eb3-4c2d3b360d8b
+md5	da3a1e074b5475be27050122dc26c995

@@ -1,0 +1,7 @@
+signId	1693
+text	vaken
+imageUuid	88d3b1b8-740b-41d6-98ae-5d45f406de23
+translationKey	46394c93-f3ab-43c6-96c2-564e4516964d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/88d3b1b8-740b-41d6-98ae-5d45f406de23/46394c93-f3ab-43c6-96c2-564e4516964d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/88d3b1b8-740b-41d6-98ae-5d45f406de23/46394c93-f3ab-43c6-96c2-564e4516964d
+md5	48ed32905ca7d16234dc3a591c87ba17

@@ -1,0 +1,8 @@
+
+signId	921
+text	lysa uppåt
+imageUuid	77b53ca1-217c-485c-9677-6654ed09930a
+translationKey	3312b89a-5ada-4ff5-800c-062855d7504f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/77b53ca1-217c-485c-9677-6654ed09930a/3312b89a-5ada-4ff5-800c-062855d7504f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/77b53ca1-217c-485c-9677-6654ed09930a/3312b89a-5ada-4ff5-800c-062855d7504f
+md5	0f730b6f95133756c482a1f442c80504

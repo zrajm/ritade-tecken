@@ -1,0 +1,8 @@
+
+signId	2834
+text	tjur
+imageUuid	a7f48732-aa6a-4504-a33e-ab2047cff371
+translationKey	4d740798-0475-4e70-b455-140b30ab0a0e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a7f48732-aa6a-4504-a33e-ab2047cff371/4d740798-0475-4e70-b455-140b30ab0a0e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a7f48732-aa6a-4504-a33e-ab2047cff371/4d740798-0475-4e70-b455-140b30ab0a0e
+md5	f66b4f5544b50e4ef24e2dedb1ffadc2

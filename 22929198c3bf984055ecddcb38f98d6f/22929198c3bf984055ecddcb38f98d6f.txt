@@ -1,0 +1,8 @@
+
+signId	2134
+text	morot 1
+imageUuid	a0011762-6606-4a4b-b9f8-d0a05d45e79b
+translationKey	94c155c8-d782-4daa-a770-7dcc868d95a2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a0011762-6606-4a4b-b9f8-d0a05d45e79b/94c155c8-d782-4daa-a770-7dcc868d95a2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a0011762-6606-4a4b-b9f8-d0a05d45e79b/94c155c8-d782-4daa-a770-7dcc868d95a2
+md5	22929198c3bf984055ecddcb38f98d6f

@@ -1,0 +1,8 @@
+
+signId	3109
+text	vapen
+imageUuid	4f277bec-42c3-48c0-9d8e-d2e39e9297fb
+translationKey	4770104a-039e-4cd3-989f-27c2a392fbd9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4f277bec-42c3-48c0-9d8e-d2e39e9297fb/4770104a-039e-4cd3-989f-27c2a392fbd9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4f277bec-42c3-48c0-9d8e-d2e39e9297fb/4770104a-039e-4cd3-989f-27c2a392fbd9
+md5	9b7f7fb7504d5a5f8cbc3dc6e729c34e

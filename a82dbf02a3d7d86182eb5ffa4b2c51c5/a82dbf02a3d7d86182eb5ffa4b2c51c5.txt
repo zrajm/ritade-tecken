@@ -1,0 +1,8 @@
+
+signId	2914
+text	adventskalender
+imageUuid	0145564b-b4db-45d9-8b81-4f68767f5e0b
+translationKey	c4e3f63d-feab-43e6-a9ee-e6720c09f720
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0145564b-b4db-45d9-8b81-4f68767f5e0b/c4e3f63d-feab-43e6-a9ee-e6720c09f720/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0145564b-b4db-45d9-8b81-4f68767f5e0b/c4e3f63d-feab-43e6-a9ee-e6720c09f720
+md5	a82dbf02a3d7d86182eb5ffa4b2c51c5

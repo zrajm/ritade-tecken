@@ -1,0 +1,8 @@
+
+signId	3098
+text	bomb
+imageUuid	ff801842-41fa-43f9-afa4-0e542608f6d5
+translationKey	43e94a81-0e6f-4682-8f06-39aa9463ae77
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ff801842-41fa-43f9-afa4-0e542608f6d5/43e94a81-0e6f-4682-8f06-39aa9463ae77/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ff801842-41fa-43f9-afa4-0e542608f6d5/43e94a81-0e6f-4682-8f06-39aa9463ae77
+md5	cd197ae40e21f2df18401b5babde3493

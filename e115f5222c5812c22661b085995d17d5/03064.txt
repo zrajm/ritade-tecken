@@ -1,0 +1,7 @@
+signId	3064
+text	föda
+imageUuid	a6f4ea7b-0f0d-447d-868f-23d55287cffa
+translationKey	56281be8-3227-4e89-bf3f-fac2760ddd35
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a6f4ea7b-0f0d-447d-868f-23d55287cffa/56281be8-3227-4e89-bf3f-fac2760ddd35/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a6f4ea7b-0f0d-447d-868f-23d55287cffa/56281be8-3227-4e89-bf3f-fac2760ddd35
+md5	e115f5222c5812c22661b085995d17d5

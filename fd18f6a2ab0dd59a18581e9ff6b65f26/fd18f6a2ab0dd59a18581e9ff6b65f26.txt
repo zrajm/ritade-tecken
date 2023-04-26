@@ -1,0 +1,8 @@
+
+signId	2920
+text	fiol
+imageUuid	6fe4d7cb-031a-4812-9150-822f9333eae7
+translationKey	4686d696-4c71-4940-823e-f10fa6265bc7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6fe4d7cb-031a-4812-9150-822f9333eae7/4686d696-4c71-4940-823e-f10fa6265bc7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6fe4d7cb-031a-4812-9150-822f9333eae7/4686d696-4c71-4940-823e-f10fa6265bc7
+md5	fd18f6a2ab0dd59a18581e9ff6b65f26

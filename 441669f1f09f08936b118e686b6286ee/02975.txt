@@ -1,0 +1,7 @@
+signId	2975
+text	mönster
+imageUuid	4d6486dc-88b5-438f-8bee-794a5d6c33ed
+translationKey	413f60dd-5d6d-442b-ba46-4744dcdf5fb2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4d6486dc-88b5-438f-8bee-794a5d6c33ed/413f60dd-5d6d-442b-ba46-4744dcdf5fb2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4d6486dc-88b5-438f-8bee-794a5d6c33ed/413f60dd-5d6d-442b-ba46-4744dcdf5fb2
+md5	441669f1f09f08936b118e686b6286ee

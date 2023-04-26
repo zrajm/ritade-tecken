@@ -1,0 +1,7 @@
+signId	2316
+text	balett
+imageUuid	2da39c22-0e8e-4835-8239-f23d2226f5df
+translationKey	e5b72b0a-4151-4842-af0e-a21a190bfaf4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2da39c22-0e8e-4835-8239-f23d2226f5df/e5b72b0a-4151-4842-af0e-a21a190bfaf4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2da39c22-0e8e-4835-8239-f23d2226f5df/e5b72b0a-4151-4842-af0e-a21a190bfaf4
+md5	2f755c481011409c2cec333f59898a41

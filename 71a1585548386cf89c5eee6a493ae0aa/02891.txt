@@ -1,0 +1,7 @@
+signId	2891
+text	insekt
+imageUuid	d1ff927c-3a1f-4867-98bc-0de312d22c0c
+translationKey	28853aae-6f46-4d46-880a-5839275c2f88
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d1ff927c-3a1f-4867-98bc-0de312d22c0c/28853aae-6f46-4d46-880a-5839275c2f88/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d1ff927c-3a1f-4867-98bc-0de312d22c0c/28853aae-6f46-4d46-880a-5839275c2f88
+md5	71a1585548386cf89c5eee6a493ae0aa

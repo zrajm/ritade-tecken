@@ -1,0 +1,7 @@
+signId	1522
+text	svag
+imageUuid	7142742e-1c50-4fe8-9839-58fe0454edfc
+translationKey	e6b9dc18-f24f-499e-ab3a-3dcfe2d06e96
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7142742e-1c50-4fe8-9839-58fe0454edfc/e6b9dc18-f24f-499e-ab3a-3dcfe2d06e96/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7142742e-1c50-4fe8-9839-58fe0454edfc/e6b9dc18-f24f-499e-ab3a-3dcfe2d06e96
+md5	937a41c67de004d20b16ac2661a3718e

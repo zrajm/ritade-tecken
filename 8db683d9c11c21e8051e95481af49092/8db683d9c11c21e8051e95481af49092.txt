@@ -1,0 +1,8 @@
+
+signId	146
+text	bli
+imageUuid	b53ff78e-5d2c-48e7-b0d8-d6c0547eba96
+translationKey	a4eb9ec0-537a-4010-91f2-e4c267cc3fce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b53ff78e-5d2c-48e7-b0d8-d6c0547eba96/a4eb9ec0-537a-4010-91f2-e4c267cc3fce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b53ff78e-5d2c-48e7-b0d8-d6c0547eba96/a4eb9ec0-537a-4010-91f2-e4c267cc3fce
+md5	8db683d9c11c21e8051e95481af49092

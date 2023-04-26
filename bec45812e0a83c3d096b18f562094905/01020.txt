@@ -1,0 +1,7 @@
+signId	1020
+text	mountainbike
+imageUuid	8ded17b9-6a05-4305-a7c5-e6014447229b
+translationKey	2fd326ea-34e5-4950-acd7-3564f2cee737
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8ded17b9-6a05-4305-a7c5-e6014447229b/2fd326ea-34e5-4950-acd7-3564f2cee737/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8ded17b9-6a05-4305-a7c5-e6014447229b/2fd326ea-34e5-4950-acd7-3564f2cee737
+md5	bec45812e0a83c3d096b18f562094905

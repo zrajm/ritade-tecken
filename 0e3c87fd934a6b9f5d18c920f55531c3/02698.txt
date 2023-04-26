@@ -1,0 +1,7 @@
+signId	2698
+text	kräftskiva
+imageUuid	066ccb6f-93f5-491f-91fd-f0280c4899ec
+translationKey	46d716f6-43d5-4a63-bd7e-794c967f1b0c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/066ccb6f-93f5-491f-91fd-f0280c4899ec/46d716f6-43d5-4a63-bd7e-794c967f1b0c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/066ccb6f-93f5-491f-91fd-f0280c4899ec/46d716f6-43d5-4a63-bd7e-794c967f1b0c
+md5	0e3c87fd934a6b9f5d18c920f55531c3

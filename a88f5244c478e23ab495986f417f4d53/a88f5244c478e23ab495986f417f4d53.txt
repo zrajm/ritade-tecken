@@ -1,0 +1,16 @@
+
+signId	2616
+text	viking
+imageUuid	fc5bb535-79fe-46dc-9978-dae520559070
+translationKey	14396897-e971-489f-a8e3-8c8f3624ea46
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fc5bb535-79fe-46dc-9978-dae520559070/14396897-e971-489f-a8e3-8c8f3624ea46/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fc5bb535-79fe-46dc-9978-dae520559070/14396897-e971-489f-a8e3-8c8f3624ea46
+md5	a88f5244c478e23ab495986f417f4d53
+
+signId	2913
+text	horn
+imageUuid	f52b2f5a-e186-40f9-a917-53950b7c1328
+translationKey	742f46ba-0d7a-471c-a8ae-16f54af033be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f52b2f5a-e186-40f9-a917-53950b7c1328/742f46ba-0d7a-471c-a8ae-16f54af033be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f52b2f5a-e186-40f9-a917-53950b7c1328/742f46ba-0d7a-471c-a8ae-16f54af033be
+md5	a88f5244c478e23ab495986f417f4d53

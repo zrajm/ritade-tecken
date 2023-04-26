@@ -1,0 +1,8 @@
+
+signId	429
+text	fy
+imageUuid	13e286c9-9e39-47e5-87b4-b1ed60a32d55
+translationKey	64d848ff-212c-477a-8c46-2a35be81bcdf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/13e286c9-9e39-47e5-87b4-b1ed60a32d55/64d848ff-212c-477a-8c46-2a35be81bcdf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/13e286c9-9e39-47e5-87b4-b1ed60a32d55/64d848ff-212c-477a-8c46-2a35be81bcdf
+md5	6f68b781ea3a05802b7a9263fab90503

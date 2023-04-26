@@ -1,0 +1,7 @@
+signId	974
+text	meddela
+imageUuid	26945f3e-67fb-446e-8c31-8431aea5c892
+translationKey	6ae3e151-da88-4a59-814c-f81b84eaf09a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/26945f3e-67fb-446e-8c31-8431aea5c892/6ae3e151-da88-4a59-814c-f81b84eaf09a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/26945f3e-67fb-446e-8c31-8431aea5c892/6ae3e151-da88-4a59-814c-f81b84eaf09a
+md5	bcd45ba31f4cd1a7a4b6c49b9b674b72

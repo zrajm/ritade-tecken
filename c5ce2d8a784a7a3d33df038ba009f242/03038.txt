@@ -1,0 +1,7 @@
+signId	3038
+text	vimpel
+imageUuid	e99edfdd-83cc-4c86-a252-841a32593a25
+translationKey	905e58f5-fe96-4c91-83bc-6a89c46d33ca
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e99edfdd-83cc-4c86-a252-841a32593a25/905e58f5-fe96-4c91-83bc-6a89c46d33ca/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e99edfdd-83cc-4c86-a252-841a32593a25/905e58f5-fe96-4c91-83bc-6a89c46d33ca
+md5	c5ce2d8a784a7a3d33df038ba009f242

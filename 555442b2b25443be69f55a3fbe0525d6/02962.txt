@@ -1,0 +1,7 @@
+signId	2962
+text	morbror
+imageUuid	e8bf6cc1-1ef2-4286-b3ff-07607c5eee6d
+translationKey	1a3aba06-6061-4201-975a-1925dccd30a5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e8bf6cc1-1ef2-4286-b3ff-07607c5eee6d/1a3aba06-6061-4201-975a-1925dccd30a5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e8bf6cc1-1ef2-4286-b3ff-07607c5eee6d/1a3aba06-6061-4201-975a-1925dccd30a5
+md5	555442b2b25443be69f55a3fbe0525d6

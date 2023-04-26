@@ -1,0 +1,8 @@
+
+signId	1114
+text	onsdag
+imageUuid	b469c5c4-4c1e-4e0a-85d5-5b512a74c401
+translationKey	0c8773b4-05ca-4948-9775-4cbe2e754bc1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b469c5c4-4c1e-4e0a-85d5-5b512a74c401/0c8773b4-05ca-4948-9775-4cbe2e754bc1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b469c5c4-4c1e-4e0a-85d5-5b512a74c401/0c8773b4-05ca-4948-9775-4cbe2e754bc1
+md5	1755aac7ff44f15286c208b90fa81bdb

@@ -1,0 +1,7 @@
+signId	1299
+text	seger
+imageUuid	657d9038-2d1b-4c20-b06a-a0a82b87e137
+translationKey	4245ec63-9213-4e37-bdd2-41f51074274b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/657d9038-2d1b-4c20-b06a-a0a82b87e137/4245ec63-9213-4e37-bdd2-41f51074274b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/657d9038-2d1b-4c20-b06a-a0a82b87e137/4245ec63-9213-4e37-bdd2-41f51074274b
+md5	ecf7527469af78fd5004518ee2880b12

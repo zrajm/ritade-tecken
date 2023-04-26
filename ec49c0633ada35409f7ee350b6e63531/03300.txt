@@ -1,0 +1,7 @@
+signId	3300
+text	gräns
+imageUuid	adc8be0b-e888-4439-9e8e-469a62b3245b
+translationKey	5667c0de-c9f8-4144-b54d-4361d600d768
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/adc8be0b-e888-4439-9e8e-469a62b3245b/5667c0de-c9f8-4144-b54d-4361d600d768/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/adc8be0b-e888-4439-9e8e-469a62b3245b/5667c0de-c9f8-4144-b54d-4361d600d768
+md5	ec49c0633ada35409f7ee350b6e63531

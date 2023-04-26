@@ -1,0 +1,7 @@
+signId	1015
+text	morot 2
+imageUuid	d93234bc-5fdd-4924-8e8e-b070063f119d
+translationKey	e66a7ccc-f7ca-4bf2-beba-76a97bfd4b54
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d93234bc-5fdd-4924-8e8e-b070063f119d/e66a7ccc-f7ca-4bf2-beba-76a97bfd4b54/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d93234bc-5fdd-4924-8e8e-b070063f119d/e66a7ccc-f7ca-4bf2-beba-76a97bfd4b54
+md5	c5ce2d8a784a7a3d33df038ba009f242

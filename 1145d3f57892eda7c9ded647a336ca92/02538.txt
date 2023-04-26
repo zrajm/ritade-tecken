@@ -1,0 +1,7 @@
+signId	2538
+text	fysik (skolämnet)
+imageUuid	7b4f1892-ff25-456e-b1a8-41023f42dcba
+translationKey	0d1b551c-cd22-4c79-9ac4-d5113c48d324
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7b4f1892-ff25-456e-b1a8-41023f42dcba/0d1b551c-cd22-4c79-9ac4-d5113c48d324/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7b4f1892-ff25-456e-b1a8-41023f42dcba/0d1b551c-cd22-4c79-9ac4-d5113c48d324
+md5	1145d3f57892eda7c9ded647a336ca92

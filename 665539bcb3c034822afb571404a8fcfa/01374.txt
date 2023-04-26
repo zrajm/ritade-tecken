@@ -1,0 +1,7 @@
+signId	1374
+text	skämt
+imageUuid	aeae5df5-463e-4983-a548-cfdf1243d7f1
+translationKey	65fe8668-22f5-46e1-a7db-8215c4c16626
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aeae5df5-463e-4983-a548-cfdf1243d7f1/65fe8668-22f5-46e1-a7db-8215c4c16626/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aeae5df5-463e-4983-a548-cfdf1243d7f1/65fe8668-22f5-46e1-a7db-8215c4c16626
+md5	665539bcb3c034822afb571404a8fcfa

@@ -1,0 +1,7 @@
+signId	2048
+text	fladdermus
+imageUuid	781c8cd7-6b93-43a4-9e6d-4661323dd3bf
+translationKey	28d7e03e-34a6-4c66-bcf0-23cbf4c3637a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/781c8cd7-6b93-43a4-9e6d-4661323dd3bf/28d7e03e-34a6-4c66-bcf0-23cbf4c3637a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/781c8cd7-6b93-43a4-9e6d-4661323dd3bf/28d7e03e-34a6-4c66-bcf0-23cbf4c3637a
+md5	fe4806e062d16fb31de5c42a3742dc80

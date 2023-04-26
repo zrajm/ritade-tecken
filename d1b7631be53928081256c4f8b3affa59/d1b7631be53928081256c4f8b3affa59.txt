@@ -1,0 +1,16 @@
+
+signId	5
+text	11_1 (tal)
+imageUuid	c12f0db3-6b0f-4746-865a-9edacd54de15
+translationKey	cd59e39b-d120-404a-b99b-57e1df83b9bb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c12f0db3-6b0f-4746-865a-9edacd54de15/cd59e39b-d120-404a-b99b-57e1df83b9bb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c12f0db3-6b0f-4746-865a-9edacd54de15/cd59e39b-d120-404a-b99b-57e1df83b9bb
+md5	d1b7631be53928081256c4f8b3affa59
+
+signId	3149
+text	elva 1
+imageUuid	a05b2a2f-2712-4a3b-9691-6463188eb9ff
+translationKey	53065eac-8165-4701-a31c-a57e887caaad
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a05b2a2f-2712-4a3b-9691-6463188eb9ff/53065eac-8165-4701-a31c-a57e887caaad/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a05b2a2f-2712-4a3b-9691-6463188eb9ff/53065eac-8165-4701-a31c-a57e887caaad
+md5	d1b7631be53928081256c4f8b3affa59

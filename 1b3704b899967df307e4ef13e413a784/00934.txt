@@ -1,0 +1,7 @@
+signId	934
+text	läger
+imageUuid	efd03ffd-0718-4b5d-a85f-917e11b0914f
+translationKey	a839215d-c2ca-4250-a531-fc66d1886b16
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/efd03ffd-0718-4b5d-a85f-917e11b0914f/a839215d-c2ca-4250-a531-fc66d1886b16/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/efd03ffd-0718-4b5d-a85f-917e11b0914f/a839215d-c2ca-4250-a531-fc66d1886b16
+md5	1b3704b899967df307e4ef13e413a784

@@ -1,0 +1,7 @@
+signId	2997
+text	grundskola
+imageUuid	954634a6-92cb-41de-999f-d2784bba8efb
+translationKey	3c79cde8-4d13-48fa-b49b-100baf5afeff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/954634a6-92cb-41de-999f-d2784bba8efb/3c79cde8-4d13-48fa-b49b-100baf5afeff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/954634a6-92cb-41de-999f-d2784bba8efb/3c79cde8-4d13-48fa-b49b-100baf5afeff
+md5	37f9c1d4bdcd9f11e3f7b34b66922131

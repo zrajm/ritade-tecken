@@ -1,0 +1,8 @@
+
+signId	2788
+text	klitoris
+imageUuid	f9ae833d-3cc6-45ce-a33c-acb7d920216e
+translationKey	8586a983-0dbf-4b17-b681-de27152fd1f3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f9ae833d-3cc6-45ce-a33c-acb7d920216e/8586a983-0dbf-4b17-b681-de27152fd1f3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f9ae833d-3cc6-45ce-a33c-acb7d920216e/8586a983-0dbf-4b17-b681-de27152fd1f3
+md5	978789aed2afcefccc1d78457ef80ac1

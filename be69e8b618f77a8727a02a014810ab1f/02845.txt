@@ -1,0 +1,7 @@
+signId	2845
+text	fem (siffra)
+imageUuid	1ca38869-a3fe-4c99-a695-9eb29a0b83b4
+translationKey	69bc0555-0b66-4e64-8f79-cd0a71a712e3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1ca38869-a3fe-4c99-a695-9eb29a0b83b4/69bc0555-0b66-4e64-8f79-cd0a71a712e3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1ca38869-a3fe-4c99-a695-9eb29a0b83b4/69bc0555-0b66-4e64-8f79-cd0a71a712e3
+md5	be69e8b618f77a8727a02a014810ab1f

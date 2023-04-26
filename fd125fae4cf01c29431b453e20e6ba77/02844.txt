@@ -1,0 +1,7 @@
+signId	2844
+text	fyra (siffra)
+imageUuid	b0432790-0a4b-46c3-bb9b-3d09eea7d100
+translationKey	aa9ad959-0e2a-4f0c-b6b7-70197b5d2f78
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b0432790-0a4b-46c3-bb9b-3d09eea7d100/aa9ad959-0e2a-4f0c-b6b7-70197b5d2f78/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b0432790-0a4b-46c3-bb9b-3d09eea7d100/aa9ad959-0e2a-4f0c-b6b7-70197b5d2f78
+md5	fd125fae4cf01c29431b453e20e6ba77

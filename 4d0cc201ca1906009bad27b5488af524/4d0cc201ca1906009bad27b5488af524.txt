@@ -1,0 +1,8 @@
+
+signId	2462
+text	Grekland
+imageUuid	9be3fa22-83fb-4f54-ac6c-fee0955229d1
+translationKey	a6ff915e-6fc5-4d33-aa1d-e0b9fa543153
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9be3fa22-83fb-4f54-ac6c-fee0955229d1/a6ff915e-6fc5-4d33-aa1d-e0b9fa543153/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9be3fa22-83fb-4f54-ac6c-fee0955229d1/a6ff915e-6fc5-4d33-aa1d-e0b9fa543153
+md5	4d0cc201ca1906009bad27b5488af524

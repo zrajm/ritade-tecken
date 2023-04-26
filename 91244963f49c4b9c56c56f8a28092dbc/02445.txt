@@ -1,0 +1,7 @@
+signId	2445
+text	religionskunskap
+imageUuid	645c4848-8d9e-4696-b911-e11a282c822a
+translationKey	59192ca8-b682-4b39-b1e9-456f7a5be766
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/645c4848-8d9e-4696-b911-e11a282c822a/59192ca8-b682-4b39-b1e9-456f7a5be766/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/645c4848-8d9e-4696-b911-e11a282c822a/59192ca8-b682-4b39-b1e9-456f7a5be766
+md5	91244963f49c4b9c56c56f8a28092dbc

@@ -1,0 +1,7 @@
+signId	2431
+text	kommunikation
+imageUuid	770d0910-f3fa-4ad4-a288-e73223bbb708
+translationKey	bfe78b38-7df1-43b3-b74c-8721bd4952d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/770d0910-f3fa-4ad4-a288-e73223bbb708/bfe78b38-7df1-43b3-b74c-8721bd4952d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/770d0910-f3fa-4ad4-a288-e73223bbb708/bfe78b38-7df1-43b3-b74c-8721bd4952d3
+md5	0f7000969ae3ca854d4e15442d4507b7

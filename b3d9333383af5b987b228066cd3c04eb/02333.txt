@@ -1,0 +1,7 @@
+signId	2333
+text	förstås
+imageUuid	3611cd14-f6fb-4b6d-912e-93daef90661e
+translationKey	d09699da-64e4-48a0-b93b-776ad8211582
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3611cd14-f6fb-4b6d-912e-93daef90661e/d09699da-64e4-48a0-b93b-776ad8211582/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3611cd14-f6fb-4b6d-912e-93daef90661e/d09699da-64e4-48a0-b93b-776ad8211582
+md5	b3d9333383af5b987b228066cd3c04eb

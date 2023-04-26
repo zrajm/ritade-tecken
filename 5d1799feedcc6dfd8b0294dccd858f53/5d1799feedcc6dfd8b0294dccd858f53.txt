@@ -1,0 +1,8 @@
+
+signId	3113
+text	Moskva
+imageUuid	dd730d03-3d81-462f-881d-bccf7a86baa0
+translationKey	82cb6a45-c322-4f82-858f-792792e296e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dd730d03-3d81-462f-881d-bccf7a86baa0/82cb6a45-c322-4f82-858f-792792e296e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dd730d03-3d81-462f-881d-bccf7a86baa0/82cb6a45-c322-4f82-858f-792792e296e1
+md5	5d1799feedcc6dfd8b0294dccd858f53

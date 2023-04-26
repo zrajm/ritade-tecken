@@ -1,0 +1,7 @@
+signId	2956
+text	coronavirus
+imageUuid	b0c01f3c-4c64-4958-a9ae-d604742fd85f
+translationKey	d1f915e8-b521-4f22-b66d-a96b896c8518
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b0c01f3c-4c64-4958-a9ae-d604742fd85f/d1f915e8-b521-4f22-b66d-a96b896c8518/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b0c01f3c-4c64-4958-a9ae-d604742fd85f/d1f915e8-b521-4f22-b66d-a96b896c8518
+md5	6a77cc175e42089cb132a1046b62a159

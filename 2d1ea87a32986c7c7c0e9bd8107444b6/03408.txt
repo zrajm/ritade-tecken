@@ -1,0 +1,7 @@
+signId	3408
+text	nämndeman
+imageUuid	cd43d4bc-60e5-4d76-8b48-8e7ab2ccef40
+translationKey	ff95c7ab-c51e-4f3d-8bbb-ddfb3254e44d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cd43d4bc-60e5-4d76-8b48-8e7ab2ccef40/ff95c7ab-c51e-4f3d-8bbb-ddfb3254e44d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cd43d4bc-60e5-4d76-8b48-8e7ab2ccef40/ff95c7ab-c51e-4f3d-8bbb-ddfb3254e44d
+md5	2d1ea87a32986c7c7c0e9bd8107444b6

@@ -1,0 +1,7 @@
+signId	956
+text	majs
+imageUuid	2db37857-30c9-41bb-ab65-dab8345bc0cc
+translationKey	a668e571-e0a6-47a9-9cdb-ee30ba1823bb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2db37857-30c9-41bb-ab65-dab8345bc0cc/a668e571-e0a6-47a9-9cdb-ee30ba1823bb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2db37857-30c9-41bb-ab65-dab8345bc0cc/a668e571-e0a6-47a9-9cdb-ee30ba1823bb
+md5	73f387cff91648edca7bee75b736df50

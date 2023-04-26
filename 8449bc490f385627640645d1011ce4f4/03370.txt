@@ -1,0 +1,7 @@
+signId	3370
+text	elektriker
+imageUuid	baf3122a-b9a8-4b6c-b974-7f125000db52
+translationKey	1609245d-85a6-4b3b-b989-787b6792d410
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/baf3122a-b9a8-4b6c-b974-7f125000db52/1609245d-85a6-4b3b-b989-787b6792d410/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/baf3122a-b9a8-4b6c-b974-7f125000db52/1609245d-85a6-4b3b-b989-787b6792d410
+md5	8449bc490f385627640645d1011ce4f4

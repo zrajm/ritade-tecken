@@ -1,0 +1,16 @@
+
+signId	1429
+text	sopa
+imageUuid	35aff689-27cb-44c5-8342-c0c7964b2fbb
+translationKey	c31bb926-38d3-460a-8907-50c0be7da17b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/35aff689-27cb-44c5-8342-c0c7964b2fbb/c31bb926-38d3-460a-8907-50c0be7da17b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/35aff689-27cb-44c5-8342-c0c7964b2fbb/c31bb926-38d3-460a-8907-50c0be7da17b
+md5	07f076e99136b3261db2108bbe177ec6
+
+signId	1431
+text	sopborste
+imageUuid	4b6e4ca5-ae67-44d2-9414-de18086d8e1c
+translationKey	96ee016b-437f-4bdc-8dda-85a0ca6d62c5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4b6e4ca5-ae67-44d2-9414-de18086d8e1c/96ee016b-437f-4bdc-8dda-85a0ca6d62c5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4b6e4ca5-ae67-44d2-9414-de18086d8e1c/96ee016b-437f-4bdc-8dda-85a0ca6d62c5
+md5	07f076e99136b3261db2108bbe177ec6

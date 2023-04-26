@@ -1,0 +1,8 @@
+
+signId	1642
+text	tupp
+imageUuid	a8d8b726-f182-40bf-a717-1b9f956fbc0e
+translationKey	eb7e532c-16ac-4a00-82a0-76b80c4e336e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a8d8b726-f182-40bf-a717-1b9f956fbc0e/eb7e532c-16ac-4a00-82a0-76b80c4e336e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a8d8b726-f182-40bf-a717-1b9f956fbc0e/eb7e532c-16ac-4a00-82a0-76b80c4e336e
+md5	07bccdc1cf43913e76bd6b5a7382d59f

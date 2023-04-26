@@ -1,0 +1,24 @@
+
+signId	2051
+text	förfärlig
+imageUuid	50161263-9d3b-4349-a1b5-76b402a21247
+translationKey	5d89a6b5-f7ed-4c2f-96a8-e91a50277234
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/50161263-9d3b-4349-a1b5-76b402a21247/5d89a6b5-f7ed-4c2f-96a8-e91a50277234/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/50161263-9d3b-4349-a1b5-76b402a21247/5d89a6b5-f7ed-4c2f-96a8-e91a50277234
+md5	f68e0d99636b2d08e2d191646ebc5157
+
+signId	2055
+text	hemsk
+imageUuid	3b0efa4a-544f-4a72-bbd7-128acec5c738
+translationKey	803cf746-bc7b-4440-8d56-e7b1d1f307cb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b0efa4a-544f-4a72-bbd7-128acec5c738/803cf746-bc7b-4440-8d56-e7b1d1f307cb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b0efa4a-544f-4a72-bbd7-128acec5c738/803cf746-bc7b-4440-8d56-e7b1d1f307cb
+md5	f68e0d99636b2d08e2d191646ebc5157
+
+signId	2073
+text	otäck
+imageUuid	951de610-87b7-4666-af58-8cbafac8f610
+translationKey	99d6fa76-5f9a-4ae5-9c5d-6f301149834d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/951de610-87b7-4666-af58-8cbafac8f610/99d6fa76-5f9a-4ae5-9c5d-6f301149834d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/951de610-87b7-4666-af58-8cbafac8f610/99d6fa76-5f9a-4ae5-9c5d-6f301149834d
+md5	f68e0d99636b2d08e2d191646ebc5157

@@ -1,0 +1,7 @@
+signId	2039
+text	cd
+imageUuid	8d08ad54-390b-43ec-9fbe-e3844b092f7e
+translationKey	12abff36-2d0f-4544-863f-eec045268420
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8d08ad54-390b-43ec-9fbe-e3844b092f7e/12abff36-2d0f-4544-863f-eec045268420/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8d08ad54-390b-43ec-9fbe-e3844b092f7e/12abff36-2d0f-4544-863f-eec045268420
+md5	435662b447b6f28129ebea4771baa3b1

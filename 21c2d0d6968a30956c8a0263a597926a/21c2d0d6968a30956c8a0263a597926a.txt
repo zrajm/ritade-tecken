@@ -1,0 +1,8 @@
+
+signId	3403
+text	lyx 2
+imageUuid	c92cadc6-57e1-4aea-a173-b98887359985
+translationKey	df18d4ad-dbd4-468c-8e87-8543f424c137
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c92cadc6-57e1-4aea-a173-b98887359985/df18d4ad-dbd4-468c-8e87-8543f424c137/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c92cadc6-57e1-4aea-a173-b98887359985/df18d4ad-dbd4-468c-8e87-8543f424c137
+md5	21c2d0d6968a30956c8a0263a597926a

@@ -1,0 +1,8 @@
+
+signId	2252
+text	tandkräm
+imageUuid	323f75c1-98b6-4926-a47e-2b5e80282d08
+translationKey	a6a000b7-78d8-48b8-beee-e1405592d93b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/323f75c1-98b6-4926-a47e-2b5e80282d08/a6a000b7-78d8-48b8-beee-e1405592d93b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/323f75c1-98b6-4926-a47e-2b5e80282d08/a6a000b7-78d8-48b8-beee-e1405592d93b
+md5	163fa009d77473e77fba688413398cf0

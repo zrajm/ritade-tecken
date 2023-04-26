@@ -1,0 +1,7 @@
+signId	1448
+text	spela teater
+imageUuid	8cc88e64-8ed2-415d-8269-a29793783999
+translationKey	8eab3f0c-5027-44da-bb2e-09648a329fde
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8cc88e64-8ed2-415d-8269-a29793783999/8eab3f0c-5027-44da-bb2e-09648a329fde/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8cc88e64-8ed2-415d-8269-a29793783999/8eab3f0c-5027-44da-bb2e-09648a329fde
+md5	27715d7d4bf4f5152d6fc9894714d67b

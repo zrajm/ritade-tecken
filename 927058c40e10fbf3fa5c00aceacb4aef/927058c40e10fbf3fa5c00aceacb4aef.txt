@@ -1,0 +1,8 @@
+
+signId	612
+text	humör
+imageUuid	8933c39a-3a82-420b-8bcc-f55041ad2ffb
+translationKey	91e46afc-a54e-420f-b0a1-9fc51ea13beb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8933c39a-3a82-420b-8bcc-f55041ad2ffb/91e46afc-a54e-420f-b0a1-9fc51ea13beb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8933c39a-3a82-420b-8bcc-f55041ad2ffb/91e46afc-a54e-420f-b0a1-9fc51ea13beb
+md5	927058c40e10fbf3fa5c00aceacb4aef

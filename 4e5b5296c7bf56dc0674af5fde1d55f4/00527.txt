@@ -1,0 +1,7 @@
+signId	527
+text	gullig
+imageUuid	3a12edd0-e9ed-4f28-a25f-84816a6d4d70
+translationKey	9acda663-09cb-40b4-9819-f112f75aa1b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a12edd0-e9ed-4f28-a25f-84816a6d4d70/9acda663-09cb-40b4-9819-f112f75aa1b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a12edd0-e9ed-4f28-a25f-84816a6d4d70/9acda663-09cb-40b4-9819-f112f75aa1b5
+md5	4e5b5296c7bf56dc0674af5fde1d55f4

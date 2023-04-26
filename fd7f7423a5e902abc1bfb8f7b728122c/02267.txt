@@ -1,0 +1,7 @@
+signId	2267
+text	fantasi
+imageUuid	5cf09e0d-776c-45c9-8f24-2498d784755d
+translationKey	9dbe38e6-66b8-47c6-bf2e-0889dd16228a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5cf09e0d-776c-45c9-8f24-2498d784755d/9dbe38e6-66b8-47c6-bf2e-0889dd16228a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5cf09e0d-776c-45c9-8f24-2498d784755d/9dbe38e6-66b8-47c6-bf2e-0889dd16228a
+md5	fd7f7423a5e902abc1bfb8f7b728122c

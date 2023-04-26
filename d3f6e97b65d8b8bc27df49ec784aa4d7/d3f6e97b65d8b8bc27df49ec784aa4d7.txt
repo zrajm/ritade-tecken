@@ -1,0 +1,8 @@
+
+signId	2651
+text	mynt
+imageUuid	5412fffa-6bd4-462e-a247-62c4fbb7a433
+translationKey	27f9618d-cd3a-4e2c-8f1a-76c4e8e3072d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5412fffa-6bd4-462e-a247-62c4fbb7a433/27f9618d-cd3a-4e2c-8f1a-76c4e8e3072d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5412fffa-6bd4-462e-a247-62c4fbb7a433/27f9618d-cd3a-4e2c-8f1a-76c4e8e3072d
+md5	d3f6e97b65d8b8bc27df49ec784aa4d7

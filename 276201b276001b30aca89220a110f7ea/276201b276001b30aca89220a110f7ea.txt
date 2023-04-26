@@ -1,0 +1,16 @@
+
+signId	2097
+text	barnvagn
+imageUuid	0f9f71e0-3e86-4eaa-a202-fe43b7544093
+translationKey	7b9e347e-aeb3-4f78-9e37-d18bad6beeb9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0f9f71e0-3e86-4eaa-a202-fe43b7544093/7b9e347e-aeb3-4f78-9e37-d18bad6beeb9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0f9f71e0-3e86-4eaa-a202-fe43b7544093/7b9e347e-aeb3-4f78-9e37-d18bad6beeb9
+md5	276201b276001b30aca89220a110f7ea
+
+signId	2850
+text	gräsklippare
+imageUuid	52175333-39e5-4d25-bfa2-f10d5f01211b
+translationKey	78a2e696-6154-4dab-a0b4-f15e5f637091
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/52175333-39e5-4d25-bfa2-f10d5f01211b/78a2e696-6154-4dab-a0b4-f15e5f637091/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/52175333-39e5-4d25-bfa2-f10d5f01211b/78a2e696-6154-4dab-a0b4-f15e5f637091
+md5	276201b276001b30aca89220a110f7ea

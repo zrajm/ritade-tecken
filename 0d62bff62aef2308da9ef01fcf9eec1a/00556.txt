@@ -1,0 +1,7 @@
+signId	556
+text	halm
+imageUuid	f6139e50-0ae3-4398-a715-529db28e1531
+translationKey	148b2bbb-0381-4d73-9fe1-4e48967162b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f6139e50-0ae3-4398-a715-529db28e1531/148b2bbb-0381-4d73-9fe1-4e48967162b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f6139e50-0ae3-4398-a715-529db28e1531/148b2bbb-0381-4d73-9fe1-4e48967162b6
+md5	0d62bff62aef2308da9ef01fcf9eec1a

@@ -1,0 +1,7 @@
+signId	781
+text	koka
+imageUuid	8180bb5a-1265-473c-a8f7-51a666692cb4
+translationKey	f51deb44-6533-4fb1-b8a0-217393e3accc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8180bb5a-1265-473c-a8f7-51a666692cb4/f51deb44-6533-4fb1-b8a0-217393e3accc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8180bb5a-1265-473c-a8f7-51a666692cb4/f51deb44-6533-4fb1-b8a0-217393e3accc
+md5	adbac728c5d948b572af7d6fe6fcca15

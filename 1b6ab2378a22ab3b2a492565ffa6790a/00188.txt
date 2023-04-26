@@ -1,0 +1,7 @@
+signId	188
+text	bro
+imageUuid	72a10276-a164-4220-bf7c-64edeb62bc99
+translationKey	f3cb05ab-9362-4c67-965d-32856ded4fae
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72a10276-a164-4220-bf7c-64edeb62bc99/f3cb05ab-9362-4c67-965d-32856ded4fae/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72a10276-a164-4220-bf7c-64edeb62bc99/f3cb05ab-9362-4c67-965d-32856ded4fae
+md5	1b6ab2378a22ab3b2a492565ffa6790a

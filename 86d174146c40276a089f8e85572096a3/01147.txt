@@ -1,0 +1,7 @@
+signId	1147
+text	pedagog
+imageUuid	1ff31566-80c8-4947-b51f-1c592ad5ed40
+translationKey	f7c7aadd-6c49-41a0-b5d8-c470608c95cc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1ff31566-80c8-4947-b51f-1c592ad5ed40/f7c7aadd-6c49-41a0-b5d8-c470608c95cc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1ff31566-80c8-4947-b51f-1c592ad5ed40/f7c7aadd-6c49-41a0-b5d8-c470608c95cc
+md5	86d174146c40276a089f8e85572096a3

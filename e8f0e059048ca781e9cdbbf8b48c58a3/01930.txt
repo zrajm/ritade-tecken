@@ -1,0 +1,7 @@
+signId	1930
+text	röra sig
+imageUuid	05fd3886-3a00-4566-b83c-3748a2b3e474
+translationKey	69eb5beb-7183-4c8b-ae0c-db085a36e424
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/05fd3886-3a00-4566-b83c-3748a2b3e474/69eb5beb-7183-4c8b-ae0c-db085a36e424/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/05fd3886-3a00-4566-b83c-3748a2b3e474/69eb5beb-7183-4c8b-ae0c-db085a36e424
+md5	e8f0e059048ca781e9cdbbf8b48c58a3

@@ -1,0 +1,8 @@
+
+signId	1602
+text	torka av 2
+imageUuid	411a8c7e-8704-42db-ba52-fad9a3d87199
+translationKey	284c0056-8b34-4ed2-8faf-be94ec4d3f1b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/411a8c7e-8704-42db-ba52-fad9a3d87199/284c0056-8b34-4ed2-8faf-be94ec4d3f1b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/411a8c7e-8704-42db-ba52-fad9a3d87199/284c0056-8b34-4ed2-8faf-be94ec4d3f1b
+md5	b39c7d1c1fb50bd56247a9c776858159

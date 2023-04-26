@@ -1,0 +1,7 @@
+signId	879
+text	lek
+imageUuid	7fd3fb3b-c1aa-4ed4-8b0e-c7348d05d543
+translationKey	fca021d2-61d1-450c-bbdd-2b79dbe1002b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7fd3fb3b-c1aa-4ed4-8b0e-c7348d05d543/fca021d2-61d1-450c-bbdd-2b79dbe1002b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7fd3fb3b-c1aa-4ed4-8b0e-c7348d05d543/fca021d2-61d1-450c-bbdd-2b79dbe1002b
+md5	665539bcb3c034822afb571404a8fcfa

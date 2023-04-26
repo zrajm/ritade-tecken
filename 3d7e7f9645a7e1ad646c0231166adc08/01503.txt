@@ -1,0 +1,7 @@
+signId	1503
+text	stuga
+imageUuid	570e015f-884e-4460-af1c-c18da8eb76bc
+translationKey	4c60200c-6e3b-427d-b7b3-6c8b1353c3e6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/570e015f-884e-4460-af1c-c18da8eb76bc/4c60200c-6e3b-427d-b7b3-6c8b1353c3e6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/570e015f-884e-4460-af1c-c18da8eb76bc/4c60200c-6e3b-427d-b7b3-6c8b1353c3e6
+md5	3d7e7f9645a7e1ad646c0231166adc08

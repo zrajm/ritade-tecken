@@ -1,0 +1,7 @@
+signId	1775
+text	växt
+imageUuid	a494ce91-119b-42e4-9daf-a25355075a18
+translationKey	58b3ae5e-85aa-4434-ac4f-4fcfd277daff
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a494ce91-119b-42e4-9daf-a25355075a18/58b3ae5e-85aa-4434-ac4f-4fcfd277daff/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a494ce91-119b-42e4-9daf-a25355075a18/58b3ae5e-85aa-4434-ac4f-4fcfd277daff
+md5	7245641aaab197c01201703d29c38e26

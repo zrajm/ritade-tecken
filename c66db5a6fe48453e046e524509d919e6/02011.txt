@@ -1,0 +1,7 @@
+signId	2011
+text	ärlig
+imageUuid	38041a55-4f93-4fd9-8a6d-7286705a767d
+translationKey	862c3368-0f85-4404-8643-2dbc686badf1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/38041a55-4f93-4fd9-8a6d-7286705a767d/862c3368-0f85-4404-8643-2dbc686badf1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/38041a55-4f93-4fd9-8a6d-7286705a767d/862c3368-0f85-4404-8643-2dbc686badf1
+md5	5a97f576ff182dff8cf9b36e876f6dd0

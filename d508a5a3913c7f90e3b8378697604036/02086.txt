@@ -1,0 +1,7 @@
+signId	2086
+text	trolla
+imageUuid	6e0be3a5-49f2-48a9-b7aa-01d8ae285e76
+translationKey	28b9b25e-8f4e-423b-b8d9-55ca76ef7647
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6e0be3a5-49f2-48a9-b7aa-01d8ae285e76/28b9b25e-8f4e-423b-b8d9-55ca76ef7647/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6e0be3a5-49f2-48a9-b7aa-01d8ae285e76/28b9b25e-8f4e-423b-b8d9-55ca76ef7647
+md5	d508a5a3913c7f90e3b8378697604036

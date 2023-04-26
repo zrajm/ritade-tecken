@@ -1,0 +1,8 @@
+
+signId	681
+text	istapp
+imageUuid	0a997635-b70b-4ea1-be4d-94764aada6b3
+translationKey	accb956c-e57a-4684-811c-6e2917eac837
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0a997635-b70b-4ea1-be4d-94764aada6b3/accb956c-e57a-4684-811c-6e2917eac837/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0a997635-b70b-4ea1-be4d-94764aada6b3/accb956c-e57a-4684-811c-6e2917eac837
+md5	b90d3ccd24ead180aad0db3ea686b188

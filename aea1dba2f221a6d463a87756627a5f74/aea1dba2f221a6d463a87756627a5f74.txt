@@ -1,0 +1,8 @@
+
+signId	2614
+text	tång (verktyg)
+imageUuid	70c81282-a504-4dfb-b654-445542ee82ef
+translationKey	8834b030-175d-455c-b53f-ca31dadb8da1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/70c81282-a504-4dfb-b654-445542ee82ef/8834b030-175d-455c-b53f-ca31dadb8da1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/70c81282-a504-4dfb-b654-445542ee82ef/8834b030-175d-455c-b53f-ca31dadb8da1
+md5	aea1dba2f221a6d463a87756627a5f74

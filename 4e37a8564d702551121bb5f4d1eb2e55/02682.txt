@@ -1,0 +1,7 @@
+signId	2682
+text	torkskåp
+imageUuid	0f265d27-946b-4562-9798-3e8c67db8928
+translationKey	84e96e24-35c3-47f8-82fb-28dad3b166a5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0f265d27-946b-4562-9798-3e8c67db8928/84e96e24-35c3-47f8-82fb-28dad3b166a5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0f265d27-946b-4562-9798-3e8c67db8928/84e96e24-35c3-47f8-82fb-28dad3b166a5
+md5	4e37a8564d702551121bb5f4d1eb2e55

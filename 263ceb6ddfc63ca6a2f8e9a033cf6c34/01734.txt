@@ -1,0 +1,7 @@
+signId	1734
+text	vill inte
+imageUuid	33b2bc9a-030c-4e6b-aefa-4ceb0715340c
+translationKey	d6537a23-c2d1-42ba-8dfd-0b614732ad5b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/33b2bc9a-030c-4e6b-aefa-4ceb0715340c/d6537a23-c2d1-42ba-8dfd-0b614732ad5b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/33b2bc9a-030c-4e6b-aefa-4ceb0715340c/d6537a23-c2d1-42ba-8dfd-0b614732ad5b
+md5	263ceb6ddfc63ca6a2f8e9a033cf6c34

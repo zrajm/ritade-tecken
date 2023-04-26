@@ -1,0 +1,7 @@
+signId	440
+text	färdig 1
+imageUuid	2b9999d3-eabe-4984-a821-11c79c1eb61d
+translationKey	44922ad4-41fa-4d6f-af3a-5989b4aa44d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2b9999d3-eabe-4984-a821-11c79c1eb61d/44922ad4-41fa-4d6f-af3a-5989b4aa44d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2b9999d3-eabe-4984-a821-11c79c1eb61d/44922ad4-41fa-4d6f-af3a-5989b4aa44d3
+md5	c05f3376649f383e24ea7de6ef3aaa46

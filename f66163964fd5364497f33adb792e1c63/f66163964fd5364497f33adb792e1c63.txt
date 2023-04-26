@@ -1,0 +1,8 @@
+
+signId	1616
+text	trogen
+imageUuid	aae086fc-6a7b-4d2d-a3bb-511e6d7b223a
+translationKey	e880d42c-353d-4984-acfe-0c84f443458d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aae086fc-6a7b-4d2d-a3bb-511e6d7b223a/e880d42c-353d-4984-acfe-0c84f443458d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aae086fc-6a7b-4d2d-a3bb-511e6d7b223a/e880d42c-353d-4984-acfe-0c84f443458d
+md5	f66163964fd5364497f33adb792e1c63

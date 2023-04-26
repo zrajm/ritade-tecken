@@ -1,0 +1,8 @@
+
+signId	1837
+text	innehåll
+imageUuid	0114d51f-c880-427d-a51e-b9f2c0db7c2a
+translationKey	1beb1e66-1a3c-452e-b76e-5f2bc4f0c022
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0114d51f-c880-427d-a51e-b9f2c0db7c2a/1beb1e66-1a3c-452e-b76e-5f2bc4f0c022/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0114d51f-c880-427d-a51e-b9f2c0db7c2a/1beb1e66-1a3c-452e-b76e-5f2bc4f0c022
+md5	fa9bed673fc58835abed0b9251512e11

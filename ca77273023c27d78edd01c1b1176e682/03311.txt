@@ -1,0 +1,7 @@
+signId	3311
+text	irriterad
+imageUuid	abcc2bed-6870-438b-b865-dfd62d0d1dcf
+translationKey	e5f65d28-38f1-45c4-96a2-fcd3b18184cc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/abcc2bed-6870-438b-b865-dfd62d0d1dcf/e5f65d28-38f1-45c4-96a2-fcd3b18184cc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/abcc2bed-6870-438b-b865-dfd62d0d1dcf/e5f65d28-38f1-45c4-96a2-fcd3b18184cc
+md5	ca77273023c27d78edd01c1b1176e682

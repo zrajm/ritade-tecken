@@ -1,0 +1,7 @@
+signId	217
+text	bänk
+imageUuid	637c1e05-c548-4680-95be-1ea2625e38da
+translationKey	3f7b63ac-2379-4078-965a-083080a29911
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/637c1e05-c548-4680-95be-1ea2625e38da/3f7b63ac-2379-4078-965a-083080a29911/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/637c1e05-c548-4680-95be-1ea2625e38da/3f7b63ac-2379-4078-965a-083080a29911
+md5	7db6ddc8600063cc31ed4c14cc6f6c0e

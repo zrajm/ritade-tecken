@@ -1,0 +1,7 @@
+signId	2858
+text	kuvert
+imageUuid	c7ccd457-77f6-4719-b63c-0c5284c77f04
+translationKey	714d22b2-6900-4290-9579-ae0695363777
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c7ccd457-77f6-4719-b63c-0c5284c77f04/714d22b2-6900-4290-9579-ae0695363777/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c7ccd457-77f6-4719-b63c-0c5284c77f04/714d22b2-6900-4290-9579-ae0695363777
+md5	777faa1f049123d5ac011254a8dd57fd

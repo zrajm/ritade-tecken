@@ -1,0 +1,8 @@
+
+signId	1665
+text	tända 2
+imageUuid	5d3da2d1-f2cc-4ab9-965c-f2dd32ad3c19
+translationKey	8b3940ec-9512-466e-b222-aedd39caaa8d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5d3da2d1-f2cc-4ab9-965c-f2dd32ad3c19/8b3940ec-9512-466e-b222-aedd39caaa8d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5d3da2d1-f2cc-4ab9-965c-f2dd32ad3c19/8b3940ec-9512-466e-b222-aedd39caaa8d
+md5	cf0020b12e52f192879f1b7b52fca833

@@ -1,0 +1,8 @@
+
+signId	2837
+text	vaniljsocker
+imageUuid	9c324ee3-e85d-4dcc-a042-87981631f4d6
+translationKey	8563f3da-35c0-4154-96f1-d32e95ea52da
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9c324ee3-e85d-4dcc-a042-87981631f4d6/8563f3da-35c0-4154-96f1-d32e95ea52da/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9c324ee3-e85d-4dcc-a042-87981631f4d6/8563f3da-35c0-4154-96f1-d32e95ea52da
+md5	ae5e8addb479403c00191187b96bbccd

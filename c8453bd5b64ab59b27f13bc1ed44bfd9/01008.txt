@@ -1,0 +1,7 @@
+signId	1008
+text	molnigt
+imageUuid	07b62a5a-84df-4631-b242-04a1f68023db
+translationKey	48a83401-1013-4f13-863e-795daea89e8f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/07b62a5a-84df-4631-b242-04a1f68023db/48a83401-1013-4f13-863e-795daea89e8f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/07b62a5a-84df-4631-b242-04a1f68023db/48a83401-1013-4f13-863e-795daea89e8f
+md5	c8453bd5b64ab59b27f13bc1ed44bfd9

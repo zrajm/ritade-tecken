@@ -1,0 +1,7 @@
+signId	1435
+text	sorg
+imageUuid	7028aaac-08f8-4a60-928f-0e1a4b8d54c9
+translationKey	b9a0a66c-5994-44c5-8087-82747cd18192
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7028aaac-08f8-4a60-928f-0e1a4b8d54c9/b9a0a66c-5994-44c5-8087-82747cd18192/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7028aaac-08f8-4a60-928f-0e1a4b8d54c9/b9a0a66c-5994-44c5-8087-82747cd18192
+md5	35a394bfd2f10b88e0532373bf076ea7

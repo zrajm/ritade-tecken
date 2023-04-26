@@ -1,0 +1,7 @@
+signId	1409
+text	snart
+imageUuid	c4bc6293-5b15-4b9d-a39c-9b4f5da65de6
+translationKey	68fb0537-4b48-4329-b658-3b7d553fd5e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c4bc6293-5b15-4b9d-a39c-9b4f5da65de6/68fb0537-4b48-4329-b658-3b7d553fd5e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c4bc6293-5b15-4b9d-a39c-9b4f5da65de6/68fb0537-4b48-4329-b658-3b7d553fd5e8
+md5	b72b6ebbd818260b1cd81ef11824cc85

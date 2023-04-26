@@ -1,0 +1,8 @@
+
+signId	2940
+text	regnjacka
+imageUuid	8932daa4-c667-4ef7-8be9-fa1bbda04418
+translationKey	99e2f7d4-4ff9-45ea-bc7b-5ebd480995ec
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8932daa4-c667-4ef7-8be9-fa1bbda04418/99e2f7d4-4ff9-45ea-bc7b-5ebd480995ec/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8932daa4-c667-4ef7-8be9-fa1bbda04418/99e2f7d4-4ff9-45ea-bc7b-5ebd480995ec
+md5	677bba234e142a0846e7182ea0b45ecf

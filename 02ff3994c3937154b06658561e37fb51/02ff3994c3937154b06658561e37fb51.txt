@@ -1,0 +1,8 @@
+
+signId	1451
+text	spindel 2
+imageUuid	18d8d663-eb10-4f41-a138-84ebc19aed3d
+translationKey	87f18330-3c64-4a7b-9e99-12ed2e0b096b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/18d8d663-eb10-4f41-a138-84ebc19aed3d/87f18330-3c64-4a7b-9e99-12ed2e0b096b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/18d8d663-eb10-4f41-a138-84ebc19aed3d/87f18330-3c64-4a7b-9e99-12ed2e0b096b
+md5	02ff3994c3937154b06658561e37fb51

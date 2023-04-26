@@ -1,0 +1,8 @@
+
+signId	89
+text	baddräkt
+imageUuid	60e5ffb5-eac0-4085-96fb-c031a06f040e
+translationKey	cfa2e6a3-4e7d-4af5-815d-846bcab674e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/60e5ffb5-eac0-4085-96fb-c031a06f040e/cfa2e6a3-4e7d-4af5-815d-846bcab674e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/60e5ffb5-eac0-4085-96fb-c031a06f040e/cfa2e6a3-4e7d-4af5-815d-846bcab674e8
+md5	2bd76ecf02e9c793835d76d46b0a73dd

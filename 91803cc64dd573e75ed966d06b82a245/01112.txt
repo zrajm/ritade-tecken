@@ -1,0 +1,7 @@
+signId	1112
+text	omöjligt
+imageUuid	3e86e44d-1b3d-4b84-8226-9c632796dfe2
+translationKey	23d6d0c6-47f6-47a2-9962-15d11e38df04
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3e86e44d-1b3d-4b84-8226-9c632796dfe2/23d6d0c6-47f6-47a2-9962-15d11e38df04/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3e86e44d-1b3d-4b84-8226-9c632796dfe2/23d6d0c6-47f6-47a2-9962-15d11e38df04
+md5	91803cc64dd573e75ed966d06b82a245

@@ -1,0 +1,7 @@
+signId	525
+text	gul
+imageUuid	182fcf85-177f-4e75-93cf-cfa747874bbe
+translationKey	5cfd5e30-361d-481c-bfb2-f6e9c4bc230e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/182fcf85-177f-4e75-93cf-cfa747874bbe/5cfd5e30-361d-481c-bfb2-f6e9c4bc230e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/182fcf85-177f-4e75-93cf-cfa747874bbe/5cfd5e30-361d-481c-bfb2-f6e9c4bc230e
+md5	ff2ddde6e571e2926e9414e0e40ac4f4

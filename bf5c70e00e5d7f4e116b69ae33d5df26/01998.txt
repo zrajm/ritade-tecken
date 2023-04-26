@@ -1,0 +1,7 @@
+signId	1998
+text	jaga 2
+imageUuid	f9299ae1-bd08-4d51-9c91-c3b9c4df0777
+translationKey	9a79d0d3-2561-4b7f-b8f7-5ce5abee4fa5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f9299ae1-bd08-4d51-9c91-c3b9c4df0777/9a79d0d3-2561-4b7f-b8f7-5ce5abee4fa5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f9299ae1-bd08-4d51-9c91-c3b9c4df0777/9a79d0d3-2561-4b7f-b8f7-5ce5abee4fa5
+md5	bf5c70e00e5d7f4e116b69ae33d5df26

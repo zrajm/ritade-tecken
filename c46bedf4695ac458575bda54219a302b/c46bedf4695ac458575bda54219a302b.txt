@@ -1,0 +1,8 @@
+
+signId	2983
+text	toalett 2
+imageUuid	e5607e44-ba2b-444e-98c6-a6d1c364cdfd
+translationKey	f3fde447-4e45-412d-acf8-66fd2759683c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e5607e44-ba2b-444e-98c6-a6d1c364cdfd/f3fde447-4e45-412d-acf8-66fd2759683c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e5607e44-ba2b-444e-98c6-a6d1c364cdfd/f3fde447-4e45-412d-acf8-66fd2759683c
+md5	c46bedf4695ac458575bda54219a302b

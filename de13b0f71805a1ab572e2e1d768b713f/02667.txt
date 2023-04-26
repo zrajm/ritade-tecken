@@ -1,0 +1,7 @@
+signId	2667
+text	svan
+imageUuid	d60a739a-51e8-4851-8a4d-e107090eb2b9
+translationKey	2e9b12ac-fd2b-43c0-8a94-c95c18c29b30
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d60a739a-51e8-4851-8a4d-e107090eb2b9/2e9b12ac-fd2b-43c0-8a94-c95c18c29b30/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d60a739a-51e8-4851-8a4d-e107090eb2b9/2e9b12ac-fd2b-43c0-8a94-c95c18c29b30
+md5	de13b0f71805a1ab572e2e1d768b713f

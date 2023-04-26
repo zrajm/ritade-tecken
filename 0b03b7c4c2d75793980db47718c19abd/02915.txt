@@ -1,0 +1,7 @@
+signId	2915
+text	bjällra
+imageUuid	7d8f90cb-bcad-4396-959d-c57ccd5e75a9
+translationKey	82e1a22f-b933-43c5-a686-40f668662031
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7d8f90cb-bcad-4396-959d-c57ccd5e75a9/82e1a22f-b933-43c5-a686-40f668662031/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7d8f90cb-bcad-4396-959d-c57ccd5e75a9/82e1a22f-b933-43c5-a686-40f668662031
+md5	0b03b7c4c2d75793980db47718c19abd

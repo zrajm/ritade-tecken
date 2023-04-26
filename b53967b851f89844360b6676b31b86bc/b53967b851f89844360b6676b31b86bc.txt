@@ -1,0 +1,8 @@
+
+signId	1714
+text	vattenpöl
+imageUuid	0defaba4-3c6d-4643-9043-53dcfd2cc492
+translationKey	46ec034c-4273-442d-90d6-901b2b0d47e7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0defaba4-3c6d-4643-9043-53dcfd2cc492/46ec034c-4273-442d-90d6-901b2b0d47e7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0defaba4-3c6d-4643-9043-53dcfd2cc492/46ec034c-4273-442d-90d6-901b2b0d47e7
+md5	b53967b851f89844360b6676b31b86bc

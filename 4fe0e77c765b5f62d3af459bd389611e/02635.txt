@@ -1,0 +1,7 @@
+signId	2635
+text	flykting
+imageUuid	84e3fb13-0a9f-4f2e-b11a-7a2f2d03a2ca
+translationKey	cbbd6f0d-8b2a-469d-b1d1-17967b8e020f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/84e3fb13-0a9f-4f2e-b11a-7a2f2d03a2ca/cbbd6f0d-8b2a-469d-b1d1-17967b8e020f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/84e3fb13-0a9f-4f2e-b11a-7a2f2d03a2ca/cbbd6f0d-8b2a-469d-b1d1-17967b8e020f
+md5	4fe0e77c765b5f62d3af459bd389611e

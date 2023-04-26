@@ -1,0 +1,8 @@
+
+signId	2102
+text	dansa 1
+imageUuid	18fac7a4-39c3-4195-9592-00ea5d80692e
+translationKey	35b015a0-ac52-45ea-b5a4-58275cf85baa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/18fac7a4-39c3-4195-9592-00ea5d80692e/35b015a0-ac52-45ea-b5a4-58275cf85baa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/18fac7a4-39c3-4195-9592-00ea5d80692e/35b015a0-ac52-45ea-b5a4-58275cf85baa
+md5	189e03732c9070a903b6b887408cae34

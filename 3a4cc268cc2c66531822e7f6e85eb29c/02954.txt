@@ -1,0 +1,7 @@
+signId	2954
+text	brandstation
+imageUuid	0ca44fed-aafe-43b9-a930-7e21cd56e5b0
+translationKey	d28bfcb0-4028-4dbe-b577-eb46c0594521
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0ca44fed-aafe-43b9-a930-7e21cd56e5b0/d28bfcb0-4028-4dbe-b577-eb46c0594521/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0ca44fed-aafe-43b9-a930-7e21cd56e5b0/d28bfcb0-4028-4dbe-b577-eb46c0594521
+md5	3a4cc268cc2c66531822e7f6e85eb29c

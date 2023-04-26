@@ -1,0 +1,7 @@
+signId	1687
+text	utmärkt
+imageUuid	79dbd299-59f5-49f4-abfc-01db00db6df4
+translationKey	b2abf53e-a467-4ffe-bb99-216499abe11d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/79dbd299-59f5-49f4-abfc-01db00db6df4/b2abf53e-a467-4ffe-bb99-216499abe11d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/79dbd299-59f5-49f4-abfc-01db00db6df4/b2abf53e-a467-4ffe-bb99-216499abe11d
+md5	c12c4c63c6351a92ecd57310228e47f1

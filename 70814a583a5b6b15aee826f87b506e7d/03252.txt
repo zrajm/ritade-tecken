@@ -1,0 +1,7 @@
+signId	3252
+text	termin
+imageUuid	63fd6672-af9e-4714-8153-2168edd49260
+translationKey	33cad0a2-c892-493e-86b6-abc9ebd479b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/63fd6672-af9e-4714-8153-2168edd49260/33cad0a2-c892-493e-86b6-abc9ebd479b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/63fd6672-af9e-4714-8153-2168edd49260/33cad0a2-c892-493e-86b6-abc9ebd479b8
+md5	70814a583a5b6b15aee826f87b506e7d

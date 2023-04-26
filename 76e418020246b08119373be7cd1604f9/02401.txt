@@ -1,0 +1,7 @@
+signId	2401
+text	tavla
+imageUuid	d320bf2f-a2b1-43c4-a068-f40c732aa1e2
+translationKey	dc696290-d8b9-45da-89df-b95068c15264
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d320bf2f-a2b1-43c4-a068-f40c732aa1e2/dc696290-d8b9-45da-89df-b95068c15264/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d320bf2f-a2b1-43c4-a068-f40c732aa1e2/dc696290-d8b9-45da-89df-b95068c15264
+md5	8a8019948bb410e3b89cc416620342eb

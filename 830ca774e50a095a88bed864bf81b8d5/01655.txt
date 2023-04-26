@@ -1,0 +1,7 @@
+signId	1655
+text	tycka om
+imageUuid	979e653a-47f4-4f2d-aeb0-6a689dfc5237
+translationKey	1e52ae39-0a09-42c7-9925-c142394bd92a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/979e653a-47f4-4f2d-aeb0-6a689dfc5237/1e52ae39-0a09-42c7-9925-c142394bd92a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/979e653a-47f4-4f2d-aeb0-6a689dfc5237/1e52ae39-0a09-42c7-9925-c142394bd92a
+md5	61547bc19acebdcd00cf43ae199967da

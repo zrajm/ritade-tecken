@@ -1,0 +1,7 @@
+signId	1144
+text	passa bra
+imageUuid	3852e2dd-3d0f-42ae-b8f6-b54c8705994b
+translationKey	f54b3189-9d5a-4658-a9d0-defa17cb1ec1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3852e2dd-3d0f-42ae-b8f6-b54c8705994b/f54b3189-9d5a-4658-a9d0-defa17cb1ec1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3852e2dd-3d0f-42ae-b8f6-b54c8705994b/f54b3189-9d5a-4658-a9d0-defa17cb1ec1
+md5	f10d965a19cbe7b31ca68e589c866e59

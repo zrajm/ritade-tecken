@@ -1,0 +1,8 @@
+
+signId	702
+text	julklapp
+imageUuid	5a2ae1ed-edb6-43d2-9cdb-e503a13637d0
+translationKey	b2cba32c-2062-4311-83d8-257085a54365
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5a2ae1ed-edb6-43d2-9cdb-e503a13637d0/b2cba32c-2062-4311-83d8-257085a54365/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5a2ae1ed-edb6-43d2-9cdb-e503a13637d0/b2cba32c-2062-4311-83d8-257085a54365
+md5	dc17b824e3c5ed10727acbce676b3c7b

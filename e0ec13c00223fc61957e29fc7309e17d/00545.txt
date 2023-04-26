@@ -1,0 +1,7 @@
+signId	545
+text	gärna
+imageUuid	335658f5-9b07-4b1a-9fce-85723badaa1d
+translationKey	aa16a670-00b1-42d4-bea0-e1e1881ee28a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/335658f5-9b07-4b1a-9fce-85723badaa1d/aa16a670-00b1-42d4-bea0-e1e1881ee28a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/335658f5-9b07-4b1a-9fce-85723badaa1d/aa16a670-00b1-42d4-bea0-e1e1881ee28a
+md5	e0ec13c00223fc61957e29fc7309e17d

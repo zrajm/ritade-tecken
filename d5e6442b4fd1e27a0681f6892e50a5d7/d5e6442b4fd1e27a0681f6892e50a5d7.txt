@@ -1,0 +1,8 @@
+
+signId	2708
+text	blogg
+imageUuid	0b0e71b6-8d90-4ad0-90d2-bedeb835f404
+translationKey	188c2eef-9a37-47f9-809b-ae0286372e58
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0b0e71b6-8d90-4ad0-90d2-bedeb835f404/188c2eef-9a37-47f9-809b-ae0286372e58/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0b0e71b6-8d90-4ad0-90d2-bedeb835f404/188c2eef-9a37-47f9-809b-ae0286372e58
+md5	d5e6442b4fd1e27a0681f6892e50a5d7

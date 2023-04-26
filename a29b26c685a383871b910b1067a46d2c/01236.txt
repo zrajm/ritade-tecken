@@ -1,0 +1,7 @@
+signId	1236
+text	regn
+imageUuid	c98a7135-a782-41a4-bd52-6852db48d77f
+translationKey	d1e52559-925c-415d-9664-ed60626b46e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c98a7135-a782-41a4-bd52-6852db48d77f/d1e52559-925c-415d-9664-ed60626b46e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c98a7135-a782-41a4-bd52-6852db48d77f/d1e52559-925c-415d-9664-ed60626b46e8
+md5	a29b26c685a383871b910b1067a46d2c

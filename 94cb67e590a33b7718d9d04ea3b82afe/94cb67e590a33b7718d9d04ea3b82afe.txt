@@ -1,0 +1,8 @@
+
+signId	2158
+text	varannan
+imageUuid	b9caf76e-f2d4-4b8c-aa8f-b697fef492a5
+translationKey	eab4d630-604a-4a85-ab9a-6d517ca71c05
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b9caf76e-f2d4-4b8c-aa8f-b697fef492a5/eab4d630-604a-4a85-ab9a-6d517ca71c05/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b9caf76e-f2d4-4b8c-aa8f-b697fef492a5/eab4d630-604a-4a85-ab9a-6d517ca71c05
+md5	94cb67e590a33b7718d9d04ea3b82afe

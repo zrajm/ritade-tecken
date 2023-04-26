@@ -1,0 +1,7 @@
+signId	235
+text	cirkel
+imageUuid	a8ed5b97-157e-4e78-a123-20148a142a60
+translationKey	7d2b2a72-d9d0-453d-a7a8-e783977554f5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a8ed5b97-157e-4e78-a123-20148a142a60/7d2b2a72-d9d0-453d-a7a8-e783977554f5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a8ed5b97-157e-4e78-a123-20148a142a60/7d2b2a72-d9d0-453d-a7a8-e783977554f5
+md5	4153ecbbc6ffcb784e52003910b36539

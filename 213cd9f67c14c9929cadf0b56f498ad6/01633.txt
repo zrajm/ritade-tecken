@@ -1,0 +1,7 @@
+signId	1633
+text	trött
+imageUuid	7ff4881b-38fb-4b22-a788-d59c5f7a76ce
+translationKey	0bcf9cb2-1be9-4458-b7f3-4f6c5c384533
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7ff4881b-38fb-4b22-a788-d59c5f7a76ce/0bcf9cb2-1be9-4458-b7f3-4f6c5c384533/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7ff4881b-38fb-4b22-a788-d59c5f7a76ce/0bcf9cb2-1be9-4458-b7f3-4f6c5c384533
+md5	213cd9f67c14c9929cadf0b56f498ad6

@@ -1,0 +1,8 @@
+
+signId	1691
+text	vad (frågeord)
+imageUuid	fcdbedfc-27a0-4990-b3b4-146c2cd28592
+translationKey	675ba72c-3f4e-442c-817f-d920ddc5ba41
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fcdbedfc-27a0-4990-b3b4-146c2cd28592/675ba72c-3f4e-442c-817f-d920ddc5ba41/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fcdbedfc-27a0-4990-b3b4-146c2cd28592/675ba72c-3f4e-442c-817f-d920ddc5ba41
+md5	d9567e2ff45fdeabceb1387d6c52d33d

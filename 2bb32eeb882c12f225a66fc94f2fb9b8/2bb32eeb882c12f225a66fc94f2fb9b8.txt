@@ -1,0 +1,8 @@
+
+signId	1191
+text	prickig
+imageUuid	1b4f4b09-33e2-4744-96bf-542f8c47806f
+translationKey	b7ce17bf-505d-43f7-a78d-c7f460f02ef8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1b4f4b09-33e2-4744-96bf-542f8c47806f/b7ce17bf-505d-43f7-a78d-c7f460f02ef8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1b4f4b09-33e2-4744-96bf-542f8c47806f/b7ce17bf-505d-43f7-a78d-c7f460f02ef8
+md5	2bb32eeb882c12f225a66fc94f2fb9b8

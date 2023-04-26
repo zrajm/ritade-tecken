@@ -1,0 +1,8 @@
+
+signId	2179
+text	glitter
+imageUuid	4d21f093-97fc-4c6d-83a5-3754a980648f
+translationKey	ef57589b-3a13-4a20-8dfc-e34c4218a17f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4d21f093-97fc-4c6d-83a5-3754a980648f/ef57589b-3a13-4a20-8dfc-e34c4218a17f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4d21f093-97fc-4c6d-83a5-3754a980648f/ef57589b-3a13-4a20-8dfc-e34c4218a17f
+md5	7d7089f2a2c6647628ac24650f4563ea

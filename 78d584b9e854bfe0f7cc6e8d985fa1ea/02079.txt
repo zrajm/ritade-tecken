@@ -1,0 +1,7 @@
+signId	2079
+text	simbassäng
+imageUuid	b1c32c45-8b5a-4dba-8e80-2a2e0995f602
+translationKey	849cd5c1-0c50-4649-826e-b6b556801bbe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b1c32c45-8b5a-4dba-8e80-2a2e0995f602/849cd5c1-0c50-4649-826e-b6b556801bbe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b1c32c45-8b5a-4dba-8e80-2a2e0995f602/849cd5c1-0c50-4649-826e-b6b556801bbe
+md5	78d584b9e854bfe0f7cc6e8d985fa1ea

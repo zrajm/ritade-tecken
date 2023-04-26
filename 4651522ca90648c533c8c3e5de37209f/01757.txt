@@ -1,0 +1,7 @@
+signId	1757
+text	vår1 (årstid)
+imageUuid	152deb4b-f8be-4ee6-a049-78de82d4e7e1
+translationKey	89c5e37e-33dc-4dba-aa39-bc173487bf88
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/152deb4b-f8be-4ee6-a049-78de82d4e7e1/89c5e37e-33dc-4dba-aa39-bc173487bf88/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/152deb4b-f8be-4ee6-a049-78de82d4e7e1/89c5e37e-33dc-4dba-aa39-bc173487bf88
+md5	4651522ca90648c533c8c3e5de37209f

@@ -1,0 +1,7 @@
+signId	2798
+text	röda vinbär
+imageUuid	64e38963-8149-4a9c-82e1-4c7bb898895e
+translationKey	81ee3135-50e6-4c92-868b-c20905234643
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/64e38963-8149-4a9c-82e1-4c7bb898895e/81ee3135-50e6-4c92-868b-c20905234643/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/64e38963-8149-4a9c-82e1-4c7bb898895e/81ee3135-50e6-4c92-868b-c20905234643
+md5	20907b26392cf5ce7204f75728ec9f6f

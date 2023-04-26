@@ -1,0 +1,7 @@
+signId	3183
+text	aktie
+imageUuid	edf09768-988b-4232-89d2-87b04b7a7ec8
+translationKey	6633279e-5221-4122-801b-9cf69734b210
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/edf09768-988b-4232-89d2-87b04b7a7ec8/6633279e-5221-4122-801b-9cf69734b210/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/edf09768-988b-4232-89d2-87b04b7a7ec8/6633279e-5221-4122-801b-9cf69734b210
+md5	832dec5865efaaa27a5118091cb7efbc

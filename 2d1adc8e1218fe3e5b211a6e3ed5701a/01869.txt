@@ -1,0 +1,7 @@
+signId	1869
+text	död
+imageUuid	2e4da680-1a6e-4d75-9bc1-c5a8e599414b
+translationKey	52daaec9-8426-4636-bf2d-03150c6dc57f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2e4da680-1a6e-4d75-9bc1-c5a8e599414b/52daaec9-8426-4636-bf2d-03150c6dc57f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2e4da680-1a6e-4d75-9bc1-c5a8e599414b/52daaec9-8426-4636-bf2d-03150c6dc57f
+md5	2d1adc8e1218fe3e5b211a6e3ed5701a

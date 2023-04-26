@@ -1,0 +1,7 @@
+signId	666
+text	indian
+imageUuid	e13df8c4-da46-4b0c-8e66-800d7a879f32
+translationKey	7c17060d-0dbe-475f-9b18-fdc06e631dcf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e13df8c4-da46-4b0c-8e66-800d7a879f32/7c17060d-0dbe-475f-9b18-fdc06e631dcf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e13df8c4-da46-4b0c-8e66-800d7a879f32/7c17060d-0dbe-475f-9b18-fdc06e631dcf
+md5	0e7d09ce21e61dd3ba6a2b73ede7c27a

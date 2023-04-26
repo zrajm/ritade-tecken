@@ -1,0 +1,8 @@
+
+signId	620
+text	hylla (substantiv)
+imageUuid	3afb3987-a4c6-4f84-942d-92c11cbeeee8
+translationKey	6f7c2ad5-d950-454f-8d15-a14ef2798f4a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3afb3987-a4c6-4f84-942d-92c11cbeeee8/6f7c2ad5-d950-454f-8d15-a14ef2798f4a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3afb3987-a4c6-4f84-942d-92c11cbeeee8/6f7c2ad5-d950-454f-8d15-a14ef2798f4a
+md5	d4a4236b874bac951b1c83a806050180

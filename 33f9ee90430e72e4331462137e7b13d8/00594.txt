@@ -1,0 +1,7 @@
+signId	594
+text	hiss
+imageUuid	9f814fd4-0f62-4896-a348-adc1068f07b6
+translationKey	efc06748-0250-4b4a-9976-e92c6468fb46
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9f814fd4-0f62-4896-a348-adc1068f07b6/efc06748-0250-4b4a-9976-e92c6468fb46/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9f814fd4-0f62-4896-a348-adc1068f07b6/efc06748-0250-4b4a-9976-e92c6468fb46
+md5	33f9ee90430e72e4331462137e7b13d8

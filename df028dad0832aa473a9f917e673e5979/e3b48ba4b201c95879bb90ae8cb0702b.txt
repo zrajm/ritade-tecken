@@ -1,0 +1,8 @@
+
+signId	512
+text	grus
+imageUuid	21c0f796-6756-49b5-b868-03f8629831f7
+translationKey	dbfcc6d1-9659-4991-b08a-c188d3101ebc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/21c0f796-6756-49b5-b868-03f8629831f7/dbfcc6d1-9659-4991-b08a-c188d3101ebc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/21c0f796-6756-49b5-b868-03f8629831f7/dbfcc6d1-9659-4991-b08a-c188d3101ebc
+md5	e3b48ba4b201c95879bb90ae8cb0702b

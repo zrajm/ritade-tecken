@@ -1,0 +1,7 @@
+signId	2370
+text	otroligt
+imageUuid	330d78ae-b2e8-41d7-932b-4dab14e9d21d
+translationKey	747c6299-484e-4554-a70e-efcd42554bfe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/330d78ae-b2e8-41d7-932b-4dab14e9d21d/747c6299-484e-4554-a70e-efcd42554bfe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/330d78ae-b2e8-41d7-932b-4dab14e9d21d/747c6299-484e-4554-a70e-efcd42554bfe
+md5	007bf57ddfdde569a19d746559861467

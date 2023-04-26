@@ -1,0 +1,8 @@
+
+signId	2555
+text	Örebro
+imageUuid	9ce56977-34b1-4a3e-8c65-1c5c9d7ac063
+translationKey	7f976c7d-6667-40c0-9107-eb0cef4a96a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9ce56977-34b1-4a3e-8c65-1c5c9d7ac063/7f976c7d-6667-40c0-9107-eb0cef4a96a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9ce56977-34b1-4a3e-8c65-1c5c9d7ac063/7f976c7d-6667-40c0-9107-eb0cef4a96a7
+md5	6764111cfbb9fb9559dd0e830239897b

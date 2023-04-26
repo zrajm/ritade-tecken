@@ -1,0 +1,7 @@
+signId	854
+text	köra 2
+imageUuid	cc2ab2a4-f6ef-4440-8460-4759e3ff2aec
+translationKey	713c060b-8089-4b77-bae3-0cabff9cbc79
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cc2ab2a4-f6ef-4440-8460-4759e3ff2aec/713c060b-8089-4b77-bae3-0cabff9cbc79/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cc2ab2a4-f6ef-4440-8460-4759e3ff2aec/713c060b-8089-4b77-bae3-0cabff9cbc79
+md5	f50e161bb673d19f7b70deca8547bf7e

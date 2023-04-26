@@ -1,0 +1,8 @@
+
+signId	1257
+text	rulla
+imageUuid	49c63f56-f537-4da2-9633-3d4199dd8139
+translationKey	91d7c3a6-378f-4e46-939d-48f2b28a39eb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/49c63f56-f537-4da2-9633-3d4199dd8139/91d7c3a6-378f-4e46-939d-48f2b28a39eb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/49c63f56-f537-4da2-9633-3d4199dd8139/91d7c3a6-378f-4e46-939d-48f2b28a39eb
+md5	bf3befd578d3e2451d350a99d482bfe1

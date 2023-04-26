@@ -1,0 +1,7 @@
+signId	2388
+text	självklart
+imageUuid	30267bfd-ca6e-4abb-88fd-f000cd4bae69
+translationKey	024c9f3e-be83-45bd-9516-1a043af82ed3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/30267bfd-ca6e-4abb-88fd-f000cd4bae69/024c9f3e-be83-45bd-9516-1a043af82ed3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/30267bfd-ca6e-4abb-88fd-f000cd4bae69/024c9f3e-be83-45bd-9516-1a043af82ed3
+md5	b3d9333383af5b987b228066cd3c04eb

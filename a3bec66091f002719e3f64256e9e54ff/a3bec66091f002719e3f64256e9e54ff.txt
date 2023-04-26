@@ -1,0 +1,8 @@
+
+signId	408
+text	fru
+imageUuid	4a3e096e-19c0-4e10-a2f9-5729976fa984
+translationKey	fcd0de99-569b-4568-ae31-4f7065bfeb68
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4a3e096e-19c0-4e10-a2f9-5729976fa984/fcd0de99-569b-4568-ae31-4f7065bfeb68/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4a3e096e-19c0-4e10-a2f9-5729976fa984/fcd0de99-569b-4568-ae31-4f7065bfeb68
+md5	a3bec66091f002719e3f64256e9e54ff

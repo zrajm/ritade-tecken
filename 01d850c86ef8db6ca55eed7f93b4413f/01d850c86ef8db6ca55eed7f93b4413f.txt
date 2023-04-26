@@ -1,0 +1,8 @@
+
+signId	1074
+text	nervös
+imageUuid	e2a94b8d-7202-4fff-97a7-a632e114929c
+translationKey	10c4953d-6815-4541-9792-a1873ad8e194
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e2a94b8d-7202-4fff-97a7-a632e114929c/10c4953d-6815-4541-9792-a1873ad8e194/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e2a94b8d-7202-4fff-97a7-a632e114929c/10c4953d-6815-4541-9792-a1873ad8e194
+md5	01d850c86ef8db6ca55eed7f93b4413f

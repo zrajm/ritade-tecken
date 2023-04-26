@@ -1,0 +1,7 @@
+signId	1905
+text	ris
+imageUuid	1793ab5e-8ad4-4563-896e-299ee2e3f26f
+translationKey	fea76ad7-2b86-4144-9e8a-91e261fc106a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1793ab5e-8ad4-4563-896e-299ee2e3f26f/fea76ad7-2b86-4144-9e8a-91e261fc106a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1793ab5e-8ad4-4563-896e-299ee2e3f26f/fea76ad7-2b86-4144-9e8a-91e261fc106a
+md5	23455af62eb3bad59c25c95dc0d47cde

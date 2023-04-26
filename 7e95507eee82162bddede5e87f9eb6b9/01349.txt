@@ -1,0 +1,7 @@
+signId	1349
+text	skolgård
+imageUuid	b6da9a7b-f960-4c7a-a82a-222eb879b4d2
+translationKey	1d83d544-946a-4612-b67d-532ddf8685d6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b6da9a7b-f960-4c7a-a82a-222eb879b4d2/1d83d544-946a-4612-b67d-532ddf8685d6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b6da9a7b-f960-4c7a-a82a-222eb879b4d2/1d83d544-946a-4612-b67d-532ddf8685d6
+md5	7e95507eee82162bddede5e87f9eb6b9

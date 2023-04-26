@@ -1,0 +1,7 @@
+signId	3317
+text	konkurrens
+imageUuid	c389c7a1-f57f-4213-80c4-bb5ef9c26286
+translationKey	cc1bfb74-2383-477f-8e68-5d9a9aca6d4c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c389c7a1-f57f-4213-80c4-bb5ef9c26286/cc1bfb74-2383-477f-8e68-5d9a9aca6d4c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c389c7a1-f57f-4213-80c4-bb5ef9c26286/cc1bfb74-2383-477f-8e68-5d9a9aca6d4c
+md5	ddf537183fdfd2fbe8d8a487f626ad58

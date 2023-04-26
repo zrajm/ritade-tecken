@@ -1,0 +1,7 @@
+signId	1933
+text	forskare
+imageUuid	3828056c-5bc6-436d-8766-e5162cd449fe
+translationKey	d337d9cd-04b0-4202-8ba9-46a20e7f41b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3828056c-5bc6-436d-8766-e5162cd449fe/d337d9cd-04b0-4202-8ba9-46a20e7f41b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3828056c-5bc6-436d-8766-e5162cd449fe/d337d9cd-04b0-4202-8ba9-46a20e7f41b6
+md5	d29037215cf49afbcd4d9e11cd7d1a2d

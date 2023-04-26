@@ -1,0 +1,7 @@
+signId	631
+text	hänga
+imageUuid	923f1dae-cf6a-4095-a592-01c55c11f4b9
+translationKey	b20bc073-e3f1-42b7-927f-b82db9f85ffd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/923f1dae-cf6a-4095-a592-01c55c11f4b9/b20bc073-e3f1-42b7-927f-b82db9f85ffd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/923f1dae-cf6a-4095-a592-01c55c11f4b9/b20bc073-e3f1-42b7-927f-b82db9f85ffd
+md5	7a1fc93fd140d2254dea792ab4d5109f

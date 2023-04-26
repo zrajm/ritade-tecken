@@ -1,0 +1,8 @@
+
+signId	2743
+text	slöja
+imageUuid	ec41a937-31f5-4d77-8614-469e19b99c8b
+translationKey	b8872867-67ac-4077-97cf-486a4b73fe1d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ec41a937-31f5-4d77-8614-469e19b99c8b/b8872867-67ac-4077-97cf-486a4b73fe1d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ec41a937-31f5-4d77-8614-469e19b99c8b/b8872867-67ac-4077-97cf-486a4b73fe1d
+md5	2a719510462c4dabda6d2e12870182d1

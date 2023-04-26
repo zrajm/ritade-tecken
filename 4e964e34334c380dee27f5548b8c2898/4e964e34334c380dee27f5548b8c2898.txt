@@ -1,0 +1,8 @@
+
+signId	137
+text	biljett
+imageUuid	f1dce9ac-3992-4b37-a639-5189722d3838
+translationKey	7c49b16b-fa22-4fdf-b9b2-4e563cfe971d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f1dce9ac-3992-4b37-a639-5189722d3838/7c49b16b-fa22-4fdf-b9b2-4e563cfe971d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f1dce9ac-3992-4b37-a639-5189722d3838/7c49b16b-fa22-4fdf-b9b2-4e563cfe971d
+md5	4e964e34334c380dee27f5548b8c2898

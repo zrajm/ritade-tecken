@@ -1,0 +1,7 @@
+signId	607
+text	hoppas
+imageUuid	4bdcb1bc-0c54-4d54-b08f-6214962ba1b8
+translationKey	9249028a-f2db-4810-8839-40f96f59c856
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4bdcb1bc-0c54-4d54-b08f-6214962ba1b8/9249028a-f2db-4810-8839-40f96f59c856/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4bdcb1bc-0c54-4d54-b08f-6214962ba1b8/9249028a-f2db-4810-8839-40f96f59c856
+md5	e0ec13c00223fc61957e29fc7309e17d

@@ -1,0 +1,7 @@
+signId	1050
+text	märke
+imageUuid	c2b37dc4-ea25-436a-a0ac-1f3dda7e85c7
+translationKey	ba93b0ab-2e3c-4ee3-b6ea-0e52ff480a0f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c2b37dc4-ea25-436a-a0ac-1f3dda7e85c7/ba93b0ab-2e3c-4ee3-b6ea-0e52ff480a0f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c2b37dc4-ea25-436a-a0ac-1f3dda7e85c7/ba93b0ab-2e3c-4ee3-b6ea-0e52ff480a0f
+md5	f9563ff71800d3e56fd5744e953f13f5

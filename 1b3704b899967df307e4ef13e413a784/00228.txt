@@ -1,0 +1,7 @@
+signId	228
+text	camping
+imageUuid	a6490dea-a00b-431c-a39a-ffb66ff5ec40
+translationKey	11302c8f-cbe8-4ead-99b3-b6bbe3e2ba0a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a6490dea-a00b-431c-a39a-ffb66ff5ec40/11302c8f-cbe8-4ead-99b3-b6bbe3e2ba0a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a6490dea-a00b-431c-a39a-ffb66ff5ec40/11302c8f-cbe8-4ead-99b3-b6bbe3e2ba0a
+md5	1b3704b899967df307e4ef13e413a784

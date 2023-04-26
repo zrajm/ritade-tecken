@@ -1,0 +1,8 @@
+
+signId	1763
+text	välja
+imageUuid	cd605b04-035b-4814-a9df-07dbbf5240de
+translationKey	25f71efd-4e45-47d6-91eb-3944df8502c6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cd605b04-035b-4814-a9df-07dbbf5240de/25f71efd-4e45-47d6-91eb-3944df8502c6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cd605b04-035b-4814-a9df-07dbbf5240de/25f71efd-4e45-47d6-91eb-3944df8502c6
+md5	650ef44f3c321a33f2a7678b988d183e

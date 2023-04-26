@@ -1,0 +1,8 @@
+
+signId	3410
+text	queer
+imageUuid	9c761237-71bb-4a23-b4b6-f56bddcefd7e
+translationKey	78cd46f5-8e5e-47ab-8fe9-039823c454a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9c761237-71bb-4a23-b4b6-f56bddcefd7e/78cd46f5-8e5e-47ab-8fe9-039823c454a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9c761237-71bb-4a23-b4b6-f56bddcefd7e/78cd46f5-8e5e-47ab-8fe9-039823c454a7
+md5	1ca4e75170c70301dcfbefe168af33a5

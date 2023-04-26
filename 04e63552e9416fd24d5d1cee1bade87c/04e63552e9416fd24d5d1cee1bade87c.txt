@@ -1,0 +1,8 @@
+
+signId	2278
+text	hamn
+imageUuid	c3aae01a-c242-41f6-8326-71b6803ab647
+translationKey	bdd37446-c6eb-437e-8de2-d49fa299558a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c3aae01a-c242-41f6-8326-71b6803ab647/bdd37446-c6eb-437e-8de2-d49fa299558a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c3aae01a-c242-41f6-8326-71b6803ab647/bdd37446-c6eb-437e-8de2-d49fa299558a
+md5	04e63552e9416fd24d5d1cee1bade87c

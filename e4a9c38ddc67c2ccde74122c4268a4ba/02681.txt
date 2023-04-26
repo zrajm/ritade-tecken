@@ -1,0 +1,7 @@
+signId	2681
+text	kulörtvätt
+imageUuid	00726905-f211-4ee1-a3a7-495a83e1c9da
+translationKey	6ee315ba-4af4-470f-9788-ff4c4d41856f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/00726905-f211-4ee1-a3a7-495a83e1c9da/6ee315ba-4af4-470f-9788-ff4c4d41856f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/00726905-f211-4ee1-a3a7-495a83e1c9da/6ee315ba-4af4-470f-9788-ff4c4d41856f
+md5	e4a9c38ddc67c2ccde74122c4268a4ba

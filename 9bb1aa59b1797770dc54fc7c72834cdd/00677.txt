@@ -1,0 +1,7 @@
+signId	677
+text	intresserad
+imageUuid	f1348615-3329-4fe6-96ec-19bcbc23e229
+translationKey	12e309c6-fe9e-4f0c-8c7c-caeed68857f2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f1348615-3329-4fe6-96ec-19bcbc23e229/12e309c6-fe9e-4f0c-8c7c-caeed68857f2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f1348615-3329-4fe6-96ec-19bcbc23e229/12e309c6-fe9e-4f0c-8c7c-caeed68857f2
+md5	9bb1aa59b1797770dc54fc7c72834cdd

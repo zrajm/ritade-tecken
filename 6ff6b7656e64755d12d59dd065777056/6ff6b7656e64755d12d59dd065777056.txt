@@ -1,0 +1,8 @@
+
+signId	84
+text	B (bokstav)
+imageUuid	ccbd73a0-e301-4af4-b0b6-0abeec7f2b51
+translationKey	d77560dc-1b20-4e27-9a68-ec79cc891ff5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ccbd73a0-e301-4af4-b0b6-0abeec7f2b51/d77560dc-1b20-4e27-9a68-ec79cc891ff5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ccbd73a0-e301-4af4-b0b6-0abeec7f2b51/d77560dc-1b20-4e27-9a68-ec79cc891ff5
+md5	6ff6b7656e64755d12d59dd065777056

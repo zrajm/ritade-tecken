@@ -1,0 +1,7 @@
+signId	2402
+text	trösta
+imageUuid	8b55765c-db5b-4df9-b04e-b9c4856d95f7
+translationKey	0829ac44-bf48-4e2c-a82a-8ce0a6243a0b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8b55765c-db5b-4df9-b04e-b9c4856d95f7/0829ac44-bf48-4e2c-a82a-8ce0a6243a0b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8b55765c-db5b-4df9-b04e-b9c4856d95f7/0829ac44-bf48-4e2c-a82a-8ce0a6243a0b
+md5	68590121fc93c828d2eee72a060f3e00

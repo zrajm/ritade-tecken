@@ -1,0 +1,7 @@
+signId	2700
+text	väckarklocka
+imageUuid	6b466e8b-26d1-4a88-af55-08507b3ab69a
+translationKey	24348b3a-9d49-4215-bbda-039d37664971
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6b466e8b-26d1-4a88-af55-08507b3ab69a/24348b3a-9d49-4215-bbda-039d37664971/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6b466e8b-26d1-4a88-af55-08507b3ab69a/24348b3a-9d49-4215-bbda-039d37664971
+md5	af0f56607c9b780b60429d18ab5e0627

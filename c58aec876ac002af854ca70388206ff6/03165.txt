@@ -1,0 +1,7 @@
+signId	3165
+text	nitton 1
+imageUuid	98be5728-be8b-4c43-9fc5-a9177409fc28
+translationKey	b2821d40-644a-49a6-83bf-05d041704fcd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/98be5728-be8b-4c43-9fc5-a9177409fc28/b2821d40-644a-49a6-83bf-05d041704fcd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/98be5728-be8b-4c43-9fc5-a9177409fc28/b2821d40-644a-49a6-83bf-05d041704fcd
+md5	c58aec876ac002af854ca70388206ff6

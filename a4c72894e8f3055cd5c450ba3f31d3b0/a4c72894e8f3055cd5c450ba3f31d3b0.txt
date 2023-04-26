@@ -1,0 +1,8 @@
+
+signId	3010
+text	minska
+imageUuid	7d031d99-578d-46ea-a9a2-dab40e71a60b
+translationKey	0ca1d1a7-e1f7-491f-bae2-51f24f3132cb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7d031d99-578d-46ea-a9a2-dab40e71a60b/0ca1d1a7-e1f7-491f-bae2-51f24f3132cb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7d031d99-578d-46ea-a9a2-dab40e71a60b/0ca1d1a7-e1f7-491f-bae2-51f24f3132cb
+md5	a4c72894e8f3055cd5c450ba3f31d3b0

@@ -1,0 +1,8 @@
+
+signId	2528
+text	sex
+imageUuid	03a7dc49-97a8-4a1e-8941-a95167d68958
+translationKey	015f88da-8b11-456f-82b2-b114377c8080
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/03a7dc49-97a8-4a1e-8941-a95167d68958/015f88da-8b11-456f-82b2-b114377c8080/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/03a7dc49-97a8-4a1e-8941-a95167d68958/015f88da-8b11-456f-82b2-b114377c8080
+md5	d9b96bae3d98374cf41c639c7e4a5673

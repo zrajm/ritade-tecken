@@ -1,0 +1,7 @@
+signId	425
+text	funktionshindrad
+imageUuid	78d1d372-da83-4e07-b715-3257ddd1bfda
+translationKey	aa2b3b0c-a5ea-4c21-92e1-3534aaa093ea
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/78d1d372-da83-4e07-b715-3257ddd1bfda/aa2b3b0c-a5ea-4c21-92e1-3534aaa093ea/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/78d1d372-da83-4e07-b715-3257ddd1bfda/aa2b3b0c-a5ea-4c21-92e1-3534aaa093ea
+md5	6f6fe16b3b8476a87bd692d453cf8aa1

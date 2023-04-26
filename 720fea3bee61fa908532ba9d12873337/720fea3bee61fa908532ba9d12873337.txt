@@ -1,0 +1,8 @@
+
+signId	43
+text	allergi
+imageUuid	336e30af-5a9b-4ee9-9d4c-95d6f3b86318
+translationKey	ecca448f-c3a7-4bf9-ae23-7cafc4909d24
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/336e30af-5a9b-4ee9-9d4c-95d6f3b86318/ecca448f-c3a7-4bf9-ae23-7cafc4909d24/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/336e30af-5a9b-4ee9-9d4c-95d6f3b86318/ecca448f-c3a7-4bf9-ae23-7cafc4909d24
+md5	720fea3bee61fa908532ba9d12873337

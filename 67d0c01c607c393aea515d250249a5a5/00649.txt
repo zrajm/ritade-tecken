@@ -1,0 +1,7 @@
+signId	649
+text	höst 2
+imageUuid	dc73d059-3938-4e1f-bfb8-370b16964442
+translationKey	2e49e467-f959-4062-8c6d-b10f22ce007f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dc73d059-3938-4e1f-bfb8-370b16964442/2e49e467-f959-4062-8c6d-b10f22ce007f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dc73d059-3938-4e1f-bfb8-370b16964442/2e49e467-f959-4062-8c6d-b10f22ce007f
+md5	67d0c01c607c393aea515d250249a5a5

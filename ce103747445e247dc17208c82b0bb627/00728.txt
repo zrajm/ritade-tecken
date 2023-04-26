@@ -1,0 +1,7 @@
+signId	728
+text	karamell
+imageUuid	f767c216-26f0-4c68-9fa4-9e4b682be19f
+translationKey	9f010e72-006a-4865-83f8-e1141bfe83ce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f767c216-26f0-4c68-9fa4-9e4b682be19f/9f010e72-006a-4865-83f8-e1141bfe83ce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f767c216-26f0-4c68-9fa4-9e4b682be19f/9f010e72-006a-4865-83f8-e1141bfe83ce
+md5	ce103747445e247dc17208c82b0bb627

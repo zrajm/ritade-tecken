@@ -1,0 +1,8 @@
+
+signId	1358
+text	skratta 3
+imageUuid	77f22740-cbf6-44a1-b7bc-1e4e7b99a7b6
+translationKey	9b757107-bf26-4eb9-8f1d-e74b854319fb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/77f22740-cbf6-44a1-b7bc-1e4e7b99a7b6/9b757107-bf26-4eb9-8f1d-e74b854319fb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/77f22740-cbf6-44a1-b7bc-1e4e7b99a7b6/9b757107-bf26-4eb9-8f1d-e74b854319fb
+md5	82242e9d33441895e12bd98ea84b0668

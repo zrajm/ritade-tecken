@@ -1,0 +1,7 @@
+signId	3321
+text	kunskap 2
+imageUuid	4e61f667-ae59-48bf-88e5-bf3da9937d36
+translationKey	a399adb9-fe05-469b-9e6d-cbbb05ee94b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4e61f667-ae59-48bf-88e5-bf3da9937d36/a399adb9-fe05-469b-9e6d-cbbb05ee94b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4e61f667-ae59-48bf-88e5-bf3da9937d36/a399adb9-fe05-469b-9e6d-cbbb05ee94b9
+md5	1d9e875dfe4645677d89b4bfb1ba4fb6

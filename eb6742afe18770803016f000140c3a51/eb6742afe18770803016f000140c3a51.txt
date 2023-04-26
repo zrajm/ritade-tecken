@@ -1,0 +1,8 @@
+
+signId	1587
+text	tittut
+imageUuid	b84600f3-6b5b-4ac9-a512-e08a61ce2e9f
+translationKey	ef21e2a9-1e96-4121-915b-e02329ed6089
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b84600f3-6b5b-4ac9-a512-e08a61ce2e9f/ef21e2a9-1e96-4121-915b-e02329ed6089/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b84600f3-6b5b-4ac9-a512-e08a61ce2e9f/ef21e2a9-1e96-4121-915b-e02329ed6089
+md5	eb6742afe18770803016f000140c3a51

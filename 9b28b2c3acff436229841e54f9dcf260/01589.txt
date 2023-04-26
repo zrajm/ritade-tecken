@@ -1,0 +1,7 @@
+signId	1589
+text	tjock 1
+imageUuid	eb79d1ef-b975-4bcd-9955-c9c3822d3a20
+translationKey	25e4d80a-2189-4815-a3a0-d4a75439c555
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/eb79d1ef-b975-4bcd-9955-c9c3822d3a20/25e4d80a-2189-4815-a3a0-d4a75439c555/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/eb79d1ef-b975-4bcd-9955-c9c3822d3a20/25e4d80a-2189-4815-a3a0-d4a75439c555
+md5	748fe218895f99e13608b23a2bd6ae2e

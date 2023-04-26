@@ -1,0 +1,7 @@
+signId	2357
+text	landa
+imageUuid	84703fd3-bf6a-42ef-bbcd-074f4917e23b
+translationKey	a936e470-7ddd-4f19-bfd1-177a5964b7e0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/84703fd3-bf6a-42ef-bbcd-074f4917e23b/a936e470-7ddd-4f19-bfd1-177a5964b7e0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/84703fd3-bf6a-42ef-bbcd-074f4917e23b/a936e470-7ddd-4f19-bfd1-177a5964b7e0
+md5	0c3811f50d6f7d3b7464e868aa383325

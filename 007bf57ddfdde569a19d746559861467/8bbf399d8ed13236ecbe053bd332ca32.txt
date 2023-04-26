@@ -1,0 +1,8 @@
+
+signId	2330
+text	fantastiskt
+imageUuid	889e3dd4-04d5-40f3-80aa-58f08db3376e
+translationKey	ebdf31d4-870c-4b67-844d-0d853e3d8b87
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/889e3dd4-04d5-40f3-80aa-58f08db3376e/ebdf31d4-870c-4b67-844d-0d853e3d8b87/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/889e3dd4-04d5-40f3-80aa-58f08db3376e/ebdf31d4-870c-4b67-844d-0d853e3d8b87
+md5	8bbf399d8ed13236ecbe053bd332ca32

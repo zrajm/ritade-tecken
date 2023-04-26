@@ -1,0 +1,8 @@
+
+signId	1656
+text	tycker inte om
+imageUuid	f9d1d983-b7bc-4d76-a7fa-1dfc319bc6c9
+translationKey	f9f3dc41-b1c9-4502-9147-d84c64570b85
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f9d1d983-b7bc-4d76-a7fa-1dfc319bc6c9/f9f3dc41-b1c9-4502-9147-d84c64570b85/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f9d1d983-b7bc-4d76-a7fa-1dfc319bc6c9/f9f3dc41-b1c9-4502-9147-d84c64570b85
+md5	4c259a7b4c55fd8d32cb5983ca1a0526

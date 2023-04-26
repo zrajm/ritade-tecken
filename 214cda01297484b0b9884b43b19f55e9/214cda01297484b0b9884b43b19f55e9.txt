@@ -1,0 +1,8 @@
+
+signId	1651
+text	tvätta (bil cykel fönster)
+imageUuid	93a0b2db-6047-4253-a68d-50bba9091dbe
+translationKey	0910ce5d-887d-4abc-8a8b-5a76160c7759
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/93a0b2db-6047-4253-a68d-50bba9091dbe/0910ce5d-887d-4abc-8a8b-5a76160c7759/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/93a0b2db-6047-4253-a68d-50bba9091dbe/0910ce5d-887d-4abc-8a8b-5a76160c7759
+md5	214cda01297484b0b9884b43b19f55e9

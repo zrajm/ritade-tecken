@@ -1,0 +1,40 @@
+
+signId	1891
+text	brukare
+imageUuid	a6a5fd85-63ac-4778-a57f-bddff237e9d8
+translationKey	c5523fc4-c29f-43d5-8270-2ad4c6e639f7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a6a5fd85-63ac-4778-a57f-bddff237e9d8/c5523fc4-c29f-43d5-8270-2ad4c6e639f7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a6a5fd85-63ac-4778-a57f-bddff237e9d8/c5523fc4-c29f-43d5-8270-2ad4c6e639f7
+md5	14178108353de64ce5817642365274ea
+
+signId	1938
+text	användare
+imageUuid	7b501cbf-6a10-4cb2-95fe-bd90ca857274
+translationKey	b753ec20-51c8-44e9-b684-5cafeab7dfe3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7b501cbf-6a10-4cb2-95fe-bd90ca857274/b753ec20-51c8-44e9-b684-5cafeab7dfe3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7b501cbf-6a10-4cb2-95fe-bd90ca857274/b753ec20-51c8-44e9-b684-5cafeab7dfe3
+md5	14178108353de64ce5817642365274ea
+
+signId	1949
+text	begagnad
+imageUuid	05b955bf-26b6-4f84-a13f-f35e412f61ad
+translationKey	2e2efc49-9ce2-4d5a-8ba5-c104850b57e8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/05b955bf-26b6-4f84-a13f-f35e412f61ad/2e2efc49-9ce2-4d5a-8ba5-c104850b57e8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/05b955bf-26b6-4f84-a13f-f35e412f61ad/2e2efc49-9ce2-4d5a-8ba5-c104850b57e8
+md5	14178108353de64ce5817642365274ea
+
+signId	1999
+text	använda
+imageUuid	886ee276-cc9f-48f5-8377-6e2ef2688e41
+translationKey	6dd8df33-b0aa-4aa2-b2b7-b51fc9f1cdc6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/886ee276-cc9f-48f5-8377-6e2ef2688e41/6dd8df33-b0aa-4aa2-b2b7-b51fc9f1cdc6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/886ee276-cc9f-48f5-8377-6e2ef2688e41/6dd8df33-b0aa-4aa2-b2b7-b51fc9f1cdc6
+md5	14178108353de64ce5817642365274ea
+
+signId	2010
+text	konsument
+imageUuid	7e064a4f-8f1c-444d-b611-631852ae5424
+translationKey	57df481b-0fbd-47db-91ea-cf69f6dfff85
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e064a4f-8f1c-444d-b611-631852ae5424/57df481b-0fbd-47db-91ea-cf69f6dfff85/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e064a4f-8f1c-444d-b611-631852ae5424/57df481b-0fbd-47db-91ea-cf69f6dfff85
+md5	14178108353de64ce5817642365274ea

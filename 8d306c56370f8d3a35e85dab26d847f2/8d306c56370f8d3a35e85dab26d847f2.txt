@@ -1,0 +1,8 @@
+
+signId	513
+text	grå
+imageUuid	07cdfc67-a10e-4f59-99e4-61bbbc823a28
+translationKey	b025149b-f6c4-470b-8671-a2a4be9640f2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/07cdfc67-a10e-4f59-99e4-61bbbc823a28/b025149b-f6c4-470b-8671-a2a4be9640f2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/07cdfc67-a10e-4f59-99e4-61bbbc823a28/b025149b-f6c4-470b-8671-a2a4be9640f2
+md5	8d306c56370f8d3a35e85dab26d847f2

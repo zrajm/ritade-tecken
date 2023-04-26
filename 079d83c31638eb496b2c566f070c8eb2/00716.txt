@@ -1,0 +1,7 @@
+signId	716
+text	kalsong
+imageUuid	39b6d25a-b748-40ff-a7bc-b425aa1e8618
+translationKey	9cd4846b-05cf-44c6-819a-6a2c236cac9a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/39b6d25a-b748-40ff-a7bc-b425aa1e8618/9cd4846b-05cf-44c6-819a-6a2c236cac9a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/39b6d25a-b748-40ff-a7bc-b425aa1e8618/9cd4846b-05cf-44c6-819a-6a2c236cac9a
+md5	079d83c31638eb496b2c566f070c8eb2

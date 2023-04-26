@@ -1,0 +1,7 @@
+signId	1166
+text	pizza
+imageUuid	3d75a569-cb0f-4e31-a37e-76505e8c1d48
+translationKey	46c3af2c-80b7-48ab-8acb-a7906b4e1814
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3d75a569-cb0f-4e31-a37e-76505e8c1d48/46c3af2c-80b7-48ab-8acb-a7906b4e1814/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3d75a569-cb0f-4e31-a37e-76505e8c1d48/46c3af2c-80b7-48ab-8acb-a7906b4e1814
+md5	7bdc9c118d747292efc16fb04afb5815

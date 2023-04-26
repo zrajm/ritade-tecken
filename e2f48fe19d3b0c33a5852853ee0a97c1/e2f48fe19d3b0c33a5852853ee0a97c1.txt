@@ -1,0 +1,8 @@
+
+signId	2666
+text	störst
+imageUuid	943c84de-63d8-444f-9bf9-c164adfee371
+translationKey	eca9ca64-a732-437a-ad58-dfd46f34f757
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/943c84de-63d8-444f-9bf9-c164adfee371/eca9ca64-a732-437a-ad58-dfd46f34f757/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/943c84de-63d8-444f-9bf9-c164adfee371/eca9ca64-a732-437a-ad58-dfd46f34f757
+md5	e2f48fe19d3b0c33a5852853ee0a97c1

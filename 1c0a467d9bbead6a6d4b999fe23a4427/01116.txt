@@ -1,0 +1,7 @@
+signId	1116
+text	onödig
+imageUuid	8399de1a-b0aa-45c8-a0dd-43c4bd24ff70
+translationKey	472e0862-830f-4187-a9d8-480de187d502
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8399de1a-b0aa-45c8-a0dd-43c4bd24ff70/472e0862-830f-4187-a9d8-480de187d502/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8399de1a-b0aa-45c8-a0dd-43c4bd24ff70/472e0862-830f-4187-a9d8-480de187d502
+md5	1c0a467d9bbead6a6d4b999fe23a4427

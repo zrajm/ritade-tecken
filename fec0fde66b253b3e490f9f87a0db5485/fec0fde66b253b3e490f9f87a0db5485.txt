@@ -1,0 +1,8 @@
+
+signId	680
+text	ishockey
+imageUuid	8124c2c9-8816-4574-8666-cf0cc14d67f5
+translationKey	5be358ee-6b68-4359-b3b1-71fc11fb3dde
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8124c2c9-8816-4574-8666-cf0cc14d67f5/5be358ee-6b68-4359-b3b1-71fc11fb3dde/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8124c2c9-8816-4574-8666-cf0cc14d67f5/5be358ee-6b68-4359-b3b1-71fc11fb3dde
+md5	fec0fde66b253b3e490f9f87a0db5485

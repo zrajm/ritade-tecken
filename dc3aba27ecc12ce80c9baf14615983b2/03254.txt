@@ -1,0 +1,7 @@
+signId	3254
+text	sällan
+imageUuid	c1a349c1-2006-4d0e-b560-1761f7e434b5
+translationKey	4664cf76-90c0-4581-bbe7-b7d40b499f6d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c1a349c1-2006-4d0e-b560-1761f7e434b5/4664cf76-90c0-4581-bbe7-b7d40b499f6d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c1a349c1-2006-4d0e-b560-1761f7e434b5/4664cf76-90c0-4581-bbe7-b7d40b499f6d
+md5	dc3aba27ecc12ce80c9baf14615983b2

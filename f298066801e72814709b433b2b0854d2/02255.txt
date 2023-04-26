@@ -1,0 +1,7 @@
+signId	2255
+text	vaccin
+imageUuid	7275fc93-8926-4887-9bad-f349ba8fd90c
+translationKey	5efc5fb8-fa77-47b1-84d0-e84f39966c9a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7275fc93-8926-4887-9bad-f349ba8fd90c/5efc5fb8-fa77-47b1-84d0-e84f39966c9a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7275fc93-8926-4887-9bad-f349ba8fd90c/5efc5fb8-fa77-47b1-84d0-e84f39966c9a
+md5	f298066801e72814709b433b2b0854d2

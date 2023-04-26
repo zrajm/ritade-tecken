@@ -1,0 +1,16 @@
+
+signId	1709
+text	varm
+imageUuid	e5999074-6a47-4673-89f8-0ef24c2d44fb
+translationKey	68719041-56f9-4fc5-b2ef-b0c15a63d936
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e5999074-6a47-4673-89f8-0ef24c2d44fb/68719041-56f9-4fc5-b2ef-b0c15a63d936/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e5999074-6a47-4673-89f8-0ef24c2d44fb/68719041-56f9-4fc5-b2ef-b0c15a63d936
+md5	323016a5bfdc757cdca9cc44a88b9af8
+
+signId	3376
+text	värme
+imageUuid	b78d8a10-b4a0-4783-8187-1801fda9bd13
+translationKey	a85d192b-8890-4310-aeae-11f64acd06d1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b78d8a10-b4a0-4783-8187-1801fda9bd13/a85d192b-8890-4310-aeae-11f64acd06d1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b78d8a10-b4a0-4783-8187-1801fda9bd13/a85d192b-8890-4310-aeae-11f64acd06d1
+md5	323016a5bfdc757cdca9cc44a88b9af8

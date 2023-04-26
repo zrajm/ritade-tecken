@@ -1,0 +1,7 @@
+signId	1928
+text	väntrum
+imageUuid	b89a4b80-7f59-4843-9e91-d2480207dd43
+translationKey	e64d1e81-b9b6-4170-8dce-5a06aa6660d9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b89a4b80-7f59-4843-9e91-d2480207dd43/e64d1e81-b9b6-4170-8dce-5a06aa6660d9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b89a4b80-7f59-4843-9e91-d2480207dd43/e64d1e81-b9b6-4170-8dce-5a06aa6660d9
+md5	e4547c32d632a2771f56060a2463428b

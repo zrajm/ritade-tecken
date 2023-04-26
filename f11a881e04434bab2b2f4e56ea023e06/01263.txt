@@ -1,0 +1,7 @@
+signId	1263
+text	rutschkana
+imageUuid	98e1815c-f3e4-4fc1-ad2a-ce0edde0b63d
+translationKey	bc7b15cf-8687-4f8d-a782-94c0289b160e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/98e1815c-f3e4-4fc1-ad2a-ce0edde0b63d/bc7b15cf-8687-4f8d-a782-94c0289b160e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/98e1815c-f3e4-4fc1-ad2a-ce0edde0b63d/bc7b15cf-8687-4f8d-a782-94c0289b160e
+md5	f11a881e04434bab2b2f4e56ea023e06

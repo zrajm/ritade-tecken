@@ -1,0 +1,7 @@
+signId	291
+text	droppe
+imageUuid	55cecfea-74e2-47a5-a48c-542e8bf5c3fb
+translationKey	31df0710-78d4-4772-92e7-3ac014e8cc05
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/55cecfea-74e2-47a5-a48c-542e8bf5c3fb/31df0710-78d4-4772-92e7-3ac014e8cc05/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/55cecfea-74e2-47a5-a48c-542e8bf5c3fb/31df0710-78d4-4772-92e7-3ac014e8cc05
+md5	7c7dcf61b72393170188225e7ef36300

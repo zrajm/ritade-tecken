@@ -1,0 +1,7 @@
+signId	3207
+text	export 1
+imageUuid	3d41bed2-72ce-445a-a86b-62c17c04f973
+translationKey	74d16e41-0152-4693-9937-493fc46ac1b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3d41bed2-72ce-445a-a86b-62c17c04f973/74d16e41-0152-4693-9937-493fc46ac1b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3d41bed2-72ce-445a-a86b-62c17c04f973/74d16e41-0152-4693-9937-493fc46ac1b5
+md5	8e619cabaa4d676cdce4d76f686a2b32

@@ -1,0 +1,7 @@
+signId	3360
+text	intresse
+imageUuid	548d16be-15b1-47fd-9551-e963e1c235d9
+translationKey	90c66179-a4c0-45f1-a6fa-5ba2b77d3a5a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/548d16be-15b1-47fd-9551-e963e1c235d9/90c66179-a4c0-45f1-a6fa-5ba2b77d3a5a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/548d16be-15b1-47fd-9551-e963e1c235d9/90c66179-a4c0-45f1-a6fa-5ba2b77d3a5a
+md5	9bb1aa59b1797770dc54fc7c72834cdd

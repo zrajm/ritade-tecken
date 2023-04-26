@@ -1,0 +1,7 @@
+signId	3146
+text	vinbär
+imageUuid	be90f05d-9172-4d92-9d9d-d230c67ff44c
+translationKey	cd0d0330-eed1-4b5c-9d1e-be6b8beb1047
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/be90f05d-9172-4d92-9d9d-d230c67ff44c/cd0d0330-eed1-4b5c-9d1e-be6b8beb1047/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/be90f05d-9172-4d92-9d9d-d230c67ff44c/cd0d0330-eed1-4b5c-9d1e-be6b8beb1047
+md5	53f5e0f5b9e0b5876391718aad68c017

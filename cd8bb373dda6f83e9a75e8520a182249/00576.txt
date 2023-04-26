@@ -1,0 +1,7 @@
+signId	576
+text	hej
+imageUuid	937b7725-fd24-45ed-af81-39e3cb03fe71
+translationKey	c1481aa3-bd78-4f4e-9529-1565c3bc9b7b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/937b7725-fd24-45ed-af81-39e3cb03fe71/c1481aa3-bd78-4f4e-9529-1565c3bc9b7b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/937b7725-fd24-45ed-af81-39e3cb03fe71/c1481aa3-bd78-4f4e-9529-1565c3bc9b7b
+md5	cd8bb373dda6f83e9a75e8520a182249

@@ -1,0 +1,7 @@
+signId	2279
+text	hundra (tal)
+imageUuid	03820b39-3719-4926-97f5-2cf10096dd39
+translationKey	8675db51-b1c7-4111-a4df-b8b55e2d8bc8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/03820b39-3719-4926-97f5-2cf10096dd39/8675db51-b1c7-4111-a4df-b8b55e2d8bc8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/03820b39-3719-4926-97f5-2cf10096dd39/8675db51-b1c7-4111-a4df-b8b55e2d8bc8
+md5	89c28f5d56c8faf434d4f178811e00d8

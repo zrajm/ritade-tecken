@@ -1,0 +1,7 @@
+signId	3151
+text	tolv 1
+imageUuid	4d4f6652-7fd5-488d-8ee9-0f7cb47a5b11
+translationKey	61e78a7f-5e3b-4c60-81e5-f7e1af531fb8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4d4f6652-7fd5-488d-8ee9-0f7cb47a5b11/61e78a7f-5e3b-4c60-81e5-f7e1af531fb8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4d4f6652-7fd5-488d-8ee9-0f7cb47a5b11/61e78a7f-5e3b-4c60-81e5-f7e1af531fb8
+md5	062112534ce5b3fec4bc63ca6d2405b4

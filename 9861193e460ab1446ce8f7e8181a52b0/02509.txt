@@ -1,0 +1,7 @@
+signId	2509
+text	pub
+imageUuid	26444b50-7717-4914-8010-1ab46f654bee
+translationKey	bd89c1d7-0043-4075-b1ac-da89139627d7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/26444b50-7717-4914-8010-1ab46f654bee/bd89c1d7-0043-4075-b1ac-da89139627d7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/26444b50-7717-4914-8010-1ab46f654bee/bd89c1d7-0043-4075-b1ac-da89139627d7
+md5	9861193e460ab1446ce8f7e8181a52b0

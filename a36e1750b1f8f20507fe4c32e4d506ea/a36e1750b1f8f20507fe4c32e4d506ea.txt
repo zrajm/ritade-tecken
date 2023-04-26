@@ -1,0 +1,8 @@
+
+signId	1507
+text	styre
+imageUuid	da1d7a27-0ff2-4d5e-8edc-ee3ac68d26eb
+translationKey	a23a47a9-abbe-44d5-9d9b-38056336caad
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/da1d7a27-0ff2-4d5e-8edc-ee3ac68d26eb/a23a47a9-abbe-44d5-9d9b-38056336caad/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/da1d7a27-0ff2-4d5e-8edc-ee3ac68d26eb/a23a47a9-abbe-44d5-9d9b-38056336caad
+md5	a36e1750b1f8f20507fe4c32e4d506ea

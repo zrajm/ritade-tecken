@@ -1,0 +1,7 @@
+signId	1631
+text	träna
+imageUuid	7c94c3f7-3a56-4dfb-a001-4b2469e04706
+translationKey	3e6d055f-6ccc-46a4-b366-53ac7d6ed204
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7c94c3f7-3a56-4dfb-a001-4b2469e04706/3e6d055f-6ccc-46a4-b366-53ac7d6ed204/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7c94c3f7-3a56-4dfb-a001-4b2469e04706/3e6d055f-6ccc-46a4-b366-53ac7d6ed204
+md5	e4abfe8ec03b097662220d83bc63d901

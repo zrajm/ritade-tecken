@@ -1,0 +1,8 @@
+
+signId	2934
+text	gräshoppa
+imageUuid	b10505c6-e20d-408a-939d-f0e5e3c08104
+translationKey	86a01844-4586-436f-8266-6dfdde8cdb26
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b10505c6-e20d-408a-939d-f0e5e3c08104/86a01844-4586-436f-8266-6dfdde8cdb26/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b10505c6-e20d-408a-939d-f0e5e3c08104/86a01844-4586-436f-8266-6dfdde8cdb26
+md5	c9ca8614afb8ed9f6d09ef0be2e7e725

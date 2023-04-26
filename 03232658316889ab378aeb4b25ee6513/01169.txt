@@ -1,0 +1,7 @@
+signId	1169
+text	plaska
+imageUuid	ec115aea-04ac-4738-b538-5d1ee136bcad
+translationKey	894a550c-1527-48e9-a8c2-feb056df1afe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ec115aea-04ac-4738-b538-5d1ee136bcad/894a550c-1527-48e9-a8c2-feb056df1afe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ec115aea-04ac-4738-b538-5d1ee136bcad/894a550c-1527-48e9-a8c2-feb056df1afe
+md5	03232658316889ab378aeb4b25ee6513

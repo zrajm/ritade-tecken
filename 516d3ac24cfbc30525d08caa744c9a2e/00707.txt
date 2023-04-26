@@ -1,0 +1,7 @@
+signId	707
+text	kafé 4
+imageUuid	5e61462b-f429-47f8-958d-91703979a53c
+translationKey	3113bd23-8ea7-40a6-ab8f-12b358d21f96
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5e61462b-f429-47f8-958d-91703979a53c/3113bd23-8ea7-40a6-ab8f-12b358d21f96/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5e61462b-f429-47f8-958d-91703979a53c/3113bd23-8ea7-40a6-ab8f-12b358d21f96
+md5	516d3ac24cfbc30525d08caa744c9a2e

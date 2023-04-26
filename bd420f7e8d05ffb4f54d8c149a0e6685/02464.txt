@@ -1,0 +1,7 @@
+signId	2464
+text	Irland
+imageUuid	fdf2b9ec-cdab-4ce9-bc87-7ab9fbddb1e3
+translationKey	2602decb-0cb9-4cc3-b9ab-9cbb584cc362
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fdf2b9ec-cdab-4ce9-bc87-7ab9fbddb1e3/2602decb-0cb9-4cc3-b9ab-9cbb584cc362/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fdf2b9ec-cdab-4ce9-bc87-7ab9fbddb1e3/2602decb-0cb9-4cc3-b9ab-9cbb584cc362
+md5	bd420f7e8d05ffb4f54d8c149a0e6685

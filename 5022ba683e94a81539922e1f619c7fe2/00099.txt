@@ -1,0 +1,7 @@
+signId	99
+text	bandspelare
+imageUuid	e0e5a576-28a1-45e1-859d-77b31ab4b197
+translationKey	3983a9ce-e36a-4262-a007-5152ddbf3276
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e0e5a576-28a1-45e1-859d-77b31ab4b197/3983a9ce-e36a-4262-a007-5152ddbf3276/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e0e5a576-28a1-45e1-859d-77b31ab4b197/3983a9ce-e36a-4262-a007-5152ddbf3276
+md5	5022ba683e94a81539922e1f619c7fe2

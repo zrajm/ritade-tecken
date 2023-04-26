@@ -1,0 +1,7 @@
+signId	349
+text	fat
+imageUuid	fe18b546-b63c-4b8c-840c-f19818de0bdd
+translationKey	b961276d-15e4-4cce-b9e6-6937626d11ba
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fe18b546-b63c-4b8c-840c-f19818de0bdd/b961276d-15e4-4cce-b9e6-6937626d11ba/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fe18b546-b63c-4b8c-840c-f19818de0bdd/b961276d-15e4-4cce-b9e6-6937626d11ba
+md5	8c20ae7c40e272bc71880a745a65a088

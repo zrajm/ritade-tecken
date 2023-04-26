@@ -1,0 +1,7 @@
+signId	1525
+text	svara
+imageUuid	0a601619-5a85-4bdc-bc5c-41a78ec46e83
+translationKey	c745df76-12c9-45ab-86fb-10832bd1bd9f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0a601619-5a85-4bdc-bc5c-41a78ec46e83/c745df76-12c9-45ab-86fb-10832bd1bd9f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0a601619-5a85-4bdc-bc5c-41a78ec46e83/c745df76-12c9-45ab-86fb-10832bd1bd9f
+md5	cede3109106d5ecc42b70251d42704d5

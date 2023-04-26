@@ -1,0 +1,8 @@
+
+signId	1624
+text	tråkig
+imageUuid	822ace32-7587-4488-9d92-c3364874b8e4
+translationKey	d22e5750-b9ef-4845-8f21-9549d7b8af3f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/822ace32-7587-4488-9d92-c3364874b8e4/d22e5750-b9ef-4845-8f21-9549d7b8af3f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/822ace32-7587-4488-9d92-c3364874b8e4/d22e5750-b9ef-4845-8f21-9549d7b8af3f
+md5	663655015144e77fe4c6972f70480bee

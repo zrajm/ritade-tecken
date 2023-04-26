@@ -1,0 +1,7 @@
+signId	1279
+text	saft
+imageUuid	aad66261-e95a-4eed-94ec-91df2af62d66
+translationKey	6a07a919-451d-450f-8a72-899a7037b11a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/aad66261-e95a-4eed-94ec-91df2af62d66/6a07a919-451d-450f-8a72-899a7037b11a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/aad66261-e95a-4eed-94ec-91df2af62d66/6a07a919-451d-450f-8a72-899a7037b11a
+md5	b073b6f609522041b453dfca775f49e1

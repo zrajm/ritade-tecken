@@ -1,0 +1,8 @@
+
+signId	1229
+text	randig 1
+imageUuid	6d11808f-662b-4296-849d-c1178c43f065
+translationKey	016d03f7-491d-45ab-b42a-c4d5d04491b7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6d11808f-662b-4296-849d-c1178c43f065/016d03f7-491d-45ab-b42a-c4d5d04491b7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6d11808f-662b-4296-849d-c1178c43f065/016d03f7-491d-45ab-b42a-c4d5d04491b7
+md5	d546559eb392533e3e5d84ba52dc14ca

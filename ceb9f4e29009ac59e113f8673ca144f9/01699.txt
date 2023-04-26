@@ -1,0 +1,7 @@
+signId	1699
+text	vantar
+imageUuid	b17dd72c-8e16-4ef1-81b2-3a736e13d6fd
+translationKey	90c567f2-b383-4fe7-ae8a-3b863a0c3833
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b17dd72c-8e16-4ef1-81b2-3a736e13d6fd/90c567f2-b383-4fe7-ae8a-3b863a0c3833/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b17dd72c-8e16-4ef1-81b2-3a736e13d6fd/90c567f2-b383-4fe7-ae8a-3b863a0c3833
+md5	ceb9f4e29009ac59e113f8673ca144f9

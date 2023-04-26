@@ -1,0 +1,8 @@
+
+signId	2831
+text	snurra
+imageUuid	797e813a-54c7-4b48-93ed-a23142ab8e93
+translationKey	be5e8f43-b125-4848-8399-ca3d55d9f170
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/797e813a-54c7-4b48-93ed-a23142ab8e93/be5e8f43-b125-4848-8399-ca3d55d9f170/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/797e813a-54c7-4b48-93ed-a23142ab8e93/be5e8f43-b125-4848-8399-ca3d55d9f170
+md5	077b04aa3bb72191b660b7b9f7d05c9d

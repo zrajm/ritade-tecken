@@ -1,0 +1,8 @@
+
+signId	1183
+text	potatis
+imageUuid	8cc7346e-decf-478c-829f-a8365bd880af
+translationKey	9bd0eb86-2401-4341-839c-a817190bf7a8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8cc7346e-decf-478c-829f-a8365bd880af/9bd0eb86-2401-4341-839c-a817190bf7a8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8cc7346e-decf-478c-829f-a8365bd880af/9bd0eb86-2401-4341-839c-a817190bf7a8
+md5	78e0385a10b3cb896bdae0505d6cc05e

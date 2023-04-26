@@ -1,0 +1,7 @@
+signId	1241
+text	revben
+imageUuid	96ccda3d-61cd-429f-bf49-d74fb87890a9
+translationKey	09e0372e-b8e2-46d7-ad22-256781aa8796
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/96ccda3d-61cd-429f-bf49-d74fb87890a9/09e0372e-b8e2-46d7-ad22-256781aa8796/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/96ccda3d-61cd-429f-bf49-d74fb87890a9/09e0372e-b8e2-46d7-ad22-256781aa8796
+md5	76bb3a5f599eaf4366f88f0ba7e6b1d1

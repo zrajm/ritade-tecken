@@ -1,0 +1,7 @@
+signId	1671
+text	ubåt
+imageUuid	7493527a-58d5-4fd0-8a26-145e3ac6679a
+translationKey	31c73421-4d23-4497-bf33-e9fde7f37a9e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7493527a-58d5-4fd0-8a26-145e3ac6679a/31c73421-4d23-4497-bf33-e9fde7f37a9e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7493527a-58d5-4fd0-8a26-145e3ac6679a/31c73421-4d23-4497-bf33-e9fde7f37a9e
+md5	52723ebeb8a88b7704e95e60deaa6980

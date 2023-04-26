@@ -1,0 +1,7 @@
+signId	172
+text	borsta tänderna
+imageUuid	d6e30288-b870-4790-b718-25229fdf076f
+translationKey	8837fb57-fff6-4f28-a56f-66a87aded115
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d6e30288-b870-4790-b718-25229fdf076f/8837fb57-fff6-4f28-a56f-66a87aded115/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d6e30288-b870-4790-b718-25229fdf076f/8837fb57-fff6-4f28-a56f-66a87aded115
+md5	47624883c11b26d9b32841fed1d7c89c

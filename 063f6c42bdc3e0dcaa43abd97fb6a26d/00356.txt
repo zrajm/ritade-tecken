@@ -1,0 +1,7 @@
+signId	356
+text	fel
+imageUuid	9a121f17-98f0-4d7e-bd74-75de42f27c5d
+translationKey	f84e7de7-07c0-4e70-a576-7ccea60ca097
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9a121f17-98f0-4d7e-bd74-75de42f27c5d/f84e7de7-07c0-4e70-a576-7ccea60ca097/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9a121f17-98f0-4d7e-bd74-75de42f27c5d/f84e7de7-07c0-4e70-a576-7ccea60ca097
+md5	063f6c42bdc3e0dcaa43abd97fb6a26d

@@ -1,0 +1,7 @@
+signId	51
+text	annorlunda
+imageUuid	19c50937-c524-4793-960a-b24bc9198817
+translationKey	a9dc1cc8-b29f-48c1-839d-023b4189b8b7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/19c50937-c524-4793-960a-b24bc9198817/a9dc1cc8-b29f-48c1-839d-023b4189b8b7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/19c50937-c524-4793-960a-b24bc9198817/a9dc1cc8-b29f-48c1-839d-023b4189b8b7
+md5	33251ca272a6870cf6de5d488164ff80

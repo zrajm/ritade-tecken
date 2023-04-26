@@ -1,0 +1,7 @@
+signId	837
+text	kyckling
+imageUuid	6947e85d-0430-4e94-9a03-321bef4bdf2d
+translationKey	82dfa3c7-def4-4288-8052-eaca000885fe
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6947e85d-0430-4e94-9a03-321bef4bdf2d/82dfa3c7-def4-4288-8052-eaca000885fe/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6947e85d-0430-4e94-9a03-321bef4bdf2d/82dfa3c7-def4-4288-8052-eaca000885fe
+md5	54c2ad3f6cacc98ce99206c1424c3603

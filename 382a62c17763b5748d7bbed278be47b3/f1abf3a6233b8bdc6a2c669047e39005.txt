@@ -1,0 +1,8 @@
+
+signId	3181
+text	advokat
+imageUuid	31ffb6ed-81f8-4c0a-a052-dca06e757a83
+translationKey	3e51772b-5bb0-42a2-a91a-d05bb577e5b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/31ffb6ed-81f8-4c0a-a052-dca06e757a83/3e51772b-5bb0-42a2-a91a-d05bb577e5b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/31ffb6ed-81f8-4c0a-a052-dca06e757a83/3e51772b-5bb0-42a2-a91a-d05bb577e5b8
+md5	f1abf3a6233b8bdc6a2c669047e39005

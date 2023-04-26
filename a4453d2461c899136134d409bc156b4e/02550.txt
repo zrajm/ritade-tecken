@@ -1,0 +1,7 @@
+signId	2550
+text	tändvätska
+imageUuid	df66e7b1-0642-42bf-b4c6-420ab5e834be
+translationKey	95456276-3e3b-4b41-8dcc-b425840d1597
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/df66e7b1-0642-42bf-b4c6-420ab5e834be/95456276-3e3b-4b41-8dcc-b425840d1597/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/df66e7b1-0642-42bf-b4c6-420ab5e834be/95456276-3e3b-4b41-8dcc-b425840d1597
+md5	a4453d2461c899136134d409bc156b4e

@@ -1,0 +1,7 @@
+signId	722
+text	kanadensare
+imageUuid	3a5478c6-a897-4b16-ad5c-88b67fbf0d0b
+translationKey	62a909d0-2a6d-42af-9b5c-c3f92accf21c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3a5478c6-a897-4b16-ad5c-88b67fbf0d0b/62a909d0-2a6d-42af-9b5c-c3f92accf21c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3a5478c6-a897-4b16-ad5c-88b67fbf0d0b/62a909d0-2a6d-42af-9b5c-c3f92accf21c
+md5	1f314093a1a718ddf08bbb293ce826ad

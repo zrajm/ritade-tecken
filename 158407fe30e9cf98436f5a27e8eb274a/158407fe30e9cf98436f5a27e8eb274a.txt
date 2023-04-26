@@ -1,0 +1,16 @@
+
+signId	843
+text	kälke
+imageUuid	d0ebe560-a08e-4e9e-9490-608b43f3db98
+translationKey	9fa51496-7926-4453-aa29-44b627a302d6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d0ebe560-a08e-4e9e-9490-608b43f3db98/9fa51496-7926-4453-aa29-44b627a302d6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d0ebe560-a08e-4e9e-9490-608b43f3db98/9fa51496-7926-4453-aa29-44b627a302d6
+md5	158407fe30e9cf98436f5a27e8eb274a
+
+signId	1388
+text	släde
+imageUuid	2dd5e681-31ca-4b14-bdf7-e3e704c01c02
+translationKey	475ebae4-fee8-45c4-95d2-0d6a263a9a55
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2dd5e681-31ca-4b14-bdf7-e3e704c01c02/475ebae4-fee8-45c4-95d2-0d6a263a9a55/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2dd5e681-31ca-4b14-bdf7-e3e704c01c02/475ebae4-fee8-45c4-95d2-0d6a263a9a55
+md5	158407fe30e9cf98436f5a27e8eb274a

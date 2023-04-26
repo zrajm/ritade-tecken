@@ -1,0 +1,8 @@
+
+signId	2263
+text	bläddra
+imageUuid	d89e9e16-16d1-4b30-bcca-4f61864e1146
+translationKey	99dbaf17-906f-47b6-9443-c9281dceb333
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d89e9e16-16d1-4b30-bcca-4f61864e1146/99dbaf17-906f-47b6-9443-c9281dceb333/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d89e9e16-16d1-4b30-bcca-4f61864e1146/99dbaf17-906f-47b6-9443-c9281dceb333
+md5	df2fe299eb164ec62ba31ee820c3cec9

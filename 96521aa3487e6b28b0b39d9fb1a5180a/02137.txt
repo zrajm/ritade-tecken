@@ -1,0 +1,7 @@
+signId	2137
+text	ned
+imageUuid	a824af51-60c9-47b4-b7d1-9a588e07ce83
+translationKey	72a95b73-02c7-4f49-a51a-49fb87821b50
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a824af51-60c9-47b4-b7d1-9a588e07ce83/72a95b73-02c7-4f49-a51a-49fb87821b50/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a824af51-60c9-47b4-b7d1-9a588e07ce83/72a95b73-02c7-4f49-a51a-49fb87821b50
+md5	96521aa3487e6b28b0b39d9fb1a5180a

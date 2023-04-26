@@ -1,0 +1,7 @@
+signId	3202
+text	dubbel
+imageUuid	4fb12bff-4b58-4313-aaf0-b953ad84c002
+translationKey	6b3b2315-c969-4640-a713-6879b45668cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4fb12bff-4b58-4313-aaf0-b953ad84c002/6b3b2315-c969-4640-a713-6879b45668cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4fb12bff-4b58-4313-aaf0-b953ad84c002/6b3b2315-c969-4640-a713-6879b45668cd
+md5	500fc863ee5649d37ab7ed79696d31cd

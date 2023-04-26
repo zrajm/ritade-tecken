@@ -1,0 +1,8 @@
+
+signId	277
+text	dockvagn
+imageUuid	5d435177-de63-402b-b1e0-d390fcc38b2c
+translationKey	4a46959d-ee5f-4b14-a29f-8167fed6025d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5d435177-de63-402b-b1e0-d390fcc38b2c/4a46959d-ee5f-4b14-a29f-8167fed6025d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5d435177-de63-402b-b1e0-d390fcc38b2c/4a46959d-ee5f-4b14-a29f-8167fed6025d
+md5	68f5e3bf008d50a04a97ad0f750dc76d

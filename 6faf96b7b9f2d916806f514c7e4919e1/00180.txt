@@ -1,0 +1,7 @@
+signId	180
+text	brandman
+imageUuid	e4a8b30a-16f1-4a14-8dcb-6d0de7921b0e
+translationKey	96818086-a808-43f5-87c3-0e666e3661fa
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e4a8b30a-16f1-4a14-8dcb-6d0de7921b0e/96818086-a808-43f5-87c3-0e666e3661fa/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e4a8b30a-16f1-4a14-8dcb-6d0de7921b0e/96818086-a808-43f5-87c3-0e666e3661fa
+md5	f879b001b8cb65d39b458bc61b97ff91

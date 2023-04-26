@@ -1,0 +1,8 @@
+
+signId	3379
+text	ambulans 2
+imageUuid	1bc2326f-4d64-4e36-8870-ea8b2636baeb
+translationKey	b497ecbf-86d2-4c68-b0e8-dcd2e9184e79
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1bc2326f-4d64-4e36-8870-ea8b2636baeb/b497ecbf-86d2-4c68-b0e8-dcd2e9184e79/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1bc2326f-4d64-4e36-8870-ea8b2636baeb/b497ecbf-86d2-4c68-b0e8-dcd2e9184e79
+md5	e540bba3fd732e52579fb019d217c4b1

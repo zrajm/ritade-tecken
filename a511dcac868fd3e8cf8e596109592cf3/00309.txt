@@ -1,0 +1,7 @@
+signId	309
+text	därbak
+imageUuid	ac1281bb-5acb-4a2b-96af-a3843874a09f
+translationKey	0ff8b138-6c11-4196-a558-f9791ec45849
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ac1281bb-5acb-4a2b-96af-a3843874a09f/0ff8b138-6c11-4196-a558-f9791ec45849/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ac1281bb-5acb-4a2b-96af-a3843874a09f/0ff8b138-6c11-4196-a558-f9791ec45849
+md5	a511dcac868fd3e8cf8e596109592cf3

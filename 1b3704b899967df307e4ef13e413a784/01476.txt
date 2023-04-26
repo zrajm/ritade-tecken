@@ -1,0 +1,7 @@
+signId	1476
+text	stilla
+imageUuid	d3272a29-0bf9-4dd1-83df-d576a35799ef
+translationKey	133aea10-2e8e-4ef1-a17d-5d290493acd9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d3272a29-0bf9-4dd1-83df-d576a35799ef/133aea10-2e8e-4ef1-a17d-5d290493acd9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d3272a29-0bf9-4dd1-83df-d576a35799ef/133aea10-2e8e-4ef1-a17d-5d290493acd9
+md5	1b3704b899967df307e4ef13e413a784

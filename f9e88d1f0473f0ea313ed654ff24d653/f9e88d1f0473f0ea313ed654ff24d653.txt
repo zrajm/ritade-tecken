@@ -1,0 +1,8 @@
+
+signId	2174
+text	fylla år 3
+imageUuid	ecff27f5-0e9e-461c-adb6-3402c02537ec
+translationKey	bc1a3b25-c82f-4c49-b060-d7ded99763e0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ecff27f5-0e9e-461c-adb6-3402c02537ec/bc1a3b25-c82f-4c49-b060-d7ded99763e0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ecff27f5-0e9e-461c-adb6-3402c02537ec/bc1a3b25-c82f-4c49-b060-d7ded99763e0
+md5	f9e88d1f0473f0ea313ed654ff24d653

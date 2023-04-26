@@ -1,0 +1,7 @@
+signId	768
+text	knapp
+imageUuid	531c0119-da32-43a8-87bd-92868c7d22cf
+translationKey	267d9f8e-ab39-42d9-8956-86950a667715
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/531c0119-da32-43a8-87bd-92868c7d22cf/267d9f8e-ab39-42d9-8956-86950a667715/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/531c0119-da32-43a8-87bd-92868c7d22cf/267d9f8e-ab39-42d9-8956-86950a667715
+md5	8ba32c8a9f528f88407c014d00847dd3

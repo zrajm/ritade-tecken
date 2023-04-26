@@ -1,0 +1,7 @@
+signId	2493
+text	yrke
+imageUuid	cdf05395-90fe-48d5-a1e8-0eac7fe57ce2
+translationKey	bd694e87-ecfb-4144-8e39-ac1b2a54d148
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cdf05395-90fe-48d5-a1e8-0eac7fe57ce2/bd694e87-ecfb-4144-8e39-ac1b2a54d148/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cdf05395-90fe-48d5-a1e8-0eac7fe57ce2/bd694e87-ecfb-4144-8e39-ac1b2a54d148
+md5	1aaaa942012e15b8617bc4ae43544649

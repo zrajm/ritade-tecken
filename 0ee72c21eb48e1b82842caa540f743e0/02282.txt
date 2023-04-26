@@ -1,0 +1,7 @@
+signId	2282
+text	innerst inne
+imageUuid	33857766-1786-454f-a12c-0be83e6a0c4c
+translationKey	44697925-6cdf-4774-9cba-c261523195be
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/33857766-1786-454f-a12c-0be83e6a0c4c/44697925-6cdf-4774-9cba-c261523195be/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/33857766-1786-454f-a12c-0be83e6a0c4c/44697925-6cdf-4774-9cba-c261523195be
+md5	0ee72c21eb48e1b82842caa540f743e0

@@ -1,0 +1,16 @@
+
+signId	17
+text	17_1 (tal)
+imageUuid	3752180a-560d-429d-9b32-1b1d2ef3895d
+translationKey	a5c52ec6-08c5-45c7-8adc-1f6ddace335e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3752180a-560d-429d-9b32-1b1d2ef3895d/a5c52ec6-08c5-45c7-8adc-1f6ddace335e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3752180a-560d-429d-9b32-1b1d2ef3895d/a5c52ec6-08c5-45c7-8adc-1f6ddace335e
+md5	35223260cdeae6c95e1f9e5e39042cee
+
+signId	3161
+text	sjutton 1
+imageUuid	1fca56f9-4239-4d3e-92b0-ccc446660b85
+translationKey	2401b3f4-e85b-42e6-b7b3-a24349071690
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1fca56f9-4239-4d3e-92b0-ccc446660b85/2401b3f4-e85b-42e6-b7b3-a24349071690/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1fca56f9-4239-4d3e-92b0-ccc446660b85/2401b3f4-e85b-42e6-b7b3-a24349071690
+md5	35223260cdeae6c95e1f9e5e39042cee

@@ -1,0 +1,7 @@
+signId	2459
+text	flintskallig
+imageUuid	d5aaef2d-4ea3-43f0-b909-a055af10903e
+translationKey	ca7e1c13-9834-449f-a376-3ab1e4503c90
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d5aaef2d-4ea3-43f0-b909-a055af10903e/ca7e1c13-9834-449f-a376-3ab1e4503c90/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d5aaef2d-4ea3-43f0-b909-a055af10903e/ca7e1c13-9834-449f-a376-3ab1e4503c90
+md5	ba340e3ed756756bbd9d0eec512a013e

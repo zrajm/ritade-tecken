@@ -1,0 +1,8 @@
+
+signId	2176
+text	fåtölj
+imageUuid	6ae8148b-bf83-4408-98fb-057bde8825b5
+translationKey	badd52ce-0369-462e-9215-eaf9f91da91a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6ae8148b-bf83-4408-98fb-057bde8825b5/badd52ce-0369-462e-9215-eaf9f91da91a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6ae8148b-bf83-4408-98fb-057bde8825b5/badd52ce-0369-462e-9215-eaf9f91da91a
+md5	48bad2b8f6b40edcaaae20020f6bf961

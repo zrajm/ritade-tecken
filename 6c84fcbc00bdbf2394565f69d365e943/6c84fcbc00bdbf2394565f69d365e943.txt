@@ -1,0 +1,8 @@
+
+signId	370
+text	finns
+imageUuid	ff8be058-3c21-4309-bcd1-51ff2e512e06
+translationKey	f2c3062e-a533-4e82-934d-36373d4125b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ff8be058-3c21-4309-bcd1-51ff2e512e06/f2c3062e-a533-4e82-934d-36373d4125b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ff8be058-3c21-4309-bcd1-51ff2e512e06/f2c3062e-a533-4e82-934d-36373d4125b9
+md5	6c84fcbc00bdbf2394565f69d365e943

@@ -1,0 +1,8 @@
+
+signId	1576
+text	tidigt
+imageUuid	8e45e3fe-3936-4adb-ad53-aed6eb9a2cba
+translationKey	3fb44201-7c12-49b4-a26d-1e17c69e0a97
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8e45e3fe-3936-4adb-ad53-aed6eb9a2cba/3fb44201-7c12-49b4-a26d-1e17c69e0a97/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8e45e3fe-3936-4adb-ad53-aed6eb9a2cba/3fb44201-7c12-49b4-a26d-1e17c69e0a97
+md5	96e1af3c922145b2f79cebb3490487af

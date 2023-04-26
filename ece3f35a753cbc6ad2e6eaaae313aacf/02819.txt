@@ -1,0 +1,7 @@
+signId	2819
+text	klädnypa
+imageUuid	fe1dc8e0-cbb4-41d9-b6a9-56104d3cf3d2
+translationKey	4511a0a8-fabd-4b9b-8e4b-37e8eff4a06b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fe1dc8e0-cbb4-41d9-b6a9-56104d3cf3d2/4511a0a8-fabd-4b9b-8e4b-37e8eff4a06b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fe1dc8e0-cbb4-41d9-b6a9-56104d3cf3d2/4511a0a8-fabd-4b9b-8e4b-37e8eff4a06b
+md5	ece3f35a753cbc6ad2e6eaaae313aacf

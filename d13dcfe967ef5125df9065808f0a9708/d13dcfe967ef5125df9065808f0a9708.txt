@@ -1,0 +1,8 @@
+
+signId	2742
+text	vattenskidor
+imageUuid	f3342bc3-88b3-45e6-b1b8-ace821b173d5
+translationKey	df659a21-90fb-49c9-a2bc-3a35901a6b10
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f3342bc3-88b3-45e6-b1b8-ace821b173d5/df659a21-90fb-49c9-a2bc-3a35901a6b10/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f3342bc3-88b3-45e6-b1b8-ace821b173d5/df659a21-90fb-49c9-a2bc-3a35901a6b10
+md5	d13dcfe967ef5125df9065808f0a9708

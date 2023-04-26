@@ -1,0 +1,7 @@
+signId	667
+text	inga
+imageUuid	2f10a261-d73a-47a8-9e02-e0614a1b76a4
+translationKey	7dc04782-61b4-40b1-907a-9bc75b42b896
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2f10a261-d73a-47a8-9e02-e0614a1b76a4/7dc04782-61b4-40b1-907a-9bc75b42b896/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2f10a261-d73a-47a8-9e02-e0614a1b76a4/7dc04782-61b4-40b1-907a-9bc75b42b896
+md5	97dde89f52e860189ed3b78987134227

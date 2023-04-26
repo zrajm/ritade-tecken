@@ -1,0 +1,8 @@
+
+signId	3432
+text	översätta
+imageUuid	4816e3ae-b94b-494d-a747-0e0aa074d25c
+translationKey	b36e6cd5-e246-4bee-abb8-3a3c873b8dc1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4816e3ae-b94b-494d-a747-0e0aa074d25c/b36e6cd5-e246-4bee-abb8-3a3c873b8dc1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4816e3ae-b94b-494d-a747-0e0aa074d25c/b36e6cd5-e246-4bee-abb8-3a3c873b8dc1
+md5	872a4da4012ceb706a7df57e80fce553

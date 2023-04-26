@@ -1,0 +1,7 @@
+signId	2952
+text	blodtryck
+imageUuid	29504f64-dc33-4a60-9ae9-f28f5bab32b1
+translationKey	516e6ff4-9926-4fb3-838a-a1d6b8e6567d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/29504f64-dc33-4a60-9ae9-f28f5bab32b1/516e6ff4-9926-4fb3-838a-a1d6b8e6567d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/29504f64-dc33-4a60-9ae9-f28f5bab32b1/516e6ff4-9926-4fb3-838a-a1d6b8e6567d
+md5	7a772e5c3ba967d3201b9bbb5d63aa41

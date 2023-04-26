@@ -1,0 +1,7 @@
+signId	1573
+text	tesked
+imageUuid	1df3a8be-d7ff-4dd8-b0da-ab4d69118af3
+translationKey	f4051796-600d-44a5-8057-0fd993a24d64
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1df3a8be-d7ff-4dd8-b0da-ab4d69118af3/f4051796-600d-44a5-8057-0fd993a24d64/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1df3a8be-d7ff-4dd8-b0da-ab4d69118af3/f4051796-600d-44a5-8057-0fd993a24d64
+md5	616d04957aa9a9cf5dd1a4867256dfe8

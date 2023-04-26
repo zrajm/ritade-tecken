@@ -1,0 +1,7 @@
+signId	339
+text	falla
+imageUuid	78bef46f-9939-4d68-99e1-352bce0194ab
+translationKey	174653ab-401a-45c4-aead-cefc226d7503
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/78bef46f-9939-4d68-99e1-352bce0194ab/174653ab-401a-45c4-aead-cefc226d7503/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/78bef46f-9939-4d68-99e1-352bce0194ab/174653ab-401a-45c4-aead-cefc226d7503
+md5	a055606e56f7767f35557747f4728453

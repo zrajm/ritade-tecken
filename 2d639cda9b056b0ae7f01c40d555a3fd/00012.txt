@@ -1,0 +1,7 @@
+signId	12
+text	14_2 (tal)
+imageUuid	10deca04-453f-4249-9f63-746ed44cb95a
+translationKey	7fe40630-18c2-4340-bd8b-0a0754d71ddc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/10deca04-453f-4249-9f63-746ed44cb95a/7fe40630-18c2-4340-bd8b-0a0754d71ddc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/10deca04-453f-4249-9f63-746ed44cb95a/7fe40630-18c2-4340-bd8b-0a0754d71ddc
+md5	2d639cda9b056b0ae7f01c40d555a3fd

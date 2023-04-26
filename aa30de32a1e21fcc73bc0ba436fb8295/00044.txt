@@ -1,0 +1,7 @@
+signId	44
+text	allihop
+imageUuid	56e30461-bb5c-4d70-8ee5-89a704b6fec0
+translationKey	2a85d570-46e0-4937-b849-e8fb30252d44
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/56e30461-bb5c-4d70-8ee5-89a704b6fec0/2a85d570-46e0-4937-b849-e8fb30252d44/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/56e30461-bb5c-4d70-8ee5-89a704b6fec0/2a85d570-46e0-4937-b849-e8fb30252d44
+md5	aa30de32a1e21fcc73bc0ba436fb8295

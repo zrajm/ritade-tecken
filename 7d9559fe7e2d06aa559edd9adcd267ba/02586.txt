@@ -1,0 +1,7 @@
+signId	2586
+text	köttfärssås
+imageUuid	d2aa3a0a-c138-42ee-9d3f-f5677f9ea8c3
+translationKey	fc029f03-b832-462d-9051-71f410a42f01
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d2aa3a0a-c138-42ee-9d3f-f5677f9ea8c3/fc029f03-b832-462d-9051-71f410a42f01/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d2aa3a0a-c138-42ee-9d3f-f5677f9ea8c3/fc029f03-b832-462d-9051-71f410a42f01
+md5	7d9559fe7e2d06aa559edd9adcd267ba

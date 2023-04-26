@@ -1,0 +1,8 @@
+
+signId	147
+text	blixt
+imageUuid	47a2a89d-a940-4f8a-9c54-7c43c649dc7d
+translationKey	c3855db9-b886-4a19-a4d3-b219fc7479d2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/47a2a89d-a940-4f8a-9c54-7c43c649dc7d/c3855db9-b886-4a19-a4d3-b219fc7479d2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/47a2a89d-a940-4f8a-9c54-7c43c649dc7d/c3855db9-b886-4a19-a4d3-b219fc7479d2
+md5	336183a1e2b4cf53226eed2e448316cb

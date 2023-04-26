@@ -1,0 +1,32 @@
+
+signId	1321
+text	sjunga
+imageUuid	dc90f815-1204-4665-81dd-74599a1f34ca
+translationKey	17f135bf-60b6-4a29-96e7-8618bc4990a5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/dc90f815-1204-4665-81dd-74599a1f34ca/17f135bf-60b6-4a29-96e7-8618bc4990a5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/dc90f815-1204-4665-81dd-74599a1f34ca/17f135bf-60b6-4a29-96e7-8618bc4990a5
+md5	f97e99c2fe689845f81490e14a4e28f1
+
+signId	1538
+text	sång
+imageUuid	0f99df81-717a-45f0-ba9a-1ef0e3ae263c
+translationKey	729d8aa1-7525-432b-aed4-d5be0c46fb37
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0f99df81-717a-45f0-ba9a-1ef0e3ae263c/729d8aa1-7525-432b-aed4-d5be0c46fb37/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0f99df81-717a-45f0-ba9a-1ef0e3ae263c/729d8aa1-7525-432b-aed4-d5be0c46fb37
+md5	f97e99c2fe689845f81490e14a4e28f1
+
+signId	3286
+text	opera
+imageUuid	41fa1cfd-7a52-4934-bebd-5c010dbcc4db
+translationKey	87d07519-a1a6-42a3-8dea-a881e47cdf8e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/41fa1cfd-7a52-4934-bebd-5c010dbcc4db/87d07519-a1a6-42a3-8dea-a881e47cdf8e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/41fa1cfd-7a52-4934-bebd-5c010dbcc4db/87d07519-a1a6-42a3-8dea-a881e47cdf8e
+md5	f97e99c2fe689845f81490e14a4e28f1
+
+signId	3287
+text	kör
+imageUuid	8650c0f6-b844-4694-a1dc-c278e14658dc
+translationKey	b5df63ee-c9ea-48c0-8fe8-600ecc83c4a1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8650c0f6-b844-4694-a1dc-c278e14658dc/b5df63ee-c9ea-48c0-8fe8-600ecc83c4a1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8650c0f6-b844-4694-a1dc-c278e14658dc/b5df63ee-c9ea-48c0-8fe8-600ecc83c4a1
+md5	f97e99c2fe689845f81490e14a4e28f1

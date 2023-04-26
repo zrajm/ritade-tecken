@@ -1,0 +1,7 @@
+signId	2988
+text	bevara
+imageUuid	491f57b2-1276-4bf7-a663-ca85483d2e18
+translationKey	a37f56bc-800e-41ec-a9e1-455a2a165ec7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/491f57b2-1276-4bf7-a663-ca85483d2e18/a37f56bc-800e-41ec-a9e1-455a2a165ec7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/491f57b2-1276-4bf7-a663-ca85483d2e18/a37f56bc-800e-41ec-a9e1-455a2a165ec7
+md5	fd5efb83f4c7853e311d8f63bfa22f42

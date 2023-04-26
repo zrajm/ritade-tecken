@@ -1,0 +1,7 @@
+signId	2964
+text	nagel
+imageUuid	62c78e3a-a757-4ca9-b276-1b1774609325
+translationKey	0df2d466-e226-47a1-836b-1c5999f373e7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/62c78e3a-a757-4ca9-b276-1b1774609325/0df2d466-e226-47a1-836b-1c5999f373e7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/62c78e3a-a757-4ca9-b276-1b1774609325/0df2d466-e226-47a1-836b-1c5999f373e7
+md5	efb72b43747a69fe1cb146f1f770d11f

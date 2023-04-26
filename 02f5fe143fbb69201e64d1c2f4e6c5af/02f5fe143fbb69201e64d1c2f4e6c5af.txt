@@ -1,0 +1,8 @@
+
+signId	2918
+text	broccoli
+imageUuid	f786b286-6982-4ec4-a157-1f0709a48dbf
+translationKey	f1982d9f-2bf8-492d-8280-5eb3af0312f1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f786b286-6982-4ec4-a157-1f0709a48dbf/f1982d9f-2bf8-492d-8280-5eb3af0312f1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f786b286-6982-4ec4-a157-1f0709a48dbf/f1982d9f-2bf8-492d-8280-5eb3af0312f1
+md5	02f5fe143fbb69201e64d1c2f4e6c5af

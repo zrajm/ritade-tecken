@@ -1,0 +1,8 @@
+
+signId	3220
+text	judendom
+imageUuid	bba2cf64-71a7-47b6-9aad-4da83c8db6da
+translationKey	7dd9fdce-eae9-414f-a0dd-27824ddf01b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bba2cf64-71a7-47b6-9aad-4da83c8db6da/7dd9fdce-eae9-414f-a0dd-27824ddf01b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bba2cf64-71a7-47b6-9aad-4da83c8db6da/7dd9fdce-eae9-414f-a0dd-27824ddf01b4
+md5	ddebe6e5b1ab872d451906418a6744ca

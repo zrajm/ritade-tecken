@@ -1,0 +1,16 @@
+
+signId	1077
+text	nittio (tal)
+imageUuid	2bdafe1c-8a14-4fb1-92fe-16a97a3e82a3
+translationKey	75336308-d9ee-42d2-b7a6-96ba006f5f21
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2bdafe1c-8a14-4fb1-92fe-16a97a3e82a3/75336308-d9ee-42d2-b7a6-96ba006f5f21/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2bdafe1c-8a14-4fb1-92fe-16a97a3e82a3/75336308-d9ee-42d2-b7a6-96ba006f5f21
+md5	ae80139bb1f61207787054c944c25ab6
+
+signId	2860
+text	90 (tal)
+imageUuid	a2ae13a1-f538-4a46-8053-85c6d77575e2
+translationKey	fff2888b-0f22-44fe-9dff-ab295aa9514f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a2ae13a1-f538-4a46-8053-85c6d77575e2/fff2888b-0f22-44fe-9dff-ab295aa9514f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a2ae13a1-f538-4a46-8053-85c6d77575e2/fff2888b-0f22-44fe-9dff-ab295aa9514f
+md5	ae80139bb1f61207787054c944c25ab6

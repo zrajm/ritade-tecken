@@ -1,0 +1,7 @@
+signId	2378
+text	regering
+imageUuid	08cd63b5-2cd5-41ea-b6e6-98c5cbaed81c
+translationKey	fe30c1a3-1b64-4965-9fbe-c261eb1f0fee
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/08cd63b5-2cd5-41ea-b6e6-98c5cbaed81c/fe30c1a3-1b64-4965-9fbe-c261eb1f0fee/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/08cd63b5-2cd5-41ea-b6e6-98c5cbaed81c/fe30c1a3-1b64-4965-9fbe-c261eb1f0fee
+md5	383082423dbbca6ab133baccc7a0a168

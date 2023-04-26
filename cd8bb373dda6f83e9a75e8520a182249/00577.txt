@@ -1,0 +1,7 @@
+signId	577
+text	hej då
+imageUuid	82238565-12b0-41d1-bb5d-ed701d1fb491
+translationKey	f5cadebd-6463-4a8f-bf65-784a418123f5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/82238565-12b0-41d1-bb5d-ed701d1fb491/f5cadebd-6463-4a8f-bf65-784a418123f5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/82238565-12b0-41d1-bb5d-ed701d1fb491/f5cadebd-6463-4a8f-bf65-784a418123f5
+md5	cd8bb373dda6f83e9a75e8520a182249

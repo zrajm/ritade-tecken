@@ -1,0 +1,7 @@
+signId	2725
+text	tvättmedel
+imageUuid	6ef5e79e-9984-4a00-b35c-7879b265bc50
+translationKey	a0171cbf-2f39-4b61-a799-c80b4c9eb2b3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6ef5e79e-9984-4a00-b35c-7879b265bc50/a0171cbf-2f39-4b61-a799-c80b4c9eb2b3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6ef5e79e-9984-4a00-b35c-7879b265bc50/a0171cbf-2f39-4b61-a799-c80b4c9eb2b3
+md5	05af4e0d3a25877fd708367c2ec0b277

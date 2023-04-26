@@ -1,0 +1,8 @@
+
+signId	2417
+text	Europa
+imageUuid	4d9ae6ac-0375-4e05-a62a-e1c478327e4d
+translationKey	4f11c73e-3c05-4f1c-b924-c57c799570cd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4d9ae6ac-0375-4e05-a62a-e1c478327e4d/4f11c73e-3c05-4f1c-b924-c57c799570cd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4d9ae6ac-0375-4e05-a62a-e1c478327e4d/4f11c73e-3c05-4f1c-b924-c57c799570cd
+md5	9acbb52aa9b84d530d4c2cd0c8cb2bc9

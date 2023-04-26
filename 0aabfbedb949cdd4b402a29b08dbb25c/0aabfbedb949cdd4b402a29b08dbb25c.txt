@@ -1,0 +1,8 @@
+
+signId	354
+text	februari
+imageUuid	85ff0de1-6883-4c90-8bb8-569d32b8b984
+translationKey	2d0b596a-dcfc-4b97-b404-c166b3ceda7c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/85ff0de1-6883-4c90-8bb8-569d32b8b984/2d0b596a-dcfc-4b97-b404-c166b3ceda7c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/85ff0de1-6883-4c90-8bb8-569d32b8b984/2d0b596a-dcfc-4b97-b404-c166b3ceda7c
+md5	0aabfbedb949cdd4b402a29b08dbb25c

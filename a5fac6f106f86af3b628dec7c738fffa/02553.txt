@@ -1,0 +1,7 @@
+signId	2553
+text	strike
+imageUuid	f6795bf4-8d30-49f2-b247-78aacbee1768
+translationKey	cbc5546d-1cb1-4830-9911-029625d3ff53
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f6795bf4-8d30-49f2-b247-78aacbee1768/cbc5546d-1cb1-4830-9911-029625d3ff53/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f6795bf4-8d30-49f2-b247-78aacbee1768/cbc5546d-1cb1-4830-9911-029625d3ff53
+md5	a5fac6f106f86af3b628dec7c738fffa

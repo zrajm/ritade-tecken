@@ -1,0 +1,8 @@
+
+signId	2833
+text	stall
+imageUuid	6f69d879-f807-43c2-92a6-4ef6985f9d61
+translationKey	7782142d-bcdc-40b5-b2b5-d394d3a512d2
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6f69d879-f807-43c2-92a6-4ef6985f9d61/7782142d-bcdc-40b5-b2b5-d394d3a512d2/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6f69d879-f807-43c2-92a6-4ef6985f9d61/7782142d-bcdc-40b5-b2b5-d394d3a512d2
+md5	d95b331c6d82a60d1c0484112a74ebeb

@@ -1,0 +1,7 @@
+signId	141
+text	björk
+imageUuid	fafd8928-7664-4678-b469-6e49dcc36dd2
+translationKey	38c16ad6-f95f-4ff8-83c5-6c5d0e1eb6ed
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fafd8928-7664-4678-b469-6e49dcc36dd2/38c16ad6-f95f-4ff8-83c5-6c5d0e1eb6ed/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fafd8928-7664-4678-b469-6e49dcc36dd2/38c16ad6-f95f-4ff8-83c5-6c5d0e1eb6ed
+md5	51f39e59bf921e56150bd0cf50af702d

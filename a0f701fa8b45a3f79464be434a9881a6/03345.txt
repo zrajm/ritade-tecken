@@ -1,0 +1,7 @@
+signId	3345
+text	samlevnad
+imageUuid	04e7b97f-0d1e-4db5-8b88-26064064ff61
+translationKey	518e376a-4ea9-4da9-909a-b1a71333e9eb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/04e7b97f-0d1e-4db5-8b88-26064064ff61/518e376a-4ea9-4da9-909a-b1a71333e9eb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/04e7b97f-0d1e-4db5-8b88-26064064ff61/518e376a-4ea9-4da9-909a-b1a71333e9eb
+md5	a0f701fa8b45a3f79464be434a9881a6

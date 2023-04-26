@@ -1,0 +1,8 @@
+
+signId	1004
+text	mobiltelefon
+imageUuid	2f8c0f23-a268-4a22-8bbe-1544a710835a
+translationKey	e2bdff7c-6e25-4b7d-ae7a-1aca272717b4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2f8c0f23-a268-4a22-8bbe-1544a710835a/e2bdff7c-6e25-4b7d-ae7a-1aca272717b4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2f8c0f23-a268-4a22-8bbe-1544a710835a/e2bdff7c-6e25-4b7d-ae7a-1aca272717b4
+md5	532a019f6fa8aad6470568296e742596

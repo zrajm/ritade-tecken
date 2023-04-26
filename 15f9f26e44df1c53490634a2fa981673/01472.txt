@@ -1,0 +1,7 @@
+signId	1472
+text	sten
+imageUuid	806b5bc0-0592-4abb-a9d3-d96e63a3303e
+translationKey	315e73fd-bf01-4428-bb5e-a8d09ba670e0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/806b5bc0-0592-4abb-a9d3-d96e63a3303e/315e73fd-bf01-4428-bb5e-a8d09ba670e0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/806b5bc0-0592-4abb-a9d3-d96e63a3303e/315e73fd-bf01-4428-bb5e-a8d09ba670e0
+md5	15f9f26e44df1c53490634a2fa981673

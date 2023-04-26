@@ -1,0 +1,7 @@
+signId	1196
+text	promenad
+imageUuid	b006e3b3-a2bb-4f4f-9d29-d236741062e2
+translationKey	5ae5f464-89d0-4bbf-8eac-309fcba31cef
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b006e3b3-a2bb-4f4f-9d29-d236741062e2/5ae5f464-89d0-4bbf-8eac-309fcba31cef/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b006e3b3-a2bb-4f4f-9d29-d236741062e2/5ae5f464-89d0-4bbf-8eac-309fcba31cef
+md5	2da225e4008d2ace19cfa619f08752fd

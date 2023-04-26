@@ -1,0 +1,7 @@
+signId	2225
+text	långkalsonger
+imageUuid	60353f30-4330-4969-9dd6-b0e1ead8ce6f
+translationKey	354e1606-e449-467d-a8e0-7928bdf7252f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/60353f30-4330-4969-9dd6-b0e1ead8ce6f/354e1606-e449-467d-a8e0-7928bdf7252f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/60353f30-4330-4969-9dd6-b0e1ead8ce6f/354e1606-e449-467d-a8e0-7928bdf7252f
+md5	ffd68f446110390151ea5ae623429e8b

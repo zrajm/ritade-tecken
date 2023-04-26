@@ -1,0 +1,7 @@
+signId	1216
+text	påskkärring
+imageUuid	195c817d-88ad-4422-aa5f-66a54ea258ff
+translationKey	3bbae16c-bcd9-44f6-a99a-9ebaf235d079
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/195c817d-88ad-4422-aa5f-66a54ea258ff/3bbae16c-bcd9-44f6-a99a-9ebaf235d079/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/195c817d-88ad-4422-aa5f-66a54ea258ff/3bbae16c-bcd9-44f6-a99a-9ebaf235d079
+md5	008e7b602290bf322fa099eaae190953

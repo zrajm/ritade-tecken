@@ -1,0 +1,8 @@
+
+signId	2060
+text	klä granen
+imageUuid	19027e8a-7f3f-4425-8ced-a7292992f89d
+translationKey	fe2d6957-a66f-40dc-9574-875d11e143fc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/19027e8a-7f3f-4425-8ced-a7292992f89d/fe2d6957-a66f-40dc-9574-875d11e143fc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/19027e8a-7f3f-4425-8ced-a7292992f89d/fe2d6957-a66f-40dc-9574-875d11e143fc
+md5	b6b533a8460ecdd91a7f2bf0c30d80fa

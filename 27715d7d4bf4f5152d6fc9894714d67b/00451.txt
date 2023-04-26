@@ -1,0 +1,7 @@
+signId	451
+text	föreställning
+imageUuid	44b57dd3-03ea-450e-9795-e683b43a18e8
+translationKey	a7edc911-fa41-4179-96e4-ab0342776bda
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/44b57dd3-03ea-450e-9795-e683b43a18e8/a7edc911-fa41-4179-96e4-ab0342776bda/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/44b57dd3-03ea-450e-9795-e683b43a18e8/a7edc911-fa41-4179-96e4-ab0342776bda
+md5	27715d7d4bf4f5152d6fc9894714d67b

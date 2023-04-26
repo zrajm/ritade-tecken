@@ -1,0 +1,8 @@
+
+signId	388
+text	flyga 2
+imageUuid	b5ab487d-a7e5-490c-be29-cc0315970cc0
+translationKey	12940d75-6b50-4b49-b4ee-47138c2cfc0d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b5ab487d-a7e5-490c-be29-cc0315970cc0/12940d75-6b50-4b49-b4ee-47138c2cfc0d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b5ab487d-a7e5-490c-be29-cc0315970cc0/12940d75-6b50-4b49-b4ee-47138c2cfc0d
+md5	8e422b41f54beac249f852ebf1f6b773

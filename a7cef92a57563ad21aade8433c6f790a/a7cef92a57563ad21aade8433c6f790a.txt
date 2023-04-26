@@ -1,0 +1,8 @@
+
+signId	76
+text	astronaut
+imageUuid	d6affa3c-5382-4b4a-a1c4-d11a9cb6766f
+translationKey	5a85305b-57e0-4469-b28f-ec487d4d5d4d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d6affa3c-5382-4b4a-a1c4-d11a9cb6766f/5a85305b-57e0-4469-b28f-ec487d4d5d4d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d6affa3c-5382-4b4a-a1c4-d11a9cb6766f/5a85305b-57e0-4469-b28f-ec487d4d5d4d
+md5	a7cef92a57563ad21aade8433c6f790a

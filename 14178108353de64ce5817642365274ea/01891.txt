@@ -1,0 +1,7 @@
+signId	1891
+text	brukare
+imageUuid	a6a5fd85-63ac-4778-a57f-bddff237e9d8
+translationKey	c5523fc4-c29f-43d5-8270-2ad4c6e639f7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a6a5fd85-63ac-4778-a57f-bddff237e9d8/c5523fc4-c29f-43d5-8270-2ad4c6e639f7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a6a5fd85-63ac-4778-a57f-bddff237e9d8/c5523fc4-c29f-43d5-8270-2ad4c6e639f7
+md5	14178108353de64ce5817642365274ea

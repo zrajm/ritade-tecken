@@ -1,0 +1,7 @@
+signId	1817
+text	öga
+imageUuid	9e10a000-c67d-4dff-a6ac-44fcfc4d2a5a
+translationKey	f25c667c-01d7-4cfe-b97e-4181b4e5f189
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9e10a000-c67d-4dff-a6ac-44fcfc4d2a5a/f25c667c-01d7-4cfe-b97e-4181b4e5f189/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9e10a000-c67d-4dff-a6ac-44fcfc4d2a5a/f25c667c-01d7-4cfe-b97e-4181b4e5f189
+md5	9b028ea033ae253465bc292a41535842

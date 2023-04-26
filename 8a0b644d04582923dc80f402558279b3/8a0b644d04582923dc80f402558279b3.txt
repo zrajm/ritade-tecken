@@ -1,0 +1,16 @@
+
+signId	2173
+text	fisa
+imageUuid	cf692bdb-c07b-4c94-b0ec-2be2e4fda250
+translationKey	90d9e7d8-9956-4738-9bab-e00fe8f352ac
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/cf692bdb-c07b-4c94-b0ec-2be2e4fda250/90d9e7d8-9956-4738-9bab-e00fe8f352ac/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/cf692bdb-c07b-4c94-b0ec-2be2e4fda250/90d9e7d8-9956-4738-9bab-e00fe8f352ac
+md5	8a0b644d04582923dc80f402558279b3
+
+signId	2193
+text	prutta
+imageUuid	4c7e5d97-b08c-48be-87f8-cbdfd377ead8
+translationKey	27107803-fcc0-48fb-8e10-4788919dad82
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4c7e5d97-b08c-48be-87f8-cbdfd377ead8/27107803-fcc0-48fb-8e10-4788919dad82/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4c7e5d97-b08c-48be-87f8-cbdfd377ead8/27107803-fcc0-48fb-8e10-4788919dad82
+md5	8a0b644d04582923dc80f402558279b3

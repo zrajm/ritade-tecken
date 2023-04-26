@@ -1,0 +1,7 @@
+signId	2607
+text	tolk
+imageUuid	c9a328dc-680e-44e0-8c65-c0b627f9f4ef
+translationKey	83367a1d-3e6d-471e-830f-b949505de7ce
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c9a328dc-680e-44e0-8c65-c0b627f9f4ef/83367a1d-3e6d-471e-830f-b949505de7ce/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c9a328dc-680e-44e0-8c65-c0b627f9f4ef/83367a1d-3e6d-471e-830f-b949505de7ce
+md5	69aa63315eb0a54a9641a6f207e92b4a

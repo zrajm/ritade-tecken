@@ -1,0 +1,8 @@
+
+signId	887
+text	lian
+imageUuid	6c1fd8a5-33be-47b5-b344-2316caa1e290
+translationKey	b7a7f7ea-20c6-4a73-9b12-f33ad1a139d5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6c1fd8a5-33be-47b5-b344-2316caa1e290/b7a7f7ea-20c6-4a73-9b12-f33ad1a139d5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6c1fd8a5-33be-47b5-b344-2316caa1e290/b7a7f7ea-20c6-4a73-9b12-f33ad1a139d5
+md5	0e0594f7b5f8ea3a1865bc58e61e1234

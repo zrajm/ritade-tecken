@@ -1,0 +1,8 @@
+
+signId	3215
+text	förbannad
+imageUuid	72f6e5de-92ce-4726-ad68-288b56155ea3
+translationKey	78000a8b-1858-4fb7-a94e-501dd16a256e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72f6e5de-92ce-4726-ad68-288b56155ea3/78000a8b-1858-4fb7-a94e-501dd16a256e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72f6e5de-92ce-4726-ad68-288b56155ea3/78000a8b-1858-4fb7-a94e-501dd16a256e
+md5	cb8f09623d7e4fe4940cfbabd9b00407

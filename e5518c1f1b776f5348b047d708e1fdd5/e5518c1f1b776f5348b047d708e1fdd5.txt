@@ -1,0 +1,16 @@
+
+signId	1942
+text	Sverige
+imageUuid	72dd1cc7-3b94-4865-9260-e9f22a19e14d
+translationKey	feab61b9-965b-4742-bbc9-58b6b7543fa5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/72dd1cc7-3b94-4865-9260-e9f22a19e14d/feab61b9-965b-4742-bbc9-58b6b7543fa5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/72dd1cc7-3b94-4865-9260-e9f22a19e14d/feab61b9-965b-4742-bbc9-58b6b7543fa5
+md5	e5518c1f1b776f5348b047d708e1fdd5
+
+signId	2008
+text	svenska
+imageUuid	51c99577-7654-4adc-bfb7-ba8a2e34d7f1
+translationKey	814e6a66-3efe-427a-94be-ef593f950a60
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/51c99577-7654-4adc-bfb7-ba8a2e34d7f1/814e6a66-3efe-427a-94be-ef593f950a60/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/51c99577-7654-4adc-bfb7-ba8a2e34d7f1/814e6a66-3efe-427a-94be-ef593f950a60
+md5	e5518c1f1b776f5348b047d708e1fdd5

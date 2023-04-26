@@ -1,0 +1,7 @@
+signId	1847
+text	monster
+imageUuid	99e4ee5c-fa68-4053-99e6-b9cd8c714973
+translationKey	6270f357-33af-4587-8594-bf34db53aa4d
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/99e4ee5c-fa68-4053-99e6-b9cd8c714973/6270f357-33af-4587-8594-bf34db53aa4d/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/99e4ee5c-fa68-4053-99e6-b9cd8c714973/6270f357-33af-4587-8594-bf34db53aa4d
+md5	a112932901274bf22231ab65dbb5165c

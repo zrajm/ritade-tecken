@@ -1,0 +1,7 @@
+signId	1294
+text	sax
+imageUuid	48526635-e37f-4195-b83a-8c28a7952510
+translationKey	9dad41d6-42a9-4893-b447-894253f51362
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/48526635-e37f-4195-b83a-8c28a7952510/9dad41d6-42a9-4893-b447-894253f51362/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/48526635-e37f-4195-b83a-8c28a7952510/9dad41d6-42a9-4893-b447-894253f51362
+md5	80846b2a61632add08ff3346c4703395

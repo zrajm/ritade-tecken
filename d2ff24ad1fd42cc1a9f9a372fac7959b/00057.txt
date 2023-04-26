@@ -1,0 +1,7 @@
+signId	57
+text	applåd
+imageUuid	2831b45d-4b64-4fd8-8ced-1bf748c5bb38
+translationKey	079d6bc4-77ca-4202-88ef-bb68eeee4420
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2831b45d-4b64-4fd8-8ced-1bf748c5bb38/079d6bc4-77ca-4202-88ef-bb68eeee4420/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2831b45d-4b64-4fd8-8ced-1bf748c5bb38/079d6bc4-77ca-4202-88ef-bb68eeee4420
+md5	d2ff24ad1fd42cc1a9f9a372fac7959b

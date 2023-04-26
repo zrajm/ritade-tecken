@@ -1,0 +1,8 @@
+
+signId	2266
+text	ett par stycken
+imageUuid	a6ad0767-a15d-4377-b37b-7e229cc560b8
+translationKey	22a648e5-8071-4589-823e-1479c3d88250
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a6ad0767-a15d-4377-b37b-7e229cc560b8/22a648e5-8071-4589-823e-1479c3d88250/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a6ad0767-a15d-4377-b37b-7e229cc560b8/22a648e5-8071-4589-823e-1479c3d88250
+md5	9e0628d61e8d0fac9b95ace55b948952

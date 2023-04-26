@@ -1,0 +1,8 @@
+
+signId	3129
+text	partiledare
+imageUuid	3ce2029c-6eda-48c6-b272-d1598c96939c
+translationKey	fe6e7f51-dab4-4581-846b-770e484f8a0e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3ce2029c-6eda-48c6-b272-d1598c96939c/fe6e7f51-dab4-4581-846b-770e484f8a0e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3ce2029c-6eda-48c6-b272-d1598c96939c/fe6e7f51-dab4-4581-846b-770e484f8a0e
+md5	dc7c943ab128510d8ec96478c7be33d6

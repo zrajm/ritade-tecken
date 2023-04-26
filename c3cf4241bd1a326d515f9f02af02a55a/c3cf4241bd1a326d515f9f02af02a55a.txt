@@ -1,0 +1,8 @@
+
+signId	682
+text	J (bokstav)
+imageUuid	97a223bf-d2a4-4ea1-9a87-7f7864897d53
+translationKey	ed59cc87-7023-4ecf-b74e-c1ea092faf98
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/97a223bf-d2a4-4ea1-9a87-7f7864897d53/ed59cc87-7023-4ecf-b74e-c1ea092faf98/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/97a223bf-d2a4-4ea1-9a87-7f7864897d53/ed59cc87-7023-4ecf-b74e-c1ea092faf98
+md5	c3cf4241bd1a326d515f9f02af02a55a

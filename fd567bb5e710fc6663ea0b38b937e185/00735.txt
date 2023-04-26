@@ -1,0 +1,7 @@
+signId	735
+text	kavaj
+imageUuid	f6998370-eec5-41b8-b96e-6b4fdb78886c
+translationKey	bcbb8091-d318-4331-acae-921e1c46e89b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f6998370-eec5-41b8-b96e-6b4fdb78886c/bcbb8091-d318-4331-acae-921e1c46e89b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f6998370-eec5-41b8-b96e-6b4fdb78886c/bcbb8091-d318-4331-acae-921e1c46e89b
+md5	fd567bb5e710fc6663ea0b38b937e185

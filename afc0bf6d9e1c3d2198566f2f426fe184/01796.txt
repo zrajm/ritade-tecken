@@ -1,0 +1,7 @@
+signId	1796
+text	Ä (bokstav)
+imageUuid	e3637de1-5f9d-422c-bbd9-ac3ffa40e37e
+translationKey	4b6c60b8-559e-4b62-927f-1395a9061c48
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e3637de1-5f9d-422c-bbd9-ac3ffa40e37e/4b6c60b8-559e-4b62-927f-1395a9061c48/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e3637de1-5f9d-422c-bbd9-ac3ffa40e37e/4b6c60b8-559e-4b62-927f-1395a9061c48
+md5	afc0bf6d9e1c3d2198566f2f426fe184

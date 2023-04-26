@@ -1,0 +1,32 @@
+
+signId	170
+text	bord
+imageUuid	27149ae8-b93c-42f4-aa58-5cebd6249f44
+translationKey	504865c3-cb7c-4b2d-88df-4c2c40ac8f86
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/27149ae8-b93c-42f4-aa58-5cebd6249f44/504865c3-cb7c-4b2d-88df-4c2c40ac8f86/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/27149ae8-b93c-42f4-aa58-5cebd6249f44/504865c3-cb7c-4b2d-88df-4c2c40ac8f86
+md5	3e9b1154872b31ed1401105c411d0f97
+
+signId	499
+text	golv
+imageUuid	27e99172-8a4f-4f85-b42b-73a500f06445
+translationKey	7b2d5b54-2d2d-4349-903e-ce91706574ba
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/27e99172-8a4f-4f85-b42b-73a500f06445/7b2d5b54-2d2d-4349-903e-ce91706574ba/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/27e99172-8a4f-4f85-b42b-73a500f06445/7b2d5b54-2d2d-4349-903e-ce91706574ba
+md5	3e9b1154872b31ed1401105c411d0f97
+
+signId	972
+text	matta
+imageUuid	503a5875-b882-406c-a6f2-cfdf7206da88
+translationKey	c68a1a36-56d8-46e6-a2f2-c3f7fdfb466c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/503a5875-b882-406c-a6f2-cfdf7206da88/c68a1a36-56d8-46e6-a2f2-c3f7fdfb466c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/503a5875-b882-406c-a6f2-cfdf7206da88/c68a1a36-56d8-46e6-a2f2-c3f7fdfb466c
+md5	3e9b1154872b31ed1401105c411d0f97
+
+signId	2727
+text	brits
+imageUuid	bfe97180-f350-4914-b94e-939f4566ebb9
+translationKey	9aa068ba-792c-4c10-a8bd-7e7751aab4ed
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bfe97180-f350-4914-b94e-939f4566ebb9/9aa068ba-792c-4c10-a8bd-7e7751aab4ed/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bfe97180-f350-4914-b94e-939f4566ebb9/9aa068ba-792c-4c10-a8bd-7e7751aab4ed
+md5	3e9b1154872b31ed1401105c411d0f97

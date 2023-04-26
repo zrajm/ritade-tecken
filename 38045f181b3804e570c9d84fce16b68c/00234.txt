@@ -1,0 +1,7 @@
+signId	234
+text	cirka
+imageUuid	ac1f6f8c-407f-4b09-9ca7-8bc7b4e8bf86
+translationKey	f37470bd-df46-424e-9601-b906f878ca80
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ac1f6f8c-407f-4b09-9ca7-8bc7b4e8bf86/f37470bd-df46-424e-9601-b906f878ca80/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ac1f6f8c-407f-4b09-9ca7-8bc7b4e8bf86/f37470bd-df46-424e-9601-b906f878ca80
+md5	38045f181b3804e570c9d84fce16b68c

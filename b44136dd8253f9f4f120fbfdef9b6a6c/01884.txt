@@ -1,0 +1,7 @@
+signId	1884
+text	deprimerad
+imageUuid	9571ecba-ce80-45f5-8946-f49d0716ea92
+translationKey	dec26f58-5686-449a-99e2-ae29960632c0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9571ecba-ce80-45f5-8946-f49d0716ea92/dec26f58-5686-449a-99e2-ae29960632c0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9571ecba-ce80-45f5-8946-f49d0716ea92/dec26f58-5686-449a-99e2-ae29960632c0
+md5	b44136dd8253f9f4f120fbfdef9b6a6c

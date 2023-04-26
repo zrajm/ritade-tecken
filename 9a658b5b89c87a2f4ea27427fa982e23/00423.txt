@@ -1,0 +1,7 @@
+signId	423
+text	fungera
+imageUuid	87c50e34-10f6-4361-98f4-ac82702f1458
+translationKey	a01afaa0-6fa1-41fa-87fe-f332217b13e9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/87c50e34-10f6-4361-98f4-ac82702f1458/a01afaa0-6fa1-41fa-87fe-f332217b13e9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/87c50e34-10f6-4361-98f4-ac82702f1458/a01afaa0-6fa1-41fa-87fe-f332217b13e9
+md5	9a658b5b89c87a2f4ea27427fa982e23

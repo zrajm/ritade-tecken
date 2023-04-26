@@ -1,0 +1,7 @@
+signId	3196
+text	buddhism
+imageUuid	9a85b1e9-dbcc-42aa-8256-2dbfa2c6a5ef
+translationKey	a7a6ae4f-f274-4905-971b-b8b949b2b5f5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9a85b1e9-dbcc-42aa-8256-2dbfa2c6a5ef/a7a6ae4f-f274-4905-971b-b8b949b2b5f5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9a85b1e9-dbcc-42aa-8256-2dbfa2c6a5ef/a7a6ae4f-f274-4905-971b-b8b949b2b5f5
+md5	58d12737df9a439ba710066a8d8ea699

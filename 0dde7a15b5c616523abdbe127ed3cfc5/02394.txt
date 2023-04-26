@@ -1,0 +1,7 @@
+signId	2394
+text	slumra
+imageUuid	ef5fb77d-5d90-491a-8363-c5be0580ee91
+translationKey	9097be66-040d-4dee-8817-a68155baee8b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ef5fb77d-5d90-491a-8363-c5be0580ee91/9097be66-040d-4dee-8817-a68155baee8b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ef5fb77d-5d90-491a-8363-c5be0580ee91/9097be66-040d-4dee-8817-a68155baee8b
+md5	0dde7a15b5c616523abdbe127ed3cfc5

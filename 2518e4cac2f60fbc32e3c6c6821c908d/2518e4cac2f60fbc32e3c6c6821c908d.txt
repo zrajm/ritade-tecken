@@ -1,0 +1,8 @@
+
+signId	1270
+text	rädda
+imageUuid	696029fc-e317-4aa4-b45c-07b94e2ea7d9
+translationKey	6be5916d-3f04-4656-b6f1-ee0b584ba5f7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/696029fc-e317-4aa4-b45c-07b94e2ea7d9/6be5916d-3f04-4656-b6f1-ee0b584ba5f7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/696029fc-e317-4aa4-b45c-07b94e2ea7d9/6be5916d-3f04-4656-b6f1-ee0b584ba5f7
+md5	2518e4cac2f60fbc32e3c6c6821c908d

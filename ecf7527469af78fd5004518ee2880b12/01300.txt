@@ -1,0 +1,7 @@
+signId	1300
+text	segra
+imageUuid	07dad097-5a24-4d57-a6ff-5bf46eaa0ff1
+translationKey	0f339c93-9b16-44c7-b344-ec63f3776e24
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/07dad097-5a24-4d57-a6ff-5bf46eaa0ff1/0f339c93-9b16-44c7-b344-ec63f3776e24/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/07dad097-5a24-4d57-a6ff-5bf46eaa0ff1/0f339c93-9b16-44c7-b344-ec63f3776e24
+md5	ecf7527469af78fd5004518ee2880b12

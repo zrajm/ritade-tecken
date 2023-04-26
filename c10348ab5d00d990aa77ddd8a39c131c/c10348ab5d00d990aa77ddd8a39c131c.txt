@@ -1,0 +1,8 @@
+
+signId	306
+text	däck
+imageUuid	ee24eb71-d624-428c-a0d9-47bdb3fdf5bf
+translationKey	a41db2d2-4002-43b1-80a3-75abfb7ad65c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ee24eb71-d624-428c-a0d9-47bdb3fdf5bf/a41db2d2-4002-43b1-80a3-75abfb7ad65c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ee24eb71-d624-428c-a0d9-47bdb3fdf5bf/a41db2d2-4002-43b1-80a3-75abfb7ad65c
+md5	c10348ab5d00d990aa77ddd8a39c131c

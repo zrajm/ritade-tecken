@@ -1,0 +1,7 @@
+signId	1609
+text	trassel
+imageUuid	89d0b86e-d99f-4e7c-bca7-f42e714ab74f
+translationKey	ecc073bc-a896-4fa4-8e0d-eaf49f2316b9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/89d0b86e-d99f-4e7c-bca7-f42e714ab74f/ecc073bc-a896-4fa4-8e0d-eaf49f2316b9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/89d0b86e-d99f-4e7c-bca7-f42e714ab74f/ecc073bc-a896-4fa4-8e0d-eaf49f2316b9
+md5	6376305024461c9a55bf74c50aeaf75c

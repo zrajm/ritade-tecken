@@ -1,0 +1,7 @@
+signId	1515
+text	stökig
+imageUuid	6953611a-05c0-4d38-a95c-e9d1e42a98be
+translationKey	03d80d85-7c12-449d-92b7-43580f9cf545
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6953611a-05c0-4d38-a95c-e9d1e42a98be/03d80d85-7c12-449d-92b7-43580f9cf545/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6953611a-05c0-4d38-a95c-e9d1e42a98be/03d80d85-7c12-449d-92b7-43580f9cf545
+md5	6376305024461c9a55bf74c50aeaf75c

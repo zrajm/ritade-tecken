@@ -1,0 +1,7 @@
+signId	644
+text	hök
+imageUuid	7b72d4b5-01bb-4afb-bccb-86acd0ecc3e3
+translationKey	ed531d0d-fd94-468f-9d7a-8247370f651c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7b72d4b5-01bb-4afb-bccb-86acd0ecc3e3/ed531d0d-fd94-468f-9d7a-8247370f651c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7b72d4b5-01bb-4afb-bccb-86acd0ecc3e3/ed531d0d-fd94-468f-9d7a-8247370f651c
+md5	0909818f6b5cbef819a4709ceddd0c75

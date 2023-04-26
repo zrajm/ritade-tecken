@@ -1,0 +1,7 @@
+signId	1815
+text	Ö (bokstav)
+imageUuid	e692ee97-62eb-4501-b095-b06e7461720d
+translationKey	be289072-be0b-45b0-a5ce-823eb141117f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e692ee97-62eb-4501-b095-b06e7461720d/be289072-be0b-45b0-a5ce-823eb141117f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e692ee97-62eb-4501-b095-b06e7461720d/be289072-be0b-45b0-a5ce-823eb141117f
+md5	7a6e6237a3e4209d1b2f1e1f132653b9

@@ -1,0 +1,7 @@
+signId	1506
+text	stygg
+imageUuid	86bdc9c9-5601-4d0a-9e42-407d63fdb92d
+translationKey	d269d9c2-2ba1-4974-9318-819ec7ecf3a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86bdc9c9-5601-4d0a-9e42-407d63fdb92d/d269d9c2-2ba1-4974-9318-819ec7ecf3a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86bdc9c9-5601-4d0a-9e42-407d63fdb92d/d269d9c2-2ba1-4974-9318-819ec7ecf3a7
+md5	68972d5732e24088bf90fa228fdddaec

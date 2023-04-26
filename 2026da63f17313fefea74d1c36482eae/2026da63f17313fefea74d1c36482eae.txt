@@ -1,0 +1,8 @@
+
+signId	1136
+text	pappa
+imageUuid	0065029f-053a-45cb-a03f-7ff13f6ed516
+translationKey	0e8fcc71-b855-4471-b738-1f237cbc6ab6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0065029f-053a-45cb-a03f-7ff13f6ed516/0e8fcc71-b855-4471-b738-1f237cbc6ab6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0065029f-053a-45cb-a03f-7ff13f6ed516/0e8fcc71-b855-4471-b738-1f237cbc6ab6
+md5	2026da63f17313fefea74d1c36482eae

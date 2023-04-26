@@ -1,0 +1,8 @@
+
+signId	212
+text	båda
+imageUuid	59cec7a9-400f-43af-9e2b-9470e352ed18
+translationKey	f7ab7618-8274-40d9-881e-9c107c5ce985
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/59cec7a9-400f-43af-9e2b-9470e352ed18/f7ab7618-8274-40d9-881e-9c107c5ce985/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/59cec7a9-400f-43af-9e2b-9470e352ed18/f7ab7618-8274-40d9-881e-9c107c5ce985
+md5	590b547f7569a95bbd83b19ce1dae481

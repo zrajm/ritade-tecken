@@ -1,0 +1,7 @@
+signId	2613
+text	tvättmaskin
+imageUuid	ba312e31-a9c9-4b49-99cd-738c0c33a0c2
+translationKey	ecb1b230-d254-4e1d-9299-3a02b213a544
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ba312e31-a9c9-4b49-99cd-738c0c33a0c2/ecb1b230-d254-4e1d-9299-3a02b213a544/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ba312e31-a9c9-4b49-99cd-738c0c33a0c2/ecb1b230-d254-4e1d-9299-3a02b213a544
+md5	ec452585ffab241e02e6a2d749dccebc

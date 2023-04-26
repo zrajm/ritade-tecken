@@ -1,0 +1,8 @@
+
+signId	103
+text	bara
+imageUuid	4248cbb3-2f3c-4594-8507-3cbe93c10314
+translationKey	220cef77-9869-45cd-a105-d055562201d4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4248cbb3-2f3c-4594-8507-3cbe93c10314/220cef77-9869-45cd-a105-d055562201d4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4248cbb3-2f3c-4594-8507-3cbe93c10314/220cef77-9869-45cd-a105-d055562201d4
+md5	ec1375122f8f8cd22003f340724c5cb8

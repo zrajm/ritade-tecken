@@ -1,0 +1,7 @@
+signId	2142
+text	redan
+imageUuid	5f42e79d-e3c3-4487-8d91-eba1d35aed3b
+translationKey	775892fe-43eb-4215-87aa-97c502f69a24
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5f42e79d-e3c3-4487-8d91-eba1d35aed3b/775892fe-43eb-4215-87aa-97c502f69a24/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5f42e79d-e3c3-4487-8d91-eba1d35aed3b/775892fe-43eb-4215-87aa-97c502f69a24
+md5	3ec2a7668006c554ad04182c338b1c10

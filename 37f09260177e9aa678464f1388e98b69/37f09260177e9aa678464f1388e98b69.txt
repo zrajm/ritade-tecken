@@ -1,0 +1,8 @@
+
+signId	3383
+text	avundsjuk
+imageUuid	67ba7fc8-8369-4496-9e91-c8993473350d
+translationKey	9443c63c-450f-4156-9937-141649bd1b77
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/67ba7fc8-8369-4496-9e91-c8993473350d/9443c63c-450f-4156-9937-141649bd1b77/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/67ba7fc8-8369-4496-9e91-c8993473350d/9443c63c-450f-4156-9937-141649bd1b77
+md5	37f09260177e9aa678464f1388e98b69

@@ -1,0 +1,8 @@
+
+signId	2761
+text	biljard
+imageUuid	4c0ce83c-bd1d-4f25-bf25-47908a5e1d6c
+translationKey	eeb366c2-a97a-4e34-b221-149cc7cd695e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4c0ce83c-bd1d-4f25-bf25-47908a5e1d6c/eeb366c2-a97a-4e34-b221-149cc7cd695e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4c0ce83c-bd1d-4f25-bf25-47908a5e1d6c/eeb366c2-a97a-4e34-b221-149cc7cd695e
+md5	cb23f961b4e13252dfa422ac4ba4284b

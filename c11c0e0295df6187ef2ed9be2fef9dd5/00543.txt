@@ -1,0 +1,7 @@
+signId	543
+text	gård
+imageUuid	f61a4f2a-8c87-4446-9156-83729108223a
+translationKey	e184ef77-70ae-42b2-83d5-33acb4e54c74
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f61a4f2a-8c87-4446-9156-83729108223a/e184ef77-70ae-42b2-83d5-33acb4e54c74/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f61a4f2a-8c87-4446-9156-83729108223a/e184ef77-70ae-42b2-83d5-33acb4e54c74
+md5	c11c0e0295df6187ef2ed9be2fef9dd5

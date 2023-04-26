@@ -1,0 +1,7 @@
+signId	938
+text	lämna
+imageUuid	a06c3a68-2b6c-47e8-8bf6-824807900d31
+translationKey	017987b4-b742-4477-a0f7-545aa45874fc
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a06c3a68-2b6c-47e8-8bf6-824807900d31/017987b4-b742-4477-a0f7-545aa45874fc/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a06c3a68-2b6c-47e8-8bf6-824807900d31/017987b4-b742-4477-a0f7-545aa45874fc
+md5	49a8fcc578b30e6e915c4a9f95e52f77

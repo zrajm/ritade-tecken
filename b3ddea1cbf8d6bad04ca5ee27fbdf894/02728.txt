@@ -1,0 +1,7 @@
+signId	2728
+text	hållplats
+imageUuid	34d7db88-ba9d-4435-b1ba-e317583a2d17
+translationKey	007cf4fc-0b25-489f-9c57-522a76a85907
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/34d7db88-ba9d-4435-b1ba-e317583a2d17/007cf4fc-0b25-489f-9c57-522a76a85907/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/34d7db88-ba9d-4435-b1ba-e317583a2d17/007cf4fc-0b25-489f-9c57-522a76a85907
+md5	b3ddea1cbf8d6bad04ca5ee27fbdf894

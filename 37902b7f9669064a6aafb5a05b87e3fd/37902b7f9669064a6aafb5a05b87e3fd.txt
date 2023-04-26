@@ -1,0 +1,8 @@
+
+signId	2264
+text	dra för gardinerna
+imageUuid	6eeffd6d-2dd9-446c-a6d5-bf42f56d7ebe
+translationKey	689ba53d-40fd-4096-a10d-720402cd028b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6eeffd6d-2dd9-446c-a6d5-bf42f56d7ebe/689ba53d-40fd-4096-a10d-720402cd028b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6eeffd6d-2dd9-446c-a6d5-bf42f56d7ebe/689ba53d-40fd-4096-a10d-720402cd028b
+md5	37902b7f9669064a6aafb5a05b87e3fd

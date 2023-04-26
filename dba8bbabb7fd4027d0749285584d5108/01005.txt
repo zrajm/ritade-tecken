@@ -1,0 +1,7 @@
+signId	1005
+text	modern
+imageUuid	ec53a2d0-b044-4650-bcd8-d88e455e9a9d
+translationKey	b59bc93c-c569-4b5f-b5f3-81e7983573b3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ec53a2d0-b044-4650-bcd8-d88e455e9a9d/b59bc93c-c569-4b5f-b5f3-81e7983573b3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ec53a2d0-b044-4650-bcd8-d88e455e9a9d/b59bc93c-c569-4b5f-b5f3-81e7983573b3
+md5	dba8bbabb7fd4027d0749285584d5108

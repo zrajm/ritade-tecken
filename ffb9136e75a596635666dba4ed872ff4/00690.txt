@@ -1,0 +1,7 @@
+signId	690
+text	jeans
+imageUuid	807148d4-db4c-46b5-89eb-3ced0e5103c9
+translationKey	c8d22b2b-b0a4-47bc-94b3-a3d64525a499
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/807148d4-db4c-46b5-89eb-3ced0e5103c9/c8d22b2b-b0a4-47bc-94b3-a3d64525a499/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/807148d4-db4c-46b5-89eb-3ced0e5103c9/c8d22b2b-b0a4-47bc-94b3-a3d64525a499
+md5	ffb9136e75a596635666dba4ed872ff4

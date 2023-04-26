@@ -1,0 +1,8 @@
+
+signId	3078
+text	skal
+imageUuid	b81492b2-bc26-463c-b072-57e2af47b58a
+translationKey	0416137e-ff88-47d5-8831-9b9b158a3297
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b81492b2-bc26-463c-b072-57e2af47b58a/0416137e-ff88-47d5-8831-9b9b158a3297/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b81492b2-bc26-463c-b072-57e2af47b58a/0416137e-ff88-47d5-8831-9b9b158a3297
+md5	5cc887c82acde36e02d1aadd272809ed

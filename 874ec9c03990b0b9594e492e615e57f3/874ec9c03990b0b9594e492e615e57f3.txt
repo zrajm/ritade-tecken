@@ -1,0 +1,16 @@
+
+signId	1795
+text	åttio (tal)
+imageUuid	754f665f-4e66-4ea6-bf7d-2595942d2a9c
+translationKey	a7346f13-c17e-40a3-a81a-4eecb977339e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/754f665f-4e66-4ea6-bf7d-2595942d2a9c/a7346f13-c17e-40a3-a81a-4eecb977339e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/754f665f-4e66-4ea6-bf7d-2595942d2a9c/a7346f13-c17e-40a3-a81a-4eecb977339e
+md5	874ec9c03990b0b9594e492e615e57f3
+
+signId	2870
+text	80 (tal)
+imageUuid	8c1cdd4e-933e-47c8-a776-8c42448dddb3
+translationKey	c6d73593-5088-490b-971d-75aeb83ce6bf
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c1cdd4e-933e-47c8-a776-8c42448dddb3/c6d73593-5088-490b-971d-75aeb83ce6bf/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c1cdd4e-933e-47c8-a776-8c42448dddb3/c6d73593-5088-490b-971d-75aeb83ce6bf
+md5	874ec9c03990b0b9594e492e615e57f3

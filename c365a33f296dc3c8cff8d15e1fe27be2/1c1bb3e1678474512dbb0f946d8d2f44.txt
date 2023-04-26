@@ -1,0 +1,8 @@
+
+signId	1963
+text	annars
+imageUuid	0fe5022c-7707-4d53-9ee9-e57c98fda05a
+translationKey	dd1370fa-7029-4708-8592-e32a32166871
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0fe5022c-7707-4d53-9ee9-e57c98fda05a/dd1370fa-7029-4708-8592-e32a32166871/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0fe5022c-7707-4d53-9ee9-e57c98fda05a/dd1370fa-7029-4708-8592-e32a32166871
+md5	1c1bb3e1678474512dbb0f946d8d2f44

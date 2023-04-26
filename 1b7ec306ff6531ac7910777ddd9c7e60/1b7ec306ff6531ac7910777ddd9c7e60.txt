@@ -1,0 +1,32 @@
+
+signId	495
+text	god
+imageUuid	a3b0a498-3ae2-4bcc-bd04-e507587911a5
+translationKey	f8edc8c2-7ac9-451f-bcd9-c7e286ab39a0
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a3b0a498-3ae2-4bcc-bd04-e507587911a5/f8edc8c2-7ac9-451f-bcd9-c7e286ab39a0/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a3b0a498-3ae2-4bcc-bd04-e507587911a5/f8edc8c2-7ac9-451f-bcd9-c7e286ab39a0
+md5	1b7ec306ff6531ac7910777ddd9c7e60
+
+signId	1037
+text	må
+imageUuid	e1a1a060-c9ac-433a-a2dc-427af76e168b
+translationKey	4e24d33c-ed16-4aed-8271-dc03233681e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e1a1a060-c9ac-433a-a2dc-427af76e168b/4e24d33c-ed16-4aed-8271-dc03233681e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e1a1a060-c9ac-433a-a2dc-427af76e168b/4e24d33c-ed16-4aed-8271-dc03233681e1
+md5	1b7ec306ff6531ac7910777ddd9c7e60
+
+signId	1378
+text	skön
+imageUuid	2b55d616-6f68-4f7f-9b8e-70913229f974
+translationKey	7110eab9-e1c4-4dae-8dc8-0e7a1c6bc0b8
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2b55d616-6f68-4f7f-9b8e-70913229f974/7110eab9-e1c4-4dae-8dc8-0e7a1c6bc0b8/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2b55d616-6f68-4f7f-9b8e-70913229f974/7110eab9-e1c4-4dae-8dc8-0e7a1c6bc0b8
+md5	1b7ec306ff6531ac7910777ddd9c7e60
+
+signId	1379
+text	skönt
+imageUuid	85990aca-c423-4705-9dd2-79ffcd694abb
+translationKey	1bf57d4b-e976-49f1-9852-dfec05e510a7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/85990aca-c423-4705-9dd2-79ffcd694abb/1bf57d4b-e976-49f1-9852-dfec05e510a7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/85990aca-c423-4705-9dd2-79ffcd694abb/1bf57d4b-e976-49f1-9852-dfec05e510a7
+md5	1b7ec306ff6531ac7910777ddd9c7e60

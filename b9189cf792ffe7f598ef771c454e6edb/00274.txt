@@ -1,0 +1,7 @@
+signId	274
+text	djup tallrik
+imageUuid	ddb55446-eee1-4772-a87b-c3f6f7ea9e95
+translationKey	678c0d81-2229-42ba-bd1b-9de860d3bdad
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ddb55446-eee1-4772-a87b-c3f6f7ea9e95/678c0d81-2229-42ba-bd1b-9de860d3bdad/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ddb55446-eee1-4772-a87b-c3f6f7ea9e95/678c0d81-2229-42ba-bd1b-9de860d3bdad
+md5	b9189cf792ffe7f598ef771c454e6edb

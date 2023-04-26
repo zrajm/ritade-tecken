@@ -1,0 +1,7 @@
+signId	123
+text	berg
+imageUuid	bc58d985-ed7a-46fd-aefd-c4fff303c96c
+translationKey	0a4efd6c-ad4f-43c4-a99a-b8e4f02b2fdb
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bc58d985-ed7a-46fd-aefd-c4fff303c96c/0a4efd6c-ad4f-43c4-a99a-b8e4f02b2fdb/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bc58d985-ed7a-46fd-aefd-c4fff303c96c/0a4efd6c-ad4f-43c4-a99a-b8e4f02b2fdb
+md5	15f9f26e44df1c53490634a2fa981673

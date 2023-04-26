@@ -1,0 +1,7 @@
+signId	3045
+text	reflektera
+imageUuid	5eca8a66-a2a1-4e2a-a3a1-5b46b8f184a8
+translationKey	0587bbf0-9ab4-494a-81de-ffc7ab6adf51
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/5eca8a66-a2a1-4e2a-a3a1-5b46b8f184a8/0587bbf0-9ab4-494a-81de-ffc7ab6adf51/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/5eca8a66-a2a1-4e2a-a3a1-5b46b8f184a8/0587bbf0-9ab4-494a-81de-ffc7ab6adf51
+md5	33d2078f0285bf9d3c3de6f5a70e197f

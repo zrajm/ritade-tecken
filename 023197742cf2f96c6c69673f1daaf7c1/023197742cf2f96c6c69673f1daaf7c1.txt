@@ -1,0 +1,8 @@
+
+signId	1526
+text	svart
+imageUuid	9ab4225f-cfd3-469e-9402-961510ab5ab8
+translationKey	6b6ba715-ed90-4a60-aa38-10f7b5cff400
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/9ab4225f-cfd3-469e-9402-961510ab5ab8/6b6ba715-ed90-4a60-aa38-10f7b5cff400/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/9ab4225f-cfd3-469e-9402-961510ab5ab8/6b6ba715-ed90-4a60-aa38-10f7b5cff400
+md5	023197742cf2f96c6c69673f1daaf7c1

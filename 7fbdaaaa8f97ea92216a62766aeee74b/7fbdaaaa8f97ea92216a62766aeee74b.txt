@@ -1,0 +1,16 @@
+
+signId	895
+text	linjal
+imageUuid	788907bc-f939-4417-9c56-cd9dc966cbbd
+translationKey	cc3a9506-3cee-40b9-80c9-b44f22b4983f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/788907bc-f939-4417-9c56-cd9dc966cbbd/cc3a9506-3cee-40b9-80c9-b44f22b4983f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/788907bc-f939-4417-9c56-cd9dc966cbbd/cc3a9506-3cee-40b9-80c9-b44f22b4983f
+md5	7fbdaaaa8f97ea92216a62766aeee74b
+
+signId	2680
+text	måttband
+imageUuid	1d7cb2d6-b287-4af2-9fd6-f27b30fb37af
+translationKey	ea0551aa-946a-4d9d-8ea1-767d730260e1
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1d7cb2d6-b287-4af2-9fd6-f27b30fb37af/ea0551aa-946a-4d9d-8ea1-767d730260e1/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1d7cb2d6-b287-4af2-9fd6-f27b30fb37af/ea0551aa-946a-4d9d-8ea1-767d730260e1
+md5	7fbdaaaa8f97ea92216a62766aeee74b

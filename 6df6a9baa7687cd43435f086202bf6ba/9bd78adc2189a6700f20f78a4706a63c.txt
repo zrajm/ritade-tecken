@@ -1,0 +1,8 @@
+
+signId	119
+text	ben (kroppsdel plural)
+imageUuid	c2aae2da-9a3a-41b2-bd34-cfe5a0e95c0c
+translationKey	ba9c6b4c-fda8-49df-882f-7619cacb815c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c2aae2da-9a3a-41b2-bd34-cfe5a0e95c0c/ba9c6b4c-fda8-49df-882f-7619cacb815c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c2aae2da-9a3a-41b2-bd34-cfe5a0e95c0c/ba9c6b4c-fda8-49df-882f-7619cacb815c
+md5	9bd78adc2189a6700f20f78a4706a63c

@@ -1,0 +1,8 @@
+
+signId	2943
+text	tuggummi
+imageUuid	fdd4c06d-e829-485d-a3e9-a77f7f815e8e
+translationKey	ca981113-c4a2-46ac-ac29-b0126afc2db6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fdd4c06d-e829-485d-a3e9-a77f7f815e8e/ca981113-c4a2-46ac-ac29-b0126afc2db6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fdd4c06d-e829-485d-a3e9-a77f7f815e8e/ca981113-c4a2-46ac-ac29-b0126afc2db6
+md5	6bd079ed7629ce84f3ccb91a94734c74

@@ -1,0 +1,7 @@
+signId	2842
+text	två (siffra)
+imageUuid	23d40957-5bef-43e0-9f19-73b7fc517e42
+translationKey	aa3edd73-755c-411c-9b28-c87ef4dca9b5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/23d40957-5bef-43e0-9f19-73b7fc517e42/aa3edd73-755c-411c-9b28-c87ef4dca9b5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/23d40957-5bef-43e0-9f19-73b7fc517e42/aa3edd73-755c-411c-9b28-c87ef4dca9b5
+md5	41762b42b223bdff5f1cc0f1708f0791

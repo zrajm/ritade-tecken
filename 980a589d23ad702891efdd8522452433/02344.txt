@@ -1,0 +1,7 @@
+signId	2344
+text	hörselskadad
+imageUuid	abd60c8b-d282-4995-a5df-98906caf3bdf
+translationKey	a2490e3d-4cc3-4ce4-9ab1-e0fcacda341b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/abd60c8b-d282-4995-a5df-98906caf3bdf/a2490e3d-4cc3-4ce4-9ab1-e0fcacda341b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/abd60c8b-d282-4995-a5df-98906caf3bdf/a2490e3d-4cc3-4ce4-9ab1-e0fcacda341b
+md5	980a589d23ad702891efdd8522452433

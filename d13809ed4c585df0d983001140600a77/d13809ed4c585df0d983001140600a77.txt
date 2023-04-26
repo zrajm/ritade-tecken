@@ -1,0 +1,16 @@
+
+signId	1527
+text	svår
+imageUuid	740d540e-1e9a-4126-b014-533aef3940be
+translationKey	399a4f3a-d1c4-4cbd-9243-b9764b96ee75
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/740d540e-1e9a-4126-b014-533aef3940be/399a4f3a-d1c4-4cbd-9243-b9764b96ee75/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/740d540e-1e9a-4126-b014-533aef3940be/399a4f3a-d1c4-4cbd-9243-b9764b96ee75
+md5	d13809ed4c585df0d983001140600a77
+
+signId	1528
+text	svårt
+imageUuid	3b1fada3-63a7-4f4e-9e49-04eeaac2565a
+translationKey	43acfce7-e6e9-470f-8935-af13abf6f7df
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/3b1fada3-63a7-4f4e-9e49-04eeaac2565a/43acfce7-e6e9-470f-8935-af13abf6f7df/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/3b1fada3-63a7-4f4e-9e49-04eeaac2565a/43acfce7-e6e9-470f-8935-af13abf6f7df
+md5	d13809ed4c585df0d983001140600a77

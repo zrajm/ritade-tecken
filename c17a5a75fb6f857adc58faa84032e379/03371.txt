@@ -1,0 +1,7 @@
+signId	3371
+text	romersk
+imageUuid	17bb4f0d-5f76-4995-a931-81defea286a0
+translationKey	bc02d201-cb38-40cd-8f5f-27c7ba716249
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/17bb4f0d-5f76-4995-a931-81defea286a0/bc02d201-cb38-40cd-8f5f-27c7ba716249/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/17bb4f0d-5f76-4995-a931-81defea286a0/bc02d201-cb38-40cd-8f5f-27c7ba716249
+md5	c17a5a75fb6f857adc58faa84032e379

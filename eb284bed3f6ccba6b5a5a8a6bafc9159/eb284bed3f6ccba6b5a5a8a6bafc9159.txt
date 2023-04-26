@@ -1,0 +1,8 @@
+
+signId	910
+text	lokal
+imageUuid	bbbac129-d08f-477b-a905-527438b782ab
+translationKey	cb0f5437-dd40-47f4-93a0-54d74dc0546c
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/bbbac129-d08f-477b-a905-527438b782ab/cb0f5437-dd40-47f4-93a0-54d74dc0546c/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/bbbac129-d08f-477b-a905-527438b782ab/cb0f5437-dd40-47f4-93a0-54d74dc0546c
+md5	eb284bed3f6ccba6b5a5a8a6bafc9159

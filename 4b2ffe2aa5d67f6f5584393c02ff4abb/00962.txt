@@ -1,0 +1,7 @@
+signId	962
+text	manus
+imageUuid	b02eac5b-3750-4429-b03f-72a945e75978
+translationKey	a54eae46-fed3-4dd2-ac9e-c88ce44cf3b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b02eac5b-3750-4429-b03f-72a945e75978/a54eae46-fed3-4dd2-ac9e-c88ce44cf3b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b02eac5b-3750-4429-b03f-72a945e75978/a54eae46-fed3-4dd2-ac9e-c88ce44cf3b6
+md5	4b2ffe2aa5d67f6f5584393c02ff4abb

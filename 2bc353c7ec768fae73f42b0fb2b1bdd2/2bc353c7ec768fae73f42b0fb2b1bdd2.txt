@@ -1,0 +1,8 @@
+
+signId	346
+text	fast
+imageUuid	ec766159-cfd0-4492-b496-54cbf346b6dd
+translationKey	03869cd6-e498-46ee-9ac1-c11e92ec8736
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ec766159-cfd0-4492-b496-54cbf346b6dd/03869cd6-e498-46ee-9ac1-c11e92ec8736/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ec766159-cfd0-4492-b496-54cbf346b6dd/03869cd6-e498-46ee-9ac1-c11e92ec8736
+md5	2bc353c7ec768fae73f42b0fb2b1bdd2

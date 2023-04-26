@@ -1,0 +1,8 @@
+
+signId	2302
+text	sovsäck
+imageUuid	8620c5a2-3076-4305-8027-18356e30e3eb
+translationKey	06d4da35-ddaa-4c75-8141-e336d0e6a551
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8620c5a2-3076-4305-8027-18356e30e3eb/06d4da35-ddaa-4c75-8141-e336d0e6a551/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8620c5a2-3076-4305-8027-18356e30e3eb/06d4da35-ddaa-4c75-8141-e336d0e6a551
+md5	2515db3969a369d0f92f4fb8b5d06ab2

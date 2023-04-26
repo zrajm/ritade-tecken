@@ -1,0 +1,7 @@
+signId	1225
+text	radergummi
+imageUuid	ab86e1b8-e5db-411f-bde7-6112374370eb
+translationKey	c4670f21-ff44-40cc-be4f-e4373fa8279b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ab86e1b8-e5db-411f-bde7-6112374370eb/c4670f21-ff44-40cc-be4f-e4373fa8279b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ab86e1b8-e5db-411f-bde7-6112374370eb/c4670f21-ff44-40cc-be4f-e4373fa8279b
+md5	a66eb6a199c434d412e3cd6ae936b471

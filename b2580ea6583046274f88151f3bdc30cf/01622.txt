@@ -1,0 +1,7 @@
+signId	1622
+text	trygg
+imageUuid	a2c8d311-6edc-4448-8ed3-42a28500944c
+translationKey	38545d7d-e9cc-48ee-818b-b3bf1a15e083
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a2c8d311-6edc-4448-8ed3-42a28500944c/38545d7d-e9cc-48ee-818b-b3bf1a15e083/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a2c8d311-6edc-4448-8ed3-42a28500944c/38545d7d-e9cc-48ee-818b-b3bf1a15e083
+md5	b2580ea6583046274f88151f3bdc30cf

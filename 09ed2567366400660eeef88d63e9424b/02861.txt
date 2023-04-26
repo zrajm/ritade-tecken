@@ -1,0 +1,7 @@
+signId	2861
+text	mandel
+imageUuid	11105fcb-d992-4a7c-ab4a-615b4ebc3518
+translationKey	6c612f7d-c100-4abc-b810-76490aecdf64
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/11105fcb-d992-4a7c-ab4a-615b4ebc3518/6c612f7d-c100-4abc-b810-76490aecdf64/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/11105fcb-d992-4a7c-ab4a-615b4ebc3518/6c612f7d-c100-4abc-b810-76490aecdf64
+md5	09ed2567366400660eeef88d63e9424b

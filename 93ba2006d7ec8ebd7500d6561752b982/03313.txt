@@ -1,0 +1,7 @@
+signId	3313
+text	jämn
+imageUuid	c434292f-42f9-4d7a-b268-99db0f004888
+translationKey	46931d61-cdd3-4aed-8367-a8e2bbdb971a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c434292f-42f9-4d7a-b268-99db0f004888/46931d61-cdd3-4aed-8367-a8e2bbdb971a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c434292f-42f9-4d7a-b268-99db0f004888/46931d61-cdd3-4aed-8367-a8e2bbdb971a
+md5	93ba2006d7ec8ebd7500d6561752b982

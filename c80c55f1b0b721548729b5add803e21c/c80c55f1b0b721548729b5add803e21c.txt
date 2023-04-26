@@ -1,0 +1,8 @@
+
+signId	2283
+text	surfplatta
+imageUuid	b619d162-1c42-45a2-a185-08e8cbf0391d
+translationKey	a4a8c395-45c0-407c-9c15-4a7a316cd6d9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/b619d162-1c42-45a2-a185-08e8cbf0391d/a4a8c395-45c0-407c-9c15-4a7a316cd6d9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/b619d162-1c42-45a2-a185-08e8cbf0391d/a4a8c395-45c0-407c-9c15-4a7a316cd6d9
+md5	c80c55f1b0b721548729b5add803e21c

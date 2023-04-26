@@ -1,0 +1,7 @@
+signId	1248
+text	rock
+imageUuid	2d663d38-2264-4daa-a706-11e58111bf03
+translationKey	20543c0d-b1fe-4f87-9806-1924e2f9dea7
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d663d38-2264-4daa-a706-11e58111bf03/20543c0d-b1fe-4f87-9806-1924e2f9dea7/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d663d38-2264-4daa-a706-11e58111bf03/20543c0d-b1fe-4f87-9806-1924e2f9dea7
+md5	892d1d5877393a13fdf12c459e7e5ecf

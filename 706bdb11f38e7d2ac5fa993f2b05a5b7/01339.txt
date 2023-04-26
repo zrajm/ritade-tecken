@@ -1,0 +1,7 @@
+signId	1339
+text	skivaffär
+imageUuid	70e7f355-1e11-4bdb-a5a5-e0ca975b58b0
+translationKey	9042cb5b-fcd7-402b-84b8-70cd73676d0a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/70e7f355-1e11-4bdb-a5a5-e0ca975b58b0/9042cb5b-fcd7-402b-84b8-70cd73676d0a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/70e7f355-1e11-4bdb-a5a5-e0ca975b58b0/9042cb5b-fcd7-402b-84b8-70cd73676d0a
+md5	706bdb11f38e7d2ac5fa993f2b05a5b7

@@ -1,0 +1,7 @@
+signId	179
+text	brandkår
+imageUuid	21810d35-b050-4497-aeae-796711c68e44
+translationKey	32255e30-cfc0-48d3-aa00-ef914f75af16
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/21810d35-b050-4497-aeae-796711c68e44/32255e30-cfc0-48d3-aa00-ef914f75af16/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/21810d35-b050-4497-aeae-796711c68e44/32255e30-cfc0-48d3-aa00-ef914f75af16
+md5	6faf96b7b9f2d916806f514c7e4919e1

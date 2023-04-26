@@ -1,0 +1,8 @@
+
+signId	373
+text	fisk (levande)
+imageUuid	f7457978-9a6a-4ce5-ad5f-4e859df25340
+translationKey	b892d93a-5d2e-46eb-adf9-b6617ae1d44a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f7457978-9a6a-4ce5-ad5f-4e859df25340/b892d93a-5d2e-46eb-adf9-b6617ae1d44a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f7457978-9a6a-4ce5-ad5f-4e859df25340/b892d93a-5d2e-46eb-adf9-b6617ae1d44a
+md5	b9240489257dd04223d8b633a77607e6

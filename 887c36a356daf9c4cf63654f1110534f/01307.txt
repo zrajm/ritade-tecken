@@ -1,0 +1,7 @@
+signId	1307
+text	shoppa
+imageUuid	a2e15835-bf4a-4b06-8cec-caa842a59e5b
+translationKey	a78188ac-5f4e-4795-8275-ba84b0c0dd68
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/a2e15835-bf4a-4b06-8cec-caa842a59e5b/a78188ac-5f4e-4795-8275-ba84b0c0dd68/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/a2e15835-bf4a-4b06-8cec-caa842a59e5b/a78188ac-5f4e-4795-8275-ba84b0c0dd68
+md5	887c36a356daf9c4cf63654f1110534f

@@ -1,0 +1,7 @@
+signId	1206
+text	pussa
+imageUuid	36ee3ddd-4171-4938-9c7b-513669e7b46f
+translationKey	05c6f4e0-7baf-4b5e-ad66-9ae84b7a30d3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/36ee3ddd-4171-4938-9c7b-513669e7b46f/05c6f4e0-7baf-4b5e-ad66-9ae84b7a30d3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/36ee3ddd-4171-4938-9c7b-513669e7b46f/05c6f4e0-7baf-4b5e-ad66-9ae84b7a30d3
+md5	9134079b5aa132e9cd7d7b67318ced72

@@ -1,0 +1,7 @@
+signId	2561
+text	pris (sport)
+imageUuid	4aa6c06a-4968-4701-a399-22b83611ae6a
+translationKey	ec406fc0-427e-4633-b743-8636c7631809
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/4aa6c06a-4968-4701-a399-22b83611ae6a/ec406fc0-427e-4633-b743-8636c7631809/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/4aa6c06a-4968-4701-a399-22b83611ae6a/ec406fc0-427e-4633-b743-8636c7631809
+md5	2f271bf4ea8e0c040a4e1d5b0cfd2fbc

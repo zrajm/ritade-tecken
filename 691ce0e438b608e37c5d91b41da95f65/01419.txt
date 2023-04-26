@@ -1,0 +1,7 @@
+signId	1419
+text	snölykta
+imageUuid	6c7d931f-6a64-4643-afa0-01aff982d763
+translationKey	6339abc7-81da-4aac-b4a6-15eaa5efb68a
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/6c7d931f-6a64-4643-afa0-01aff982d763/6339abc7-81da-4aac-b4a6-15eaa5efb68a/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/6c7d931f-6a64-4643-afa0-01aff982d763/6339abc7-81da-4aac-b4a6-15eaa5efb68a
+md5	691ce0e438b608e37c5d91b41da95f65

@@ -1,0 +1,7 @@
+signId	1795
+text	åttio (tal)
+imageUuid	754f665f-4e66-4ea6-bf7d-2595942d2a9c
+translationKey	a7346f13-c17e-40a3-a81a-4eecb977339e
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/754f665f-4e66-4ea6-bf7d-2595942d2a9c/a7346f13-c17e-40a3-a81a-4eecb977339e/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/754f665f-4e66-4ea6-bf7d-2595942d2a9c/a7346f13-c17e-40a3-a81a-4eecb977339e
+md5	874ec9c03990b0b9594e492e615e57f3

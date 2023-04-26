@@ -1,0 +1,7 @@
+signId	3145
+text	valstuga
+imageUuid	2405f035-174f-45ba-864a-939ab3841b31
+translationKey	25abda4a-071b-408e-b13f-174eb4b69f18
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2405f035-174f-45ba-864a-939ab3841b31/25abda4a-071b-408e-b13f-174eb4b69f18/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2405f035-174f-45ba-864a-939ab3841b31/25abda4a-071b-408e-b13f-174eb4b69f18
+md5	0c7b10709ac1c367bb6ce0fee5517ec5

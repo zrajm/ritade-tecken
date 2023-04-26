@@ -1,0 +1,8 @@
+
+signId	3387
+text	farfar 2
+imageUuid	7e8efe0f-362b-4196-bd91-a5c8e3a9e817
+translationKey	8a57527b-a607-4f9d-b61d-336a32ecadc9
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7e8efe0f-362b-4196-bd91-a5c8e3a9e817/8a57527b-a607-4f9d-b61d-336a32ecadc9/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7e8efe0f-362b-4196-bd91-a5c8e3a9e817/8a57527b-a607-4f9d-b61d-336a32ecadc9
+md5	120fde30bc6b9fa585e713a10ecb9e0f

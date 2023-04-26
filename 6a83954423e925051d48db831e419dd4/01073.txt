@@ -1,0 +1,7 @@
+signId	1073
+text	nere
+imageUuid	86cafca5-f886-4572-b4aa-9744d8875c46
+translationKey	90ffe340-8060-4d6b-8500-084330866edd
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/86cafca5-f886-4572-b4aa-9744d8875c46/90ffe340-8060-4d6b-8500-084330866edd/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/86cafca5-f886-4572-b4aa-9744d8875c46/90ffe340-8060-4d6b-8500-084330866edd
+md5	6a83954423e925051d48db831e419dd4

@@ -1,0 +1,8 @@
+
+signId	551
+text	ha (äga)
+imageUuid	c744b988-2ae7-4923-a265-8dcba86077fa
+translationKey	632c5e4a-5504-44f6-a789-3be97ae18563
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/c744b988-2ae7-4923-a265-8dcba86077fa/632c5e4a-5504-44f6-a789-3be97ae18563/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/c744b988-2ae7-4923-a265-8dcba86077fa/632c5e4a-5504-44f6-a789-3be97ae18563
+md5	6c32ea082812b296c756fafe29d85b2a

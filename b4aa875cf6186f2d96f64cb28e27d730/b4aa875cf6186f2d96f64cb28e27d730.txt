@@ -1,0 +1,8 @@
+
+signId	3405
+text	morfar 2
+imageUuid	f25cfbbf-eb40-4310-afc1-f52b918e0c36
+translationKey	65bf6857-da26-4c72-986f-8f1754d8c9ad
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/f25cfbbf-eb40-4310-afc1-f52b918e0c36/65bf6857-da26-4c72-986f-8f1754d8c9ad/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/f25cfbbf-eb40-4310-afc1-f52b918e0c36/65bf6857-da26-4c72-986f-8f1754d8c9ad
+md5	b4aa875cf6186f2d96f64cb28e27d730

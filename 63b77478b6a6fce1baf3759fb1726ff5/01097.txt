@@ -1,0 +1,7 @@
+signId	1097
+text	nöjd
+imageUuid	1f4e38a7-87d0-42aa-ac6c-67284345b92d
+translationKey	d256f5a2-9323-4da0-ac9f-98dc242c9bc4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/1f4e38a7-87d0-42aa-ac6c-67284345b92d/d256f5a2-9323-4da0-ac9f-98dc242c9bc4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/1f4e38a7-87d0-42aa-ac6c-67284345b92d/d256f5a2-9323-4da0-ac9f-98dc242c9bc4
+md5	63b77478b6a6fce1baf3759fb1726ff5

@@ -1,0 +1,7 @@
+signId	1350
+text	skomakare
+imageUuid	2217ff1a-47e7-45b1-a31c-1c4f03f82aab
+translationKey	9b412e10-4b0d-462d-9c1d-bc8e6dfc31f5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2217ff1a-47e7-45b1-a31c-1c4f03f82aab/9b412e10-4b0d-462d-9c1d-bc8e6dfc31f5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2217ff1a-47e7-45b1-a31c-1c4f03f82aab/9b412e10-4b0d-462d-9c1d-bc8e6dfc31f5
+md5	850389a9ac11a53569eeaf97834e6b5f

@@ -1,0 +1,7 @@
+signId	1680
+text	ungefär
+imageUuid	7ae23db4-ce47-4bd6-aa81-c0b72a722eea
+translationKey	7c9b75f8-ab28-484c-aa28-23cba0f3fd74
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/7ae23db4-ce47-4bd6-aa81-c0b72a722eea/7c9b75f8-ab28-484c-aa28-23cba0f3fd74/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/7ae23db4-ce47-4bd6-aa81-c0b72a722eea/7c9b75f8-ab28-484c-aa28-23cba0f3fd74
+md5	cbcc2c6dcda7e9fcabbd7c2176686f6c

@@ -1,0 +1,7 @@
+signId	474
+text	gammal
+imageUuid	e1ea4641-dc28-48a3-ae1e-509302d765f1
+translationKey	0deb3c33-e251-40e5-8da9-204a370d11c4
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/e1ea4641-dc28-48a3-ae1e-509302d765f1/0deb3c33-e251-40e5-8da9-204a370d11c4/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/e1ea4641-dc28-48a3-ae1e-509302d765f1/0deb3c33-e251-40e5-8da9-204a370d11c4
+md5	94f636e5767897d454a33f2d2fc5ec36

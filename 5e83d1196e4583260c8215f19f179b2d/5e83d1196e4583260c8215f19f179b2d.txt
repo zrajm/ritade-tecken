@@ -1,0 +1,8 @@
+
+signId	1881
+text	oss 2
+imageUuid	66a8257e-a868-4d9a-8e8e-a474c1db6e15
+translationKey	495ab99e-07ce-411f-a78d-36df2e906bd5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/66a8257e-a868-4d9a-8e8e-a474c1db6e15/495ab99e-07ce-411f-a78d-36df2e906bd5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/66a8257e-a868-4d9a-8e8e-a474c1db6e15/495ab99e-07ce-411f-a78d-36df2e906bd5
+md5	5e83d1196e4583260c8215f19f179b2d

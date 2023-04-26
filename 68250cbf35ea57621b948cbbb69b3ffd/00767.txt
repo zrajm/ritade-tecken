@@ -1,0 +1,7 @@
+signId	767
+text	knacka
+imageUuid	fe99c009-b3c0-4186-84f3-a708866d4a1c
+translationKey	bf7dde33-3ba9-4c84-8258-e8eb23504264
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/fe99c009-b3c0-4186-84f3-a708866d4a1c/bf7dde33-3ba9-4c84-8258-e8eb23504264/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/fe99c009-b3c0-4186-84f3-a708866d4a1c/bf7dde33-3ba9-4c84-8258-e8eb23504264
+md5	68250cbf35ea57621b948cbbb69b3ffd

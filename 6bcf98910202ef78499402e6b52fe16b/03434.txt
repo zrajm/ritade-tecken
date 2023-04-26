@@ -1,0 +1,7 @@
+signId	3434
+text	cykla 2
+imageUuid	868ff6be-308f-45ef-83a8-ca984d8b22e2
+translationKey	37885116-f346-441c-a901-aea977e28966
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/868ff6be-308f-45ef-83a8-ca984d8b22e2/37885116-f346-441c-a901-aea977e28966/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/868ff6be-308f-45ef-83a8-ca984d8b22e2/37885116-f346-441c-a901-aea977e28966
+md5	6bcf98910202ef78499402e6b52fe16b

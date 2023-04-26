@@ -1,0 +1,7 @@
+signId	168
+text	bomull
+imageUuid	0e1c3e56-7fa4-41d4-b917-a13572683d1f
+translationKey	411ed8a9-7ea8-4b3f-a91c-ad0e41f41cc5
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/0e1c3e56-7fa4-41d4-b917-a13572683d1f/411ed8a9-7ea8-4b3f-a91c-ad0e41f41cc5/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/0e1c3e56-7fa4-41d4-b917-a13572683d1f/411ed8a9-7ea8-4b3f-a91c-ad0e41f41cc5
+md5	e6b84eeb31cdbe5c00623a57126687c9

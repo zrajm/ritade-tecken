@@ -1,0 +1,8 @@
+
+signId	269
+text	diskborste
+imageUuid	8c9d98f0-b168-475c-bad2-04acfd7d8af9
+translationKey	abff12ac-1ae0-434a-84bc-11b01faa5e80
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8c9d98f0-b168-475c-bad2-04acfd7d8af9/abff12ac-1ae0-434a-84bc-11b01faa5e80/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8c9d98f0-b168-475c-bad2-04acfd7d8af9/abff12ac-1ae0-434a-84bc-11b01faa5e80
+md5	b445faf3db720857583d82aaee7d3f71

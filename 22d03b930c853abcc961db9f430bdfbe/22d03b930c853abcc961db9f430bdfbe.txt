@@ -1,0 +1,8 @@
+
+signId	2773
+text	handboll
+imageUuid	d25536dd-f42a-4e36-b345-d41cd8067f57
+translationKey	3699270a-68f0-4470-bf0a-4de21e746f7b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/d25536dd-f42a-4e36-b345-d41cd8067f57/3699270a-68f0-4470-bf0a-4de21e746f7b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/d25536dd-f42a-4e36-b345-d41cd8067f57/3699270a-68f0-4470-bf0a-4de21e746f7b
+md5	22d03b930c853abcc961db9f430bdfbe

@@ -1,0 +1,7 @@
+signId	3440
+text	repetera
+imageUuid	ab2a0e30-cbf0-400f-bef5-a2f17f5bec25
+translationKey	ff43bf33-bd1d-48e9-b2cb-0aef42c08c54
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ab2a0e30-cbf0-400f-bef5-a2f17f5bec25/ff43bf33-bd1d-48e9-b2cb-0aef42c08c54/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ab2a0e30-cbf0-400f-bef5-a2f17f5bec25/ff43bf33-bd1d-48e9-b2cb-0aef42c08c54
+md5	43767483a9e994ce0d506c220b924075

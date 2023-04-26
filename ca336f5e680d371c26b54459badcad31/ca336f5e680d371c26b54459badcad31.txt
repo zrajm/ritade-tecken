@@ -1,0 +1,8 @@
+
+signId	1983
+text	ostbit
+imageUuid	799862af-a0f2-4744-8ed9-eee52b31b475
+translationKey	6dbf71ba-aec5-446c-bf89-1a96eab095b3
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/799862af-a0f2-4744-8ed9-eee52b31b475/6dbf71ba-aec5-446c-bf89-1a96eab095b3/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/799862af-a0f2-4744-8ed9-eee52b31b475/6dbf71ba-aec5-446c-bf89-1a96eab095b3
+md5	ca336f5e680d371c26b54459badcad31

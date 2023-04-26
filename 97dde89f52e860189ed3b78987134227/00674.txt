@@ -1,0 +1,7 @@
+signId	674
+text	inte
+imageUuid	8d6872b3-eb4f-400a-94f4-96afb68f31b5
+translationKey	be1bf722-826c-468c-912c-6ae25cf56f31
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/8d6872b3-eb4f-400a-94f4-96afb68f31b5/be1bf722-826c-468c-912c-6ae25cf56f31/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/8d6872b3-eb4f-400a-94f4-96afb68f31b5/be1bf722-826c-468c-912c-6ae25cf56f31
+md5	97dde89f52e860189ed3b78987134227

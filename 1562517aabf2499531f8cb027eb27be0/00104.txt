@@ -1,0 +1,7 @@
+signId	104
+text	barn
+imageUuid	2d96b7e0-c844-4422-b84a-9e9b88085e5f
+translationKey	561b89f9-c76e-4e97-9704-240215aaac07
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/2d96b7e0-c844-4422-b84a-9e9b88085e5f/561b89f9-c76e-4e97-9704-240215aaac07/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/2d96b7e0-c844-4422-b84a-9e9b88085e5f/561b89f9-c76e-4e97-9704-240215aaac07
+md5	1562517aabf2499531f8cb027eb27be0

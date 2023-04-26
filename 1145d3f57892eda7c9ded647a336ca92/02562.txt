@@ -1,0 +1,7 @@
+signId	2562
+text	Elvis Presley
+imageUuid	68165196-1474-46bc-915a-da02348ff504
+translationKey	84323a9b-11f5-437c-9978-971562801e6b
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/68165196-1474-46bc-915a-da02348ff504/84323a9b-11f5-437c-9978-971562801e6b/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/68165196-1474-46bc-915a-da02348ff504/84323a9b-11f5-437c-9978-971562801e6b
+md5	1145d3f57892eda7c9ded647a336ca92

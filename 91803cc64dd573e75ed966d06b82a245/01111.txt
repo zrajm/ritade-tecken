@@ -1,0 +1,7 @@
+signId	1111
+text	omöjlig
+imageUuid	17b105b9-47e8-4bee-ae91-deb65e9955db
+translationKey	7e2a8180-0f41-4af2-9b87-280414d518b6
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/17b105b9-47e8-4bee-ae91-deb65e9955db/7e2a8180-0f41-4af2-9b87-280414d518b6/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/17b105b9-47e8-4bee-ae91-deb65e9955db/7e2a8180-0f41-4af2-9b87-280414d518b6
+md5	91803cc64dd573e75ed966d06b82a245

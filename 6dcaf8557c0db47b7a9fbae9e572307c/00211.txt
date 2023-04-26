@@ -1,0 +1,7 @@
+signId	211
+text	byxor
+imageUuid	56f258a8-5217-4acd-a8dc-a52c68a14db2
+translationKey	75b89d01-3641-418e-9cbd-0780886e6039
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/56f258a8-5217-4acd-a8dc-a52c68a14db2/75b89d01-3641-418e-9cbd-0780886e6039/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/56f258a8-5217-4acd-a8dc-a52c68a14db2/75b89d01-3641-418e-9cbd-0780886e6039
+md5	6dcaf8557c0db47b7a9fbae9e572307c

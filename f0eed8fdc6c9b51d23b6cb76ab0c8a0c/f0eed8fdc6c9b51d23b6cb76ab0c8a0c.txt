@@ -1,0 +1,8 @@
+
+signId	1696
+text	vaktmästare
+imageUuid	995f6e70-559a-414f-b52d-df854cf43b38
+translationKey	144aeba4-8911-4318-87d0-3ed63608ae57
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/995f6e70-559a-414f-b52d-df854cf43b38/144aeba4-8911-4318-87d0-3ed63608ae57/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/995f6e70-559a-414f-b52d-df854cf43b38/144aeba4-8911-4318-87d0-3ed63608ae57
+md5	f0eed8fdc6c9b51d23b6cb76ab0c8a0c

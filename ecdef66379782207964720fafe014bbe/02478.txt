@@ -1,0 +1,7 @@
+signId	2478
+text	rök
+imageUuid	ebabce51-3b27-4eee-9075-0f3434d59019
+translationKey	801f768e-d07a-4164-9ae2-d6ea55c93a9f
+src	https://www.ritadetecken.se/display/fit/jpeg/empty/top/white/125/ebabce51-3b27-4eee-9075-0f3434d59019/801f768e-d07a-4164-9ae2-d6ea55c93a9f/70
+src_svg	https://www.ritadetecken.se/display/proportional/svg/sv/top/white/288/ebabce51-3b27-4eee-9075-0f3434d59019/801f768e-d07a-4164-9ae2-d6ea55c93a9f
+md5	ecdef66379782207964720fafe014bbe
