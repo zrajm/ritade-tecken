@@ -62,6 +62,21 @@
   .minor { background: #00f4; }
   .irrelevant { background: #0002; } /* stämmer inte med lexikon, men ska inte rapporteras till dem */
 </style>
+<script>
+  window.addEventListener("load", () => {
+    const host = document.location.hostname || 'zrajm.github.devel'
+    const baseUrl = `http://${host}/teckentranskription/lexicon.html`
+    document.querySelectorAll('h2').forEach(elem => {
+      const orgHtml = elem.innerHTML
+      const newHtml = orgHtml.replace(
+        /([⟦⟧\u{10c900}-\u{10c9ff}]|#\([^)]*\))+/gu,
+        q => `<a target=_blank href="${baseUrl}#=&quot;${q.replace(/[⟦⟧]/gu, '')}&quot;">${q}</a>`)
+      if (newHtml !== orgHtml) {
+        elem.innerHTML = newHtml
+      }
+    })
+  })
+</script>
 <aside style="border: 1px solid #000; margin: 1rem 0; padding: .125rem .25rem">
   Ritade tecken följer det svenska teckenspråkets tecken, och bilderna är
   utvecklade för att stödja det alternativa kommunikationssättet TAKK.
@@ -101,20 +116,6 @@ med följande undantag:
     ⟦􌤒􌤹􌤴􌥙􌤢􌥓􌥙􌤟􌥼􌥻⟧􌥠􌤢􌤴􌤸􌤥􌤴􌤶􌦄􌥯􌥿􌦆􌤦􌥼􌤟 <i>Vänsterpartiet</i>.
 </ul>
 <hr>
-<script>
-  window.addEventListener("load", (event) => {
-    const baseUrl = "https://zrajm.github.io/teckentranskription/lexicon.html"
-    document.querySelectorAll('h2').forEach(elem => {
-      const orgHtml = elem.innerHTML
-      const newHtml = orgHtml.replace(
-        /([⟦⟧\u{10c900}-\u{10c9ff}]|#\([^)]*\))+/gu,
-        q => `<a target=_blank href="${baseUrl}#=&quot;${q.replace(/[⟦⟧]/gu, '')}&quot;">${q}</a>`)
-      if (newHtml !== orgHtml) {
-        elem.innerHTML = newHtml
-      }
-    })
-  })
-</script>
 <article>
   <div id="hvycy"><img src="sts-f148d9adeb04bb454b6ad760d59d8864.svg"><h2 class=mark>!! 􌤢􌥔􌥘􌥋􌥔􌤷􌥧􌥡</h2>almanacka</div>
   <div id="tnhfd"><img src="sts-82b176d2dfb1dbc3e0483a26bf397d1a.svg"><h2 class=mark>!! 􌥖􌥘􌥈􌥈􌥖􌥘􌤟􌥼􌥹􌦉􌥼􌦄</h2>altan</div>
